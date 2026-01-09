@@ -2,12 +2,11 @@ import Sidebar from './components/Sidebar';
 import MapDisplay from './components/MapDisplay';
 import { UIProvider } from './contexts/UIContext';
 // @ts-ignore
-import activitiesData from './data/strava-activities.json' with { type: 'json' };
+
 
 function App() {
-  const activities = (activitiesData as any[]) || [];
-  const latestActivity = activities.length > 0 ? activities[0] : null;
-  const currentLocation = latestActivity ? latestActivity.name : 'Unknown';
+
+
 
   return (
     <UIProvider>
@@ -31,7 +30,7 @@ function App() {
         }}>
           <MapDisplay />
 
-          
+
         </main>
       </div>
     </UIProvider>
