@@ -38,9 +38,9 @@ const saveEnv = (env) => {
 
 async function sync() {
     const env = loadEnv();
-    const CLIENT_ID = env.VITE_STRAVA_CLIENT_ID;
-    const CLIENT_SECRET = env.VITE_STRAVA_CLIENT_SECRET;
-    let REFRESH_TOKEN = env.STRAVA_REFRESH_TOKEN;
+    const CLIENT_ID = process.env.VITE_STRAVA_CLIENT_ID || env.VITE_STRAVA_CLIENT_ID;
+    const CLIENT_SECRET = process.env.VITE_STRAVA_CLIENT_SECRET || env.VITE_STRAVA_CLIENT_SECRET;
+    let REFRESH_TOKEN = process.env.STRAVA_REFRESH_TOKEN || env.STRAVA_REFRESH_TOKEN;
 
     if (!CLIENT_ID || !CLIENT_SECRET) {
         console.error('Error: VITE_STRAVA_CLIENT_ID and VITE_STRAVA_CLIENT_SECRET must be in .env.local');
