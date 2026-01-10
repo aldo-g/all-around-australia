@@ -2,8 +2,6 @@
 
 An interactive map visualization tracking my journey around Australia, powered by Strava data and built with modern web technologies.
 
-![Project Screenshot](https://via.placeholder.com/800x450?text=All+Around+Australia+Map+Visualization)
-
 ## 🌟 Features
 
 - **Interactive Map**: Built with **Leaflet** and **Esri World Ocean Base** tiles for a stunning visual experience.
