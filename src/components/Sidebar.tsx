@@ -1,8 +1,7 @@
 import React, { } from 'react';
 import { Navigation, Bike, Footprints, Waves, Compass, ChevronDown, ChevronUp, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useUI } from '../contexts/UIContext';
-// @ts-ignore
-import activitiesData from '../data/strava-activities.json' with { type: 'json' };
+import activitiesData from '../data/strava-activities.json';
 import mapIcon from '../assets/map.png';
 
 interface Activity {
@@ -31,7 +30,7 @@ const getActivityIcon = (type: string) => {
 };
 
 const Sidebar: React.FC = () => {
-    const activities = activitiesData as Activity[];
+    const activities = (activitiesData || []) as Activity[];
     const { setHoveredPhotoUrl, flyTo, isSidebarOpen, toggleSidebar, expandedActivityId, toggleActivityExpansion } = useUI();
 
     // Auto-scroll to expanded activity
@@ -254,7 +253,7 @@ const Sidebar: React.FC = () => {
                                                         )}
 
                                                         {/* Photo Gallery Strip */}
-                                                        {activity.photos && activity.photos.length > 0 && (
+                                                        {Array.isArray(activity.photos) && activity.photos.length > 0 && (
                                                             <div className="custom-scrollbar" style={{
                                                                 display: 'flex',
                                                                 gap: '10px',

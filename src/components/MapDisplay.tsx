@@ -6,10 +6,21 @@ import { Camera, ChevronLeft, ChevronRight } from 'lucide-react';
 import { renderToString } from 'react-dom/server';
 import { useUI } from '../contexts/UIContext';
 
-// @ts-ignore
-import activitiesData from '../data/strava-activities.json' with { type: 'json' };
+import activitiesData from '../data/strava-activities.json';
 
-const activities = activitiesData as any[];
+const activities = (activitiesData || []) as any[];
+
+// Color mapping for different activity types
+const getActivityColor = (type: string): string => {
+    switch (type) {
+        case 'Ride': return '#FFC72C'; // Australian Gold
+        case 'Run': return '#FF6B35'; // Vibrant Orange
+        case 'Walk': return '#4ECDC4'; // Turquoise
+        case 'Hike': return '#95E1D3'; // Mint Green
+        case 'Swim': return '#3D5A80'; // Deep Blue
+        default: return '#FFC72C'; // Default to Australian Gold
+    }
+};
 
 // Custom camera icon for photos
 const cameraIcon = L.divIcon({
@@ -209,7 +220,8 @@ const MapDisplay: React.FC = () => {
 
     // Group all photos by location to handle overlaps
     const photosByLocation = activities.reduce((acc: { [key: string]: any[] }, activity: any) => {
-        (activity.photos || []).forEach((photo: any) => {
+        const photos = Array.isArray(activity.photos) ? activity.photos : [];
+        photos.forEach((photo: any) => {
             if (photo.location) {
                 // Group by coarser coordinates (4 decimal places ~11m) 
                 const key = `${photo.location[0].toFixed(4)},${photo.location[1].toFixed(4)}`;
@@ -244,15 +256,16 @@ const MapDisplay: React.FC = () => {
                     maxNativeZoom={10}
                 />
 
-                {/* Map Segmentation: Consistent gold with daily markers */}
+                {/* Map Segmentation: Color-coded by activity type */}
                 {sortedDates.map((date) => {
                     const dayActivities = groupedActivities[date];
-                    const activeColor = '#FFC72C'; // Australian Gold
 
                     return (
                         <React.Fragment key={date}>
                             {dayActivities.map((activity, actIndex) => {
                                 const isHovered = hoveredActivityId === activity.id;
+                                const baseColor = getActivityColor(activity.type);
+                                const hoverColor = baseColor + 'CC'; // Add transparency for lighter hover effect
 
                                 return activity.coordinates && (
                                     <Polyline
@@ -274,7 +287,7 @@ const MapDisplay: React.FC = () => {
                                             }
                                         }}
                                         pathOptions={{
-                                            color: isHovered ? '#FFE082' : activeColor, // Lighter gold on hover
+                                            color: isHovered ? hoverColor : baseColor,
                                             weight: isHovered ? 6 : 4,
                                             opacity: isHovered ? 1.0 : 0.9,
                                             lineJoin: 'round',
@@ -293,7 +306,7 @@ const MapDisplay: React.FC = () => {
                                             center={dayActivities[0].coordinates[0]}
                                             radius={5}
                                             pathOptions={{
-                                                fillColor: activeColor,
+                                                fillColor: getActivityColor(dayActivities[0].type),
                                                 fillOpacity: 1,
                                                 color: '#fff',
                                                 weight: 2
@@ -305,7 +318,7 @@ const MapDisplay: React.FC = () => {
                                             center={dayActivities[dayActivities.length - 1].coordinates[dayActivities[dayActivities.length - 1].coordinates.length - 1]}
                                             radius={5}
                                             pathOptions={{
-                                                fillColor: activeColor,
+                                                fillColor: getActivityColor(dayActivities[dayActivities.length - 1].type),
                                                 fillOpacity: 1,
                                                 color: '#fff',
                                                 weight: 2
