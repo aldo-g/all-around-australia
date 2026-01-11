@@ -1,4 +1,5 @@
-import React, { createContext, useContext, useState } from 'react';
+import React, { createContext, useContext, useState, useMemo } from 'react';
+import activitiesData from '../data/strava-activities.json';
 
 interface UIContextType {
     hoveredPhotoUrl: string | null;
@@ -18,7 +19,20 @@ export const UIProvider: React.FC<{ children: React.ReactNode }> = ({ children }
     const [hoveredPhotoUrl, setHoveredPhotoUrl] = useState<string | null>(null);
     const [mapTarget, setMapTarget] = useState<[number, number] | null>(null);
     const [isSidebarOpen, setIsSidebarOpen] = useState(true);
-    const [expandedActivityId, setExpandedActivityId] = useState<number | null>(null);
+
+    // Get the most recent activity ID
+    const mostRecentActivityId = useMemo(() => {
+        const activities = (activitiesData || []) as any[];
+        if (activities.length === 0) return null;
+
+        // Sort by date descending and get the first activity's ID
+        const sorted = [...activities].sort((a, b) =>
+            b.start_date_local.localeCompare(a.start_date_local)
+        );
+        return sorted[0]?.id || null;
+    }, []);
+
+    const [expandedActivityId, setExpandedActivityId] = useState<number | null>(mostRecentActivityId);
 
     const flyTo = (location: [number, number]) => {
         // We use a small timestamp or random key to ensure even same-location clicks trigger an update if needed, 
