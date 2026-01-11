@@ -154,10 +154,19 @@ const PhotoCarousel: React.FC<{ photos: any[], location: [number, number] }> = (
     );
 };
 
+// Detect if device is mobile
+const isMobile = () => {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
+        || window.innerWidth < 768;
+};
+
 // Initial map view constants
 const INITIAL_CENTER: [number, number] = [-27.0, 133.0];
 const MIN_ZOOM = 5;
+const MIN_ZOOM_MOBILE = 4; // Lower zoom for mobile to show wider view of Australia
 const MAX_ZOOM = 12;
+const DRAG_LOCK_ZOOM = 5; // Desktop: disable dragging at this zoom
+const DRAG_LOCK_ZOOM_MOBILE = 3; // Mobile: only disable dragging at very low zoom
 
 // Australia bounds for locking the view
 const australiaBounds = L.latLngBounds(
@@ -167,14 +176,30 @@ const australiaBounds = L.latLngBounds(
 
 const MapController: React.FC<{ onZoom: (zoom: number) => void }> = ({ onZoom }) => {
     const { mapTarget } = useUI();
+    const mobile = isMobile();
+    const dragLockZoom = mobile ? DRAG_LOCK_ZOOM_MOBILE : DRAG_LOCK_ZOOM;
+
     const map = useMapEvents({
         zoomend: () => {
             const currentZoom = map.getZoom();
             onZoom(currentZoom);
-            if (currentZoom <= MIN_ZOOM) {
-                map.dragging.disable();
-                map.setMaxBounds(australiaBounds);
-                map.setView(INITIAL_CENTER, MIN_ZOOM, { animate: true });
+
+            if (currentZoom <= dragLockZoom) {
+                // On mobile, allow more flexibility - only lock at very low zoom
+                if (!mobile) {
+                    // Desktop: strict locking behavior
+                    map.dragging.disable();
+                    map.setMaxBounds(australiaBounds);
+                    map.setView(INITIAL_CENTER, MIN_ZOOM, { animate: true });
+                } else {
+                    // Mobile: just set bounds but allow dragging
+                    map.setMaxBounds(australiaBounds);
+                    if (currentZoom < DRAG_LOCK_ZOOM_MOBILE) {
+                        map.dragging.disable();
+                    } else {
+                        map.dragging.enable();
+                    }
+                }
             } else {
                 map.dragging.enable();
                 map.setMaxBounds(undefined);
@@ -192,17 +217,22 @@ const MapController: React.FC<{ onZoom: (zoom: number) => void }> = ({ onZoom })
     }, [mapTarget, map]);
 
     React.useEffect(() => {
-        if (map.getZoom() <= MIN_ZOOM) {
-            map.dragging.disable();
+        // Initial setup based on device type
+        if (map.getZoom() <= dragLockZoom) {
+            if (!mobile) {
+                map.dragging.disable();
+            }
             map.setMaxBounds(australiaBounds);
         }
-    }, [map]);
+    }, [map, mobile, dragLockZoom]);
 
     return null;
 };
 
 const MapDisplay: React.FC = () => {
-    const [zoom, setZoom] = useState(MIN_ZOOM);
+    const mobile = isMobile();
+    const initialZoom = mobile ? MIN_ZOOM_MOBILE : MIN_ZOOM;
+    const [zoom, setZoom] = useState(initialZoom);
     const { hoveredPhotoUrl, flyTo, toggleActivityExpansion, setSidebarOpen } = useUI();
     const [hoveredActivityId, setHoveredActivityId] = useState<number | null>(null);
 
@@ -236,7 +266,7 @@ const MapDisplay: React.FC = () => {
         <div style={{ height: '100%', width: '100%', position: 'relative' }}>
             <MapContainer
                 center={INITIAL_CENTER}
-                zoom={MIN_ZOOM}
+                zoom={initialZoom}
                 minZoom={MIN_ZOOM}
                 maxZoom={MAX_ZOOM}
                 zoomSnap={1}
