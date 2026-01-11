@@ -17,7 +17,7 @@ const UIContext = createContext<UIContextType | undefined>(undefined);
 export const UIProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
     const [hoveredPhotoUrl, setHoveredPhotoUrl] = useState<string | null>(null);
     const [mapTarget, setMapTarget] = useState<[number, number] | null>(null);
-    const [isSidebarOpen, setIsSidebarOpen] = useState(false);
+    const [isSidebarOpen, setIsSidebarOpen] = useState(true);
     const [expandedActivityId, setExpandedActivityId] = useState<number | null>(null);
 
     const flyTo = (location: [number, number]) => {
