@@ -2,11 +2,20 @@ name: Sync Strava Activities
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs hourly at the start of every hour
+    - cron: '0 */12 * * *' # Runs every 12 hours
   workflow_dispatch: # Allows manual trigger
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   sync:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     permissions:
       contents: write # Needed to push changes
