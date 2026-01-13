@@ -283,9 +283,8 @@ const MapDisplay: React.FC = () => {
                 <TileLayer
                     attribution='Tiles &copy; Esri'
                     url="https://server.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}"
-                    detectRetina={true}
                     maxNativeZoom={10}
-                    keepBuffer={8}
+                    keepBuffer={2}
                     updateWhenIdle={false}
                 />
 
@@ -304,6 +303,7 @@ const MapDisplay: React.FC = () => {
                                     <Polyline
                                         key={`${activity.id}-${actIndex}`}
                                         positions={activity.coordinates}
+                                        smoothFactor={1}
                                         eventHandlers={{
                                             click: (e) => {
                                                 L.DomEvent.stopPropagation(e);

@@ -1,4 +1,4 @@
-import React, { } from 'react';
+import React, { useMemo } from 'react';
 import { Navigation, Bike, Footprints, Waves, Compass, ChevronDown, ChevronUp, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useUI } from '../contexts/UIContext';
 import activitiesData from '../data/strava-activities.json';
@@ -47,19 +47,19 @@ const Sidebar: React.FC = () => {
     }, [expandedActivityId]);
 
     // Total distance calculation for the blog summary
-    const totalKm = activities.reduce((acc, a) => acc + (a.distance || 0), 0) / 1000;
-    const activityCount = activities.length;
+    const totalKm = useMemo(() => activities.reduce((acc, a) => acc + (a.distance || 0), 0) / 1000, [activities]);
+    const activityCount = useMemo(() => activities.length, [activities]);
 
     // Group activities by date
-    const groupedActivities = activities.reduce((groups: { [key: string]: Activity[] }, activity) => {
+    const groupedActivities = useMemo(() => activities.reduce((groups: { [key: string]: Activity[] }, activity) => {
         const date = activity.start_date_local.split('T')[0];
         if (!groups[date]) groups[date] = [];
         groups[date].push(activity);
         return groups;
-    }, {});
+    }, {}), [activities]);
 
     // Sort dates newest first
-    const sortedDates = Object.keys(groupedActivities).sort((a, b) => b.localeCompare(a));
+    const sortedDates = useMemo(() => Object.keys(groupedActivities).sort((a, b) => b.localeCompare(a)), [groupedActivities]);
 
     return (
         <div style={{
@@ -275,6 +275,8 @@ const Sidebar: React.FC = () => {
                                                                         <img
                                                                             src={photo.url}
                                                                             alt={`${activity.name} - ${pIdx}`}
+                                                                            loading="lazy"
+                                                                            decoding="async"
                                                                             style={{
                                                                                 width: '100%',
                                                                                 height: '100%',
