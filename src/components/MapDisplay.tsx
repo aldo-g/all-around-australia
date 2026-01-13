@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import { MapContainer, TileLayer, ZoomControl, useMapEvents, Polyline, CircleMarker, Marker, Popup } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
@@ -237,19 +237,19 @@ const MapDisplay: React.FC = () => {
     const [hoveredActivityId, setHoveredActivityId] = useState<number | null>(null);
 
     // Group activities by date for segmentation
-    const groupedActivities = (activities || []).reduce((groups: { [key: string]: any[] }, activity: any) => {
+    const groupedActivities = useMemo(() => (activities || []).reduce((groups: { [key: string]: any[] }, activity: any) => {
         const date = activity.start_date_local?.split('T')[0];
         if (date) {
             if (!groups[date]) groups[date] = [];
             groups[date].push(activity);
         }
         return groups;
-    }, {});
+    }, {}), []);
 
-    const sortedDates = Object.keys(groupedActivities).sort((a, b) => a.localeCompare(b));
+    const sortedDates = useMemo(() => Object.keys(groupedActivities).sort((a, b) => a.localeCompare(b)), [groupedActivities]);
 
     // Group all photos by location to handle overlaps
-    const photosByLocation = activities.reduce((acc: { [key: string]: any[] }, activity: any) => {
+    const photosByLocation = useMemo(() => activities.reduce((acc: { [key: string]: any[] }, activity: any) => {
         const photos = Array.isArray(activity.photos) ? activity.photos : [];
         photos.forEach((photo: any) => {
             if (photo.location) {
@@ -260,7 +260,7 @@ const MapDisplay: React.FC = () => {
             }
         });
         return acc;
-    }, {});
+    }, {}), []);
 
     return (
         <div style={{ height: '100%', width: '100%', position: 'relative' }}>
@@ -275,6 +275,7 @@ const MapDisplay: React.FC = () => {
                 maxBoundsViscosity={1.0}
                 scrollWheelZoom={true}
                 zoomControl={false}
+                preferCanvas={true}
                 style={{ height: '100%', width: '100%', background: '#0c0f14' }}
             >
                 <MapController onZoom={setZoom} />
@@ -284,6 +285,8 @@ const MapDisplay: React.FC = () => {
                     url="https://server.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}"
                     detectRetina={true}
                     maxNativeZoom={10}
+                    keepBuffer={8}
+                    updateWhenIdle={false}
                 />
 
                 {/* Map Segmentation: Color-coded by activity type */}
