@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write # Needed to push changes
+      pages: write    # Needed for deployment
+      id-token: write # Needed for deployment
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -35,3 +37,18 @@ jobs:
         with:
           commit_message: "chore: update strava activities data [skip ci]"
           file_pattern: "src/data/strava-activities.json"
+
+      - name: Build
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
