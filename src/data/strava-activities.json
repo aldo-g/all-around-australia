@@ -5,6 +5,9125 @@
       "id": 49069428,
       "resource_state": 1
     },
+    "name": "Start of the great ocean road",
+    "distance": 92242,
+    "moving_time": 23377,
+    "elapsed_time": 28232,
+    "total_elevation_gain": 899,
+    "type": "Ride",
+    "sport_type": "Ride",
+    "workout_type": null,
+    "device_name": "Garmin fēnix 7x",
+    "id": 17019663932,
+    "start_date": "2026-01-11T23:27:19Z",
+    "start_date_local": "2026-01-12T10:27:19Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 6,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a17019663932",
+      "polyline": "rkgiFmqsdZDHVVpA~@pAv@NAFER[zC}ID[Ne@Va@bCcHj@yB`@o@bC_H\\kAFc@h@kAz@eCf@oAxByGBWGM@C~AsEF_@RWJCFG?QKOOMg@We@a@]SKKCM@ODWPm@\\w@rCwIf@uAZu@Nm@j@_BTk@\\g@@Me@yKCSMm@A[HQJM|@}@lAuAjCoC\\a@T]R]~AuDTq@TiAhAwEZkBT}A\\_Db@kCXWb@@tDd@fFf@bAF`Gn@XAR[TmCf@wJnAsRbAoSr@oLFcBNkBVgFF[Bw@NaCVeF?{@FoA?YN{BLsADsABCL{BLq@^qAdHoTjAeDzI}Wr@cCjAgDlMw`@t@uCPiAr@sK`@{EdFs_@ZuCJwAbA_SD_B@}BCyCe@oK?eBDiBd@oJ\\_GPuDXkERyBPyA\\oBlA}F`CwJfIe^|AoGzA{Gd@yCPqATsDDkBBoBEcCKiBUsC_@sC]}BCEYOsBWgAIeCU_I_AwBQoAG{LYy@EsIQuAIs@Is@MuAc@a@Q_Ak@_B{A{AmB{HqKm@u@]m@eByBi@w@kAiAuAyAgA_A{DqCaLyHwE{Cq@a@_@K[E[?u@LiG|AeALQKCc@`@iIb@cHVeFPgCJaCRqCR}Ex@}NHwBDi@K]g@Ow@EYI}@EoCY]GgCK{Eg@q@Cs@FCMJg@\\mEP}CbA_TT}Cl@eMX_Eb@aK~@kP@m@HuA?c@LoBf@{J^qG@AGb@DAFaBRmCNoCAa@IqA@OP_@DElAw@x@Yb@Kx@MzBMdFGdA?jHO|ABfOnBvCXzA?bAGvAS~Ag@zAu@x@g@bB}AnEsFbBeBnCsBn@a@~A}@dAa@zPsHfFoBvBq@|Bo@fImBfTmF|@WrAi@nCqAxAaA~@s@dA_AjBoB|G}IxAsBnHmJhE{FvAgB~B_DrKmMnMgOvBmCpC{Dx@oA`BwCh@cA|AeD`EwJxA{DtB{EbH_QfB}DDIRKP?r@NN?X?b@I~@YnCiApAe@bAYfCe@`AUnFgA~@[hAo@jAaAjBaBn@a@|@]l@Mv@?|AHlCVbA?p@IfAe@lC}BvAqAxCcCfCiBvFmDtCkBvA{@jG{Dh@a@fEaC\\O^SxBcAb@UzAg@|Cc@`IB~@Gz@O~@_@|@o@p@y@xA_CrEcI`@g@xOwNnBwB~CsDx@u@dAk@~A[bIg@DEJ@|AIzAOVGv@]vEqCVa@Fq@xA_Wf@qHt@sMd@gJb@_GL{CTkDFsAZuEfAkSJ}@TsDjBu[n@iKn@uLFg@NkCV_F^{EHk@PGLBtAHxEl@hKfA~Fr@bAPzC\\~CZ~Ej@vALbFl@rAL~BXtBPjDb@zBT~Fr@rBPh@HLFbBNjBVzAHnCXvBLxABvBANEx@DjJCx@Kl@c@Xc@hD}GVc@Zw@Ry@LqARwDLyAZoFDoAReCN_DToCTeF`@_GFwA@sAL{@LoBHaADuAJkAb@}HHgA?Up@wJpCsf@fAcQr@qLPuDl@gJHqBXkD^oHLoBBcACk@Ka@Uo@CQF_@r@cBJ_@PiAfBcZ?e@@OA?ViDt@sMtCee@n@_LnDwl@jAuRZ{G~Dip@lAeTHgBLwATqE`AeOpCqf@ZeC\\wAXs@d@aA|@mAj@c@XOXOp@Sl@Mz@Mj@An@D~CVpFp@lO`BdAN~IbArEj@fBNlN`BzCVT?DD\\FvANvBXzI`AfEf@|D`@rEj@vI~@nDb@bEb@rBVdBJf@?`AKz@Sb@U~@i@l@g@nCoClQyQjBuBXWlJ{JdBqBPYl@qAlJ{Uz@gBxBoCzEyFzDyEx@}@bA}@lL_KxD_DpO}MrEuDbEqDf@i@HQDa@B@?CEKAOEIH^FFAAIA?DJJJ@rH}ItCaD~FkHnI{J~OoRlEcFpBiCj@aAp@_Bn@mCTyA^sDJk@JOXEhAPlCT~Df@hAJdJbApDd@nAJPD`@BnM|AfBPfHx@b@BHFj@FjSxBfC^|DnAhAPbABv@CXC`AOz@WnCeAhAUh@EdAGvBA|BF|ATpCl@hAFfBATVBNTpCH^b@d@GDM?IC@BAAHv@@^EL@PLt@Gp@?f@N|@X^BH?CB?C?c@k@Od@EDE@B@Xs@@?HRNRD@?JEMOMKUKu@Aa@Fm@MmAMQUKGII[GII@m@\\WJa@GYJS?QCOII?MTCf@?^BTC?BaBNU`@N\\?LIN?ZDVKd@[LCP@NNLBHUB?FI@KKE@?A?H@BB@PMj@WLQIESTuA@s@S_DP]hAYd@Qn@_@p@i@l@s@f@q@Ta@r@gBXiAPiALgBBgAA[_@oFiCqYIuC@kBFmAXoCVyAb@cBn@cBfJiSbCuFj@}Ab@_B`@kBXsBTuCN_FNqBPmARgAb@aBz@}B`@y@n@aAx@eApAqADADFEXB\\FPFBHA@CGJBHHADB@T@EMg@CAAJQKMSIY@Qh@c@z@g@xBcAjAu@`Ay@jA}Ah@aAb@aA`@sA\\_B`@_Cd@oBd@qAt@yAlAaBpA}@j@[pAg@`AStBOdBJd@HhE`ALJFz@CJOFOCK@KVDMHGHDNAHEDKAHKDOEKWHQTQFKf@BjAPv@Bf@?dAG`ASbAc@dAs@l@i@l@s@l@eA\\y@Ng@\\yAPoAHcB?sAUuD_A_KOaCAwCHyBNeBV_Bb@gBfBaH^_Bj@mEh@_Gf@iIv@cODaCFa@?UFo@b@cCbFaVl@kFZwGfBup@HmBNmBXaCNaA`@qBlCoKx@oDD[hAqEh@gCRq@`BgHTq@~BkKrAoFFIdE_MjEyMlHuYn@qCh@mBT_@b@@xBhARFt@^d@^FN@NId@W|@[X}ANICEK?EFGLC@LBKZGNAj@S`@E\\BPCLEXU\\GNA\\@\\LTHd@`@`@Rt@PJPFTDf@YfCK\\Nf@HG?@EBCAOYAMR_ADu@Hi@Cg@KYIK_@Ia@QkAu@]M_@Ce@F_@T_@JK@YAQDy@HMFM?SF@AFFAB?KI@?ADL@OPEv@K`@ORc@Hc@E]SQw@c@wDgBOO?GReBJa@dA{GTkAn@oCtCsIbAiCxBmEjDuGv@gBh@yAvDcLRs@p@iB|BgHl@yBb@oBPeALwAJkBDeBFyRD}XA}AI}AI_A]cCOaAg@{BWeAa@kAe@kAmDkGwAkCmCeGmAeDmLy\\m@qBe@gCU}DQ}GUiFEiB@yADq@hD}]ZwD`B{PzAiPvAuNt@gIJgBAy@QaBe@qDYaBQk@O[}AoBu@yAMe@Y{AMaB@{BRcLd@ka@JmFJ{IGcBOcBSaBMe@a@m@a@][KgAOi@QYQYWc@o@g@gB[{@c@u@w@}@o@c@wIyDe@[a@i@Ma@OyA\\oGNeBVW\\Fd@RbB~@pAl@r@N~BVv@LVF|@ZH^lAd@XFAB@GJBh@@ZCNBFC^Af@GP@l@Zh@?z@HHITATTd@z@bFdKd@n@Lh@r@~A^p@PHFNEQBO?OB?@NERBNGIBi@KEDHRJEACECIBCE@B?@EA@@?EBDBAC@JBFB@CBAEB@ECBBC@B?CI?DDB?C?B?CCBBAE?@CBB?G@HCACIBJIH?H@J?KHMLI?BBA@GU\\CG@ERQANUT?DCC@AQ[Tb@I?UQ{@gBa@q@[WO[[gAw@cBaAiBaAuBAK^g@tBqBJSb@YfAeALI`AcARM^a@tAmAPSj@Yd@KFMFW?}AHiBf@kGJkBHa@HiAhA{LdGon@d@mDdD{Td@mDHOnCcRbD_TZeCN_BHeBFyB@eEAJ?IJoDXkDRyAd@gC`Ka`@lL}a@fCcJ\\uAbB}Fd@iAj@y@dAkAdA{@n@[z@QrAK\\?n@Dv@LvA^fATVBv@BTAj@IjA[x@g@jAoA`@w@f@eBNcABc@By@QaECkABgBJ{ANqA`@gBfAyD`@eBViBJeADqA^qNVyCx@cFrAkHR}AJsALwBXgIPcCRiB^yB`@gB`AuCf@mAfEcIv@aB~HmQhCkGDSHK|DgJ|@gBn@eA|H_Mf@}@hCcExAeCT[rBkD`B}ChA{Br@oAd@_APe@hAsBpDeHpBsD|Q{]v@aB`@u@v@gB|IkVv@mBfAwBdLmShA_CbAcBRk@M[y@gAOc@Kq@YUSKo@KAECUDcAFW^cAFEd@BTPJPBPGDIGC@BFTH@DAZIn@JVHZAh@O`@D^RVz@l@XIb@m@fBaDp@eAt@_AXWv@g@PI~EiBh@UXOl@c@VWjAaBr@iAl@mAh@aBnEuRl@{APO@LI`@Z^?HCNK@BLFHHFBHJHGCCKICAKKSEn@M\\SEa@MDSEK?MZcAbAiBjFiI`BsCt@aBfAyCzAkDjCmFh@sAb@wAToAJmAFkBGgAKuAcAwIGaBByAL{AbAiF\\mBP_BLoCR_HJeCb@oF^eCdAuFlBiJXkAj@wAzAqC^{@f@eBp@aDd@yAf@kAjDuHb@y@^e@bBeBNMf@q@^Wl@i@zA}AfC{BlBmBdAy@~@k@dD{AbAa@RCx@CdBJ^?f@GdBi@|@a@`@WPOb@i@lAcCr@_Ad@_@^Y|IsEz@[~@Qx@EvA?`AK\\Ip@W`@Q~AeAh@i@bA{@?@DA`@Oh@Gz@@fBXj@Bp@Gx@Ud@]PQp@iAb@gAl@gBFi@Bi@?_AASM_AQs@uAyDm@oAmA}BsA{BW]YKCQBEJFZ\\dAzAjBnDdAzBhAfDTlADr@AlBKp@EX@HHD^CZKl@a@d@k@|A{Bl@cAzAyBXi@p@{@bA}AfA{AbAcAR]b@gAzBqGTw@dAqC^q@jAcBN[BQI_@AB`@w@VUR[Nk@B}@H[t@u@NUZ_ABw@CyAMAGE[_@[UAUD]AEDHFFMODJD@",
+      "resource_state": 3,
+      "summary_polyline": "dugiFursdZnScl@~EwPf@c@uCgD|JcYw@eOjIeJhCqFtBsIrBuN|@UbVdCl@]fLwrB~j@qfBfByTlGag@hA_Va@wZbCkb@`WqiArAkOc@qN}@qG]UyViCo^cA}D{@aEyCuWy\\}ZgTiCs@wKlBhFqcAs@m@kWuBdLmtBXmEDsGdB}AvCs@rUe@|VlCvF[tFeCvKwL~GsEhZeMdf@}L`HsCjIeHha@ci@lb@_h@bHqMbXwo@fDE`HiC|PyDnJsGfMHnQcN~d@sXxFkA`KCzBo@nBiBnIkNbZyYdDgAfPmAnGoD^sAxUo}DniBzR~VJ`CsA`EaI|@cEvVcgE?oBe@cBxAmFbd@axHx@}E|BcEpCwAdEWjgCdYlCJ`Du@dl@wl@hNo\\pOcRns@an@p@{@CiA\\v@fw@{~@nEkH|BwM|uAlOnK`CvESdKaCvSnAx@xEb@d@_@BLfGp@bBg@k@[l@^q@^t@m@gBG}C}@mAoAj@{BIQ|@?t@RwBxBJzBULq@?bAo@OViCS_DpGgEpB{Dj@sCNkEsDwe@b@iIjBaHzP}`@z@_FfAuPrBgH|EsGr@zBy@oBjHeElCwCnBwEjCaLtEyFtHgBtIvAPrAw@\\v@Yg@Wf@o@xGPxFuChC{En@iDHwDeBwTFqG~F}Z~Cwh@tHqa@bCmy@bA_LbTu}@xL}^fKua@r@_@vFbD_@rBcCd@tGeBhE|A^rAe@~CXf@[e@b@_DYmAkEcBcGtAlBq@VeBsGuDjD_SxE}MfKeTzJiZpBgK^is@s@_KqBoIyLiV{N_b@sAyFU}De@}V|OadBsAoLuDqGu@cFjAygAc@eEo@sAcFuBcEgIoMcH]{Bl@uJt@OzE`CbG|@lDlBxJJfLbUXX@q@?r@Hc@IYC|@Za@AIWj@Sa@IPcJeRxNmNxAs@dAwQbJw_AjQqlAl@sTl@eGz^auAhCgIvDaE|Ey@lJnApDmAlBgCz@mEAkOrDcQhAcX`DmRxAaWbCwJ~\\uu@`Y}d@bf@y~@fPya@zRi^Rk@cByD_Bs@h@uDnA`@Hh@H~BKjBnAdAfHwJrL}FlDyFxFwU~@kBFxB`@d@c@s@SlAu@SZqBpKgQnKiVx@gDRyDwAuNC{D`CsOpAeXlFqXfDeHfDmLnFuK`UuShF}BzFCbDkA~FuH|JmFlJiAhIeFxFVpC{@tCkGHgDuBmHeGeKpBzBzFrMZ`CQbErBk@|PgVzFcPzBqDEq@jAeBPqA"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -38.381534,
+      142.482317
+    ],
+    "end_latlng": [
+      -38.699474,
+      143.161675
+    ],
+    "average_speed": 3.946,
+    "max_speed": 11.257,
+    "has_heartrate": true,
+    "average_heartrate": 114.5,
+    "max_heartrate": 173,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 81.4,
+    "elev_low": 1.8,
+    "upload_id": 18113663672,
+    "upload_id_str": "18113663672",
+    "external_id": "garmin_ping_522808735013",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 8,
+    "has_kudoed": false,
+    "description": "",
+    "calories": 2813,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3445694318655322000,
+        "resource_state": 2,
+        "name": "Hopkins bridge sprint ",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 181,
+        "moving_time": 181,
+        "start_date": "2026-01-11T23:40:31Z",
+        "start_date_local": "2026-01-12T10:40:31Z",
+        "distance": 949.3,
+        "start_index": 191,
+        "end_index": 242,
+        "device_watts": false,
+        "average_heartrate": 116.6,
+        "max_heartrate": 127,
+        "segment": {
+          "id": 22831845,
+          "resource_state": 2,
+          "name": "Hopkins bridge sprint ",
+          "activity_type": "Ride",
+          "distance": 949.3,
+          "average_grade": -1,
+          "maximum_grade": 5,
+          "elevation_high": 12.8,
+          "elevation_low": 1.7,
+          "start_latlng": [
+            -38.392169,
+            142.507718
+          ],
+          "end_latlng": [
+            -38.396965,
+            142.512526
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Warrnambool",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3445694318655053000,
+        "resource_state": 2,
+        "name": "hopkins rd sprint bwr",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 94,
+        "moving_time": 94,
+        "start_date": "2026-01-11T23:40:37Z",
+        "start_date_local": "2026-01-12T10:40:37Z",
+        "distance": 489.4,
+        "start_index": 194,
+        "end_index": 223,
+        "device_watts": false,
+        "average_heartrate": 115.3,
+        "max_heartrate": 127,
+        "segment": {
+          "id": 23283621,
+          "resource_state": 2,
+          "name": "hopkins rd sprint bwr",
+          "activity_type": "Ride",
+          "distance": 489.4,
+          "average_grade": 0,
+          "maximum_grade": 3.5,
+          "elevation_high": 42.6,
+          "elevation_low": 39.6,
+          "start_latlng": [
+            -38.39246,
+            142.507675
+          ],
+          "end_latlng": [
+            -38.396824,
+            142.506897
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Warrnambool",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3445694318657336300,
+        "resource_state": 2,
+        "name": "The Reverse Murf",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1556,
+        "moving_time": 1492,
+        "start_date": "2026-01-11T23:42:25Z",
+        "start_date_local": "2026-01-12T10:42:25Z",
+        "distance": 6919.5,
+        "start_index": 225,
+        "end_index": 617,
+        "device_watts": false,
+        "average_heartrate": 131.4,
+        "max_heartrate": 173,
+        "segment": {
+          "id": 25603945,
+          "resource_state": 2,
+          "name": "The Reverse Murf",
+          "activity_type": "Ride",
+          "distance": 6919.5,
+          "average_grade": 0,
+          "maximum_grade": 9.8,
+          "elevation_high": 69.8,
+          "elevation_low": 16.4,
+          "start_latlng": [
+            -38.396423,
+            142.507951
+          ],
+          "end_latlng": [
+            -38.41222,
+            142.583223
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Warrnambool",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3445694318657787000,
+        "resource_state": 2,
+        "name": "Hopkins River Hill",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 469,
+        "moving_time": 405,
+        "start_date": "2026-01-11T23:44:02Z",
+        "start_date_local": "2026-01-12T10:44:02Z",
+        "distance": 1005.66,
+        "start_index": 247,
+        "end_index": 377,
+        "device_watts": false,
+        "average_heartrate": 149.6,
+        "max_heartrate": 173,
+        "segment": {
+          "id": 1100258,
+          "resource_state": 2,
+          "name": "Hopkins River Hill",
+          "activity_type": "Ride",
+          "distance": 1005.66,
+          "average_grade": 4.7,
+          "maximum_grade": 10.8,
+          "elevation_high": 72,
+          "elevation_low": 24.6,
+          "start_latlng": [
+            -38.39717622846365,
+            142.51397352665663
+          ],
+          "end_latlng": [
+            -38.39839621447027,
+            142.52532036043704
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Warrnambool",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3445694318658782000,
+        "resource_state": 2,
+        "name": "Hopkins Point Rd",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 999,
+        "moving_time": 999,
+        "start_date": "2026-01-11T23:52:00Z",
+        "start_date_local": "2026-01-12T10:52:00Z",
+        "distance": 5450.73,
+        "start_index": 378,
+        "end_index": 620,
+        "device_watts": false,
+        "average_heartrate": 124.3,
+        "max_heartrate": 148,
+        "segment": {
+          "id": 3305379,
+          "resource_state": 2,
+          "name": "Hopkins Point Rd",
+          "activity_type": "Ride",
+          "distance": 5450.73,
+          "average_grade": -0.8,
+          "maximum_grade": 6.7,
+          "elevation_high": 55.2,
+          "elevation_low": 9.2,
+          "start_latlng": [
+            -38.39842328801751,
+            142.52554608508945
+          ],
+          "end_latlng": [
+            -38.41201286762953,
+            142.58418143726885
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Warrnambool",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3445694318658202600,
+        "resource_state": 2,
+        "name": "From Hopkins on Tooram to Hermatige",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 337,
+        "moving_time": 337,
+        "start_date": "2026-01-12T00:08:47Z",
+        "start_date_local": "2026-01-12T11:08:47Z",
+        "distance": 1762.1,
+        "start_index": 622,
+        "end_index": 712,
+        "device_watts": false,
+        "average_heartrate": 131.2,
+        "max_heartrate": 155,
+        "segment": {
+          "id": 8936533,
+          "resource_state": 2,
+          "name": "From Hopkins on Tooram to Hermatige",
+          "activity_type": "Ride",
+          "distance": 1762.1,
+          "average_grade": 0.3,
+          "maximum_grade": 8.1,
+          "elevation_high": 16.8,
+          "elevation_low": 2.5,
+          "start_latlng": [
+            -38.411915,
+            142.584454
+          ],
+          "end_latlng": [
+            -38.397652,
+            142.590767
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Allansford",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3445694318655105000,
+        "resource_state": 2,
+        "name": "Tooram Climb ",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 167,
+        "moving_time": 167,
+        "start_date": "2026-01-12T00:11:45Z",
+        "start_date_local": "2026-01-12T11:11:45Z",
+        "distance": 672.3,
+        "start_index": 668,
+        "end_index": 714,
+        "device_watts": false,
+        "average_heartrate": 140,
+        "max_heartrate": 155,
+        "segment": {
+          "id": 4324803,
+          "resource_state": 2,
+          "name": "Tooram Climb ",
+          "activity_type": "Ride",
+          "distance": 672.3,
+          "average_grade": 1.4,
+          "maximum_grade": 7.2,
+          "elevation_high": 16.8,
+          "elevation_low": 5,
+          "start_latlng": [
+            -38.40194,
+            142.585817
+          ],
+          "end_latlng": [
+            -38.397468,
+            142.590952
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Allansford",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3445694318658534400,
+        "resource_state": 2,
+        "name": "Boggy Knee",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1362,
+        "moving_time": 1332,
+        "start_date": "2026-01-12T01:54:26Z",
+        "start_date_local": "2026-01-12T12:54:26Z",
+        "distance": 6519.6,
+        "start_index": 2116,
+        "end_index": 2384,
+        "device_watts": false,
+        "average_heartrate": 110.9,
+        "max_heartrate": 129,
+        "segment": {
+          "id": 26816670,
+          "resource_state": 2,
+          "name": "Boggy Knee",
+          "activity_type": "Ride",
+          "distance": 6519.6,
+          "average_grade": 0.1,
+          "maximum_grade": 2.5,
+          "elevation_high": 53.8,
+          "elevation_low": 48.5,
+          "start_latlng": [
+            -38.4993,
+            142.751896
+          ],
+          "end_latlng": [
+            -38.526922,
+            142.794775
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Nirranda",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3445694318656712700,
+        "resource_state": 2,
+        "name": "Plunge to Port Campbell",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 216,
+        "moving_time": 216,
+        "start_date": "2026-01-12T04:40:11Z",
+        "start_date_local": "2026-01-12T15:40:11Z",
+        "distance": 1604.4,
+        "start_index": 4461,
+        "end_index": 4545,
+        "device_watts": false,
+        "average_heartrate": 126.1,
+        "max_heartrate": 144,
+        "segment": {
+          "id": 5725890,
+          "resource_state": 2,
+          "name": "Plunge to Port Campbell",
+          "activity_type": "Ride",
+          "distance": 1604.4,
+          "average_grade": -3.1,
+          "maximum_grade": 9.1,
+          "elevation_high": 56.6,
+          "elevation_low": 6.1,
+          "start_latlng": [
+            -38.616596,
+            142.983514
+          ],
+          "end_latlng": [
+            -38.611918,
+            142.998454
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Port Campbell",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3445694318657673000,
+        "resource_state": 2,
+        "name": "Port Berg ",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 359,
+        "moving_time": 236,
+        "start_date": "2026-01-12T04:44:25Z",
+        "start_date_local": "2026-01-12T15:44:25Z",
+        "distance": 589.5,
+        "start_index": 4559,
+        "end_index": 4654,
+        "device_watts": false,
+        "average_heartrate": 114.4,
+        "max_heartrate": 140,
+        "segment": {
+          "id": 22743435,
+          "resource_state": 2,
+          "name": "Port Berg ",
+          "activity_type": "Ride",
+          "distance": 589.5,
+          "average_grade": 1.8,
+          "maximum_grade": 12.7,
+          "elevation_high": 19,
+          "elevation_low": 2.2,
+          "start_latlng": [
+            -38.612181,
+            143.000317
+          ],
+          "end_latlng": [
+            -38.617283,
+            142.998964
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Port Campbell",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3445694318655774700,
+        "resource_state": 2,
+        "name": "12 Apostles to Clifton Lodge",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1355,
+        "moving_time": 1216,
+        "start_date": "2026-01-12T06:28:16Z",
+        "start_date_local": "2026-01-12T17:28:16Z",
+        "distance": 4528,
+        "start_index": 5945,
+        "end_index": 6269,
+        "device_watts": false,
+        "average_heartrate": 113.1,
+        "max_heartrate": 131,
+        "segment": {
+          "id": 7044308,
+          "resource_state": 2,
+          "name": "12 Apostles to Clifton Lodge",
+          "activity_type": "Ride",
+          "distance": 4528,
+          "average_grade": -1.5,
+          "maximum_grade": 3.6,
+          "elevation_high": 77.4,
+          "elevation_low": 7.6,
+          "start_latlng": [
+            -38.658013,
+            143.096921
+          ],
+          "end_latlng": [
+            -38.676923,
+            143.140435
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Princetown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3445694318656525300,
+        "resource_state": 2,
+        "name": "Sprint to Clifton Lodge",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 344,
+        "moving_time": 344,
+        "start_date": "2026-01-12T06:45:53Z",
+        "start_date_local": "2026-01-12T17:45:53Z",
+        "distance": 1601.5,
+        "start_index": 6201,
+        "end_index": 6282,
+        "device_watts": false,
+        "average_heartrate": 117.7,
+        "max_heartrate": 140,
+        "segment": {
+          "id": 7036716,
+          "resource_state": 2,
+          "name": "Sprint to Clifton Lodge",
+          "activity_type": "Ride",
+          "distance": 1601.5,
+          "average_grade": -0.7,
+          "maximum_grade": 8.4,
+          "elevation_high": 20.4,
+          "elevation_low": 1.4,
+          "start_latlng": [
+            -38.672234,
+            143.124715
+          ],
+          "end_latlng": [
+            -38.67771,
+            143.141309
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Princetown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1020.4,
+        "elapsed_time": 246,
+        "elevation_difference": -16,
+        "moving_time": 246,
+        "split": 1,
+        "average_speed": 4.15,
+        "average_grade_adjusted_speed": 4.03,
+        "average_heartrate": 97.66666666666667,
+        "pace_zone": 0
+      },
+      {
+        "distance": 990.7,
+        "elapsed_time": 371,
+        "elevation_difference": 10.8,
+        "moving_time": 348,
+        "split": 2,
+        "average_speed": 2.85,
+        "average_grade_adjusted_speed": 3.04,
+        "average_heartrate": 108.46397694524495,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1022.7,
+        "elapsed_time": 213,
+        "elevation_difference": -7,
+        "moving_time": 213,
+        "split": 3,
+        "average_speed": 4.8,
+        "average_grade_adjusted_speed": 4.77,
+        "average_heartrate": 107.22535211267606,
+        "pace_zone": 0
+      },
+      {
+        "distance": 978.2,
+        "elapsed_time": 195,
+        "elevation_difference": -4.8,
+        "moving_time": 195,
+        "split": 4,
+        "average_speed": 5.02,
+        "average_grade_adjusted_speed": 5.02,
+        "average_heartrate": 115.7025641025641,
+        "pace_zone": 0
+      },
+      {
+        "distance": 993.7,
+        "elapsed_time": 477,
+        "elevation_difference": 54.6,
+        "moving_time": 413,
+        "split": 5,
+        "average_speed": 2.41,
+        "average_grade_adjusted_speed": 2.94,
+        "average_heartrate": 151.8038740920097,
+        "pace_zone": 0
+      },
+      {
+        "distance": 994.7,
+        "elapsed_time": 177,
+        "elevation_difference": -15.2,
+        "moving_time": 177,
+        "split": 6,
+        "average_speed": 5.62,
+        "average_grade_adjusted_speed": 5.53,
+        "average_heartrate": 116.15819209039547,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1008,
+        "elapsed_time": 208,
+        "elevation_difference": -3.2,
+        "moving_time": 208,
+        "split": 7,
+        "average_speed": 4.85,
+        "average_grade_adjusted_speed": 4.87,
+        "average_heartrate": 136.39423076923077,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1025.6,
+        "elapsed_time": 134,
+        "elevation_difference": -27,
+        "moving_time": 134,
+        "split": 8,
+        "average_speed": 7.65,
+        "average_grade_adjusted_speed": 7.28,
+        "average_heartrate": 119.3731343283582,
+        "pace_zone": 0
+      },
+      {
+        "distance": 966.6,
+        "elapsed_time": 193,
+        "elevation_difference": 3.6,
+        "moving_time": 193,
+        "split": 9,
+        "average_speed": 5.01,
+        "average_grade_adjusted_speed": 5.08,
+        "average_heartrate": 123.18134715025907,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1007.3,
+        "elapsed_time": 186,
+        "elevation_difference": -6.4,
+        "moving_time": 186,
+        "split": 10,
+        "average_speed": 5.42,
+        "average_grade_adjusted_speed": 5.39,
+        "average_heartrate": 121.98924731182795,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1004.3,
+        "elapsed_time": 175,
+        "elevation_difference": -3.6,
+        "moving_time": 175,
+        "split": 11,
+        "average_speed": 5.74,
+        "average_grade_adjusted_speed": 5.72,
+        "average_heartrate": 124.62285714285714,
+        "pace_zone": 0
+      },
+      {
+        "distance": 995,
+        "elapsed_time": 193,
+        "elevation_difference": 5.4,
+        "moving_time": 193,
+        "split": 12,
+        "average_speed": 5.16,
+        "average_grade_adjusted_speed": 5.29,
+        "average_heartrate": 129.19689119170985,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1012.9,
+        "elapsed_time": 215,
+        "elevation_difference": 0.2,
+        "moving_time": 215,
+        "split": 13,
+        "average_speed": 4.71,
+        "average_grade_adjusted_speed": 4.8,
+        "average_heartrate": 140.59534883720931,
+        "pace_zone": 0
+      },
+      {
+        "distance": 985.2,
+        "elapsed_time": 230,
+        "elevation_difference": -0.8,
+        "moving_time": 230,
+        "split": 14,
+        "average_speed": 4.28,
+        "average_grade_adjusted_speed": 4.3,
+        "average_heartrate": 114.82173913043478,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.3,
+        "elapsed_time": 270,
+        "elevation_difference": 5.4,
+        "moving_time": 270,
+        "split": 15,
+        "average_speed": 3.71,
+        "average_grade_adjusted_speed": 3.77,
+        "average_heartrate": 111.31111111111112,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1013.4,
+        "elapsed_time": 343,
+        "elevation_difference": 9.4,
+        "moving_time": 289,
+        "split": 16,
+        "average_speed": 3.51,
+        "average_grade_adjusted_speed": 3.61,
+        "average_heartrate": 106.95138888888889,
+        "pace_zone": 0
+      },
+      {
+        "distance": 980.9,
+        "elapsed_time": 254,
+        "elevation_difference": 6,
+        "moving_time": 254,
+        "split": 17,
+        "average_speed": 3.86,
+        "average_grade_adjusted_speed": 3.93,
+        "average_heartrate": 101.2753036437247,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1011.1,
+        "elapsed_time": 186,
+        "elevation_difference": -1,
+        "moving_time": 186,
+        "split": 18,
+        "average_speed": 5.44,
+        "average_grade_adjusted_speed": 5.45,
+        "average_heartrate": 70.19354838709677,
+        "pace_zone": 0
+      },
+      {
+        "distance": 995.7,
+        "elapsed_time": 253,
+        "elevation_difference": 10,
+        "moving_time": 253,
+        "split": 19,
+        "average_speed": 3.94,
+        "average_grade_adjusted_speed": 4.06,
+        "average_heartrate": 74.56521739130434,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.2,
+        "elapsed_time": 212,
+        "elevation_difference": 1.4,
+        "moving_time": 212,
+        "split": 20,
+        "average_speed": 4.7,
+        "average_grade_adjusted_speed": 4.76,
+        "average_heartrate": 106.07075471698113,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1013.2,
+        "elapsed_time": 220,
+        "elevation_difference": 0.6,
+        "moving_time": 220,
+        "split": 21,
+        "average_speed": 4.61,
+        "average_grade_adjusted_speed": 4.62,
+        "average_heartrate": 118.5409090909091,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.4,
+        "elapsed_time": 287,
+        "elevation_difference": -0.8,
+        "moving_time": 215,
+        "split": 22,
+        "average_speed": 4.64,
+        "average_grade_adjusted_speed": 4.63,
+        "average_heartrate": 108.20930232558139,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001,
+        "elapsed_time": 199,
+        "elevation_difference": -1.4,
+        "moving_time": 199,
+        "split": 23,
+        "average_speed": 5.03,
+        "average_grade_adjusted_speed": 5.06,
+        "average_heartrate": 109.4572864321608,
+        "pace_zone": 0
+      },
+      {
+        "distance": 992.3,
+        "elapsed_time": 197,
+        "elevation_difference": -8,
+        "moving_time": 197,
+        "split": 24,
+        "average_speed": 5.04,
+        "average_grade_adjusted_speed": 5.01,
+        "average_heartrate": 117.04060913705584,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.8,
+        "elapsed_time": 220,
+        "elevation_difference": -7.2,
+        "moving_time": 220,
+        "split": 25,
+        "average_speed": 4.54,
+        "average_grade_adjusted_speed": 4.56,
+        "average_heartrate": 118.62727272727273,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998,
+        "elapsed_time": 218,
+        "elevation_difference": -1.2,
+        "moving_time": 218,
+        "split": 26,
+        "average_speed": 4.58,
+        "average_grade_adjusted_speed": 4.6,
+        "average_heartrate": 121.38073394495413,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1015.7,
+        "elapsed_time": 287,
+        "elevation_difference": 0.6,
+        "moving_time": 246,
+        "split": 27,
+        "average_speed": 4.13,
+        "average_grade_adjusted_speed": 4.19,
+        "average_heartrate": 98.76829268292683,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.4,
+        "elapsed_time": 217,
+        "elevation_difference": 5.4,
+        "moving_time": 217,
+        "split": 28,
+        "average_speed": 4.59,
+        "average_grade_adjusted_speed": 4.69,
+        "average_heartrate": 85.88479262672811,
+        "pace_zone": 0
+      },
+      {
+        "distance": 986.9,
+        "elapsed_time": 228,
+        "elevation_difference": 7,
+        "moving_time": 228,
+        "split": 29,
+        "average_speed": 4.33,
+        "average_grade_adjusted_speed": 4.42,
+        "average_heartrate": 129.9517543859649,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1004.8,
+        "elapsed_time": 250,
+        "elevation_difference": -2.4,
+        "moving_time": 228,
+        "split": 30,
+        "average_speed": 4.41,
+        "average_grade_adjusted_speed": 4.42,
+        "average_heartrate": 117.85964912280701,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1003,
+        "elapsed_time": 178,
+        "elevation_difference": -7,
+        "moving_time": 178,
+        "split": 31,
+        "average_speed": 5.63,
+        "average_grade_adjusted_speed": 5.62,
+        "average_heartrate": 113.6067415730337,
+        "pace_zone": 0
+      },
+      {
+        "distance": 989.9,
+        "elapsed_time": 393,
+        "elevation_difference": -1.8,
+        "moving_time": 249,
+        "split": 32,
+        "average_speed": 3.98,
+        "average_grade_adjusted_speed": 4.05,
+        "average_heartrate": 93.68273092369478,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.6,
+        "elapsed_time": 261,
+        "elevation_difference": 11,
+        "moving_time": 261,
+        "split": 33,
+        "average_speed": 3.84,
+        "average_grade_adjusted_speed": 4.02,
+        "average_heartrate": 116.37547892720306,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1012.3,
+        "elapsed_time": 237,
+        "elevation_difference": -0.8,
+        "moving_time": 237,
+        "split": 34,
+        "average_speed": 4.27,
+        "average_grade_adjusted_speed": 4.32,
+        "average_heartrate": 127.70886075949367,
+        "pace_zone": 0
+      },
+      {
+        "distance": 984.5,
+        "elapsed_time": 237,
+        "elevation_difference": 12.6,
+        "moving_time": 237,
+        "split": 35,
+        "average_speed": 4.15,
+        "average_grade_adjusted_speed": 4.35,
+        "average_heartrate": 121.6864406779661,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1010.6,
+        "elapsed_time": 486,
+        "elevation_difference": 3,
+        "moving_time": 246,
+        "split": 36,
+        "average_speed": 4.11,
+        "average_grade_adjusted_speed": 4.21,
+        "average_heartrate": 101.3130081300813,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1035.1,
+        "elapsed_time": 219,
+        "elevation_difference": 2.4,
+        "moving_time": 219,
+        "split": 37,
+        "average_speed": 4.73,
+        "average_grade_adjusted_speed": 4.77,
+        "average_heartrate": 110.1689497716895,
+        "pace_zone": 0
+      },
+      {
+        "distance": 985.1,
+        "elapsed_time": 193,
+        "elevation_difference": 1.2,
+        "moving_time": 193,
+        "split": 38,
+        "average_speed": 5.1,
+        "average_grade_adjusted_speed": 5.13,
+        "average_heartrate": 121.83937823834196,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1006.4,
+        "elapsed_time": 197,
+        "elevation_difference": 0.6,
+        "moving_time": 197,
+        "split": 39,
+        "average_speed": 5.11,
+        "average_grade_adjusted_speed": 5.12,
+        "average_heartrate": 115.67005076142132,
+        "pace_zone": 0
+      },
+      {
+        "distance": 965.9,
+        "elapsed_time": 194,
+        "elevation_difference": 0,
+        "moving_time": 194,
+        "split": 40,
+        "average_speed": 4.98,
+        "average_grade_adjusted_speed": 5,
+        "average_heartrate": 111.14432989690722,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1012.3,
+        "elapsed_time": 195,
+        "elevation_difference": -5,
+        "moving_time": 195,
+        "split": 41,
+        "average_speed": 5.19,
+        "average_grade_adjusted_speed": 5.22,
+        "average_heartrate": 114.82051282051282,
+        "pace_zone": 0
+      },
+      {
+        "distance": 983.4,
+        "elapsed_time": 246,
+        "elevation_difference": -0.4,
+        "moving_time": 216,
+        "split": 42,
+        "average_speed": 4.55,
+        "average_grade_adjusted_speed": 4.61,
+        "average_heartrate": 107.72222222222223,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1019.7,
+        "elapsed_time": 232,
+        "elevation_difference": 1,
+        "moving_time": 232,
+        "split": 43,
+        "average_speed": 4.4,
+        "average_grade_adjusted_speed": 4.45,
+        "average_heartrate": 88.95689655172414,
+        "pace_zone": 0
+      },
+      {
+        "distance": 985.2,
+        "elapsed_time": 270,
+        "elevation_difference": 4,
+        "moving_time": 236,
+        "split": 44,
+        "average_speed": 4.17,
+        "average_grade_adjusted_speed": 4.25,
+        "average_heartrate": 103.08050847457628,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1003.1,
+        "elapsed_time": 199,
+        "elevation_difference": -12,
+        "moving_time": 199,
+        "split": 45,
+        "average_speed": 5.04,
+        "average_grade_adjusted_speed": 4.99,
+        "average_heartrate": 93.42713567839196,
+        "pace_zone": 0
+      },
+      {
+        "distance": 992.7,
+        "elapsed_time": 269,
+        "elevation_difference": -5,
+        "moving_time": 236,
+        "split": 46,
+        "average_speed": 4.21,
+        "average_grade_adjusted_speed": 4.22,
+        "average_heartrate": 103.73245614035088,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1002.9,
+        "elapsed_time": 305,
+        "elevation_difference": -15,
+        "moving_time": 248,
+        "split": 47,
+        "average_speed": 4.04,
+        "average_grade_adjusted_speed": 3.97,
+        "average_heartrate": 85.8,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1013.6,
+        "elapsed_time": 201,
+        "elevation_difference": -4.2,
+        "moving_time": 201,
+        "split": 48,
+        "average_speed": 5.04,
+        "average_grade_adjusted_speed": 5.04,
+        "average_heartrate": 112.06965174129353,
+        "pace_zone": 0
+      },
+      {
+        "distance": 991.2,
+        "elapsed_time": 323,
+        "elevation_difference": -1.6,
+        "moving_time": 242,
+        "split": 49,
+        "average_speed": 4.1,
+        "average_grade_adjusted_speed": 4.1,
+        "average_heartrate": 113.58264462809917,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.4,
+        "elapsed_time": 235,
+        "elevation_difference": -0.6,
+        "moving_time": 235,
+        "split": 50,
+        "average_speed": 4.24,
+        "average_grade_adjusted_speed": 4.26,
+        "average_heartrate": 110.79574468085106,
+        "pace_zone": 0
+      },
+      {
+        "distance": 995.9,
+        "elapsed_time": 718,
+        "elevation_difference": 0,
+        "moving_time": 604,
+        "split": 51,
+        "average_speed": 1.65,
+        "average_grade_adjusted_speed": 1.76,
+        "average_heartrate": 112.30281690140845,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1024.8,
+        "elapsed_time": 574,
+        "elevation_difference": -0.4,
+        "moving_time": 439,
+        "split": 52,
+        "average_speed": 2.33,
+        "average_grade_adjusted_speed": 2.38,
+        "average_heartrate": 107.39351851851852,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1010.4,
+        "elapsed_time": 193,
+        "elevation_difference": -3.2,
+        "moving_time": 193,
+        "split": 53,
+        "average_speed": 5.24,
+        "average_grade_adjusted_speed": 5.22,
+        "average_heartrate": 120.4559585492228,
+        "pace_zone": 0
+      },
+      {
+        "distance": 987.8,
+        "elapsed_time": 205,
+        "elevation_difference": -3.2,
+        "moving_time": 205,
+        "split": 54,
+        "average_speed": 4.82,
+        "average_grade_adjusted_speed": 4.82,
+        "average_heartrate": 118.83414634146341,
+        "pace_zone": 0
+      },
+      {
+        "distance": 984.3,
+        "elapsed_time": 525,
+        "elevation_difference": -0.8,
+        "moving_time": 337,
+        "split": 55,
+        "average_speed": 2.92,
+        "average_grade_adjusted_speed": 2.96,
+        "average_heartrate": 100.86196319018404,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1014.3,
+        "elapsed_time": 408,
+        "elevation_difference": 4.2,
+        "moving_time": 331,
+        "split": 56,
+        "average_speed": 3.06,
+        "average_grade_adjusted_speed": 3.14,
+        "average_heartrate": 102.2125,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.6,
+        "elapsed_time": 215,
+        "elevation_difference": -6.6,
+        "moving_time": 215,
+        "split": 57,
+        "average_speed": 4.66,
+        "average_grade_adjusted_speed": 4.61,
+        "average_heartrate": 107.61395348837209,
+        "pace_zone": 0
+      },
+      {
+        "distance": 981.4,
+        "elapsed_time": 433,
+        "elevation_difference": -8,
+        "moving_time": 224,
+        "split": 58,
+        "average_speed": 4.38,
+        "average_grade_adjusted_speed": 4.37,
+        "average_heartrate": 105.04910714285714,
+        "pace_zone": 0
+      },
+      {
+        "distance": 995.9,
+        "elapsed_time": 236,
+        "elevation_difference": 6,
+        "moving_time": 236,
+        "split": 59,
+        "average_speed": 4.22,
+        "average_grade_adjusted_speed": 4.29,
+        "average_heartrate": 114.20762711864407,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.9,
+        "elapsed_time": 343,
+        "elevation_difference": 21.2,
+        "moving_time": 313,
+        "split": 60,
+        "average_speed": 3.19,
+        "average_grade_adjusted_speed": 3.4,
+        "average_heartrate": 105.28753993610223,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1009.1,
+        "elapsed_time": 288,
+        "elevation_difference": 8.8,
+        "moving_time": 256,
+        "split": 61,
+        "average_speed": 3.94,
+        "average_grade_adjusted_speed": 4.04,
+        "average_heartrate": 122.31640625,
+        "pace_zone": 0
+      },
+      {
+        "distance": 993.9,
+        "elapsed_time": 636,
+        "elevation_difference": -7.2,
+        "moving_time": 563,
+        "split": 62,
+        "average_speed": 1.77,
+        "average_grade_adjusted_speed": 1.86,
+        "average_heartrate": 107.53176043557168,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1005.7,
+        "elapsed_time": 575,
+        "elevation_difference": -3.8,
+        "moving_time": 403,
+        "split": 63,
+        "average_speed": 2.5,
+        "average_grade_adjusted_speed": 2.53,
+        "average_heartrate": 108.32207792207792,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1005.2,
+        "elapsed_time": 226,
+        "elevation_difference": 4.6,
+        "moving_time": 226,
+        "split": 64,
+        "average_speed": 4.45,
+        "average_grade_adjusted_speed": 4.53,
+        "average_heartrate": 91.429203539823,
+        "pace_zone": 0
+      },
+      {
+        "distance": 988.1,
+        "elapsed_time": 245,
+        "elevation_difference": 19,
+        "moving_time": 245,
+        "split": 65,
+        "average_speed": 4.03,
+        "average_grade_adjusted_speed": 4.35,
+        "average_heartrate": 129.94285714285715,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1007.3,
+        "elapsed_time": 263,
+        "elevation_difference": 18.6,
+        "moving_time": 263,
+        "split": 66,
+        "average_speed": 3.83,
+        "average_grade_adjusted_speed": 4.08,
+        "average_heartrate": 142.0722433460076,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.6,
+        "elapsed_time": 212,
+        "elevation_difference": 3,
+        "moving_time": 212,
+        "split": 67,
+        "average_speed": 4.71,
+        "average_grade_adjusted_speed": 4.84,
+        "average_heartrate": 133.8443396226415,
+        "pace_zone": 0
+      },
+      {
+        "distance": 993.7,
+        "elapsed_time": 214,
+        "elevation_difference": -0.8,
+        "moving_time": 214,
+        "split": 68,
+        "average_speed": 4.64,
+        "average_grade_adjusted_speed": 4.71,
+        "average_heartrate": 124.40186915887851,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1028.3,
+        "elapsed_time": 182,
+        "elevation_difference": -15.4,
+        "moving_time": 182,
+        "split": 69,
+        "average_speed": 5.65,
+        "average_grade_adjusted_speed": 5.53,
+        "average_heartrate": 125.82967032967034,
+        "pace_zone": 0
+      },
+      {
+        "distance": 971.8,
+        "elapsed_time": 132,
+        "elevation_difference": -35.6,
+        "moving_time": 132,
+        "split": 70,
+        "average_speed": 7.36,
+        "average_grade_adjusted_speed": 6.85,
+        "average_heartrate": 121.95454545454545,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.7,
+        "elapsed_time": 348,
+        "elevation_difference": -10.8,
+        "moving_time": 225,
+        "split": 71,
+        "average_speed": 4.43,
+        "average_grade_adjusted_speed": 4.49,
+        "average_heartrate": 116.21333333333334,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1022.6,
+        "elapsed_time": 2937,
+        "elevation_difference": 2.8,
+        "moving_time": 743,
+        "split": 72,
+        "average_speed": 1.38,
+        "average_grade_adjusted_speed": 1.44,
+        "average_heartrate": 106.58308157099698,
+        "pace_zone": 0
+      },
+      {
+        "distance": 987.9,
+        "elapsed_time": 390,
+        "elevation_difference": 45,
+        "moving_time": 390,
+        "split": 73,
+        "average_speed": 2.53,
+        "average_grade_adjusted_speed": 2.98,
+        "average_heartrate": 128.35128205128206,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.4,
+        "elapsed_time": 372,
+        "elevation_difference": 17.4,
+        "moving_time": 282,
+        "split": 74,
+        "average_speed": 3.53,
+        "average_grade_adjusted_speed": 3.76,
+        "average_heartrate": 108.12411347517731,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.9,
+        "elapsed_time": 261,
+        "elevation_difference": 0.4,
+        "moving_time": 261,
+        "split": 75,
+        "average_speed": 3.83,
+        "average_grade_adjusted_speed": 3.84,
+        "average_heartrate": 135.36032388663966,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1006.9,
+        "elapsed_time": 259,
+        "elevation_difference": -3,
+        "moving_time": 239,
+        "split": 76,
+        "average_speed": 4.21,
+        "average_grade_adjusted_speed": 4.27,
+        "average_heartrate": 119.8640350877193,
+        "pace_zone": 0
+      },
+      {
+        "distance": 988.8,
+        "elapsed_time": 217,
+        "elevation_difference": -12.8,
+        "moving_time": 217,
+        "split": 77,
+        "average_speed": 4.56,
+        "average_grade_adjusted_speed": 4.45,
+        "average_heartrate": 131.94009216589862,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.1,
+        "elapsed_time": 161,
+        "elevation_difference": -35.4,
+        "moving_time": 161,
+        "split": 78,
+        "average_speed": 6.22,
+        "average_grade_adjusted_speed": 5.85,
+        "average_heartrate": 112.85714285714286,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1002.4,
+        "elapsed_time": 194,
+        "elevation_difference": -10.8,
+        "moving_time": 194,
+        "split": 79,
+        "average_speed": 5.17,
+        "average_grade_adjusted_speed": 5.13,
+        "average_heartrate": 119.97938144329896,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.9,
+        "elapsed_time": 310,
+        "elevation_difference": 24.2,
+        "moving_time": 310,
+        "split": 80,
+        "average_speed": 3.22,
+        "average_grade_adjusted_speed": 3.51,
+        "average_heartrate": 135.8516129032258,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1007,
+        "elapsed_time": 362,
+        "elevation_difference": 22.4,
+        "moving_time": 333,
+        "split": 81,
+        "average_speed": 3.02,
+        "average_grade_adjusted_speed": 3.23,
+        "average_heartrate": 139.95795795795794,
+        "pace_zone": 0
+      },
+      {
+        "distance": 991.3,
+        "elapsed_time": 349,
+        "elevation_difference": 16.2,
+        "moving_time": 328,
+        "split": 82,
+        "average_speed": 3.02,
+        "average_grade_adjusted_speed": 3.17,
+        "average_heartrate": 145.48170731707316,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.3,
+        "elapsed_time": 242,
+        "elevation_difference": -8.8,
+        "moving_time": 242,
+        "split": 83,
+        "average_speed": 4.14,
+        "average_grade_adjusted_speed": 4.08,
+        "average_heartrate": 133.56611570247935,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.7,
+        "elapsed_time": 293,
+        "elevation_difference": -12.4,
+        "moving_time": 271,
+        "split": 84,
+        "average_speed": 3.69,
+        "average_grade_adjusted_speed": 3.62,
+        "average_heartrate": 112.15129151291512,
+        "pace_zone": 0
+      },
+      {
+        "distance": 995.9,
+        "elapsed_time": 276,
+        "elevation_difference": -16.4,
+        "moving_time": 276,
+        "split": 85,
+        "average_speed": 3.61,
+        "average_grade_adjusted_speed": 3.53,
+        "average_heartrate": 116.82329317269077,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1031.3,
+        "elapsed_time": 334,
+        "elevation_difference": -12.4,
+        "moving_time": 255,
+        "split": 86,
+        "average_speed": 4.04,
+        "average_grade_adjusted_speed": 4.01,
+        "average_heartrate": 106.73360655737704,
+        "pace_zone": 0
+      },
+      {
+        "distance": 970,
+        "elapsed_time": 170,
+        "elevation_difference": -16.8,
+        "moving_time": 170,
+        "split": 87,
+        "average_speed": 5.71,
+        "average_grade_adjusted_speed": 5.49,
+        "average_heartrate": 112.94705882352942,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.4,
+        "elapsed_time": 250,
+        "elevation_difference": 7.4,
+        "moving_time": 250,
+        "split": 88,
+        "average_speed": 4,
+        "average_grade_adjusted_speed": 4.17,
+        "average_heartrate": 121.016,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1040.8,
+        "elapsed_time": 309,
+        "elevation_difference": -11.6,
+        "moving_time": 231,
+        "split": 89,
+        "average_speed": 4.51,
+        "average_grade_adjusted_speed": 4.46,
+        "average_heartrate": 120.0995670995671,
+        "pace_zone": 0
+      },
+      {
+        "distance": 964.5,
+        "elapsed_time": 311,
+        "elevation_difference": 3,
+        "moving_time": 232,
+        "split": 90,
+        "average_speed": 4.16,
+        "average_grade_adjusted_speed": 4.19,
+        "average_heartrate": 124.62068965517241,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1016.3,
+        "elapsed_time": 362,
+        "elevation_difference": -3.6,
+        "moving_time": 265,
+        "split": 91,
+        "average_speed": 3.84,
+        "average_grade_adjusted_speed": 3.88,
+        "average_heartrate": 114.90188679245283,
+        "pace_zone": 0
+      },
+      {
+        "distance": 992.8,
+        "elapsed_time": 404,
+        "elevation_difference": 5,
+        "moving_time": 343,
+        "split": 92,
+        "average_speed": 2.89,
+        "average_grade_adjusted_speed": 2.98,
+        "average_heartrate": 106.71385542168674,
+        "pace_zone": 0
+      },
+      {
+        "distance": 225.8,
+        "elapsed_time": 174,
+        "elevation_difference": 1.2,
+        "moving_time": 137,
+        "split": 93,
+        "average_speed": 1.65,
+        "average_grade_adjusted_speed": 1.81,
+        "average_heartrate": 102.55737704918033,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1631.7,
+        "elapsed_time": 526,
+        "elevation_difference": -2.8,
+        "moving_time": 503,
+        "split": 1,
+        "average_speed": 3.24,
+        "average_grade_adjusted_speed": 3.33,
+        "average_heartrate": 102.54581673306772,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1588.4,
+        "elapsed_time": 348,
+        "elevation_difference": -5.2,
+        "moving_time": 348,
+        "split": 2,
+        "average_speed": 4.56,
+        "average_grade_adjusted_speed": 4.57,
+        "average_heartrate": 108.50287356321839,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1615.3,
+        "elapsed_time": 499,
+        "elevation_difference": 41.2,
+        "moving_time": 499,
+        "split": 3,
+        "average_speed": 3.24,
+        "average_grade_adjusted_speed": 3.62,
+        "average_heartrate": 144.55711422845692,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1602.6,
+        "elapsed_time": 409,
+        "elevation_difference": -6.8,
+        "moving_time": 345,
+        "split": 4,
+        "average_speed": 4.65,
+        "average_grade_adjusted_speed": 4.7,
+        "average_heartrate": 123.19420289855073,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1657.7,
+        "elapsed_time": 249,
+        "elevation_difference": -34.2,
+        "moving_time": 249,
+        "split": 5,
+        "average_speed": 6.66,
+        "average_grade_adjusted_speed": 6.4,
+        "average_heartrate": 128.53413654618473,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1569.8,
+        "elapsed_time": 316,
+        "elevation_difference": -2,
+        "moving_time": 316,
+        "split": 6,
+        "average_speed": 4.97,
+        "average_grade_adjusted_speed": 4.99,
+        "average_heartrate": 124.15822784810126,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1603.1,
+        "elapsed_time": 266,
+        "elevation_difference": -4.6,
+        "moving_time": 266,
+        "split": 7,
+        "average_speed": 6.03,
+        "average_grade_adjusted_speed": 6.02,
+        "average_heartrate": 121.42105263157895,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.1,
+        "elapsed_time": 343,
+        "elevation_difference": 8.4,
+        "moving_time": 343,
+        "split": 8,
+        "average_speed": 4.69,
+        "average_grade_adjusted_speed": 4.83,
+        "average_heartrate": 138.02915451895043,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1635.4,
+        "elapsed_time": 401,
+        "elevation_difference": -1.6,
+        "moving_time": 401,
+        "split": 9,
+        "average_speed": 4.08,
+        "average_grade_adjusted_speed": 4.1,
+        "average_heartrate": 114.60847880299252,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1581,
+        "elapsed_time": 490,
+        "elevation_difference": 13.8,
+        "moving_time": 436,
+        "split": 10,
+        "average_speed": 3.63,
+        "average_grade_adjusted_speed": 3.72,
+        "average_heartrate": 108.11954022988506,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1654.2,
+        "elapsed_time": 372,
+        "elevation_difference": 3.2,
+        "moving_time": 372,
+        "split": 11,
+        "average_speed": 4.45,
+        "average_grade_adjusted_speed": 4.48,
+        "average_heartrate": 89.71232876712328,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1584.4,
+        "elapsed_time": 354,
+        "elevation_difference": 5.6,
+        "moving_time": 354,
+        "split": 12,
+        "average_speed": 4.48,
+        "average_grade_adjusted_speed": 4.55,
+        "average_heartrate": 77.42655367231639,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1600.9,
+        "elapsed_time": 361,
+        "elevation_difference": 7,
+        "moving_time": 361,
+        "split": 13,
+        "average_speed": 4.43,
+        "average_grade_adjusted_speed": 4.51,
+        "average_heartrate": 113.74238227146814,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.5,
+        "elapsed_time": 402,
+        "elevation_difference": -3.6,
+        "moving_time": 330,
+        "split": 14,
+        "average_speed": 4.88,
+        "average_grade_adjusted_speed": 4.86,
+        "average_heartrate": 108.7909090909091,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1601.5,
+        "elapsed_time": 329,
+        "elevation_difference": -6.4,
+        "moving_time": 329,
+        "split": 15,
+        "average_speed": 4.87,
+        "average_grade_adjusted_speed": 4.87,
+        "average_heartrate": 115.67781155015197,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1630.8,
+        "elapsed_time": 357,
+        "elevation_difference": -9,
+        "moving_time": 357,
+        "split": 16,
+        "average_speed": 4.57,
+        "average_grade_adjusted_speed": 4.58,
+        "average_heartrate": 118.87114845938375,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1588.7,
+        "elapsed_time": 418,
+        "elevation_difference": 5.2,
+        "moving_time": 377,
+        "split": 17,
+        "average_speed": 4.21,
+        "average_grade_adjusted_speed": 4.3,
+        "average_heartrate": 95.89389920424404,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1604.6,
+        "elapsed_time": 355,
+        "elevation_difference": 6.2,
+        "moving_time": 355,
+        "split": 18,
+        "average_speed": 4.52,
+        "average_grade_adjusted_speed": 4.61,
+        "average_heartrate": 116.84225352112676,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1634.1,
+        "elapsed_time": 362,
+        "elevation_difference": -3.2,
+        "moving_time": 340,
+        "split": 19,
+        "average_speed": 4.81,
+        "average_grade_adjusted_speed": 4.79,
+        "average_heartrate": 118.38235294117646,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1584.8,
+        "elapsed_time": 514,
+        "elevation_difference": -1.4,
+        "moving_time": 370,
+        "split": 20,
+        "average_speed": 4.28,
+        "average_grade_adjusted_speed": 4.38,
+        "average_heartrate": 98.63243243243244,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1611.8,
+        "elapsed_time": 419,
+        "elevation_difference": 10.2,
+        "moving_time": 419,
+        "split": 21,
+        "average_speed": 3.85,
+        "average_grade_adjusted_speed": 3.99,
+        "average_heartrate": 123.19809069212411,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1637.2,
+        "elapsed_time": 368,
+        "elevation_difference": 6.2,
+        "moving_time": 368,
+        "split": 22,
+        "average_speed": 4.45,
+        "average_grade_adjusted_speed": 4.58,
+        "average_heartrate": 117.75204359673025,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.8,
+        "elapsed_time": 607,
+        "elevation_difference": 7.6,
+        "moving_time": 367,
+        "split": 23,
+        "average_speed": 4.39,
+        "average_grade_adjusted_speed": 4.45,
+        "average_heartrate": 104.57493188010899,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1620.8,
+        "elapsed_time": 315,
+        "elevation_difference": 1.8,
+        "moving_time": 315,
+        "split": 24,
+        "average_speed": 5.15,
+        "average_grade_adjusted_speed": 5.17,
+        "average_heartrate": 119.79047619047618,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1573.1,
+        "elapsed_time": 324,
+        "elevation_difference": -5,
+        "moving_time": 324,
+        "split": 25,
+        "average_speed": 4.86,
+        "average_grade_adjusted_speed": 4.85,
+        "average_heartrate": 113.58641975308642,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1602.5,
+        "elapsed_time": 352,
+        "elevation_difference": -2.2,
+        "moving_time": 322,
+        "split": 26,
+        "average_speed": 4.98,
+        "average_grade_adjusted_speed": 5.05,
+        "average_heartrate": 111.61180124223603,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.6,
+        "elapsed_time": 367,
+        "elevation_difference": 4.6,
+        "moving_time": 367,
+        "split": 27,
+        "average_speed": 4.39,
+        "average_grade_adjusted_speed": 4.44,
+        "average_heartrate": 93.23705722070845,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1612.8,
+        "elapsed_time": 381,
+        "elevation_difference": -8.6,
+        "moving_time": 347,
+        "split": 28,
+        "average_speed": 4.65,
+        "average_grade_adjusted_speed": 4.66,
+        "average_heartrate": 97.7492795389049,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1611.7,
+        "elapsed_time": 499,
+        "elevation_difference": -13.6,
+        "moving_time": 409,
+        "split": 29,
+        "average_speed": 3.94,
+        "average_grade_adjusted_speed": 3.93,
+        "average_heartrate": 96.30788804071247,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1615.8,
+        "elapsed_time": 329,
+        "elevation_difference": -14,
+        "moving_time": 329,
+        "split": 30,
+        "average_speed": 4.91,
+        "average_grade_adjusted_speed": 4.88,
+        "average_heartrate": 108.03951367781156,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1622.8,
+        "elapsed_time": 471,
+        "elevation_difference": 1.2,
+        "moving_time": 390,
+        "split": 31,
+        "average_speed": 4.16,
+        "average_grade_adjusted_speed": 4.18,
+        "average_heartrate": 110.57179487179488,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1594.7,
+        "elapsed_time": 1189,
+        "elevation_difference": -2,
+        "moving_time": 940,
+        "split": 32,
+        "average_speed": 1.7,
+        "average_grade_adjusted_speed": 1.78,
+        "average_heartrate": 109.64771460423634,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1644.1,
+        "elapsed_time": 344,
+        "elevation_difference": -3,
+        "moving_time": 344,
+        "split": 33,
+        "average_speed": 4.78,
+        "average_grade_adjusted_speed": 4.78,
+        "average_heartrate": 118.64244186046511,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1567,
+        "elapsed_time": 643,
+        "elevation_difference": -4.2,
+        "moving_time": 455,
+        "split": 34,
+        "average_speed": 3.44,
+        "average_grade_adjusted_speed": 3.46,
+        "average_heartrate": 106.58558558558559,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.7,
+        "elapsed_time": 530,
+        "elevation_difference": 2.4,
+        "moving_time": 453,
+        "split": 35,
+        "average_speed": 3.55,
+        "average_grade_adjusted_speed": 3.6,
+        "average_heartrate": 102.72398190045249,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1606.1,
+        "elapsed_time": 572,
+        "elevation_difference": -11.2,
+        "moving_time": 363,
+        "split": 36,
+        "average_speed": 4.42,
+        "average_grade_adjusted_speed": 4.4,
+        "average_heartrate": 107.14325068870524,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1623.8,
+        "elapsed_time": 463,
+        "elevation_difference": 19,
+        "moving_time": 433,
+        "split": 37,
+        "average_speed": 3.75,
+        "average_grade_adjusted_speed": 3.89,
+        "average_heartrate": 103.00692840646651,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1604,
+        "elapsed_time": 461,
+        "elevation_difference": 15.6,
+        "moving_time": 429,
+        "split": 38,
+        "average_speed": 3.74,
+        "average_grade_adjusted_speed": 3.84,
+        "average_heartrate": 124.8951048951049,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1603.7,
+        "elapsed_time": 1139,
+        "elevation_difference": -1,
+        "moving_time": 894,
+        "split": 39,
+        "average_speed": 1.79,
+        "average_grade_adjusted_speed": 1.89,
+        "average_heartrate": 106.95949074074075,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1612.4,
+        "elapsed_time": 320,
+        "elevation_difference": -10.4,
+        "moving_time": 320,
+        "split": 40,
+        "average_speed": 5.04,
+        "average_grade_adjusted_speed": 5.02,
+        "average_heartrate": 91.484375,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1628.9,
+        "elapsed_time": 443,
+        "elevation_difference": 42.8,
+        "moving_time": 443,
+        "split": 41,
+        "average_speed": 3.68,
+        "average_grade_adjusted_speed": 4.02,
+        "average_heartrate": 143.72911963882618,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1587.4,
+        "elapsed_time": 335,
+        "elevation_difference": -0.6,
+        "moving_time": 335,
+        "split": 42,
+        "average_speed": 4.74,
+        "average_grade_adjusted_speed": 4.83,
+        "average_heartrate": 131.26567164179104,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.4,
+        "elapsed_time": 294,
+        "elevation_difference": -19,
+        "moving_time": 294,
+        "split": 43,
+        "average_speed": 5.47,
+        "average_grade_adjusted_speed": 5.39,
+        "average_heartrate": 124.89795918367346,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.5,
+        "elapsed_time": 245,
+        "elevation_difference": -47.6,
+        "moving_time": 245,
+        "split": 44,
+        "average_speed": 6.57,
+        "average_grade_adjusted_speed": 6.25,
+        "average_heartrate": 116.99183673469388,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.3,
+        "elapsed_time": 3273,
+        "elevation_difference": 21,
+        "moving_time": 956,
+        "split": 45,
+        "average_speed": 1.68,
+        "average_grade_adjusted_speed": 1.81,
+        "average_heartrate": 107.33028571428571,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1607.5,
+        "elapsed_time": 646,
+        "elevation_difference": 52.8,
+        "moving_time": 556,
+        "split": 46,
+        "average_speed": 2.89,
+        "average_grade_adjusted_speed": 3.24,
+        "average_heartrate": 123.80395683453237,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1618.2,
+        "elapsed_time": 407,
+        "elevation_difference": -13.8,
+        "moving_time": 387,
+        "split": 47,
+        "average_speed": 4.18,
+        "average_grade_adjusted_speed": 4.14,
+        "average_heartrate": 128.83701657458565,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1599.1,
+        "elapsed_time": 369,
+        "elevation_difference": -8.2,
+        "moving_time": 369,
+        "split": 48,
+        "average_speed": 4.33,
+        "average_grade_adjusted_speed": 4.33,
+        "average_heartrate": 127.53387533875339,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.8,
+        "elapsed_time": 295,
+        "elevation_difference": -32.6,
+        "moving_time": 295,
+        "split": 49,
+        "average_speed": 5.45,
+        "average_grade_adjusted_speed": 5.3,
+        "average_heartrate": 117.23050847457627,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1631.8,
+        "elapsed_time": 514,
+        "elevation_difference": 23.6,
+        "moving_time": 485,
+        "split": 50,
+        "average_speed": 3.36,
+        "average_grade_adjusted_speed": 3.56,
+        "average_heartrate": 133.30103092783506,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1586,
+        "elapsed_time": 544,
+        "elevation_difference": 32.2,
+        "moving_time": 523,
+        "split": 51,
+        "average_speed": 3.03,
+        "average_grade_adjusted_speed": 3.23,
+        "average_heartrate": 145.9904397705545,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.5,
+        "elapsed_time": 431,
+        "elevation_difference": -18.4,
+        "moving_time": 409,
+        "split": 52,
+        "average_speed": 3.94,
+        "average_grade_adjusted_speed": 3.86,
+        "average_heartrate": 124.26405867970661,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1615.4,
+        "elapsed_time": 547,
+        "elevation_difference": -21,
+        "moving_time": 468,
+        "split": 53,
+        "average_speed": 3.45,
+        "average_grade_adjusted_speed": 3.39,
+        "average_heartrate": 112.73023255813953,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1612.3,
+        "elapsed_time": 302,
+        "elevation_difference": -26,
+        "moving_time": 302,
+        "split": 54,
+        "average_speed": 5.34,
+        "average_grade_adjusted_speed": 5.2,
+        "average_heartrate": 110.73178807947019,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1622.3,
+        "elapsed_time": 470,
+        "elevation_difference": -0.8,
+        "moving_time": 392,
+        "split": 55,
+        "average_speed": 4.14,
+        "average_grade_adjusted_speed": 4.23,
+        "average_heartrate": 119.32397959183673,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1588.6,
+        "elapsed_time": 442,
+        "elevation_difference": -0.6,
+        "moving_time": 363,
+        "split": 56,
+        "average_speed": 4.38,
+        "average_grade_adjusted_speed": 4.4,
+        "average_heartrate": 124.04407713498622,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1627.2,
+        "elapsed_time": 566,
+        "elevation_difference": -3,
+        "moving_time": 469,
+        "split": 57,
+        "average_speed": 3.47,
+        "average_grade_adjusted_speed": 3.51,
+        "average_heartrate": 113.17057569296375,
+        "pace_zone": 0
+      },
+      {
+        "distance": 489.8,
+        "elapsed_time": 345,
+        "elevation_difference": 3.4,
+        "moving_time": 247,
+        "split": 58,
+        "average_speed": 1.98,
+        "average_grade_adjusted_speed": 2.12,
+        "average_heartrate": 98.9366515837104,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 60736438089,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1501,
+        "moving_time": 1501,
+        "start_date": "2026-01-11T23:27:19Z",
+        "start_date_local": "2026-01-12T10:27:19Z",
+        "distance": 5000,
+        "average_speed": 3.33,
+        "max_speed": 8.7,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 364,
+        "total_elevation_gain": 95.2,
+        "device_watts": false,
+        "average_heartrate": 120.1,
+        "max_heartrate": 173
+      },
+      {
+        "id": 60736438095,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 897,
+        "moving_time": 897,
+        "start_date": "2026-01-11T23:52:25Z",
+        "start_date_local": "2026-01-12T10:52:25Z",
+        "distance": 5000,
+        "average_speed": 5.57,
+        "max_speed": 9.1,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 365,
+        "end_index": 585,
+        "total_elevation_gain": 32.8,
+        "device_watts": false,
+        "average_heartrate": 124,
+        "max_heartrate": 148
+      },
+      {
+        "id": 60736438101,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1083,
+        "moving_time": 1083,
+        "start_date": "2026-01-12T00:07:20Z",
+        "start_date_local": "2026-01-12T11:07:20Z",
+        "distance": 5000,
+        "average_speed": 4.62,
+        "max_speed": 8.971,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 586,
+        "end_index": 849,
+        "total_elevation_gain": 45.2,
+        "device_watts": false,
+        "average_heartrate": 123.2,
+        "max_heartrate": 155
+      },
+      {
+        "id": 60736438106,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1248,
+        "moving_time": 1248,
+        "start_date": "2026-01-12T00:25:27Z",
+        "start_date_local": "2026-01-12T11:25:27Z",
+        "distance": 5000,
+        "average_speed": 4.01,
+        "max_speed": 6.527,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 850,
+        "end_index": 1123,
+        "total_elevation_gain": 44.4,
+        "device_watts": false,
+        "average_heartrate": 92.8,
+        "max_heartrate": 126
+      },
+      {
+        "id": 60736438112,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1122,
+        "moving_time": 1122,
+        "start_date": "2026-01-12T00:46:14Z",
+        "start_date_local": "2026-01-12T11:46:14Z",
+        "distance": 5000,
+        "average_speed": 4.46,
+        "max_speed": 6.35,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 1124,
+        "end_index": 1383,
+        "total_elevation_gain": 29,
+        "device_watts": false,
+        "average_heartrate": 114.4,
+        "max_heartrate": 140
+      },
+      {
+        "id": 60736438120,
+        "resource_state": 2,
+        "name": "Lap 6",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1200,
+        "moving_time": 1200,
+        "start_date": "2026-01-12T01:04:58Z",
+        "start_date_local": "2026-01-12T12:04:58Z",
+        "distance": 5000,
+        "average_speed": 4.17,
+        "max_speed": 6.409,
+        "lap_index": 6,
+        "split": 6,
+        "start_index": 1384,
+        "end_index": 1663,
+        "total_elevation_gain": 48,
+        "device_watts": false,
+        "average_heartrate": 110.7,
+        "max_heartrate": 138
+      },
+      {
+        "id": 60736438126,
+        "resource_state": 2,
+        "name": "Lap 7",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1307,
+        "moving_time": 1307,
+        "start_date": "2026-01-12T01:24:55Z",
+        "start_date_local": "2026-01-12T12:24:55Z",
+        "distance": 5000,
+        "average_speed": 3.83,
+        "max_speed": 7.15,
+        "lap_index": 7,
+        "split": 7,
+        "start_index": 1664,
+        "end_index": 2002,
+        "total_elevation_gain": 59.8,
+        "device_watts": false,
+        "average_heartrate": 114.5,
+        "max_heartrate": 142
+      },
+      {
+        "id": 60736438133,
+        "resource_state": 2,
+        "name": "Lap 8",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1288,
+        "moving_time": 1288,
+        "start_date": "2026-01-12T01:46:46Z",
+        "start_date_local": "2026-01-12T12:46:46Z",
+        "distance": 5000,
+        "average_speed": 3.88,
+        "max_speed": 5.81,
+        "lap_index": 8,
+        "split": 8,
+        "start_index": 2003,
+        "end_index": 2236,
+        "total_elevation_gain": 30.4,
+        "device_watts": false,
+        "average_heartrate": 111.4,
+        "max_heartrate": 129
+      },
+      {
+        "id": 60736438139,
+        "resource_state": 2,
+        "name": "Lap 9",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1141,
+        "moving_time": 1141,
+        "start_date": "2026-01-12T02:08:09Z",
+        "start_date_local": "2026-01-12T13:08:09Z",
+        "distance": 5000,
+        "average_speed": 4.38,
+        "max_speed": 6.087,
+        "lap_index": 9,
+        "split": 9,
+        "start_index": 2237,
+        "end_index": 2503,
+        "total_elevation_gain": 30.4,
+        "device_watts": false,
+        "average_heartrate": 101.3,
+        "max_heartrate": 124
+      },
+      {
+        "id": 60736438146,
+        "resource_state": 2,
+        "name": "Lap 10",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1333,
+        "moving_time": 1333,
+        "start_date": "2026-01-12T02:27:14Z",
+        "start_date_local": "2026-01-12T13:27:14Z",
+        "distance": 5000,
+        "average_speed": 3.75,
+        "max_speed": 5.95,
+        "lap_index": 10,
+        "split": 10,
+        "start_index": 2504,
+        "end_index": 2841,
+        "total_elevation_gain": 47.4,
+        "device_watts": false,
+        "average_heartrate": 104.9,
+        "max_heartrate": 130
+      },
+      {
+        "id": 60736438157,
+        "resource_state": 2,
+        "name": "Lap 11",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 2214,
+        "moving_time": 2214,
+        "start_date": "2026-01-12T02:49:27Z",
+        "start_date_local": "2026-01-12T13:49:27Z",
+        "distance": 5000,
+        "average_speed": 2.26,
+        "max_speed": 6.76,
+        "lap_index": 11,
+        "split": 11,
+        "start_index": 2842,
+        "end_index": 3383,
+        "total_elevation_gain": 47,
+        "device_watts": false,
+        "average_heartrate": 110.6,
+        "max_heartrate": 137
+      },
+      {
+        "id": 60736438161,
+        "resource_state": 2,
+        "name": "Lap 12",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1636,
+        "moving_time": 1636,
+        "start_date": "2026-01-12T03:26:21Z",
+        "start_date_local": "2026-01-12T14:26:21Z",
+        "distance": 5000,
+        "average_speed": 3.06,
+        "max_speed": 6.783,
+        "lap_index": 12,
+        "split": 12,
+        "start_index": 3384,
+        "end_index": 3729,
+        "total_elevation_gain": 49,
+        "device_watts": false,
+        "average_heartrate": 106.5,
+        "max_heartrate": 135
+      },
+      {
+        "id": 60736438163,
+        "resource_state": 2,
+        "name": "Lap 13",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1969,
+        "moving_time": 1969,
+        "start_date": "2026-01-12T03:53:36Z",
+        "start_date_local": "2026-01-12T14:53:36Z",
+        "distance": 5000,
+        "average_speed": 2.54,
+        "max_speed": 8.617,
+        "lap_index": 13,
+        "split": 13,
+        "start_index": 3730,
+        "end_index": 4218,
+        "total_elevation_gain": 83.8,
+        "device_watts": false,
+        "average_heartrate": 111.1,
+        "max_heartrate": 166
+      },
+      {
+        "id": 60736438167,
+        "resource_state": 2,
+        "name": "Lap 14",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1003,
+        "moving_time": 1003,
+        "start_date": "2026-01-12T04:26:27Z",
+        "start_date_local": "2026-01-12T15:26:27Z",
+        "distance": 5000,
+        "average_speed": 4.99,
+        "max_speed": 10.38,
+        "lap_index": 14,
+        "split": 14,
+        "start_index": 4219,
+        "end_index": 4508,
+        "total_elevation_gain": 58.6,
+        "device_watts": false,
+        "average_heartrate": 130.9,
+        "max_heartrate": 161
+      },
+      {
+        "id": 60736438171,
+        "resource_state": 2,
+        "name": "Lap 15",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 4307,
+        "moving_time": 4307,
+        "start_date": "2026-01-12T04:43:08Z",
+        "start_date_local": "2026-01-12T15:43:08Z",
+        "distance": 5000,
+        "average_speed": 1.16,
+        "max_speed": 11,
+        "lap_index": 15,
+        "split": 15,
+        "start_index": 4509,
+        "end_index": 5448,
+        "total_elevation_gain": 106,
+        "device_watts": false,
+        "average_heartrate": 116.6,
+        "max_heartrate": 155
+      },
+      {
+        "id": 60736438176,
+        "resource_state": 2,
+        "name": "Lap 16",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1140,
+        "moving_time": 1140,
+        "start_date": "2026-01-12T05:54:55Z",
+        "start_date_local": "2026-01-12T16:54:55Z",
+        "distance": 5000,
+        "average_speed": 4.39,
+        "max_speed": 11.257,
+        "lap_index": 16,
+        "split": 16,
+        "start_index": 5449,
+        "end_index": 5748,
+        "total_elevation_gain": 55,
+        "device_watts": false,
+        "average_heartrate": 125.7,
+        "max_heartrate": 157
+      },
+      {
+        "id": 60736438181,
+        "resource_state": 2,
+        "name": "Lap 17",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1521,
+        "moving_time": 1521,
+        "start_date": "2026-01-12T06:13:58Z",
+        "start_date_local": "2026-01-12T17:13:58Z",
+        "distance": 5000,
+        "average_speed": 3.29,
+        "max_speed": 7.3,
+        "lap_index": 17,
+        "split": 17,
+        "start_index": 5749,
+        "end_index": 6095,
+        "total_elevation_gain": 54.2,
+        "device_watts": false,
+        "average_heartrate": 130.8,
+        "max_heartrate": 162
+      },
+      {
+        "id": 60736438189,
+        "resource_state": 2,
+        "name": "Lap 18",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1373,
+        "moving_time": 1373,
+        "start_date": "2026-01-12T06:39:18Z",
+        "start_date_local": "2026-01-12T17:39:18Z",
+        "distance": 5000,
+        "average_speed": 3.64,
+        "max_speed": 7.98,
+        "lap_index": 18,
+        "split": 18,
+        "start_index": 6096,
+        "end_index": 6417,
+        "total_elevation_gain": 51,
+        "device_watts": false,
+        "average_heartrate": 117.3,
+        "max_heartrate": 147
+      },
+      {
+        "id": 60736438198,
+        "resource_state": 2,
+        "name": "Lap 19",
+        "activity": {
+          "id": 17019663932,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 940,
+        "moving_time": 940,
+        "start_date": "2026-01-12T07:02:13Z",
+        "start_date_local": "2026-01-12T18:02:13Z",
+        "distance": 2241.96,
+        "average_speed": 2.39,
+        "max_speed": 7.55,
+        "lap_index": 19,
+        "split": 19,
+        "start_index": 6418,
+        "end_index": 6605,
+        "total_elevation_gain": 27.6,
+        "device_watts": false,
+        "average_heartrate": 109,
+        "max_heartrate": 133
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://dgtzuqphqg23d.cloudfront.net/F1X7URAk4nD41bF5nFqVpGYVAP9Rno1ZolqiHz3LHjI-1024x768.jpg",
+        "location": [
+          -38.58483,
+          142.82563833333333
+        ],
+        "timestamp": "2026-01-12T02:56:36Z",
+        "caption": ""
+      },
+      {
+        "url": "https://dgtzuqphqg23d.cloudfront.net/CZMjPMhdm8pSG0yq2JBRqo_UFUCjpNS0K9h57gvfRwI-768x1024.jpg",
+        "location": [
+          -38.58345,
+          142.82657
+        ],
+        "timestamp": "2026-01-12T03:02:24Z",
+        "caption": ""
+      },
+      {
+        "url": "https://dgtzuqphqg23d.cloudfront.net/Hqb05erknr6wntICeyO5B4Q-qHRtr1NOk5M6Neipd_k-768x1024.jpg",
+        "location": [
+          -38.59187,
+          142.853775
+        ],
+        "timestamp": "2026-01-12T03:22:09Z",
+        "caption": ""
+      },
+      {
+        "url": "https://dgtzuqphqg23d.cloudfront.net/68YLg2lRH8O6HpxaIxGT9q2smSCQToPAHtniEefLYkw-768x1024.jpg",
+        "location": [
+          -38.61821166666667,
+          142.91465833333334
+        ],
+        "timestamp": "2026-01-12T04:06:22Z",
+        "caption": ""
+      },
+      {
+        "url": "https://dgtzuqphqg23d.cloudfront.net/f_1kkZLBTgb0AfPsv_28fs1At4cNYwTrWyIWXnBEao0-1024x768.jpg",
+        "location": [
+          -38.69329666666667,
+          143.1524805
+        ],
+        "timestamp": "2026-01-12T07:03:02Z",
+        "caption": ""
+      },
+      {
+        "url": "https://dgtzuqphqg23d.cloudfront.net/d02iv3XJUjWMd7PmurMMzB4czudsCMmGRQpla1wGPp0-1024x768.jpg",
+        "location": [
+          -38.691628333333334,
+          143.15524166666665
+        ],
+        "timestamp": "2026-01-12T07:05:02Z",
+        "caption": ""
+      },
+      {
+        "url": "https://dgtzuqphqg23d.cloudfront.net/4608xgVlII_onqP_2XTzCqDCjd4EY7qRBdn-34tNeeo-1024x768.jpg",
+        "location": [
+          -38.69823,
+          143.16084166666667
+        ],
+        "timestamp": "2026-01-12T08:46:31Z",
+        "caption": ""
+      },
+      {
+        "url": "https://dgtzuqphqg23d.cloudfront.net/ANRkv5MNIWmsRmScytERMBNg82c72IA49vMEWR4j0eo-768x1024.jpg",
+        "location": [
+          -38.69939166666666,
+          143.16171383333332
+        ],
+        "timestamp": "2026-01-12T08:50:59Z",
+        "caption": ""
+      }
+    ],
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "embed_token": "d7bcc8652086014694e07b234b1ac202b89cf75f",
+    "available_zones": [],
+    "coordinates": [
+      [
+        -38.38154,
+        142.48231
+      ],
+      [
+        -38.38157,
+        142.48226
+      ],
+      [
+        -38.38169,
+        142.48214
+      ],
+      [
+        -38.3821,
+        142.48182
+      ],
+      [
+        -38.38251,
+        142.48154
+      ],
+      [
+        -38.38259,
+        142.48155
+      ],
+      [
+        -38.38263,
+        142.48158
+      ],
+      [
+        -38.38273,
+        142.48172
+      ],
+      [
+        -38.38351,
+        142.48347
+      ],
+      [
+        -38.38354,
+        142.48361
+      ],
+      [
+        -38.38362,
+        142.4838
+      ],
+      [
+        -38.38374,
+        142.48397
+      ],
+      [
+        -38.3844,
+        142.48543
+      ],
+      [
+        -38.38462,
+        142.48604
+      ],
+      [
+        -38.38479,
+        142.48628
+      ],
+      [
+        -38.38545,
+        142.48772
+      ],
+      [
+        -38.3856,
+        142.4881
+      ],
+      [
+        -38.38564,
+        142.48828
+      ],
+      [
+        -38.38585,
+        142.48866
+      ],
+      [
+        -38.38615,
+        142.48933
+      ],
+      [
+        -38.38635,
+        142.48973
+      ],
+      [
+        -38.38696,
+        142.49114
+      ],
+      [
+        -38.38698,
+        142.49126
+      ],
+      [
+        -38.38694,
+        142.49133
+      ],
+      [
+        -38.38695,
+        142.49135
+      ],
+      [
+        -38.38743,
+        142.49241
+      ],
+      [
+        -38.38747,
+        142.49257
+      ],
+      [
+        -38.38757,
+        142.49269
+      ],
+      [
+        -38.38763,
+        142.49271
+      ],
+      [
+        -38.38767,
+        142.49275
+      ],
+      [
+        -38.38767,
+        142.49284
+      ],
+      [
+        -38.38761,
+        142.49292
+      ],
+      [
+        -38.38753,
+        142.49299
+      ],
+      [
+        -38.38733,
+        142.49311
+      ],
+      [
+        -38.38714,
+        142.49328
+      ],
+      [
+        -38.38699,
+        142.49338
+      ],
+      [
+        -38.38693,
+        142.49344
+      ],
+      [
+        -38.38691,
+        142.49351
+      ],
+      [
+        -38.38692,
+        142.49359
+      ],
+      [
+        -38.38695,
+        142.49371
+      ],
+      [
+        -38.38704,
+        142.49394
+      ],
+      [
+        -38.38719,
+        142.49422
+      ],
+      [
+        -38.38793,
+        142.49594
+      ],
+      [
+        -38.38813,
+        142.49637
+      ],
+      [
+        -38.38827,
+        142.49664
+      ],
+      [
+        -38.38835,
+        142.49687
+      ],
+      [
+        -38.38857,
+        142.49735
+      ],
+      [
+        -38.38868,
+        142.49757
+      ],
+      [
+        -38.38883,
+        142.49777
+      ],
+      [
+        -38.38884,
+        142.49784
+      ],
+      [
+        -38.38865,
+        142.49989
+      ],
+      [
+        -38.38863,
+        142.49999
+      ],
+      [
+        -38.38856,
+        142.50022
+      ],
+      [
+        -38.38855,
+        142.50036
+      ],
+      [
+        -38.3886,
+        142.50045
+      ],
+      [
+        -38.38866,
+        142.50052
+      ],
+      [
+        -38.38897,
+        142.50083
+      ],
+      [
+        -38.38936,
+        142.50126
+      ],
+      [
+        -38.39006,
+        142.50198
+      ],
+      [
+        -38.39021,
+        142.50215
+      ],
+      [
+        -38.39032,
+        142.5023
+      ],
+      [
+        -38.39042,
+        142.50245
+      ],
+      [
+        -38.3909,
+        142.50336
+      ],
+      [
+        -38.39101,
+        142.50361
+      ],
+      [
+        -38.39112,
+        142.50398
+      ],
+      [
+        -38.39149,
+        142.50506
+      ],
+      [
+        -38.39163,
+        142.5056
+      ],
+      [
+        -38.39174,
+        142.50607
+      ],
+      [
+        -38.39189,
+        142.50687
+      ],
+      [
+        -38.39207,
+        142.50757
+      ],
+      [
+        -38.3922,
+        142.50769
+      ],
+      [
+        -38.39238,
+        142.50768
+      ],
+      [
+        -38.39329,
+        142.50749
+      ],
+      [
+        -38.39445,
+        142.50729
+      ],
+      [
+        -38.39479,
+        142.50725
+      ],
+      [
+        -38.39608,
+        142.50701
+      ],
+      [
+        -38.39621,
+        142.50702
+      ],
+      [
+        -38.39631,
+        142.50716
+      ],
+      [
+        -38.39642,
+        142.50787
+      ],
+      [
+        -38.39662,
+        142.50975
+      ],
+      [
+        -38.39702,
+        142.51289
+      ],
+      [
+        -38.39736,
+        142.51617
+      ],
+      [
+        -38.39762,
+        142.51833
+      ],
+      [
+        -38.39766,
+        142.51883
+      ],
+      [
+        -38.39774,
+        142.51937
+      ],
+      [
+        -38.39786,
+        142.52053
+      ],
+      [
+        -38.3979,
+        142.52067
+      ],
+      [
+        -38.39792,
+        142.52095
+      ],
+      [
+        -38.398,
+        142.5216
+      ],
+      [
+        -38.39812,
+        142.52275
+      ],
+      [
+        -38.39812,
+        142.52305
+      ],
+      [
+        -38.39816,
+        142.52345
+      ],
+      [
+        -38.39816,
+        142.52358
+      ],
+      [
+        -38.39824,
+        142.5242
+      ],
+      [
+        -38.39831,
+        142.52462
+      ],
+      [
+        -38.39834,
+        142.52504
+      ],
+      [
+        -38.39836,
+        142.52506
+      ],
+      [
+        -38.39843,
+        142.52568
+      ],
+      [
+        -38.3985,
+        142.52593
+      ],
+      [
+        -38.39866,
+        142.52634
+      ],
+      [
+        -38.40013,
+        142.52978
+      ],
+      [
+        -38.40051,
+        142.53061
+      ],
+      [
+        -38.40225,
+        142.5346
+      ],
+      [
+        -38.40251,
+        142.53526
+      ],
+      [
+        -38.40289,
+        142.5361
+      ],
+      [
+        -38.4052,
+        142.5415
+      ],
+      [
+        -38.40547,
+        142.54225
+      ],
+      [
+        -38.40556,
+        142.54262
+      ],
+      [
+        -38.40582,
+        142.54464
+      ],
+      [
+        -38.40599,
+        142.54574
+      ],
+      [
+        -38.40714,
+        142.55096
+      ],
+      [
+        -38.40728,
+        142.55171
+      ],
+      [
+        -38.40734,
+        142.55215
+      ],
+      [
+        -38.40768,
+        142.55535
+      ],
+      [
+        -38.40771,
+        142.55583
+      ],
+      [
+        -38.40772,
+        142.55646
+      ],
+      [
+        -38.4077,
+        142.55723
+      ],
+      [
+        -38.40751,
+        142.55923
+      ],
+      [
+        -38.40751,
+        142.55974
+      ],
+      [
+        -38.40754,
+        142.56027
+      ],
+      [
+        -38.40773,
+        142.56211
+      ],
+      [
+        -38.40788,
+        142.56339
+      ],
+      [
+        -38.40797,
+        142.5643
+      ],
+      [
+        -38.4081,
+        142.56532
+      ],
+      [
+        -38.4082,
+        142.56593
+      ],
+      [
+        -38.40829,
+        142.56638
+      ],
+      [
+        -38.40844,
+        142.56694
+      ],
+      [
+        -38.40883,
+        142.56821
+      ],
+      [
+        -38.40948,
+        142.57009
+      ],
+      [
+        -38.41112,
+        142.57508
+      ],
+      [
+        -38.41159,
+        142.57644
+      ],
+      [
+        -38.41205,
+        142.57786
+      ],
+      [
+        -38.41224,
+        142.57863
+      ],
+      [
+        -38.41233,
+        142.57904
+      ],
+      [
+        -38.41244,
+        142.57994
+      ],
+      [
+        -38.41247,
+        142.58048
+      ],
+      [
+        -38.41249,
+        142.58104
+      ],
+      [
+        -38.41246,
+        142.5817
+      ],
+      [
+        -38.4124,
+        142.58223
+      ],
+      [
+        -38.41229,
+        142.58297
+      ],
+      [
+        -38.41213,
+        142.58371
+      ],
+      [
+        -38.41198,
+        142.58434
+      ],
+      [
+        -38.41196,
+        142.58437
+      ],
+      [
+        -38.41183,
+        142.58445
+      ],
+      [
+        -38.41125,
+        142.58457
+      ],
+      [
+        -38.41089,
+        142.58462
+      ],
+      [
+        -38.41022,
+        142.58473
+      ],
+      [
+        -38.40862,
+        142.58505
+      ],
+      [
+        -38.40802,
+        142.58514
+      ],
+      [
+        -38.40762,
+        142.58518
+      ],
+      [
+        -38.4054,
+        142.58531
+      ],
+      [
+        -38.40511,
+        142.58534
+      ],
+      [
+        -38.40341,
+        142.58543
+      ],
+      [
+        -38.40298,
+        142.58548
+      ],
+      [
+        -38.40272,
+        142.58553
+      ],
+      [
+        -38.40246,
+        142.5856
+      ],
+      [
+        -38.40203,
+        142.58578
+      ],
+      [
+        -38.40186,
+        142.58587
+      ],
+      [
+        -38.40154,
+        142.58609
+      ],
+      [
+        -38.40106,
+        142.58655
+      ],
+      [
+        -38.4006,
+        142.5871
+      ],
+      [
+        -38.39902,
+        142.58911
+      ],
+      [
+        -38.39879,
+        142.58938
+      ],
+      [
+        -38.39864,
+        142.58961
+      ],
+      [
+        -38.39813,
+        142.59022
+      ],
+      [
+        -38.39792,
+        142.5905
+      ],
+      [
+        -38.39754,
+        142.59087
+      ],
+      [
+        -38.39711,
+        142.59132
+      ],
+      [
+        -38.39675,
+        142.59164
+      ],
+      [
+        -38.39581,
+        142.59237
+      ],
+      [
+        -38.39372,
+        142.59394
+      ],
+      [
+        -38.39264,
+        142.59472
+      ],
+      [
+        -38.39239,
+        142.59489
+      ],
+      [
+        -38.39223,
+        142.59495
+      ],
+      [
+        -38.39209,
+        142.59498
+      ],
+      [
+        -38.39195,
+        142.59498
+      ],
+      [
+        -38.39168,
+        142.59491
+      ],
+      [
+        -38.39035,
+        142.59444
+      ],
+      [
+        -38.39,
+        142.59437
+      ],
+      [
+        -38.38991,
+        142.59443
+      ],
+      [
+        -38.38989,
+        142.59461
+      ],
+      [
+        -38.39006,
+        142.59626
+      ],
+      [
+        -38.39024,
+        142.59772
+      ],
+      [
+        -38.39036,
+        142.59887
+      ],
+      [
+        -38.39045,
+        142.59955
+      ],
+      [
+        -38.39051,
+        142.6002
+      ],
+      [
+        -38.39061,
+        142.60093
+      ],
+      [
+        -38.39071,
+        142.60204
+      ],
+      [
+        -38.391,
+        142.60459
+      ],
+      [
+        -38.39105,
+        142.60519
+      ],
+      [
+        -38.39108,
+        142.6054
+      ],
+      [
+        -38.39102,
+        142.60555
+      ],
+      [
+        -38.39082,
+        142.60563
+      ],
+      [
+        -38.39054,
+        142.60566
+      ],
+      [
+        -38.39041,
+        142.60571
+      ],
+      [
+        -38.3901,
+        142.60574
+      ],
+      [
+        -38.38938,
+        142.60587
+      ],
+      [
+        -38.38923,
+        142.60591
+      ],
+      [
+        -38.38855,
+        142.60597
+      ],
+      [
+        -38.38745,
+        142.60617
+      ],
+      [
+        -38.3872,
+        142.60619
+      ],
+      [
+        -38.38694,
+        142.60615
+      ],
+      [
+        -38.38692,
+        142.60622
+      ],
+      [
+        -38.38698,
+        142.60642
+      ],
+      [
+        -38.38713,
+        142.60745
+      ],
+      [
+        -38.38722,
+        142.60824
+      ],
+      [
+        -38.38756,
+        142.6116
+      ],
+      [
+        -38.38767,
+        142.61239
+      ],
+      [
+        -38.3879,
+        142.61466
+      ],
+      [
+        -38.38803,
+        142.61562
+      ],
+      [
+        -38.38821,
+        142.61755
+      ],
+      [
+        -38.38853,
+        142.62033
+      ],
+      [
+        -38.38854,
+        142.62056
+      ],
+      [
+        -38.38859,
+        142.62099
+      ],
+      [
+        -38.38859,
+        142.62117
+      ],
+      [
+        -38.38866,
+        142.62173
+      ],
+      [
+        -38.38886,
+        142.62363
+      ],
+      [
+        -38.38902,
+        142.625
+      ],
+      [
+        -38.38903,
+        142.62501
+      ],
+      [
+        -38.38899,
+        142.62483
+      ],
+      [
+        -38.38902,
+        142.62484
+      ],
+      [
+        -38.38906,
+        142.62533
+      ],
+      [
+        -38.38916,
+        142.62604
+      ],
+      [
+        -38.38924,
+        142.62676
+      ],
+      [
+        -38.38923,
+        142.62693
+      ],
+      [
+        -38.38918,
+        142.62734
+      ],
+      [
+        -38.38919,
+        142.62742
+      ],
+      [
+        -38.38928,
+        142.62758
+      ],
+      [
+        -38.38931,
+        142.62761
+      ],
+      [
+        -38.3897,
+        142.62789
+      ],
+      [
+        -38.38999,
+        142.62802
+      ],
+      [
+        -38.39017,
+        142.62808
+      ],
+      [
+        -38.39046,
+        142.62815
+      ],
+      [
+        -38.39108,
+        142.62822
+      ],
+      [
+        -38.39223,
+        142.62826
+      ],
+      [
+        -38.39258,
+        142.62826
+      ],
+      [
+        -38.39408,
+        142.62834
+      ],
+      [
+        -38.39455,
+        142.62832
+      ],
+      [
+        -38.39715,
+        142.62776
+      ],
+      [
+        -38.39791,
+        142.62763
+      ],
+      [
+        -38.39837,
+        142.62763
+      ],
+      [
+        -38.39871,
+        142.62767
+      ],
+      [
+        -38.39915,
+        142.62777
+      ],
+      [
+        -38.39963,
+        142.62797
+      ],
+      [
+        -38.40009,
+        142.62824
+      ],
+      [
+        -38.40038,
+        142.62844
+      ],
+      [
+        -38.40088,
+        142.62891
+      ],
+      [
+        -38.40192,
+        142.63013
+      ],
+      [
+        -38.40242,
+        142.63064
+      ],
+      [
+        -38.40314,
+        142.63122
+      ],
+      [
+        -38.40338,
+        142.63139
+      ],
+      [
+        -38.40386,
+        142.6317
+      ],
+      [
+        -38.40421,
+        142.63187
+      ],
+      [
+        -38.40707,
+        142.63341
+      ],
+      [
+        -38.40823,
+        142.63397
+      ],
+      [
+        -38.40883,
+        142.63422
+      ],
+      [
+        -38.40946,
+        142.63446
+      ],
+      [
+        -38.4111,
+        142.63501
+      ],
+      [
+        -38.4145,
+        142.6362
+      ],
+      [
+        -38.41481,
+        142.63632
+      ],
+      [
+        -38.41523,
+        142.63653
+      ],
+      [
+        -38.41595,
+        142.63694
+      ],
+      [
+        -38.4164,
+        142.63727
+      ],
+      [
+        -38.41672,
+        142.63753
+      ],
+      [
+        -38.41707,
+        142.63785
+      ],
+      [
+        -38.41761,
+        142.63841
+      ],
+      [
+        -38.41904,
+        142.64016
+      ],
+      [
+        -38.41949,
+        142.64074
+      ],
+      [
+        -38.42101,
+        142.64257
+      ],
+      [
+        -38.42202,
+        142.64383
+      ],
+      [
+        -38.42246,
+        142.64435
+      ],
+      [
+        -38.4231,
+        142.64515
+      ],
+      [
+        -38.42512,
+        142.64746
+      ],
+      [
+        -38.42744,
+        142.65006
+      ],
+      [
+        -38.42804,
+        142.65077
+      ],
+      [
+        -38.42877,
+        142.65171
+      ],
+      [
+        -38.42906,
+        142.65211
+      ],
+      [
+        -38.42955,
+        142.65287
+      ],
+      [
+        -38.42976,
+        142.65321
+      ],
+      [
+        -38.43023,
+        142.65404
+      ],
+      [
+        -38.4312,
+        142.65592
+      ],
+      [
+        -38.43165,
+        142.65686
+      ],
+      [
+        -38.43224,
+        142.65796
+      ],
+      [
+        -38.4337,
+        142.66084
+      ],
+      [
+        -38.43422,
+        142.66179
+      ],
+      [
+        -38.43425,
+        142.66184
+      ],
+      [
+        -38.43435,
+        142.6619
+      ],
+      [
+        -38.43444,
+        142.6619
+      ],
+      [
+        -38.4347,
+        142.66182
+      ],
+      [
+        -38.43478,
+        142.66182
+      ],
+      [
+        -38.43491,
+        142.66182
+      ],
+      [
+        -38.43509,
+        142.66187
+      ],
+      [
+        -38.43541,
+        142.662
+      ],
+      [
+        -38.43613,
+        142.66237
+      ],
+      [
+        -38.43654,
+        142.66256
+      ],
+      [
+        -38.43688,
+        142.66269
+      ],
+      [
+        -38.43756,
+        142.66288
+      ],
+      [
+        -38.43789,
+        142.66299
+      ],
+      [
+        -38.43909,
+        142.66335
+      ],
+      [
+        -38.43941,
+        142.66349
+      ],
+      [
+        -38.43978,
+        142.66373
+      ],
+      [
+        -38.44016,
+        142.66406
+      ],
+      [
+        -38.4407,
+        142.66455
+      ],
+      [
+        -38.44094,
+        142.66472
+      ],
+      [
+        -38.44125,
+        142.66487
+      ],
+      [
+        -38.44148,
+        142.66494
+      ],
+      [
+        -38.44176,
+        142.66494
+      ],
+      [
+        -38.44223,
+        142.66489
+      ],
+      [
+        -38.44294,
+        142.66477
+      ],
+      [
+        -38.44328,
+        142.66477
+      ],
+      [
+        -38.44353,
+        142.66482
+      ],
+      [
+        -38.44389,
+        142.66501
+      ],
+      [
+        -38.4446,
+        142.66564
+      ],
+      [
+        -38.44504,
+        142.66605
+      ],
+      [
+        -38.44581,
+        142.66671
+      ],
+      [
+        -38.44649,
+        142.66724
+      ],
+      [
+        -38.44773,
+        142.66811
+      ],
+      [
+        -38.44848,
+        142.66865
+      ],
+      [
+        -38.44892,
+        142.66895
+      ],
+      [
+        -38.45026,
+        142.66989
+      ],
+      [
+        -38.45047,
+        142.67006
+      ],
+      [
+        -38.45147,
+        142.67071
+      ],
+      [
+        -38.45162,
+        142.67079
+      ],
+      [
+        -38.45178,
+        142.67089
+      ],
+      [
+        -38.45239,
+        142.67123
+      ],
+      [
+        -38.45257,
+        142.67134
+      ],
+      [
+        -38.45303,
+        142.67154
+      ],
+      [
+        -38.45382,
+        142.67172
+      ],
+      [
+        -38.45543,
+        142.6717
+      ],
+      [
+        -38.45575,
+        142.67174
+      ],
+      [
+        -38.45605,
+        142.67182
+      ],
+      [
+        -38.45637,
+        142.67198
+      ],
+      [
+        -38.45668,
+        142.67222
+      ],
+      [
+        -38.45693,
+        142.67251
+      ],
+      [
+        -38.45738,
+        142.67315
+      ],
+      [
+        -38.45844,
+        142.67477
+      ],
+      [
+        -38.45861,
+        142.67497
+      ],
+      [
+        -38.4613,
+        142.67749
+      ],
+      [
+        -38.46186,
+        142.67809
+      ],
+      [
+        -38.46266,
+        142.67899
+      ],
+      [
+        -38.46295,
+        142.67926
+      ],
+      [
+        -38.4633,
+        142.67948
+      ],
+      [
+        -38.46378,
+        142.67962
+      ],
+      [
+        -38.4654,
+        142.67982
+      ],
+      [
+        -38.46543,
+        142.67985
+      ],
+      [
+        -38.46549,
+        142.67984
+      ],
+      [
+        -38.46596,
+        142.67989
+      ],
+      [
+        -38.46642,
+        142.67997
+      ],
+      [
+        -38.46654,
+        142.68001
+      ],
+      [
+        -38.46682,
+        142.68016
+      ],
+      [
+        -38.4679,
+        142.68089
+      ],
+      [
+        -38.46802,
+        142.68106
+      ],
+      [
+        -38.46806,
+        142.68131
+      ],
+      [
+        -38.46851,
+        142.68515
+      ],
+      [
+        -38.46871,
+        142.68668
+      ],
+      [
+        -38.46898,
+        142.68902
+      ],
+      [
+        -38.46917,
+        142.69082
+      ],
+      [
+        -38.46935,
+        142.6921
+      ],
+      [
+        -38.46942,
+        142.69288
+      ],
+      [
+        -38.46953,
+        142.69374
+      ],
+      [
+        -38.46957,
+        142.69416
+      ],
+      [
+        -38.46971,
+        142.69523
+      ],
+      [
+        -38.47007,
+        142.69849
+      ],
+      [
+        -38.47013,
+        142.6988
+      ],
+      [
+        -38.47024,
+        142.6997
+      ],
+      [
+        -38.47078,
+        142.70429
+      ],
+      [
+        -38.47102,
+        142.70626
+      ],
+      [
+        -38.47126,
+        142.70845
+      ],
+      [
+        -38.4713,
+        142.70865
+      ],
+      [
+        -38.47138,
+        142.70935
+      ],
+      [
+        -38.4715,
+        142.71047
+      ],
+      [
+        -38.47166,
+        142.71157
+      ],
+      [
+        -38.47171,
+        142.71179
+      ],
+      [
+        -38.4718,
+        142.71183
+      ],
+      [
+        -38.47187,
+        142.71181
+      ],
+      [
+        -38.4723,
+        142.71176
+      ],
+      [
+        -38.47339,
+        142.71153
+      ],
+      [
+        -38.47536,
+        142.71117
+      ],
+      [
+        -38.47664,
+        142.71091
+      ],
+      [
+        -38.47698,
+        142.71082
+      ],
+      [
+        -38.47776,
+        142.71067
+      ],
+      [
+        -38.47856,
+        142.71053
+      ],
+      [
+        -38.47968,
+        142.71031
+      ],
+      [
+        -38.48012,
+        142.71024
+      ],
+      [
+        -38.48126,
+        142.71001
+      ],
+      [
+        -38.48168,
+        142.70994
+      ],
+      [
+        -38.48232,
+        142.70981
+      ],
+      [
+        -38.48291,
+        142.70972
+      ],
+      [
+        -38.48377,
+        142.70954
+      ],
+      [
+        -38.48439,
+        142.70943
+      ],
+      [
+        -38.48567,
+        142.70917
+      ],
+      [
+        -38.48625,
+        142.70908
+      ],
+      [
+        -38.48646,
+        142.70903
+      ],
+      [
+        -38.48653,
+        142.70899
+      ],
+      [
+        -38.48703,
+        142.70891
+      ],
+      [
+        -38.48757,
+        142.70879
+      ],
+      [
+        -38.48803,
+        142.70874
+      ],
+      [
+        -38.48875,
+        142.70861
+      ],
+      [
+        -38.48935,
+        142.70854
+      ],
+      [
+        -38.4898,
+        142.70852
+      ],
+      [
+        -38.4904,
+        142.70853
+      ],
+      [
+        -38.49048,
+        142.70856
+      ],
+      [
+        -38.49077,
+        142.70853
+      ],
+      [
+        -38.49259,
+        142.70855
+      ],
+      [
+        -38.49288,
+        142.70861
+      ],
+      [
+        -38.49311,
+        142.70879
+      ],
+      [
+        -38.49324,
+        142.70897
+      ],
+      [
+        -38.49409,
+        142.7104
+      ],
+      [
+        -38.49421,
+        142.71058
+      ],
+      [
+        -38.49435,
+        142.71086
+      ],
+      [
+        -38.49445,
+        142.71115
+      ],
+      [
+        -38.49452,
+        142.71156
+      ],
+      [
+        -38.49462,
+        142.71248
+      ],
+      [
+        -38.49469,
+        142.71293
+      ],
+      [
+        -38.49483,
+        142.71413
+      ],
+      [
+        -38.49486,
+        142.71453
+      ],
+      [
+        -38.49496,
+        142.7152
+      ],
+      [
+        -38.49504,
+        142.716
+      ],
+      [
+        -38.49515,
+        142.71672
+      ],
+      [
+        -38.49526,
+        142.71787
+      ],
+      [
+        -38.49543,
+        142.71915
+      ],
+      [
+        -38.49547,
+        142.71959
+      ],
+      [
+        -38.49548,
+        142.72001
+      ],
+      [
+        -38.49555,
+        142.72031
+      ],
+      [
+        -38.49562,
+        142.72087
+      ],
+      [
+        -38.49567,
+        142.7212
+      ],
+      [
+        -38.4957,
+        142.72163
+      ],
+      [
+        -38.49576,
+        142.72201
+      ],
+      [
+        -38.49594,
+        142.7236
+      ],
+      [
+        -38.49599,
+        142.72396
+      ],
+      [
+        -38.49599,
+        142.72407
+      ],
+      [
+        -38.49624,
+        142.72595
+      ],
+      [
+        -38.49697,
+        142.73229
+      ],
+      [
+        -38.49733,
+        142.73519
+      ],
+      [
+        -38.49759,
+        142.73736
+      ],
+      [
+        -38.49768,
+        142.73827
+      ],
+      [
+        -38.49791,
+        142.74007
+      ],
+      [
+        -38.49796,
+        142.74064
+      ],
+      [
+        -38.49809,
+        142.7415
+      ],
+      [
+        -38.49825,
+        142.74302
+      ],
+      [
+        -38.49832,
+        142.74358
+      ],
+      [
+        -38.49834,
+        142.74392
+      ],
+      [
+        -38.49832,
+        142.74414
+      ],
+      [
+        -38.49826,
+        142.74431
+      ],
+      [
+        -38.49815,
+        142.74455
+      ],
+      [
+        -38.49813,
+        142.74464
+      ],
+      [
+        -38.49817,
+        142.7448
+      ],
+      [
+        -38.49843,
+        142.7453
+      ],
+      [
+        -38.49849,
+        142.74546
+      ],
+      [
+        -38.49858,
+        142.74583
+      ],
+      [
+        -38.4991,
+        142.75017
+      ],
+      [
+        -38.4991,
+        142.75036
+      ],
+      [
+        -38.49911,
+        142.75044
+      ],
+      [
+        -38.4991,
+        142.75044
+      ],
+      [
+        -38.49922,
+        142.75129
+      ],
+      [
+        -38.49949,
+        142.75363
+      ],
+      [
+        -38.50024,
+        142.75974
+      ],
+      [
+        -38.50048,
+        142.76182
+      ],
+      [
+        -38.50136,
+        142.76914
+      ],
+      [
+        -38.50174,
+        142.77229
+      ],
+      [
+        -38.50188,
+        142.77371
+      ],
+      [
+        -38.50284,
+        142.7816
+      ],
+      [
+        -38.50323,
+        142.78499
+      ],
+      [
+        -38.50328,
+        142.78551
+      ],
+      [
+        -38.50335,
+        142.78595
+      ],
+      [
+        -38.50346,
+        142.787
+      ],
+      [
+        -38.50379,
+        142.78959
+      ],
+      [
+        -38.50452,
+        142.79592
+      ],
+      [
+        -38.50466,
+        142.79659
+      ],
+      [
+        -38.50481,
+        142.79703
+      ],
+      [
+        -38.50494,
+        142.79729
+      ],
+      [
+        -38.50513,
+        142.79762
+      ],
+      [
+        -38.50544,
+        142.79801
+      ],
+      [
+        -38.50566,
+        142.79819
+      ],
+      [
+        -38.50579,
+        142.79827
+      ],
+      [
+        -38.50592,
+        142.79835
+      ],
+      [
+        -38.50617,
+        142.79845
+      ],
+      [
+        -38.5064,
+        142.79852
+      ],
+      [
+        -38.5067,
+        142.79859
+      ],
+      [
+        -38.50692,
+        142.7986
+      ],
+      [
+        -38.50716,
+        142.79857
+      ],
+      [
+        -38.50796,
+        142.79845
+      ],
+      [
+        -38.50917,
+        142.7982
+      ],
+      [
+        -38.5118,
+        142.79771
+      ],
+      [
+        -38.51215,
+        142.79763
+      ],
+      [
+        -38.51391,
+        142.79729
+      ],
+      [
+        -38.51497,
+        142.79707
+      ],
+      [
+        -38.51549,
+        142.79699
+      ],
+      [
+        -38.51796,
+        142.7965
+      ],
+      [
+        -38.51874,
+        142.79638
+      ],
+      [
+        -38.51885,
+        142.79638
+      ],
+      [
+        -38.51888,
+        142.79635
+      ],
+      [
+        -38.51903,
+        142.79631
+      ],
+      [
+        -38.51947,
+        142.79623
+      ],
+      [
+        -38.52007,
+        142.7961
+      ],
+      [
+        -38.52181,
+        142.79577
+      ],
+      [
+        -38.52281,
+        142.79557
+      ],
+      [
+        -38.52376,
+        142.7954
+      ],
+      [
+        -38.52482,
+        142.79518
+      ],
+      [
+        -38.52654,
+        142.79486
+      ],
+      [
+        -38.52742,
+        142.79468
+      ],
+      [
+        -38.5284,
+        142.7945
+      ],
+      [
+        -38.52898,
+        142.79438
+      ],
+      [
+        -38.52949,
+        142.79432
+      ],
+      [
+        -38.52969,
+        142.79432
+      ],
+      [
+        -38.53002,
+        142.79438
+      ],
+      [
+        -38.53032,
+        142.79448
+      ],
+      [
+        -38.5305,
+        142.79459
+      ],
+      [
+        -38.53082,
+        142.7948
+      ],
+      [
+        -38.53105,
+        142.795
+      ],
+      [
+        -38.53177,
+        142.79572
+      ],
+      [
+        -38.53472,
+        142.79873
+      ],
+      [
+        -38.53526,
+        142.79932
+      ],
+      [
+        -38.53539,
+        142.79944
+      ],
+      [
+        -38.53722,
+        142.80134
+      ],
+      [
+        -38.53773,
+        142.80191
+      ],
+      [
+        -38.53782,
+        142.80204
+      ],
+      [
+        -38.53805,
+        142.80245
+      ],
+      [
+        -38.53988,
+        142.80611
+      ],
+      [
+        -38.54018,
+        142.80663
+      ],
+      [
+        -38.54079,
+        142.80735
+      ],
+      [
+        -38.54189,
+        142.8086
+      ],
+      [
+        -38.54283,
+        142.80969
+      ],
+      [
+        -38.54312,
+        142.81
+      ],
+      [
+        -38.54346,
+        142.81031
+      ],
+      [
+        -38.54561,
+        142.81223
+      ],
+      [
+        -38.54654,
+        142.81303
+      ],
+      [
+        -38.54919,
+        142.81542
+      ],
+      [
+        -38.55025,
+        142.81633
+      ],
+      [
+        -38.55123,
+        142.81722
+      ],
+      [
+        -38.55143,
+        142.81743
+      ],
+      [
+        -38.55148,
+        142.81752
+      ],
+      [
+        -38.55151,
+        142.81769
+      ],
+      [
+        -38.55153,
+        142.81768
+      ],
+      [
+        -38.55153,
+        142.8177
+      ],
+      [
+        -38.5515,
+        142.81776
+      ],
+      [
+        -38.55149,
+        142.81784
+      ],
+      [
+        -38.55146,
+        142.81789
+      ],
+      [
+        -38.55151,
+        142.81773
+      ],
+      [
+        -38.55155,
+        142.81769
+      ],
+      [
+        -38.55154,
+        142.8177
+      ],
+      [
+        -38.55149,
+        142.81771
+      ],
+      [
+        -38.55149,
+        142.81768
+      ],
+      [
+        -38.55155,
+        142.81762
+      ],
+      [
+        -38.55161,
+        142.81761
+      ],
+      [
+        -38.55315,
+        142.81936
+      ],
+      [
+        -38.5539,
+        142.82017
+      ],
+      [
+        -38.55518,
+        142.82167
+      ],
+      [
+        -38.55686,
+        142.82357
+      ],
+      [
+        -38.55958,
+        142.82669
+      ],
+      [
+        -38.56061,
+        142.82783
+      ],
+      [
+        -38.56118,
+        142.82852
+      ],
+      [
+        -38.5614,
+        142.82885
+      ],
+      [
+        -38.56165,
+        142.82933
+      ],
+      [
+        -38.56189,
+        142.83004
+      ],
+      [
+        -38.562,
+        142.83049
+      ],
+      [
+        -38.56216,
+        142.83139
+      ],
+      [
+        -38.56222,
+        142.83161
+      ],
+      [
+        -38.56228,
+        142.83169
+      ],
+      [
+        -38.56241,
+        142.83172
+      ],
+      [
+        -38.56278,
+        142.83163
+      ],
+      [
+        -38.56349,
+        142.83152
+      ],
+      [
+        -38.56445,
+        142.83132
+      ],
+      [
+        -38.56482,
+        142.83126
+      ],
+      [
+        -38.56661,
+        142.83092
+      ],
+      [
+        -38.5675,
+        142.83073
+      ],
+      [
+        -38.5679,
+        142.83067
+      ],
+      [
+        -38.56799,
+        142.83064
+      ],
+      [
+        -38.56816,
+        142.83062
+      ],
+      [
+        -38.57048,
+        142.83015
+      ],
+      [
+        -38.571,
+        142.83006
+      ],
+      [
+        -38.57248,
+        142.82977
+      ],
+      [
+        -38.57266,
+        142.82975
+      ],
+      [
+        -38.57271,
+        142.82971
+      ],
+      [
+        -38.57293,
+        142.82967
+      ],
+      [
+        -38.57619,
+        142.82906
+      ],
+      [
+        -38.57687,
+        142.8289
+      ],
+      [
+        -38.57782,
+        142.8285
+      ],
+      [
+        -38.57819,
+        142.82841
+      ],
+      [
+        -38.57853,
+        142.82839
+      ],
+      [
+        -38.57881,
+        142.82841
+      ],
+      [
+        -38.57894,
+        142.82843
+      ],
+      [
+        -38.57927,
+        142.82851
+      ],
+      [
+        -38.57957,
+        142.82863
+      ],
+      [
+        -38.58029,
+        142.82898
+      ],
+      [
+        -38.58066,
+        142.82909
+      ],
+      [
+        -38.58087,
+        142.82912
+      ],
+      [
+        -38.58122,
+        142.82916
+      ],
+      [
+        -38.58182,
+        142.82917
+      ],
+      [
+        -38.58245,
+        142.82913
+      ],
+      [
+        -38.58292,
+        142.82902
+      ],
+      [
+        -38.58365,
+        142.82879
+      ],
+      [
+        -38.58402,
+        142.82875
+      ],
+      [
+        -38.58454,
+        142.82876
+      ],
+      [
+        -38.58465,
+        142.82864
+      ],
+      [
+        -38.58467,
+        142.82856
+      ],
+      [
+        -38.58478,
+        142.82783
+      ],
+      [
+        -38.58483,
+        142.82767
+      ],
+      [
+        -38.58501,
+        142.82748
+      ],
+      [
+        -38.58497,
+        142.82745
+      ],
+      [
+        -38.5849,
+        142.82745
+      ],
+      [
+        -38.58485,
+        142.82747
+      ],
+      [
+        -38.58486,
+        142.82745
+      ],
+      [
+        -38.58485,
+        142.82746
+      ],
+      [
+        -38.5849,
+        142.82718
+      ],
+      [
+        -38.58491,
+        142.82702
+      ],
+      [
+        -38.58488,
+        142.82695
+      ],
+      [
+        -38.58489,
+        142.82686
+      ],
+      [
+        -38.58496,
+        142.82659
+      ],
+      [
+        -38.58492,
+        142.82634
+      ],
+      [
+        -38.58492,
+        142.82614
+      ],
+      [
+        -38.585,
+        142.82583
+      ],
+      [
+        -38.58513,
+        142.82567
+      ],
+      [
+        -38.58515,
+        142.82562
+      ],
+      [
+        -38.58515,
+        142.82564
+      ],
+      [
+        -38.58517,
+        142.82564
+      ],
+      [
+        -38.58515,
+        142.82564
+      ],
+      [
+        -38.58497,
+        142.82586
+      ],
+      [
+        -38.58489,
+        142.82567
+      ],
+      [
+        -38.58486,
+        142.82564
+      ],
+      [
+        -38.58483,
+        142.82563
+      ],
+      [
+        -38.58485,
+        142.82562
+      ],
+      [
+        -38.58498,
+        142.82588
+      ],
+      [
+        -38.58499,
+        142.82588
+      ],
+      [
+        -38.58504,
+        142.82578
+      ],
+      [
+        -38.58512,
+        142.82568
+      ],
+      [
+        -38.58515,
+        142.82567
+      ],
+      [
+        -38.58515,
+        142.82561
+      ],
+      [
+        -38.58512,
+        142.82568
+      ],
+      [
+        -38.58504,
+        142.82575
+      ],
+      [
+        -38.58498,
+        142.82586
+      ],
+      [
+        -38.58492,
+        142.82613
+      ],
+      [
+        -38.58491,
+        142.8263
+      ],
+      [
+        -38.58495,
+        142.82653
+      ],
+      [
+        -38.58488,
+        142.82692
+      ],
+      [
+        -38.58481,
+        142.82701
+      ],
+      [
+        -38.5847,
+        142.82707
+      ],
+      [
+        -38.58466,
+        142.82712
+      ],
+      [
+        -38.58461,
+        142.82726
+      ],
+      [
+        -38.58457,
+        142.82731
+      ],
+      [
+        -38.58452,
+        142.8273
+      ],
+      [
+        -38.58429,
+        142.82715
+      ],
+      [
+        -38.58417,
+        142.82709
+      ],
+      [
+        -38.584,
+        142.82713
+      ],
+      [
+        -38.58387,
+        142.82707
+      ],
+      [
+        -38.58377,
+        142.82707
+      ],
+      [
+        -38.58368,
+        142.82709
+      ],
+      [
+        -38.5836,
+        142.82714
+      ],
+      [
+        -38.58355,
+        142.82714
+      ],
+      [
+        -38.58348,
+        142.82703
+      ],
+      [
+        -38.58346,
+        142.82683
+      ],
+      [
+        -38.58346,
+        142.82667
+      ],
+      [
+        -38.58348,
+        142.82656
+      ],
+      [
+        -38.58346,
+        142.82656
+      ],
+      [
+        -38.58348,
+        142.82705
+      ],
+      [
+        -38.58356,
+        142.82716
+      ],
+      [
+        -38.58373,
+        142.82708
+      ],
+      [
+        -38.58388,
+        142.82708
+      ],
+      [
+        -38.58395,
+        142.82713
+      ],
+      [
+        -38.58403,
+        142.82713
+      ],
+      [
+        -38.58417,
+        142.8271
+      ],
+      [
+        -38.58429,
+        142.82716
+      ],
+      [
+        -38.58448,
+        142.8273
+      ],
+      [
+        -38.58455,
+        142.82732
+      ],
+      [
+        -38.58464,
+        142.82731
+      ],
+      [
+        -38.58472,
+        142.82723
+      ],
+      [
+        -38.58479,
+        142.82721
+      ],
+      [
+        -38.58484,
+        142.82732
+      ],
+      [
+        -38.58486,
+        142.82732
+      ],
+      [
+        -38.5849,
+        142.82737
+      ],
+      [
+        -38.58491,
+        142.82743
+      ],
+      [
+        -38.58485,
+        142.82746
+      ],
+      [
+        -38.58486,
+        142.82746
+      ],
+      [
+        -38.58485,
+        142.82746
+      ],
+      [
+        -38.5849,
+        142.82745
+      ],
+      [
+        -38.58492,
+        142.82743
+      ],
+      [
+        -38.58493,
+        142.82734
+      ],
+      [
+        -38.58486,
+        142.82712
+      ],
+      [
+        -38.58474,
+        142.82705
+      ],
+      [
+        -38.58465,
+        142.8271
+      ],
+      [
+        -38.58462,
+        142.8272
+      ],
+      [
+        -38.58473,
+        142.82763
+      ],
+      [
+        -38.58474,
+        142.82789
+      ],
+      [
+        -38.58464,
+        142.82869
+      ],
+      [
+        -38.58473,
+        142.82884
+      ],
+      [
+        -38.5851,
+        142.82897
+      ],
+      [
+        -38.58529,
+        142.82906
+      ],
+      [
+        -38.58553,
+        142.82922
+      ],
+      [
+        -38.58578,
+        142.82943
+      ],
+      [
+        -38.58601,
+        142.82969
+      ],
+      [
+        -38.58621,
+        142.82994
+      ],
+      [
+        -38.58632,
+        142.83011
+      ],
+      [
+        -38.58658,
+        142.83063
+      ],
+      [
+        -38.58671,
+        142.831
+      ],
+      [
+        -38.5868,
+        142.83137
+      ],
+      [
+        -38.58687,
+        142.83189
+      ],
+      [
+        -38.58689,
+        142.83225
+      ],
+      [
+        -38.58688,
+        142.83239
+      ],
+      [
+        -38.58672,
+        142.83359
+      ],
+      [
+        -38.58603,
+        142.83784
+      ],
+      [
+        -38.58598,
+        142.83859
+      ],
+      [
+        -38.58599,
+        142.83913
+      ],
+      [
+        -38.58603,
+        142.83952
+      ],
+      [
+        -38.58616,
+        142.84024
+      ],
+      [
+        -38.58628,
+        142.84069
+      ],
+      [
+        -38.58646,
+        142.84119
+      ],
+      [
+        -38.5867,
+        142.84169
+      ],
+      [
+        -38.5885,
+        142.84494
+      ],
+      [
+        -38.58916,
+        142.84617
+      ],
+      [
+        -38.58938,
+        142.84664
+      ],
+      [
+        -38.58956,
+        142.84712
+      ],
+      [
+        -38.58973,
+        142.84766
+      ],
+      [
+        -38.58986,
+        142.84824
+      ],
+      [
+        -38.58997,
+        142.84899
+      ],
+      [
+        -38.59005,
+        142.85011
+      ],
+      [
+        -38.59013,
+        142.85068
+      ],
+      [
+        -38.59022,
+        142.85107
+      ],
+      [
+        -38.59032,
+        142.85143
+      ],
+      [
+        -38.5905,
+        142.85192
+      ],
+      [
+        -38.5908,
+        142.85255
+      ],
+      [
+        -38.59097,
+        142.85284
+      ],
+      [
+        -38.59121,
+        142.85317
+      ],
+      [
+        -38.5915,
+        142.85352
+      ],
+      [
+        -38.59191,
+        142.85393
+      ],
+      [
+        -38.59194,
+        142.85394
+      ],
+      [
+        -38.59197,
+        142.8539
+      ],
+      [
+        -38.59194,
+        142.85377
+      ],
+      [
+        -38.59196,
+        142.85362
+      ],
+      [
+        -38.592,
+        142.85353
+      ],
+      [
+        -38.59204,
+        142.85351
+      ],
+      [
+        -38.59209,
+        142.85352
+      ],
+      [
+        -38.5921,
+        142.85354
+      ],
+      [
+        -38.59206,
+        142.85348
+      ],
+      [
+        -38.59208,
+        142.85343
+      ],
+      [
+        -38.59213,
+        142.85344
+      ],
+      [
+        -38.59216,
+        142.85342
+      ],
+      [
+        -38.59217,
+        142.85331
+      ],
+      [
+        -38.59218,
+        142.85334
+      ],
+      [
+        -38.59211,
+        142.85354
+      ],
+      [
+        -38.59209,
+        142.85355
+      ],
+      [
+        -38.59208,
+        142.85349
+      ],
+      [
+        -38.59199,
+        142.85355
+      ],
+      [
+        -38.59192,
+        142.85365
+      ],
+      [
+        -38.59187,
+        142.85378
+      ],
+      [
+        -38.59188,
+        142.85387
+      ],
+      [
+        -38.59209,
+        142.85405
+      ],
+      [
+        -38.59239,
+        142.85425
+      ],
+      [
+        -38.593,
+        142.85459
+      ],
+      [
+        -38.59338,
+        142.85486
+      ],
+      [
+        -38.59371,
+        142.85515
+      ],
+      [
+        -38.59409,
+        142.85562
+      ],
+      [
+        -38.5943,
+        142.85595
+      ],
+      [
+        -38.59448,
+        142.85628
+      ],
+      [
+        -38.59465,
+        142.8567
+      ],
+      [
+        -38.5948,
+        142.85718
+      ],
+      [
+        -38.59497,
+        142.85782
+      ],
+      [
+        -38.59516,
+        142.85838
+      ],
+      [
+        -38.59535,
+        142.85879
+      ],
+      [
+        -38.59562,
+        142.85924
+      ],
+      [
+        -38.59601,
+        142.85973
+      ],
+      [
+        -38.59642,
+        142.86004
+      ],
+      [
+        -38.59664,
+        142.86018
+      ],
+      [
+        -38.59705,
+        142.86038
+      ],
+      [
+        -38.59738,
+        142.86048
+      ],
+      [
+        -38.59797,
+        142.86056
+      ],
+      [
+        -38.59848,
+        142.8605
+      ],
+      [
+        -38.59867,
+        142.86045
+      ],
+      [
+        -38.59968,
+        142.86012
+      ],
+      [
+        -38.59975,
+        142.86006
+      ],
+      [
+        -38.59979,
+        142.85976
+      ],
+      [
+        -38.59977,
+        142.8597
+      ],
+      [
+        -38.59969,
+        142.85966
+      ],
+      [
+        -38.59961,
+        142.85968
+      ],
+      [
+        -38.59955,
+        142.85967
+      ],
+      [
+        -38.59949,
+        142.85955
+      ],
+      [
+        -38.59952,
+        142.85962
+      ],
+      [
+        -38.59957,
+        142.85966
+      ],
+      [
+        -38.59962,
+        142.85963
+      ],
+      [
+        -38.5997,
+        142.85964
+      ],
+      [
+        -38.59975,
+        142.85967
+      ],
+      [
+        -38.59978,
+        142.85973
+      ],
+      [
+        -38.59977,
+        142.85968
+      ],
+      [
+        -38.59971,
+        142.85965
+      ],
+      [
+        -38.59963,
+        142.85968
+      ],
+      [
+        -38.59957,
+        142.8598
+      ],
+      [
+        -38.59962,
+        142.85989
+      ],
+      [
+        -38.59973,
+        142.85998
+      ],
+      [
+        -38.59977,
+        142.86004
+      ],
+      [
+        -38.59997,
+        142.86002
+      ],
+      [
+        -38.60035,
+        142.85993
+      ],
+      [
+        -38.60063,
+        142.85991
+      ],
+      [
+        -38.60083,
+        142.85991
+      ],
+      [
+        -38.60118,
+        142.85995
+      ],
+      [
+        -38.60151,
+        142.86005
+      ],
+      [
+        -38.60185,
+        142.86023
+      ],
+      [
+        -38.6022,
+        142.86049
+      ],
+      [
+        -38.60243,
+        142.8607
+      ],
+      [
+        -38.60266,
+        142.86096
+      ],
+      [
+        -38.60289,
+        142.86131
+      ],
+      [
+        -38.60304,
+        142.8616
+      ],
+      [
+        -38.60312,
+        142.8618
+      ],
+      [
+        -38.60327,
+        142.86225
+      ],
+      [
+        -38.60336,
+        142.86265
+      ],
+      [
+        -38.60341,
+        142.86315
+      ],
+      [
+        -38.60341,
+        142.86357
+      ],
+      [
+        -38.6033,
+        142.86448
+      ],
+      [
+        -38.60298,
+        142.8664
+      ],
+      [
+        -38.6029,
+        142.86705
+      ],
+      [
+        -38.60289,
+        142.86781
+      ],
+      [
+        -38.60294,
+        142.86842
+      ],
+      [
+        -38.60302,
+        142.86893
+      ],
+      [
+        -38.60314,
+        142.86941
+      ],
+      [
+        -38.60332,
+        142.86993
+      ],
+      [
+        -38.60384,
+        142.87138
+      ],
+      [
+        -38.604,
+        142.87186
+      ],
+      [
+        -38.60422,
+        142.87289
+      ],
+      [
+        -38.60443,
+        142.87417
+      ],
+      [
+        -38.60463,
+        142.87582
+      ],
+      [
+        -38.60491,
+        142.8784
+      ],
+      [
+        -38.60494,
+        142.87905
+      ],
+      [
+        -38.60498,
+        142.87922
+      ],
+      [
+        -38.60498,
+        142.87933
+      ],
+      [
+        -38.60502,
+        142.87957
+      ],
+      [
+        -38.6052,
+        142.88023
+      ],
+      [
+        -38.60634,
+        142.88392
+      ],
+      [
+        -38.60657,
+        142.8851
+      ],
+      [
+        -38.60671,
+        142.8865
+      ],
+      [
+        -38.60723,
+        142.89445
+      ],
+      [
+        -38.60728,
+        142.895
+      ],
+      [
+        -38.60736,
+        142.89555
+      ],
+      [
+        -38.60749,
+        142.8962
+      ],
+      [
+        -38.60757,
+        142.89653
+      ],
+      [
+        -38.60774,
+        142.8971
+      ],
+      [
+        -38.60845,
+        142.8991
+      ],
+      [
+        -38.60874,
+        142.89998
+      ],
+      [
+        -38.60877,
+        142.90012
+      ],
+      [
+        -38.60914,
+        142.90117
+      ],
+      [
+        -38.60935,
+        142.90185
+      ],
+      [
+        -38.60945,
+        142.9021
+      ],
+      [
+        -38.60994,
+        142.90358
+      ],
+      [
+        -38.61005,
+        142.90383
+      ],
+      [
+        -38.61069,
+        142.90581
+      ],
+      [
+        -38.61111,
+        142.90701
+      ],
+      [
+        -38.61115,
+        142.90706
+      ],
+      [
+        -38.61214,
+        142.9093
+      ],
+      [
+        -38.61316,
+        142.91167
+      ],
+      [
+        -38.61467,
+        142.91594
+      ],
+      [
+        -38.61491,
+        142.91667
+      ],
+      [
+        -38.61512,
+        142.91722
+      ],
+      [
+        -38.61523,
+        142.91738
+      ],
+      [
+        -38.61541,
+        142.91737
+      ],
+      [
+        -38.61602,
+        142.917
+      ],
+      [
+        -38.61612,
+        142.91696
+      ],
+      [
+        -38.61639,
+        142.9168
+      ],
+      [
+        -38.61658,
+        142.91664
+      ],
+      [
+        -38.61662,
+        142.91656
+      ],
+      [
+        -38.61663,
+        142.91648
+      ],
+      [
+        -38.61658,
+        142.91629
+      ],
+      [
+        -38.61646,
+        142.91598
+      ],
+      [
+        -38.61632,
+        142.91585
+      ],
+      [
+        -38.61585,
+        142.91577
+      ],
+      [
+        -38.6158,
+        142.91579
+      ],
+      [
+        -38.61577,
+        142.91585
+      ],
+      [
+        -38.61577,
+        142.91588
+      ],
+      [
+        -38.61581,
+        142.91592
+      ],
+      [
+        -38.61588,
+        142.91594
+      ],
+      [
+        -38.61589,
+        142.91587
+      ],
+      [
+        -38.61591,
+        142.91593
+      ],
+      [
+        -38.61605,
+        142.91597
+      ],
+      [
+        -38.61613,
+        142.91598
+      ],
+      [
+        -38.61635,
+        142.91608
+      ],
+      [
+        -38.61652,
+        142.91611
+      ],
+      [
+        -38.61667,
+        142.91609
+      ],
+      [
+        -38.61676,
+        142.91611
+      ],
+      [
+        -38.61683,
+        142.91614
+      ],
+      [
+        -38.61696,
+        142.91625
+      ],
+      [
+        -38.61711,
+        142.91629
+      ],
+      [
+        -38.61719,
+        142.9163
+      ],
+      [
+        -38.61734,
+        142.91629
+      ],
+      [
+        -38.61749,
+        142.91622
+      ],
+      [
+        -38.6176,
+        142.91617
+      ],
+      [
+        -38.61779,
+        142.916
+      ],
+      [
+        -38.61796,
+        142.9159
+      ],
+      [
+        -38.61823,
+        142.91581
+      ],
+      [
+        -38.61829,
+        142.91572
+      ],
+      [
+        -38.61833,
+        142.91561
+      ],
+      [
+        -38.61836,
+        142.91541
+      ],
+      [
+        -38.61823,
+        142.91473
+      ],
+      [
+        -38.61817,
+        142.91458
+      ],
+      [
+        -38.61825,
+        142.91438
+      ],
+      [
+        -38.6183,
+        142.91442
+      ],
+      [
+        -38.6183,
+        142.91441
+      ],
+      [
+        -38.61827,
+        142.91439
+      ],
+      [
+        -38.61825,
+        142.9144
+      ],
+      [
+        -38.61817,
+        142.91453
+      ],
+      [
+        -38.61816,
+        142.9146
+      ],
+      [
+        -38.61826,
+        142.91492
+      ],
+      [
+        -38.61829,
+        142.91519
+      ],
+      [
+        -38.61834,
+        142.9154
+      ],
+      [
+        -38.61832,
+        142.9156
+      ],
+      [
+        -38.61826,
+        142.91573
+      ],
+      [
+        -38.61821,
+        142.91579
+      ],
+      [
+        -38.61805,
+        142.91584
+      ],
+      [
+        -38.61788,
+        142.91593
+      ],
+      [
+        -38.6175,
+        142.9162
+      ],
+      [
+        -38.61735,
+        142.91627
+      ],
+      [
+        -38.61719,
+        142.91629
+      ],
+      [
+        -38.617,
+        142.91625
+      ],
+      [
+        -38.61684,
+        142.91614
+      ],
+      [
+        -38.61668,
+        142.91608
+      ],
+      [
+        -38.61662,
+        142.91607
+      ],
+      [
+        -38.61649,
+        142.91608
+      ],
+      [
+        -38.6164,
+        142.91605
+      ],
+      [
+        -38.61611,
+        142.916
+      ],
+      [
+        -38.61604,
+        142.91596
+      ],
+      [
+        -38.61597,
+        142.91596
+      ],
+      [
+        -38.61587,
+        142.91592
+      ],
+      [
+        -38.61588,
+        142.91593
+      ],
+      [
+        -38.61592,
+        142.91589
+      ],
+      [
+        -38.61591,
+        142.91587
+      ],
+      [
+        -38.61591,
+        142.91593
+      ],
+      [
+        -38.61586,
+        142.91592
+      ],
+      [
+        -38.61586,
+        142.91593
+      ],
+      [
+        -38.61589,
+        142.91586
+      ],
+      [
+        -38.6159,
+        142.91594
+      ],
+      [
+        -38.61599,
+        142.91597
+      ],
+      [
+        -38.61627,
+        142.91603
+      ],
+      [
+        -38.61644,
+        142.91611
+      ],
+      [
+        -38.61654,
+        142.91629
+      ],
+      [
+        -38.61659,
+        142.91647
+      ],
+      [
+        -38.61656,
+        142.91662
+      ],
+      [
+        -38.61646,
+        142.91671
+      ],
+      [
+        -38.61618,
+        142.91689
+      ],
+      [
+        -38.61526,
+        142.91741
+      ],
+      [
+        -38.61518,
+        142.91749
+      ],
+      [
+        -38.61518,
+        142.91753
+      ],
+      [
+        -38.61528,
+        142.91804
+      ],
+      [
+        -38.61534,
+        142.91821
+      ],
+      [
+        -38.61569,
+        142.91963
+      ],
+      [
+        -38.6158,
+        142.92001
+      ],
+      [
+        -38.61604,
+        142.92073
+      ],
+      [
+        -38.61679,
+        142.92243
+      ],
+      [
+        -38.61713,
+        142.92312
+      ],
+      [
+        -38.61774,
+        142.92415
+      ],
+      [
+        -38.6186,
+        142.92554
+      ],
+      [
+        -38.61888,
+        142.92606
+      ],
+      [
+        -38.61909,
+        142.92651
+      ],
+      [
+        -38.62001,
+        142.92861
+      ],
+      [
+        -38.62011,
+        142.92887
+      ],
+      [
+        -38.62036,
+        142.9294
+      ],
+      [
+        -38.62099,
+        142.93088
+      ],
+      [
+        -38.62122,
+        142.93149
+      ],
+      [
+        -38.6214,
+        142.93205
+      ],
+      [
+        -38.62149,
+        142.9324
+      ],
+      [
+        -38.62156,
+        142.93284
+      ],
+      [
+        -38.62162,
+        142.93338
+      ],
+      [
+        -38.62165,
+        142.93389
+      ],
+      [
+        -38.62169,
+        142.93706
+      ],
+      [
+        -38.62172,
+        142.94121
+      ],
+      [
+        -38.62171,
+        142.94168
+      ],
+      [
+        -38.62166,
+        142.94215
+      ],
+      [
+        -38.62161,
+        142.94247
+      ],
+      [
+        -38.62146,
+        142.94313
+      ],
+      [
+        -38.62138,
+        142.94346
+      ],
+      [
+        -38.62118,
+        142.94408
+      ],
+      [
+        -38.62106,
+        142.94443
+      ],
+      [
+        -38.62089,
+        142.94481
+      ],
+      [
+        -38.6207,
+        142.94519
+      ],
+      [
+        -38.61983,
+        142.94653
+      ],
+      [
+        -38.61939,
+        142.94723
+      ],
+      [
+        -38.61868,
+        142.94854
+      ],
+      [
+        -38.61829,
+        142.94937
+      ],
+      [
+        -38.61614,
+        142.95414
+      ],
+      [
+        -38.61591,
+        142.95471
+      ],
+      [
+        -38.61572,
+        142.95539
+      ],
+      [
+        -38.61561,
+        142.95634
+      ],
+      [
+        -38.61552,
+        142.95777
+      ],
+      [
+        -38.61541,
+        142.95894
+      ],
+      [
+        -38.61538,
+        142.95947
+      ],
+      [
+        -38.61539,
+        142.95992
+      ],
+      [
+        -38.61542,
+        142.96017
+      ],
+      [
+        -38.61627,
+        142.96512
+      ],
+      [
+        -38.61641,
+        142.96604
+      ],
+      [
+        -38.6169,
+        142.9689
+      ],
+      [
+        -38.61736,
+        142.97167
+      ],
+      [
+        -38.6178,
+        142.97418
+      ],
+      [
+        -38.61807,
+        142.97582
+      ],
+      [
+        -38.61813,
+        142.97634
+      ],
+      [
+        -38.61812,
+        142.97663
+      ],
+      [
+        -38.61803,
+        142.97712
+      ],
+      [
+        -38.61784,
+        142.97801
+      ],
+      [
+        -38.61771,
+        142.9785
+      ],
+      [
+        -38.61762,
+        142.97872
+      ],
+      [
+        -38.61754,
+        142.97886
+      ],
+      [
+        -38.61707,
+        142.97942
+      ],
+      [
+        -38.6168,
+        142.97987
+      ],
+      [
+        -38.61673,
+        142.98006
+      ],
+      [
+        -38.6166,
+        142.98052
+      ],
+      [
+        -38.61653,
+        142.98101
+      ],
+      [
+        -38.61654,
+        142.98163
+      ],
+      [
+        -38.61664,
+        142.98373
+      ],
+      [
+        -38.61683,
+        142.98923
+      ],
+      [
+        -38.61689,
+        142.99042
+      ],
+      [
+        -38.61695,
+        142.99216
+      ],
+      [
+        -38.61691,
+        142.99266
+      ],
+      [
+        -38.61683,
+        142.99316
+      ],
+      [
+        -38.61673,
+        142.99365
+      ],
+      [
+        -38.61666,
+        142.99384
+      ],
+      [
+        -38.61649,
+        142.99407
+      ],
+      [
+        -38.61632,
+        142.99422
+      ],
+      [
+        -38.61618,
+        142.99428
+      ],
+      [
+        -38.61582,
+        142.99436
+      ],
+      [
+        -38.61561,
+        142.99445
+      ],
+      [
+        -38.61548,
+        142.99454
+      ],
+      [
+        -38.61535,
+        142.99466
+      ],
+      [
+        -38.61517,
+        142.9949
+      ],
+      [
+        -38.61497,
+        142.99542
+      ],
+      [
+        -38.61483,
+        142.99572
+      ],
+      [
+        -38.61465,
+        142.99599
+      ],
+      [
+        -38.61437,
+        142.9963
+      ],
+      [
+        -38.61413,
+        142.99648
+      ],
+      [
+        -38.61241,
+        142.99741
+      ],
+      [
+        -38.61222,
+        142.99755
+      ],
+      [
+        -38.61205,
+        142.99776
+      ],
+      [
+        -38.61198,
+        142.99793
+      ],
+      [
+        -38.6119,
+        142.99838
+      ],
+      [
+        -38.61205,
+        142.99974
+      ],
+      [
+        -38.61213,
+        143.00025
+      ],
+      [
+        -38.61225,
+        143.00037
+      ],
+      [
+        -38.6124,
+        143.00033
+      ],
+      [
+        -38.61259,
+        143.00023
+      ],
+      [
+        -38.61309,
+        142.99991
+      ],
+      [
+        -38.6135,
+        142.99968
+      ],
+      [
+        -38.61376,
+        142.9996
+      ],
+      [
+        -38.6144,
+        142.99948
+      ],
+      [
+        -38.61468,
+        142.99941
+      ],
+      [
+        -38.6148,
+        142.99937
+      ],
+      [
+        -38.61511,
+        142.99923
+      ],
+      [
+        -38.61516,
+        142.99907
+      ],
+      [
+        -38.61555,
+        142.99888
+      ],
+      [
+        -38.61568,
+        142.99884
+      ],
+      [
+        -38.61567,
+        142.99882
+      ],
+      [
+        -38.61568,
+        142.99886
+      ],
+      [
+        -38.61574,
+        142.99884
+      ],
+      [
+        -38.61595,
+        142.99883
+      ],
+      [
+        -38.61609,
+        142.99885
+      ],
+      [
+        -38.61617,
+        142.99883
+      ],
+      [
+        -38.61621,
+        142.99885
+      ],
+      [
+        -38.61637,
+        142.99886
+      ],
+      [
+        -38.61657,
+        142.9989
+      ],
+      [
+        -38.61666,
+        142.99889
+      ],
+      [
+        -38.61689,
+        142.99875
+      ],
+      [
+        -38.6171,
+        142.99875
+      ],
+      [
+        -38.6174,
+        142.9987
+      ],
+      [
+        -38.61745,
+        142.99875
+      ],
+      [
+        -38.61756,
+        142.99876
+      ],
+      [
+        -38.61767,
+        142.99865
+      ],
+      [
+        -38.61786,
+        142.99835
+      ],
+      [
+        -38.619,
+        142.9964
+      ],
+      [
+        -38.61919,
+        142.99616
+      ],
+      [
+        -38.61926,
+        142.99595
+      ],
+      [
+        -38.61952,
+        142.99547
+      ],
+      [
+        -38.61968,
+        142.99522
+      ],
+      [
+        -38.61977,
+        142.99517
+      ],
+      [
+        -38.61981,
+        142.99509
+      ],
+      [
+        -38.61978,
+        142.99518
+      ],
+      [
+        -38.6198,
+        142.99526
+      ],
+      [
+        -38.6198,
+        142.99534
+      ],
+      [
+        -38.61982,
+        142.99534
+      ],
+      [
+        -38.61983,
+        142.99526
+      ],
+      [
+        -38.6198,
+        142.99516
+      ],
+      [
+        -38.61982,
+        142.99508
+      ],
+      [
+        -38.61978,
+        142.99513
+      ],
+      [
+        -38.6198,
+        142.99534
+      ],
+      [
+        -38.61974,
+        142.99537
+      ],
+      [
+        -38.61977,
+        142.99532
+      ],
+      [
+        -38.61987,
+        142.99526
+      ],
+      [
+        -38.61984,
+        142.99527
+      ],
+      [
+        -38.61982,
+        142.9953
+      ],
+      [
+        -38.6198,
+        142.99535
+      ],
+      [
+        -38.61982,
+        142.99537
+      ],
+      [
+        -38.61979,
+        142.99536
+      ],
+      [
+        -38.61981,
+        142.99536
+      ],
+      [
+        -38.61982,
+        142.99539
+      ],
+      [
+        -38.61981,
+        142.99538
+      ],
+      [
+        -38.61982,
+        142.99538
+      ],
+      [
+        -38.61979,
+        142.99536
+      ],
+      [
+        -38.61982,
+        142.99534
+      ],
+      [
+        -38.61981,
+        142.99536
+      ],
+      [
+        -38.61982,
+        142.9953
+      ],
+      [
+        -38.61984,
+        142.99526
+      ],
+      [
+        -38.61986,
+        142.99525
+      ],
+      [
+        -38.61984,
+        142.99523
+      ],
+      [
+        -38.61983,
+        142.99526
+      ],
+      [
+        -38.61985,
+        142.99525
+      ],
+      [
+        -38.61982,
+        142.99527
+      ],
+      [
+        -38.61984,
+        142.99525
+      ],
+      [
+        -38.61982,
+        142.99524
+      ],
+      [
+        -38.61984,
+        142.99524
+      ],
+      [
+        -38.61982,
+        142.99529
+      ],
+      [
+        -38.61982,
+        142.99526
+      ],
+      [
+        -38.61985,
+        142.99524
+      ],
+      [
+        -38.61985,
+        142.99526
+      ],
+      [
+        -38.61985,
+        142.99524
+      ],
+      [
+        -38.61985,
+        142.99526
+      ],
+      [
+        -38.61983,
+        142.99524
+      ],
+      [
+        -38.61985,
+        142.99525
+      ],
+      [
+        -38.61982,
+        142.99525
+      ],
+      [
+        -38.61983,
+        142.99527
+      ],
+      [
+        -38.61985,
+        142.99525
+      ],
+      [
+        -38.61985,
+        142.99529
+      ],
+      [
+        -38.61986,
+        142.99524
+      ],
+      [
+        -38.61984,
+        142.99525
+      ],
+      [
+        -38.61982,
+        142.9953
+      ],
+      [
+        -38.61984,
+        142.99524
+      ],
+      [
+        -38.61979,
+        142.99519
+      ],
+      [
+        -38.61979,
+        142.99514
+      ],
+      [
+        -38.6198,
+        142.99508
+      ],
+      [
+        -38.6198,
+        142.99514
+      ],
+      [
+        -38.61985,
+        142.99521
+      ],
+      [
+        -38.61992,
+        142.99526
+      ],
+      [
+        -38.61992,
+        142.99524
+      ],
+      [
+        -38.61994,
+        142.99525
+      ],
+      [
+        -38.61995,
+        142.99529
+      ],
+      [
+        -38.61984,
+        142.99514
+      ],
+      [
+        -38.61982,
+        142.99518
+      ],
+      [
+        -38.61983,
+        142.99521
+      ],
+      [
+        -38.61993,
+        142.9953
+      ],
+      [
+        -38.61992,
+        142.99522
+      ],
+      [
+        -38.61981,
+        142.99511
+      ],
+      [
+        -38.61981,
+        142.99508
+      ],
+      [
+        -38.61979,
+        142.9951
+      ],
+      [
+        -38.6198,
+        142.99511
+      ],
+      [
+        -38.61971,
+        142.99525
+      ],
+      [
+        -38.61982,
+        142.99507
+      ],
+      [
+        -38.61977,
+        142.99507
+      ],
+      [
+        -38.61966,
+        142.99516
+      ],
+      [
+        -38.61936,
+        142.99568
+      ],
+      [
+        -38.61919,
+        142.99593
+      ],
+      [
+        -38.61905,
+        142.99605
+      ],
+      [
+        -38.61897,
+        142.99619
+      ],
+      [
+        -38.61883,
+        142.99655
+      ],
+      [
+        -38.61855,
+        142.99705
+      ],
+      [
+        -38.61822,
+        142.99758
+      ],
+      [
+        -38.61789,
+        142.99817
+      ],
+      [
+        -38.61788,
+        142.99823
+      ],
+      [
+        -38.61804,
+        142.99843
+      ],
+      [
+        -38.61863,
+        142.999
+      ],
+      [
+        -38.61869,
+        142.9991
+      ],
+      [
+        -38.61887,
+        142.99923
+      ],
+      [
+        -38.61923,
+        142.99958
+      ],
+      [
+        -38.6193,
+        142.99963
+      ],
+      [
+        -38.61963,
+        142.99997
+      ],
+      [
+        -38.61973,
+        143.00004
+      ],
+      [
+        -38.61989,
+        143.00021
+      ],
+      [
+        -38.62032,
+        143.0006
+      ],
+      [
+        -38.62041,
+        143.0007
+      ],
+      [
+        -38.62063,
+        143.00083
+      ],
+      [
+        -38.62082,
+        143.00089
+      ],
+      [
+        -38.62086,
+        143.00096
+      ],
+      [
+        -38.6209,
+        143.00108
+      ],
+      [
+        -38.6209,
+        143.00155
+      ],
+      [
+        -38.62095,
+        143.00208
+      ],
+      [
+        -38.62115,
+        143.00342
+      ],
+      [
+        -38.62121,
+        143.00396
+      ],
+      [
+        -38.62126,
+        143.00413
+      ],
+      [
+        -38.62131,
+        143.0045
+      ],
+      [
+        -38.62168,
+        143.00672
+      ],
+      [
+        -38.62299,
+        143.01432
+      ],
+      [
+        -38.62318,
+        143.01519
+      ],
+      [
+        -38.62401,
+        143.01869
+      ],
+      [
+        -38.6242,
+        143.01956
+      ],
+      [
+        -38.62425,
+        143.01964
+      ],
+      [
+        -38.62497,
+        143.0227
+      ],
+      [
+        -38.62579,
+        143.02606
+      ],
+      [
+        -38.62593,
+        143.02673
+      ],
+      [
+        -38.62601,
+        143.02721
+      ],
+      [
+        -38.62606,
+        143.02772
+      ],
+      [
+        -38.6261,
+        143.02833
+      ],
+      [
+        -38.62611,
+        143.02932
+      ],
+      [
+        -38.6261,
+        143.02926
+      ],
+      [
+        -38.6261,
+        143.02931
+      ],
+      [
+        -38.62616,
+        143.03019
+      ],
+      [
+        -38.62629,
+        143.03105
+      ],
+      [
+        -38.62639,
+        143.0315
+      ],
+      [
+        -38.62658,
+        143.03218
+      ],
+      [
+        -38.62851,
+        143.03747
+      ],
+      [
+        -38.63066,
+        143.04306
+      ],
+      [
+        -38.63134,
+        143.04484
+      ],
+      [
+        -38.63149,
+        143.04527
+      ],
+      [
+        -38.63199,
+        143.04654
+      ],
+      [
+        -38.63218,
+        143.04691
+      ],
+      [
+        -38.6324,
+        143.0472
+      ],
+      [
+        -38.63275,
+        143.04758
+      ],
+      [
+        -38.6331,
+        143.04788
+      ],
+      [
+        -38.63334,
+        143.04802
+      ],
+      [
+        -38.63364,
+        143.04811
+      ],
+      [
+        -38.63406,
+        143.04817
+      ],
+      [
+        -38.63421,
+        143.04817
+      ],
+      [
+        -38.63445,
+        143.04814
+      ],
+      [
+        -38.63473,
+        143.04807
+      ],
+      [
+        -38.63517,
+        143.04791
+      ],
+      [
+        -38.63553,
+        143.0478
+      ],
+      [
+        -38.63565,
+        143.04778
+      ],
+      [
+        -38.63593,
+        143.04776
+      ],
+      [
+        -38.63604,
+        143.04777
+      ],
+      [
+        -38.63626,
+        143.04782
+      ],
+      [
+        -38.63664,
+        143.04796
+      ],
+      [
+        -38.63693,
+        143.04816
+      ],
+      [
+        -38.63731,
+        143.04856
+      ],
+      [
+        -38.63748,
+        143.04884
+      ],
+      [
+        -38.63768,
+        143.04935
+      ],
+      [
+        -38.63776,
+        143.04969
+      ],
+      [
+        -38.63778,
+        143.04987
+      ],
+      [
+        -38.6378,
+        143.05016
+      ],
+      [
+        -38.63771,
+        143.05113
+      ],
+      [
+        -38.63769,
+        143.05151
+      ],
+      [
+        -38.63771,
+        143.05203
+      ],
+      [
+        -38.63777,
+        143.05249
+      ],
+      [
+        -38.63785,
+        143.0529
+      ],
+      [
+        -38.63802,
+        143.05342
+      ],
+      [
+        -38.63838,
+        143.05435
+      ],
+      [
+        -38.63855,
+        143.05486
+      ],
+      [
+        -38.63867,
+        143.05539
+      ],
+      [
+        -38.63873,
+        143.05574
+      ],
+      [
+        -38.63876,
+        143.05615
+      ],
+      [
+        -38.63892,
+        143.05864
+      ],
+      [
+        -38.63904,
+        143.05941
+      ],
+      [
+        -38.63933,
+        143.06055
+      ],
+      [
+        -38.63975,
+        143.06205
+      ],
+      [
+        -38.63985,
+        143.06252
+      ],
+      [
+        -38.63991,
+        143.06294
+      ],
+      [
+        -38.63998,
+        143.06354
+      ],
+      [
+        -38.64011,
+        143.06518
+      ],
+      [
+        -38.6402,
+        143.06584
+      ],
+      [
+        -38.6403,
+        143.06637
+      ],
+      [
+        -38.64046,
+        143.06698
+      ],
+      [
+        -38.64063,
+        143.0675
+      ],
+      [
+        -38.64096,
+        143.06825
+      ],
+      [
+        -38.64116,
+        143.06864
+      ],
+      [
+        -38.64216,
+        143.07026
+      ],
+      [
+        -38.64244,
+        143.07075
+      ],
+      [
+        -38.64404,
+        143.0737
+      ],
+      [
+        -38.64473,
+        143.07504
+      ],
+      [
+        -38.64476,
+        143.07514
+      ],
+      [
+        -38.64481,
+        143.0752
+      ],
+      [
+        -38.64576,
+        143.077
+      ],
+      [
+        -38.64607,
+        143.07752
+      ],
+      [
+        -38.64631,
+        143.07787
+      ],
+      [
+        -38.6479,
+        143.08011
+      ],
+      [
+        -38.6481,
+        143.08042
+      ],
+      [
+        -38.64879,
+        143.0814
+      ],
+      [
+        -38.64924,
+        143.08207
+      ],
+      [
+        -38.64935,
+        143.08221
+      ],
+      [
+        -38.64993,
+        143.08307
+      ],
+      [
+        -38.65042,
+        143.08386
+      ],
+      [
+        -38.65079,
+        143.08448
+      ],
+      [
+        -38.65105,
+        143.08488
+      ],
+      [
+        -38.65124,
+        143.0852
+      ],
+      [
+        -38.65133,
+        143.08539
+      ],
+      [
+        -38.6517,
+        143.08597
+      ],
+      [
+        -38.65259,
+        143.08744
+      ],
+      [
+        -38.65316,
+        143.08834
+      ],
+      [
+        -38.65619,
+        143.09328
+      ],
+      [
+        -38.65647,
+        143.09377
+      ],
+      [
+        -38.65664,
+        143.09404
+      ],
+      [
+        -38.65692,
+        143.09456
+      ],
+      [
+        -38.65867,
+        143.0983
+      ],
+      [
+        -38.65895,
+        143.09885
+      ],
+      [
+        -38.65931,
+        143.09945
+      ],
+      [
+        -38.66142,
+        143.10272
+      ],
+      [
+        -38.66179,
+        143.10336
+      ],
+      [
+        -38.66213,
+        143.10386
+      ],
+      [
+        -38.66223,
+        143.10408
+      ],
+      [
+        -38.66216,
+        143.10422
+      ],
+      [
+        -38.66187,
+        143.10458
+      ],
+      [
+        -38.66179,
+        143.10476
+      ],
+      [
+        -38.66173,
+        143.10501
+      ],
+      [
+        -38.6616,
+        143.10512
+      ],
+      [
+        -38.6615,
+        143.10518
+      ],
+      [
+        -38.66126,
+        143.10524
+      ],
+      [
+        -38.66125,
+        143.10527
+      ],
+      [
+        -38.66123,
+        143.10538
+      ],
+      [
+        -38.66126,
+        143.10572
+      ],
+      [
+        -38.6613,
+        143.10584
+      ],
+      [
+        -38.66146,
+        143.10618
+      ],
+      [
+        -38.6615,
+        143.10621
+      ],
+      [
+        -38.66169,
+        143.10619
+      ],
+      [
+        -38.6618,
+        143.1061
+      ],
+      [
+        -38.66186,
+        143.10601
+      ],
+      [
+        -38.66188,
+        143.10592
+      ],
+      [
+        -38.66184,
+        143.10589
+      ],
+      [
+        -38.66179,
+        143.10593
+      ],
+      [
+        -38.66177,
+        143.10592
+      ],
+      [
+        -38.66179,
+        143.10588
+      ],
+      [
+        -38.6619,
+        143.10583
+      ],
+      [
+        -38.66191,
+        143.1058
+      ],
+      [
+        -38.6619,
+        143.10566
+      ],
+      [
+        -38.66185,
+        143.10542
+      ],
+      [
+        -38.66191,
+        143.1053
+      ],
+      [
+        -38.66196,
+        143.10516
+      ],
+      [
+        -38.66195,
+        143.10495
+      ],
+      [
+        -38.66187,
+        143.10478
+      ],
+      [
+        -38.6619,
+        143.10462
+      ],
+      [
+        -38.662,
+        143.1045
+      ],
+      [
+        -38.6623,
+        143.10427
+      ],
+      [
+        -38.66243,
+        143.10432
+      ],
+      [
+        -38.66261,
+        143.10455
+      ],
+      [
+        -38.66313,
+        143.10536
+      ],
+      [
+        -38.66338,
+        143.10571
+      ],
+      [
+        -38.66365,
+        143.10603
+      ],
+      [
+        -38.66378,
+        143.10615
+      ],
+      [
+        -38.66406,
+        143.10635
+      ],
+      [
+        -38.66415,
+        143.1064
+      ],
+      [
+        -38.66527,
+        143.10693
+      ],
+      [
+        -38.66548,
+        143.10704
+      ],
+      [
+        -38.66561,
+        143.10712
+      ],
+      [
+        -38.66584,
+        143.1073
+      ],
+      [
+        -38.66596,
+        143.10742
+      ],
+      [
+        -38.66634,
+        143.10791
+      ],
+      [
+        -38.6666,
+        143.10828
+      ],
+      [
+        -38.66683,
+        143.10867
+      ],
+      [
+        -38.66704,
+        143.10916
+      ],
+      [
+        -38.66808,
+        143.11231
+      ],
+      [
+        -38.66831,
+        143.11277
+      ],
+      [
+        -38.6684,
+        143.11285
+      ],
+      [
+        -38.66841,
+        143.11278
+      ],
+      [
+        -38.66836,
+        143.11261
+      ],
+      [
+        -38.6685,
+        143.11245
+      ],
+      [
+        -38.6685,
+        143.1124
+      ],
+      [
+        -38.66848,
+        143.11232
+      ],
+      [
+        -38.66842,
+        143.11231
+      ],
+      [
+        -38.66844,
+        143.11224
+      ],
+      [
+        -38.66848,
+        143.11219
+      ],
+      [
+        -38.66853,
+        143.11215
+      ],
+      [
+        -38.66855,
+        143.1121
+      ],
+      [
+        -38.66861,
+        143.11205
+      ],
+      [
+        -38.66857,
+        143.11207
+      ],
+      [
+        -38.66855,
+        143.11213
+      ],
+      [
+        -38.6685,
+        143.11215
+      ],
+      [
+        -38.66849,
+        143.11221
+      ],
+      [
+        -38.66843,
+        143.11231
+      ],
+      [
+        -38.6684,
+        143.11207
+      ],
+      [
+        -38.66833,
+        143.11192
+      ],
+      [
+        -38.66823,
+        143.11195
+      ],
+      [
+        -38.66806,
+        143.11202
+      ],
+      [
+        -38.66809,
+        143.11212
+      ],
+      [
+        -38.66806,
+        143.11218
+      ],
+      [
+        -38.66806,
+        143.11225
+      ],
+      [
+        -38.6682,
+        143.11259
+      ],
+      [
+        -38.66854,
+        143.11312
+      ],
+      [
+        -38.66972,
+        143.11477
+      ],
+      [
+        -38.67021,
+        143.11551
+      ],
+      [
+        -38.67048,
+        143.116
+      ],
+      [
+        -38.67084,
+        143.11677
+      ],
+      [
+        -38.6713,
+        143.11763
+      ],
+      [
+        -38.672,
+        143.11882
+      ],
+      [
+        -38.67221,
+        143.11924
+      ],
+      [
+        -38.67239,
+        143.11968
+      ],
+      [
+        -38.6725,
+        143.12008
+      ],
+      [
+        -38.67256,
+        143.12047
+      ],
+      [
+        -38.6726,
+        143.12101
+      ],
+      [
+        -38.67256,
+        143.12137
+      ],
+      [
+        -38.6725,
+        143.1218
+      ],
+      [
+        -38.67216,
+        143.12352
+      ],
+      [
+        -38.67212,
+        143.12401
+      ],
+      [
+        -38.67214,
+        143.12446
+      ],
+      [
+        -38.67221,
+        143.12492
+      ],
+      [
+        -38.67255,
+        143.12609
+      ],
+      [
+        -38.6727,
+        143.12664
+      ],
+      [
+        -38.67279,
+        143.12712
+      ],
+      [
+        -38.67286,
+        143.12784
+      ],
+      [
+        -38.67296,
+        143.12928
+      ],
+      [
+        -38.67302,
+        143.12995
+      ],
+      [
+        -38.6732,
+        143.13115
+      ],
+      [
+        -38.67336,
+        143.13182
+      ],
+      [
+        -38.67371,
+        143.13305
+      ],
+      [
+        -38.67426,
+        143.13486
+      ],
+      [
+        -38.67439,
+        143.13524
+      ],
+      [
+        -38.67461,
+        143.13568
+      ],
+      [
+        -38.67507,
+        143.13641
+      ],
+      [
+        -38.67523,
+        143.13671
+      ],
+      [
+        -38.67543,
+        143.13722
+      ],
+      [
+        -38.67568,
+        143.13803
+      ],
+      [
+        -38.67587,
+        143.13848
+      ],
+      [
+        -38.67607,
+        143.13886
+      ],
+      [
+        -38.67693,
+        143.14041
+      ],
+      [
+        -38.67711,
+        143.1407
+      ],
+      [
+        -38.67727,
+        143.14089
+      ],
+      [
+        -38.67777,
+        143.1414
+      ],
+      [
+        -38.67785,
+        143.14147
+      ],
+      [
+        -38.67805,
+        143.14172
+      ],
+      [
+        -38.67821,
+        143.14184
+      ],
+      [
+        -38.67844,
+        143.14205
+      ],
+      [
+        -38.6789,
+        143.14252
+      ],
+      [
+        -38.67958,
+        143.14314
+      ],
+      [
+        -38.68013,
+        143.14369
+      ],
+      [
+        -38.68048,
+        143.14398
+      ],
+      [
+        -38.6808,
+        143.1442
+      ],
+      [
+        -38.68163,
+        143.14466
+      ],
+      [
+        -38.68197,
+        143.14483
+      ],
+      [
+        -38.68207,
+        143.14485
+      ],
+      [
+        -38.68236,
+        143.14487
+      ],
+      [
+        -38.68287,
+        143.14481
+      ],
+      [
+        -38.68303,
+        143.14481
+      ],
+      [
+        -38.68323,
+        143.14485
+      ],
+      [
+        -38.68374,
+        143.14506
+      ],
+      [
+        -38.68405,
+        143.14523
+      ],
+      [
+        -38.68422,
+        143.14535
+      ],
+      [
+        -38.68431,
+        143.14543
+      ],
+      [
+        -38.68449,
+        143.14564
+      ],
+      [
+        -38.68488,
+        143.1463
+      ],
+      [
+        -38.68514,
+        143.14662
+      ],
+      [
+        -38.68533,
+        143.14678
+      ],
+      [
+        -38.68549,
+        143.14691
+      ],
+      [
+        -38.68724,
+        143.14797
+      ],
+      [
+        -38.68754,
+        143.14811
+      ],
+      [
+        -38.68786,
+        143.1482
+      ],
+      [
+        -38.68815,
+        143.14823
+      ],
+      [
+        -38.68859,
+        143.14823
+      ],
+      [
+        -38.68892,
+        143.14829
+      ],
+      [
+        -38.68907,
+        143.14834
+      ],
+      [
+        -38.68932,
+        143.14846
+      ],
+      [
+        -38.68949,
+        143.14855
+      ],
+      [
+        -38.68997,
+        143.1489
+      ],
+      [
+        -38.69018,
+        143.14911
+      ],
+      [
+        -38.69052,
+        143.14941
+      ],
+      [
+        -38.69052,
+        143.1494
+      ],
+      [
+        -38.69055,
+        143.14941
+      ],
+      [
+        -38.69072,
+        143.14949
+      ],
+      [
+        -38.69093,
+        143.14953
+      ],
+      [
+        -38.69123,
+        143.14952
+      ],
+      [
+        -38.69175,
+        143.14939
+      ],
+      [
+        -38.69197,
+        143.14937
+      ],
+      [
+        -38.69222,
+        143.14941
+      ],
+      [
+        -38.69251,
+        143.14952
+      ],
+      [
+        -38.6927,
+        143.14967
+      ],
+      [
+        -38.69279,
+        143.14976
+      ],
+      [
+        -38.69304,
+        143.15013
+      ],
+      [
+        -38.69322,
+        143.15049
+      ],
+      [
+        -38.69345,
+        143.15101
+      ],
+      [
+        -38.69349,
+        143.15122
+      ],
+      [
+        -38.69351,
+        143.15143
+      ],
+      [
+        -38.69351,
+        143.15175
+      ],
+      [
+        -38.6935,
+        143.15185
+      ],
+      [
+        -38.69343,
+        143.15217
+      ],
+      [
+        -38.69334,
+        143.15243
+      ],
+      [
+        -38.69291,
+        143.15336
+      ],
+      [
+        -38.69268,
+        143.15376
+      ],
+      [
+        -38.69229,
+        143.15439
+      ],
+      [
+        -38.69187,
+        143.15501
+      ],
+      [
+        -38.69175,
+        143.15516
+      ],
+      [
+        -38.69162,
+        143.15522
+      ],
+      [
+        -38.6916,
+        143.15531
+      ],
+      [
+        -38.69162,
+        143.15534
+      ],
+      [
+        -38.69168,
+        143.1553
+      ],
+      [
+        -38.69182,
+        143.15515
+      ],
+      [
+        -38.69217,
+        143.15469
+      ],
+      [
+        -38.69271,
+        143.15381
+      ],
+      [
+        -38.69306,
+        143.15319
+      ],
+      [
+        -38.69343,
+        143.15235
+      ],
+      [
+        -38.69354,
+        143.15196
+      ],
+      [
+        -38.69357,
+        143.1517
+      ],
+      [
+        -38.69356,
+        143.15115
+      ],
+      [
+        -38.6935,
+        143.1509
+      ],
+      [
+        -38.69347,
+        143.15077
+      ],
+      [
+        -38.69348,
+        143.15072
+      ],
+      [
+        -38.69353,
+        143.15069
+      ],
+      [
+        -38.69369,
+        143.15071
+      ],
+      [
+        -38.69383,
+        143.15077
+      ],
+      [
+        -38.69406,
+        143.15094
+      ],
+      [
+        -38.69425,
+        143.15116
+      ],
+      [
+        -38.69472,
+        143.15178
+      ],
+      [
+        -38.69495,
+        143.15212
+      ],
+      [
+        -38.69541,
+        143.15273
+      ],
+      [
+        -38.69554,
+        143.15294
+      ],
+      [
+        -38.69579,
+        143.15324
+      ],
+      [
+        -38.69613,
+        143.15371
+      ],
+      [
+        -38.69649,
+        143.15417
+      ],
+      [
+        -38.69683,
+        143.15451
+      ],
+      [
+        -38.69693,
+        143.15466
+      ],
+      [
+        -38.69711,
+        143.15502
+      ],
+      [
+        -38.69773,
+        143.15639
+      ],
+      [
+        -38.69784,
+        143.15667
+      ],
+      [
+        -38.69819,
+        143.1574
+      ],
+      [
+        -38.69835,
+        143.15765
+      ],
+      [
+        -38.69873,
+        143.15815
+      ],
+      [
+        -38.69881,
+        143.15829
+      ],
+      [
+        -38.69883,
+        143.15838
+      ],
+      [
+        -38.69878,
+        143.15854
+      ],
+      [
+        -38.69877,
+        143.15852
+      ],
+      [
+        -38.69894,
+        143.1588
+      ],
+      [
+        -38.69906,
+        143.15891
+      ],
+      [
+        -38.69916,
+        143.15905
+      ],
+      [
+        -38.69924,
+        143.15927
+      ],
+      [
+        -38.69926,
+        143.15958
+      ],
+      [
+        -38.69931,
+        143.15972
+      ],
+      [
+        -38.69958,
+        143.15999
+      ],
+      [
+        -38.69966,
+        143.1601
+      ],
+      [
+        -38.6998,
+        143.16042
+      ],
+      [
+        -38.69982,
+        143.1607
+      ],
+      [
+        -38.6998,
+        143.16115
+      ],
+      [
+        -38.69973,
+        143.16116
+      ],
+      [
+        -38.69969,
+        143.16119
+      ],
+      [
+        -38.69955,
+        143.16135
+      ],
+      [
+        -38.69941,
+        143.16146
+      ],
+      [
+        -38.6994,
+        143.16157
+      ],
+      [
+        -38.69943,
+        143.16172
+      ],
+      [
+        -38.69942,
+        143.16175
+      ],
+      [
+        -38.69945,
+        143.1617
+      ],
+      [
+        -38.69949,
+        143.16166
+      ],
+      [
+        -38.69942,
+        143.16174
+      ],
+      [
+        -38.69945,
+        143.16168
+      ],
+      [
+        -38.69948,
+        143.16167
+      ]
+    ]
+  },
+  {
+    "resource_state": 3,
+    "athlete": {
+      "id": 49069428,
+      "resource_state": 1
+    },
     "name": "Making up for lost time",
     "distance": 161121,
     "moving_time": 33450,
