@@ -5,6 +5,8739 @@
       "id": 49069428,
       "resource_state": 1
     },
+    "name": "Short journey into Melbourne to end stage 1",
+    "distance": 36285.2,
+    "moving_time": 9463,
+    "elapsed_time": 10875,
+    "total_elevation_gain": 178,
+    "type": "Ride",
+    "sport_type": "Ride",
+    "workout_type": null,
+    "device_name": "Garmin fēnix 7x",
+    "id": 17087694395,
+    "start_date": "2026-01-17T23:22:16Z",
+    "start_date_local": "2026-01-18T10:22:16Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a17087694395",
+      "polyline": "pqcfFa~srZ?CB@?EG@@@C\\@f@\\FN@dBa@VBPAAC@?~@DbAsHCW@[Oc@?c@t@iG`@cCl@uETwAR{AFm@t@iFTuAAa@RwAEOD]TMHg@rAqJj@wEZiBh@aCBm@HQNCh@Z^HBCAEYCQIGc@D]dCoQXcCBEJEf@KNMJg@KoFQeCBIFOb@Qz@OjJaAp@S\\S~@o@l@q@b@{@d@oATu@\\iEVe@Dm@h@gJK]_Bc@s@Ke@OUCGICEJkBZgE\\iCX_AHaAOg@Yi@k@y@GUEYFa@p@aALc@?a@YcDK_@g@y@y@aA}@{@}@cAoAgAo@a@uFoFSWeAaBYo@Ya@[cAASMo@UW[QsAaCkFgLyFyPuBeIqBcLs@wEG{@[kCKuBIyA?qKCeCHyBT]Dq@MGAs@Bc@Ck@BYGe@ReFJuAj@yDZgBt@sGAUS_CUkE@yAH{AV{G?k@GOa@]yBkCgFqFQ[m@iBOMqAs@s@]{AaA{@o@]_@?WJq@`@uA\\y@^YZc@?MMa@c@a@o@]k@i@wAw@m@u@c@M_A[IOQ_@Fi@AMGOMGi@i@GA_@DSIG]?U]q@SYKa@Io@]WkAu@KM{@mAg@{@yAuBo@gBc@yAKeASwCAsCRkATkEQ_@g@Ou@IME]i@K@CJCt@Mf@@HB@@AAQJw@@YCOMIa@EOK_@s@_AsAMKw@e@sAe@c@a@gBw@yAKaBUQB_Bv@k@j@o@`AOHi@@OFKPs@lCQPq@ZW^INIZAjACf@Ut@SnAHZER[X{@~Ak@j@c@EEGCOAm@WeDFcAv@iCvDkKlBoGF}APwA?YU{FOqF@gABUT}@Fq@Ry@HoAA}@DURo@@UC}Bt@yENmA@[G[YQSEA]MEyHs@k@Qa@I[AIEEMAmBGcAXuGHw@Bm@E{@O]E?ABCCE@CCCNBXFSFHDo@IOIDA\\DODJEB@EGB@FBCC@AA?KGODEAERDLA@B[R?B@E?FIB?XB@BI@UE?EN@GCBDCD@IOHC?@C@@C?BE@FOGAEEEXFZJSECAM?BGDDFAI@KDLADG@@E?FBGE@B@EFDB?I@M?HBDBCA@AO?F@FNA@BAAAB?FLBHF?DKlBEHK`ADR[tFB^Ph@IlA@RVFt@Fd@LFC@EGo@Ou@Cu@HmAPiBFiACsA?SH]\\i@d@[p@Ip@Ad@Hp@Xj@Hd@GTc@Nc@?k@Iq@@IPs@PeAX{@t@sETOFk@JwAPi@dBkCxAmBDQTaBPc@Zk@RKz@J|@}@XCl@Nl@f@bA\\x@Jj@Cj@Mh@a@TWLUXSVe@ZkA\\a@rAq@^g@XgABSCkCTwBGmA@QNeAFSVc@h@y@N_@@c@[y@Cc@Lq@Fs@La@Ve@^aATcARc@h@c@FQd@o@l@MdAIx@Fl@AJWPmCJi@HEv@BJCDI?IANAFE?@GG[JgBFoDJiBGs@SWWg@`@s@KUYoAEAS[aAmEI{@AWDyARwDvBeJf@uAf@iAb@}@VSzIkUb@sAZo@H[h@iAn@iBnAcDf@yAJs@Ec@PM\\ETKx@{AJi@XgDGq@O}@M_@_@g@wAiAQa@ICOIESBYKq@WmAUcBQ}@IEa@mAcBeEkAuD{@_C_CeEkEkIW_@]SIM_@gAk@c@OEQ?EBo@~@Oh@e@jAw@rAiE|E_@vBmAjFm@~Cc@vAcAvEcA|DeD`OSNuCr@C?Ka@G?GD_@FkAVs@Ha@LuCj@_@A[c@_@OIIEKA}@DBAZG\\_B\\]L_@BQC_@Ss@Ua@D[Ei@AGJSLcBVoDjA{AVeABq@HIBy@h@cFjFkAxAsAtAmCbD}@pA{@~AkAhByCfFkA~AkApA_Ax@}@h@c@P_AXkCj@eAHg@CqAOmDqAs@SMIGIDsBAk@Ma@MQQI]IkBUyCIo@UcC}AIAOBMMU@a@I_AGSIW?c@VoAh@qAx@[L[Ds@?QB[Je@Fe@Rw@H_Dh@oCh@_AZaA|@QJS?EEe@m@OAQFMHQCUIu@LW`@y@b@OBwAEm@D_@CeAAs@]_@EaAE[@_@QODm@Cq@O]CY?q@FOCWGeE]s@@OCcA]_@SMCaA]WA}@QcANk@NSC[QG?IDiAbCc@h@MJMH[BaAKcACuAS_O}AoBQeBSkD[WAWIgIu@qC[cAGeBU}Fi@w@KsAIsGs@iAQSGO?SBu@UCQ@c@NiBT_EB{AMYRBZRDCC@AG@}@CIIAeAa@}GqCcIgCcG}BgBc@YOeAa@SQmDyD_AgAe@a@UU_BkAuDaDIQESKgADs@`@gBN{@Tw@Ho@h@qCHKXAZMLI^u@Hu@KqFDu@@m@Dk@DG@qAVuDN{EX{EHqDXuDFqD^mGPwFn@aHDsB?i@VqEXgILqB?c@I}CBoACmAGoAYaCOmCYmBUgCR}E?}@CiAIyA?iAPuCB[@_AFeBP}ANo@pAwD`@O\\@?DIP]f@SDGA}@g@OGk@Iq@Ae@KoA]WA_C\\k@Bs@KmA][C[AWGcBEk@Mo@j@eAv@}BxA_@Jc@a@eAwAyAy@_@i@SMa@@aCNk@Lw@ZsAb@y@?}@Ua@@wAUs@BqCb@oDl@kDb@yALkABcBKeAO_@IyB[eD]oDe@eCUsAQc@KoA]s@[}@y@qAu@g@H[Oo@s@OAMKMWKm@Uw@Ye@iBeCe@{@I]@QDCRh@d@z@D?}AyEkA}C}@qCiEuHkBqCmA_B_AiAkCkCWUe@Mc@WqAuA{AkB}BmDo@wAe@yAq@oA[e@So@QsDIc@KG?SXg@PWXO^AXK@EHk@Bk@?cBLiE?qAS{Be@{Co@wBc@iAaAeCQ]m@k@eA_@gBaAoAg@q@UgBWMEa@IwAMyEo@}@I}Cu@g@SYGw@?SCyAEc@EAETG@Eb@aHBe@EIUG_CYoAIcD[}BMe@M_DYmBUmE_@a@AOFHe@FIHq@?_@f@wIFqBlAkTLoD`AiQO[OIQYFNb@HVgA@WC}@cD[BCDDIA@@@CCA@C",
+      "resource_state": 3,
+      "summary_polyline": "|wcfFu|srZp@K~@eHQ{B^aDbFc^PgDTMHg@~BiQhAyGXUlA`@m@SAaA~CsUfAe@Jg@Y_Kj@a@xMeBjCuB~AaE\\iE\\sAh@gJK]{EsAf@sH`AkGcB{DfAgCYeEmB{CeOqNyBsDk@gCq@i@sAaCkFgLyFyPuBeIqBcLs@wEo@}HMqRHyBT]Dq@MGEcEReFhCkSk@aJb@}NkKkL_AeCkIqFl@_D\\y@z@}@Mo@wEaDm@u@cBi@[o@AgAw@q@{@EGs@q@kAUqAuB{A}D_GsAaE_@}EAsCRkATkEQ_@kB_@i@g@SrBLsB_A[mBsCwGeD{Da@qBz@{AlBiAR_A~CcAl@a@n@OnCi@dCFb@}@vAiAxAc@Ec@uFf@kC|HsUXoEc@uPt@_EFmCZ{AC}BfAcIG[}@{@mLwAO_Ef@{JQsAYICPBXNIDo@SIA\\@DEk@b@Fc@\\BZF[CWMG@t@JSOGDMEZFQBCf@l@s@bMThAI~A|BZYaDh@gKbAeAp@Ip@AbCl@d@Gd@gAGgBrBiKTORcCpEcHZsBl@oAnA?vAaA~CtApCEfBcBr@qBpC{B\\{ACkCNwEVyApA}B@c@_@}ATeBzAmEjBiCzEQh@oErAOILEc@^aKGs@k@_A`@s@e@eBY]kAiGViHvBeJnA_Dz@qAnMu\\fDgJDwAdA_@|@eB`@gEWoBm@gAcCyBmAoIwGoQkIqO_AaA_@gAk@c@g@A}ChGiE|E{CbOqIn^iDbAWa@_JhB_@AeA}@GiAC|@}Bj@q@?sAi@gBA[XsGbB}Eh@}GtGmHrI_JbOwCpD}BbBoFvA_EIoFoBCiDm@}@cHi@sDsBsDe@yFhCaBHoMdC_AZsAhAYEe@m@o@Ng@Mu@LW`@iAf@kFEs@]}C[kOu@sDsAuASoB^aAOiAbCq@t@i@LgrA_Nb@_JB{AMYt@RGmA}b@qOaGsGqIeH[mB`CqMlAe@^u@Hu@CuIlDsw@n@aHdAiXQoLyAeOR}EMkHp@uL`BgF~@Mg@~@SDuAq@sEu@cE^aJkAsGhEiByBmCqBa@@aCNwDlAeHe@mNtBeDPw[yDcCy@oCoBcAEmAaAo@}BiDgFAs@~@dBgFiOiEuHyF{HkCkCaB{@mDaE}BmDwDwIQsDU_Aj@_AtAc@ZwMy@wGgDeJm@k@oH_DgOoB_FqAiEOTS`@qI{XsC_GYZaBlEo{@q@_Aj@XFY"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": true,
+    "visibility": "only_me",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.870486,
+      144.778093
+    ],
+    "end_latlng": [
+      -37.769193,
+      144.973044
+    ],
+    "average_speed": 3.834,
+    "max_speed": 8.233,
+    "has_heartrate": true,
+    "average_heartrate": 102.8,
+    "max_heartrate": 162,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 55,
+    "elev_low": 6.8,
+    "upload_id": 18182256743,
+    "upload_id_str": "18182256743",
+    "external_id": "garmin_ping_525013530404",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 2,
+    "has_kudoed": false,
+    "description": "",
+    "calories": 956,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3447799635108447000,
+        "resource_state": 2,
+        "name": "Sprint past Salter",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 283,
+        "moving_time": 283,
+        "start_date": "2026-01-17T23:26:18Z",
+        "start_date_local": "2026-01-18T10:26:18Z",
+        "distance": 1117.09,
+        "start_index": 42,
+        "end_index": 97,
+        "device_watts": false,
+        "average_heartrate": 100.3,
+        "max_heartrate": 108,
+        "segment": {
+          "id": 2053135,
+          "resource_state": 2,
+          "name": "Sprint past Salter",
+          "activity_type": "Ride",
+          "distance": 1117.09,
+          "average_grade": -0.2,
+          "maximum_grade": 0.2,
+          "elevation_high": 5.2,
+          "elevation_low": 3.3,
+          "start_latlng": [
+            -37.871673,
+            144.778561
+          ],
+          "end_latlng": [
+            -37.87449,
+            144.790747
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Altona Meadows",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635109829600,
+        "resource_state": 2,
+        "name": "Truganina Trail",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 431,
+        "moving_time": 431,
+        "start_date": "2026-01-17T23:34:30Z",
+        "start_date_local": "2026-01-18T10:34:30Z",
+        "distance": 1948.74,
+        "start_index": 151,
+        "end_index": 242,
+        "device_watts": false,
+        "average_heartrate": 101.3,
+        "max_heartrate": 113,
+        "segment": {
+          "id": 3569969,
+          "resource_state": 2,
+          "name": "Truganina Trail",
+          "activity_type": "Ride",
+          "distance": 1948.74,
+          "average_grade": -0.3,
+          "maximum_grade": 12.4,
+          "elevation_high": 9.8,
+          "elevation_low": 0,
+          "start_latlng": [
+            -37.876646948374656,
+            144.79765793671328
+          ],
+          "end_latlng": [
+            -37.87557226815873,
+            144.8132754884284
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Altona Meadows",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635107860500,
+        "resource_state": 2,
+        "name": "Sevdah 2020",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 231,
+        "moving_time": 231,
+        "start_date": "2026-01-17T23:37:51Z",
+        "start_date_local": "2026-01-18T10:37:51Z",
+        "distance": 1081.4,
+        "start_index": 189,
+        "end_index": 243,
+        "device_watts": false,
+        "average_heartrate": 102.7,
+        "max_heartrate": 113,
+        "segment": {
+          "id": 25147242,
+          "resource_state": 2,
+          "name": "Sevdah 2020",
+          "activity_type": "Ride",
+          "distance": 1081.4,
+          "average_grade": -0.1,
+          "maximum_grade": 2.3,
+          "elevation_high": 7.4,
+          "elevation_low": 5.1,
+          "start_latlng": [
+            -37.879086,
+            144.803917
+          ],
+          "end_latlng": [
+            -37.875539,
+            144.813349
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Altona Meadows",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635110220000,
+        "resource_state": 2,
+        "name": "Altona Esplanade Return",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 511,
+        "moving_time": 505,
+        "start_date": "2026-01-17T23:42:22Z",
+        "start_date_local": "2026-01-18T10:42:22Z",
+        "distance": 2152.56,
+        "start_index": 251,
+        "end_index": 343,
+        "device_watts": false,
+        "average_heartrate": 97.9,
+        "max_heartrate": 114,
+        "segment": {
+          "id": 1521429,
+          "resource_state": 2,
+          "name": "Altona Esplanade Return",
+          "activity_type": "Ride",
+          "distance": 2152.56,
+          "average_grade": 0,
+          "maximum_grade": 0,
+          "elevation_high": -25.8,
+          "elevation_low": -26.2,
+          "start_latlng": [
+            -37.874690964818,
+            144.81485556811094
+          ],
+          "end_latlng": [
+            -37.871169140562415,
+            144.83793346211314
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Altona",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635108656000,
+        "resource_state": 2,
+        "name": "Smack it to Sars",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 244,
+        "moving_time": 244,
+        "start_date": "2026-01-17T23:42:22Z",
+        "start_date_local": "2026-01-18T10:42:22Z",
+        "distance": 1241.14,
+        "start_index": 251,
+        "end_index": 286,
+        "device_watts": false,
+        "average_heartrate": 102.3,
+        "max_heartrate": 107,
+        "segment": {
+          "id": 3737120,
+          "resource_state": 2,
+          "name": "Smack it to Sars",
+          "activity_type": "Ride",
+          "distance": 1241.14,
+          "average_grade": 0,
+          "maximum_grade": 0,
+          "elevation_high": -35.2,
+          "elevation_low": -35.6,
+          "start_latlng": [
+            -37.87460748106241,
+            144.81499428860843
+          ],
+          "end_latlng": [
+            -37.87056145258248,
+            144.82802890241146
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Altona",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635110769700,
+        "resource_state": 2,
+        "name": "The Sandy Bit (East bound)",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 199,
+        "moving_time": 193,
+        "start_date": "2026-01-17T23:46:42Z",
+        "start_date_local": "2026-01-18T10:46:42Z",
+        "distance": 585.5,
+        "start_index": 288,
+        "end_index": 333,
+        "device_watts": false,
+        "average_heartrate": 99.5,
+        "max_heartrate": 114,
+        "segment": {
+          "id": 19914878,
+          "resource_state": 2,
+          "name": "The Sandy Bit (East bound)",
+          "activity_type": "Ride",
+          "distance": 585.5,
+          "average_grade": 0,
+          "maximum_grade": 2.2,
+          "elevation_high": -10.8,
+          "elevation_low": -12.6,
+          "start_latlng": [
+            -37.870532,
+            144.828569
+          ],
+          "end_latlng": [
+            -37.871288,
+            144.835151
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Altona",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635110173700,
+        "resource_state": 2,
+        "name": "Seagulls, fush and chups",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 204,
+        "moving_time": 198,
+        "start_date": "2026-01-17T23:48:10Z",
+        "start_date_local": "2026-01-18T10:48:10Z",
+        "distance": 837.3,
+        "start_index": 307,
+        "end_index": 352,
+        "device_watts": false,
+        "average_heartrate": 87.1,
+        "max_heartrate": 114,
+        "segment": {
+          "id": 9333497,
+          "resource_state": 2,
+          "name": "Seagulls, fush and chups",
+          "activity_type": "Ride",
+          "distance": 837.3,
+          "average_grade": 0,
+          "maximum_grade": 8.3,
+          "elevation_high": 1.2,
+          "elevation_low": -1,
+          "start_latlng": [
+            -37.870736,
+            144.830833
+          ],
+          "end_latlng": [
+            -37.871441,
+            144.840224
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Altona",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635109516300,
+        "resource_state": 2,
+        "name": "Turn The Screws Up Tues / Thurs!",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 249,
+        "moving_time": 249,
+        "start_date": "2026-01-17T23:49:15Z",
+        "start_date_local": "2026-01-18T10:49:15Z",
+        "distance": 1276.7,
+        "start_index": 320,
+        "end_index": 377,
+        "device_watts": false,
+        "average_heartrate": 84.2,
+        "max_heartrate": 102,
+        "segment": {
+          "id": 1768068,
+          "resource_state": 2,
+          "name": "Turn The Screws Up Tues / Thurs!",
+          "activity_type": "Ride",
+          "distance": 1276.7,
+          "average_grade": 0,
+          "maximum_grade": 0,
+          "elevation_high": -3.6,
+          "elevation_low": -3.6,
+          "start_latlng": [
+            -37.87068366073072,
+            144.83253727667034
+          ],
+          "end_latlng": [
+            -37.86711581982672,
+            144.84416247345507
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Altona",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635106627600,
+        "resource_state": 2,
+        "name": "Snoop Doggy Grog Bog Dog",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 156,
+        "moving_time": 156,
+        "start_date": "2026-01-17T23:56:19Z",
+        "start_date_local": "2026-01-18T10:56:19Z",
+        "distance": 696.3,
+        "start_index": 422,
+        "end_index": 459,
+        "device_watts": false,
+        "average_heartrate": 96.5,
+        "max_heartrate": 105,
+        "segment": {
+          "id": 9415393,
+          "resource_state": 2,
+          "name": "Snoop Doggy Grog Bog Dog",
+          "activity_type": "Ride",
+          "distance": 696.3,
+          "average_grade": 0,
+          "maximum_grade": 6.6,
+          "elevation_high": 7,
+          "elevation_low": 4.6,
+          "start_latlng": [
+            -37.865056,
+            144.848982
+          ],
+          "end_latlng": [
+            -37.862508,
+            144.855374
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Seaholme",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635107714000,
+        "resource_state": 2,
+        "name": "Altona Coastal Park - Take the right",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 159,
+        "moving_time": 159,
+        "start_date": "2026-01-17T23:59:49Z",
+        "start_date_local": "2026-01-18T10:59:49Z",
+        "distance": 783.6,
+        "start_index": 481,
+        "end_index": 538,
+        "device_watts": false,
+        "average_heartrate": 89.2,
+        "max_heartrate": 97,
+        "segment": {
+          "id": 11065009,
+          "resource_state": 2,
+          "name": "Altona Coastal Park - Take the right",
+          "activity_type": "Ride",
+          "distance": 783.6,
+          "average_grade": -0.3,
+          "maximum_grade": 1.4,
+          "elevation_high": -9,
+          "elevation_low": -11.2,
+          "start_latlng": [
+            -37.861898,
+            144.855613
+          ],
+          "end_latlng": [
+            -37.85663,
+            144.854092
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Altona",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635108441000,
+        "resource_state": 2,
+        "name": "Captian Slows Slug!",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 236,
+        "moving_time": 236,
+        "start_date": "2026-01-18T00:03:33Z",
+        "start_date_local": "2026-01-18T11:03:33Z",
+        "distance": 1155.46,
+        "start_index": 552,
+        "end_index": 615,
+        "device_watts": false,
+        "average_heartrate": 87.6,
+        "max_heartrate": 107,
+        "segment": {
+          "id": 2959607,
+          "resource_state": 2,
+          "name": "Captian Slows Slug!",
+          "activity_type": "Ride",
+          "distance": 1155.46,
+          "average_grade": -0.2,
+          "maximum_grade": 2.5,
+          "elevation_high": 7.2,
+          "elevation_low": 1.9,
+          "start_latlng": [
+            -37.85562492535753,
+            144.85328728774877
+          ],
+          "end_latlng": [
+            -37.857866479027464,
+            144.86571928137846
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Seaholme",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635107640300,
+        "resource_state": 2,
+        "name": "Altona Wetlands Track (East Bound)",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 521,
+        "moving_time": 521,
+        "start_date": "2026-01-18T00:36:33Z",
+        "start_date_local": "2026-01-18T11:36:33Z",
+        "distance": 2214.9,
+        "start_index": 960,
+        "end_index": 1096,
+        "device_watts": false,
+        "average_heartrate": 96.3,
+        "max_heartrate": 111,
+        "segment": {
+          "id": 6693932,
+          "resource_state": 2,
+          "name": "Altona Wetlands Track (East Bound)",
+          "activity_type": "Ride",
+          "distance": 2214.9,
+          "average_grade": 0.1,
+          "maximum_grade": 8.5,
+          "elevation_high": 27,
+          "elevation_low": 24.6,
+          "start_latlng": [
+            -37.856126,
+            144.869943
+          ],
+          "end_latlng": [
+            -37.867152,
+            144.885259
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635107182600,
+        "resource_state": 2,
+        "name": "From Altona to Williamstown by path down",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 152,
+        "moving_time": 152,
+        "start_date": "2026-01-18T00:38:47Z",
+        "start_date_local": "2026-01-18T11:38:47Z",
+        "distance": 639.8,
+        "start_index": 992,
+        "end_index": 1032,
+        "device_watts": false,
+        "average_heartrate": 86.9,
+        "max_heartrate": 106,
+        "segment": {
+          "id": 25147322,
+          "resource_state": 2,
+          "name": "From Altona to Williamstown by path down",
+          "activity_type": "Ride",
+          "distance": 639.8,
+          "average_grade": 0.1,
+          "maximum_grade": 1,
+          "elevation_high": 6.8,
+          "elevation_low": 5.8,
+          "start_latlng": [
+            -37.858767,
+            144.87347
+          ],
+          "end_latlng": [
+            -37.86296,
+            144.876436
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635110749000,
+        "resource_state": 2,
+        "name": "champs de Esplanade ",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 333,
+        "moving_time": 333,
+        "start_date": "2026-01-18T00:46:54Z",
+        "start_date_local": "2026-01-18T11:46:54Z",
+        "distance": 1395.2,
+        "start_index": 1126,
+        "end_index": 1193,
+        "device_watts": false,
+        "average_heartrate": 82.1,
+        "max_heartrate": 99,
+        "segment": {
+          "id": 8266664,
+          "resource_state": 2,
+          "name": "champs de Esplanade ",
+          "activity_type": "Ride",
+          "distance": 1395.2,
+          "average_grade": 0.1,
+          "maximum_grade": 1.4,
+          "elevation_high": 12.8,
+          "elevation_low": 8.4,
+          "start_latlng": [
+            -37.867334,
+            144.887851
+          ],
+          "end_latlng": [
+            -37.871153,
+            144.901894
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635106763000,
+        "resource_state": 2,
+        "name": "Williamstown Edge",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1123,
+        "moving_time": 1079,
+        "start_date": "2026-01-18T00:47:01Z",
+        "start_date_local": "2026-01-18T11:47:01Z",
+        "distance": 4842.4,
+        "start_index": 1128,
+        "end_index": 1390,
+        "device_watts": false,
+        "average_heartrate": 91.6,
+        "max_heartrate": 110,
+        "segment": {
+          "id": 6571714,
+          "resource_state": 2,
+          "name": "Williamstown Edge",
+          "activity_type": "Ride",
+          "distance": 4842.4,
+          "average_grade": 0.2,
+          "maximum_grade": 35.4,
+          "elevation_high": 10.4,
+          "elevation_low": 0,
+          "start_latlng": [
+            -37.867692,
+            144.888054
+          ],
+          "end_latlng": [
+            -37.853944,
+            144.901201
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635109195000,
+        "resource_state": 2,
+        "name": "Rough Ride",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 100,
+        "moving_time": 100,
+        "start_date": "2026-01-18T00:49:01Z",
+        "start_date_local": "2026-01-18T11:49:01Z",
+        "distance": 383.7,
+        "start_index": 1155,
+        "end_index": 1173,
+        "device_watts": false,
+        "average_heartrate": 76.8,
+        "max_heartrate": 93,
+        "segment": {
+          "id": 5779944,
+          "resource_state": 2,
+          "name": "Rough Ride",
+          "activity_type": "Ride",
+          "distance": 383.7,
+          "average_grade": 0.6,
+          "maximum_grade": 2.9,
+          "elevation_high": -4.2,
+          "elevation_low": -7.6,
+          "start_latlng": [
+            -37.867451,
+            144.893527
+          ],
+          "end_latlng": [
+            -37.869303,
+            144.897208
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635109271600,
+        "resource_state": 2,
+        "name": "Organic fair trade single origin soy eggnog decaf latte sprint",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 133,
+        "moving_time": 133,
+        "start_date": "2026-01-18T00:49:36Z",
+        "start_date_local": "2026-01-18T11:49:36Z",
+        "distance": 549.5,
+        "start_index": 1161,
+        "end_index": 1188,
+        "device_watts": false,
+        "average_heartrate": 89.3,
+        "max_heartrate": 99,
+        "segment": {
+          "id": 6836018,
+          "resource_state": 2,
+          "name": "Organic fair trade single origin soy eggnog decaf latte sprint",
+          "activity_type": "Ride",
+          "distance": 549.5,
+          "average_grade": 0.2,
+          "maximum_grade": 4.8,
+          "elevation_high": 7.1,
+          "elevation_low": 2.9,
+          "start_latlng": [
+            -37.868191,
+            144.894825
+          ],
+          "end_latlng": [
+            -37.870765,
+            144.900158
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635109312500,
+        "resource_state": 2,
+        "name": "Gifford to Thompson smash fest",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 90,
+        "moving_time": 90,
+        "start_date": "2026-01-18T00:50:47Z",
+        "start_date_local": "2026-01-18T11:50:47Z",
+        "distance": 378.7,
+        "start_index": 1174,
+        "end_index": 1191,
+        "device_watts": false,
+        "average_heartrate": 93.8,
+        "max_heartrate": 99,
+        "segment": {
+          "id": 6118757,
+          "resource_state": 2,
+          "name": "Gifford to Thompson smash fest",
+          "activity_type": "Ride",
+          "distance": 378.7,
+          "average_grade": -0.3,
+          "maximum_grade": 1.8,
+          "elevation_high": -11.2,
+          "elevation_low": -13.4,
+          "start_latlng": [
+            -37.869451,
+            144.89745
+          ],
+          "end_latlng": [
+            -37.8712,
+            144.901069
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635110591500,
+        "resource_state": 2,
+        "name": "Bracksie's bumps sprint (eastbound)",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 150,
+        "moving_time": 150,
+        "start_date": "2026-01-18T00:54:00Z",
+        "start_date_local": "2026-01-18T11:54:00Z",
+        "distance": 734.66,
+        "start_index": 1220,
+        "end_index": 1253,
+        "device_watts": false,
+        "average_heartrate": 94.2,
+        "max_heartrate": 107,
+        "segment": {
+          "id": 857630,
+          "resource_state": 2,
+          "name": "Bracksie's bumps sprint (eastbound)",
+          "activity_type": "Ride",
+          "distance": 734.66,
+          "average_grade": -0.4,
+          "maximum_grade": 0,
+          "elevation_high": 2.4,
+          "elevation_low": -0.4,
+          "start_latlng": [
+            -37.87120074033737,
+            144.90519513376057
+          ],
+          "end_latlng": [
+            -37.86781193688512,
+            144.91216183640063
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635109367000,
+        "resource_state": 2,
+        "name": "FHRITP",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 900,
+        "moving_time": 856,
+        "start_date": "2026-01-18T00:54:00Z",
+        "start_date_local": "2026-01-18T11:54:00Z",
+        "distance": 3965.8,
+        "start_index": 1220,
+        "end_index": 1430,
+        "device_watts": false,
+        "average_heartrate": 97.7,
+        "max_heartrate": 118,
+        "segment": {
+          "id": 11677273,
+          "resource_state": 2,
+          "name": "FHRITP",
+          "activity_type": "Ride",
+          "distance": 3965.8,
+          "average_grade": -0.1,
+          "maximum_grade": 5,
+          "elevation_high": 11,
+          "elevation_low": 5.6,
+          "start_latlng": [
+            -37.871159,
+            144.905261
+          ],
+          "end_latlng": [
+            -37.846313,
+            144.894503
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": null,
+          "state": null,
+          "country": null,
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635109750000,
+        "resource_state": 2,
+        "name": "Kanowna Moaner",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 64,
+        "moving_time": 64,
+        "start_date": "2026-01-18T00:56:54Z",
+        "start_date_local": "2026-01-18T11:56:54Z",
+        "distance": 339.2,
+        "start_index": 1262,
+        "end_index": 1282,
+        "device_watts": false,
+        "average_heartrate": 92.1,
+        "max_heartrate": 100,
+        "segment": {
+          "id": 6383709,
+          "resource_state": 2,
+          "name": "Kanowna Moaner",
+          "activity_type": "Ride",
+          "distance": 339.2,
+          "average_grade": -0.9,
+          "maximum_grade": 1,
+          "elevation_high": 20,
+          "elevation_low": 16.4,
+          "start_latlng": [
+            -37.867093,
+            144.913013
+          ],
+          "end_latlng": [
+            -37.864999,
+            144.910351
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635109334000,
+        "resource_state": 2,
+        "name": "The full nelson",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 313,
+        "moving_time": 300,
+        "start_date": "2026-01-18T00:57:00Z",
+        "start_date_local": "2026-01-18T11:57:00Z",
+        "distance": 1353.9,
+        "start_index": 1267,
+        "end_index": 1339,
+        "device_watts": false,
+        "average_heartrate": 99.4,
+        "max_heartrate": 110,
+        "segment": {
+          "id": 10855331,
+          "resource_state": 2,
+          "name": "The full nelson",
+          "activity_type": "Ride",
+          "distance": 1353.9,
+          "average_grade": -0.2,
+          "maximum_grade": 0.5,
+          "elevation_high": 0.8,
+          "elevation_low": -1.4,
+          "start_latlng": [
+            -37.866806,
+            144.913011
+          ],
+          "end_latlng": [
+            -37.859668,
+            144.902002
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635106704400,
+        "resource_state": 2,
+        "name": "Rosseau Street Climb",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 87,
+        "moving_time": 87,
+        "start_date": "2026-01-18T00:58:24Z",
+        "start_date_local": "2026-01-18T11:58:24Z",
+        "distance": 429,
+        "start_index": 1289,
+        "end_index": 1308,
+        "device_watts": false,
+        "average_heartrate": 101.9,
+        "max_heartrate": 106,
+        "segment": {
+          "id": 3785473,
+          "resource_state": 2,
+          "name": "Rosseau Street Climb",
+          "activity_type": "Ride",
+          "distance": 429,
+          "average_grade": 0.2,
+          "maximum_grade": 2.5,
+          "elevation_high": 9,
+          "elevation_low": 7,
+          "start_latlng": [
+            -37.86454207263887,
+            144.9088119249791
+          ],
+          "end_latlng": [
+            -37.86303676664829,
+            144.90438259206712
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635109480400,
+        "resource_state": 2,
+        "name": "Willy Roundabout sprints",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 129,
+        "moving_time": 116,
+        "start_date": "2026-01-18T01:00:17Z",
+        "start_date_local": "2026-01-18T12:00:17Z",
+        "distance": 401.7,
+        "start_index": 1312,
+        "end_index": 1342,
+        "device_watts": false,
+        "average_heartrate": 102.4,
+        "max_heartrate": 110,
+        "segment": {
+          "id": 20586459,
+          "resource_state": 2,
+          "name": "Willy Roundabout sprints",
+          "activity_type": "Ride",
+          "distance": 401.7,
+          "average_grade": -0.2,
+          "maximum_grade": 5,
+          "elevation_high": 10.9,
+          "elevation_low": 5.4,
+          "start_latlng": [
+            -37.862709,
+            144.903088
+          ],
+          "end_latlng": [
+            -37.859278,
+            144.902003
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635109683000,
+        "resource_state": 2,
+        "name": "JP - speeds to impress the ladies",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 492,
+        "moving_time": 448,
+        "start_date": "2026-01-18T01:00:34Z",
+        "start_date_local": "2026-01-18T12:00:34Z",
+        "distance": 1965.8,
+        "start_index": 1317,
+        "end_index": 1428,
+        "device_watts": false,
+        "average_heartrate": 99.3,
+        "max_heartrate": 118,
+        "segment": {
+          "id": 31096140,
+          "resource_state": 2,
+          "name": "JP - speeds to impress the ladies",
+          "activity_type": "Ride",
+          "distance": 1965.8,
+          "average_grade": 0,
+          "maximum_grade": 3.7,
+          "elevation_high": 21.4,
+          "elevation_low": 17.6,
+          "start_latlng": [
+            -37.862223,
+            144.902764
+          ],
+          "end_latlng": [
+            -37.847011,
+            144.894234
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635110542300,
+        "resource_state": 2,
+        "name": "The Strand TT from roundabout",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 332,
+        "moving_time": 332,
+        "start_date": "2026-01-18T01:03:54Z",
+        "start_date_local": "2026-01-18T12:03:54Z",
+        "distance": 1759.1,
+        "start_index": 1365,
+        "end_index": 1436,
+        "device_watts": false,
+        "average_heartrate": 100.4,
+        "max_heartrate": 118,
+        "segment": {
+          "id": 5485152,
+          "resource_state": 2,
+          "name": "The Strand TT from roundabout",
+          "activity_type": "Ride",
+          "distance": 1759.1,
+          "average_grade": -0.2,
+          "maximum_grade": 2.8,
+          "elevation_high": -3.8,
+          "elevation_low": -7,
+          "start_latlng": [
+            -37.858762,
+            144.902078
+          ],
+          "end_latlng": [
+            -37.845429,
+            144.894808
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635109461000,
+        "resource_state": 2,
+        "name": "Strand Lead Out",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 206,
+        "moving_time": 206,
+        "start_date": "2026-01-18T01:03:54Z",
+        "start_date_local": "2026-01-18T12:03:54Z",
+        "distance": 1106.6,
+        "start_index": 1365,
+        "end_index": 1409,
+        "device_watts": false,
+        "average_heartrate": 97.2,
+        "max_heartrate": 114,
+        "segment": {
+          "id": 32975134,
+          "resource_state": 2,
+          "name": "Strand Lead Out",
+          "activity_type": "Ride",
+          "distance": 1106.6,
+          "average_grade": -0.4,
+          "maximum_grade": 0.9,
+          "elevation_high": -3.2,
+          "elevation_low": -8.4,
+          "start_latlng": [
+            -37.858803,
+            144.902106
+          ],
+          "end_latlng": [
+            -37.850541,
+            144.89668
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635108191000,
+        "resource_state": 2,
+        "name": "Anchorage - Duck Pond Sprint",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 113,
+        "moving_time": 113,
+        "start_date": "2026-01-18T01:05:44Z",
+        "start_date_local": "2026-01-18T12:05:44Z",
+        "distance": 643.35,
+        "start_index": 1390,
+        "end_index": 1413,
+        "device_watts": false,
+        "average_heartrate": 102,
+        "max_heartrate": 117,
+        "segment": {
+          "id": 878040,
+          "resource_state": 2,
+          "name": "Anchorage - Duck Pond Sprint",
+          "activity_type": "Ride",
+          "distance": 643.35,
+          "average_grade": -0.2,
+          "maximum_grade": 0.9,
+          "elevation_high": 11.4,
+          "elevation_low": 9.4,
+          "start_latlng": [
+            -37.854051534086466,
+            144.90103410556912
+          ],
+          "end_latlng": [
+            -37.85000776872039,
+            144.8958768043667
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635109344000,
+        "resource_state": 2,
+        "name": "5:40 big sprint finish",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 71,
+        "moving_time": 71,
+        "start_date": "2026-01-18T01:07:43Z",
+        "start_date_local": "2026-01-18T12:07:43Z",
+        "distance": 387.8,
+        "start_index": 1414,
+        "end_index": 1429,
+        "device_watts": false,
+        "average_heartrate": 105.3,
+        "max_heartrate": 118,
+        "segment": {
+          "id": 21252797,
+          "resource_state": 2,
+          "name": "5:40 big sprint finish",
+          "activity_type": "Ride",
+          "distance": 387.8,
+          "average_grade": -0.2,
+          "maximum_grade": 1,
+          "elevation_high": 11.8,
+          "elevation_low": 10,
+          "start_latlng": [
+            -37.849797,
+            144.895648
+          ],
+          "end_latlng": [
+            -37.846646,
+            144.894377
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Newport",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635108478000,
+        "resource_state": 2,
+        "name": "Dont hold back, watch the traffic island",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 61,
+        "moving_time": 61,
+        "start_date": "2026-01-18T01:08:14Z",
+        "start_date_local": "2026-01-18T12:08:14Z",
+        "distance": 336.6,
+        "start_index": 1421,
+        "end_index": 1434,
+        "device_watts": false,
+        "average_heartrate": 100.2,
+        "max_heartrate": 105,
+        "segment": {
+          "id": 4465969,
+          "resource_state": 2,
+          "name": "Dont hold back, watch the traffic island",
+          "activity_type": "Ride",
+          "distance": 336.6,
+          "average_grade": -1.2,
+          "maximum_grade": 0,
+          "elevation_high": -21.6,
+          "elevation_low": -25.8,
+          "start_latlng": [
+            -37.848681,
+            144.894661
+          ],
+          "end_latlng": [
+            -37.845767,
+            144.894754
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Williamstown",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635105180700,
+        "resource_state": 2,
+        "name": "Power to Gate",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 388,
+        "moving_time": 377,
+        "start_date": "2026-01-18T01:12:36Z",
+        "start_date_local": "2026-01-18T12:12:36Z",
+        "distance": 1684.4,
+        "start_index": 1479,
+        "end_index": 1599,
+        "device_watts": false,
+        "average_heartrate": 98.6,
+        "max_heartrate": 112,
+        "segment": {
+          "id": 4171332,
+          "resource_state": 2,
+          "name": "Power to Gate",
+          "activity_type": "Ride",
+          "distance": 1684.4,
+          "average_grade": 0.2,
+          "maximum_grade": 20.5,
+          "elevation_high": 15.8,
+          "elevation_low": 2.6,
+          "start_latlng": [
+            -37.842044,
+            144.896994
+          ],
+          "end_latlng": [
+            -37.82796,
+            144.895096
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Port Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103525000,
+        "resource_state": 2,
+        "name": "The last Sh*t Bit",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 399,
+        "moving_time": 360,
+        "start_date": "2026-01-18T01:15:34Z",
+        "start_date_local": "2026-01-18T12:15:34Z",
+        "distance": 1598,
+        "start_index": 1536,
+        "end_index": 1641,
+        "device_watts": false,
+        "average_heartrate": 109.8,
+        "max_heartrate": 136,
+        "segment": {
+          "id": 27651459,
+          "resource_state": 2,
+          "name": "The last Sh*t Bit",
+          "activity_type": "Ride",
+          "distance": 1598,
+          "average_grade": 0.5,
+          "maximum_grade": 3.3,
+          "elevation_high": 15.6,
+          "elevation_low": 7.5,
+          "start_latlng": [
+            -37.835778,
+            144.894838
+          ],
+          "end_latlng": [
+            -37.821934,
+            144.895937
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Spotswood",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103650000,
+        "resource_state": 2,
+        "name": "Hyde from Willy",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 174,
+        "moving_time": 174,
+        "start_date": "2026-01-18T01:16:48Z",
+        "start_date_local": "2026-01-18T12:16:48Z",
+        "distance": 764.7,
+        "start_index": 1556,
+        "end_index": 1608,
+        "device_watts": false,
+        "average_heartrate": 103,
+        "max_heartrate": 112,
+        "segment": {
+          "id": 3922544,
+          "resource_state": 2,
+          "name": "Hyde from Willy",
+          "activity_type": "Ride",
+          "distance": 764.7,
+          "average_grade": -0.3,
+          "maximum_grade": 2.7,
+          "elevation_high": -17.4,
+          "elevation_low": -20,
+          "start_latlng": [
+            -37.832789,
+            144.895066
+          ],
+          "end_latlng": [
+            -37.826229,
+            144.89499
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Port Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635107385300,
+        "resource_state": 2,
+        "name": "Latte Not Far",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 86,
+        "moving_time": 86,
+        "start_date": "2026-01-18T01:17:03Z",
+        "start_date_local": "2026-01-18T12:17:03Z",
+        "distance": 365.4,
+        "start_index": 1562,
+        "end_index": 1588,
+        "device_watts": false,
+        "average_heartrate": 100.3,
+        "max_heartrate": 106,
+        "segment": {
+          "id": 13978705,
+          "resource_state": 2,
+          "name": "Latte Not Far",
+          "activity_type": "Ride",
+          "distance": 365.4,
+          "average_grade": 1,
+          "maximum_grade": 7.9,
+          "elevation_high": 8.2,
+          "elevation_low": 3.8,
+          "start_latlng": [
+            -37.832081,
+            144.895097
+          ],
+          "end_latlng": [
+            -37.828878,
+            144.895571
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Spotswood",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103363000,
+        "resource_state": 2,
+        "name": "Climb from Punt to the Mobil lights",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 222,
+        "moving_time": 222,
+        "start_date": "2026-01-18T01:17:34Z",
+        "start_date_local": "2026-01-18T12:17:34Z",
+        "distance": 962.855,
+        "start_index": 1569,
+        "end_index": 1630,
+        "device_watts": false,
+        "average_heartrate": 109.2,
+        "max_heartrate": 135,
+        "segment": {
+          "id": 1289567,
+          "resource_state": 2,
+          "name": "Climb from Punt to the Mobil lights",
+          "activity_type": "Ride",
+          "distance": 962.855,
+          "average_grade": -0.1,
+          "maximum_grade": 4.7,
+          "elevation_high": 13.4,
+          "elevation_low": 6.5,
+          "start_latlng": [
+            -37.83087909221649,
+            144.89530205726624
+          ],
+          "end_latlng": [
+            -37.822542786598206,
+            144.89575266838074
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Port Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635104474000,
+        "resource_state": 2,
+        "name": "Hyde St Bash",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 225,
+        "moving_time": 186,
+        "start_date": "2026-01-18T01:18:27Z",
+        "start_date_local": "2026-01-18T12:18:27Z",
+        "distance": 813,
+        "start_index": 1586,
+        "end_index": 1640,
+        "device_watts": false,
+        "average_heartrate": 117.2,
+        "max_heartrate": 136,
+        "segment": {
+          "id": 5420382,
+          "resource_state": 2,
+          "name": "Hyde St Bash",
+          "activity_type": "Ride",
+          "distance": 813,
+          "average_grade": 0.7,
+          "maximum_grade": 5.5,
+          "elevation_high": 19.4,
+          "elevation_low": 12.6,
+          "start_latlng": [
+            -37.829041,
+            144.895629
+          ],
+          "end_latlng": [
+            -37.822002,
+            144.895768
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Port Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635104825300,
+        "resource_state": 2,
+        "name": "The last push",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 124,
+        "moving_time": 124,
+        "start_date": "2026-01-18T01:19:16Z",
+        "start_date_local": "2026-01-18T12:19:16Z",
+        "distance": 574.6,
+        "start_index": 1604,
+        "end_index": 1631,
+        "device_watts": false,
+        "average_heartrate": 114.9,
+        "max_heartrate": 136,
+        "segment": {
+          "id": 6069134,
+          "resource_state": 2,
+          "name": "The last push",
+          "activity_type": "Ride",
+          "distance": 574.6,
+          "average_grade": 0.6,
+          "maximum_grade": 4.7,
+          "elevation_high": 67.8,
+          "elevation_low": 62.2,
+          "start_latlng": [
+            -37.82742,
+            144.894762
+          ],
+          "end_latlng": [
+            -37.822314,
+            144.89572
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Spotswood",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635104556000,
+        "resource_state": 2,
+        "name": "Keilor riders - Everyone has the sh!ts now",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 352,
+        "moving_time": 313,
+        "start_date": "2026-01-18T01:19:18Z",
+        "start_date_local": "2026-01-18T12:19:18Z",
+        "distance": 1506.8,
+        "start_index": 1605,
+        "end_index": 1677,
+        "device_watts": false,
+        "average_heartrate": 115.7,
+        "max_heartrate": 136,
+        "segment": {
+          "id": 31096146,
+          "resource_state": 2,
+          "name": "Keilor riders - Everyone has the sh!ts now",
+          "activity_type": "Ride",
+          "distance": 1506.8,
+          "average_grade": 0.6,
+          "maximum_grade": 4.4,
+          "elevation_high": 31.6,
+          "elevation_low": 19.4,
+          "start_latlng": [
+            -37.827368,
+            144.894829
+          ],
+          "end_latlng": [
+            -37.814003,
+            144.897138
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Spotswood",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635104022500,
+        "resource_state": 2,
+        "name": "Mobil lights at Hyde St to Whitehall St corner",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 290,
+        "moving_time": 231,
+        "start_date": "2026-01-18T01:22:13Z",
+        "start_date_local": "2026-01-18T12:22:13Z",
+        "distance": 1055.9,
+        "start_index": 1641,
+        "end_index": 1707,
+        "device_watts": false,
+        "average_heartrate": 102.5,
+        "max_heartrate": 130,
+        "segment": {
+          "id": 4848662,
+          "resource_state": 2,
+          "name": "Mobil lights at Hyde St to Whitehall St corner",
+          "activity_type": "Ride",
+          "distance": 1055.9,
+          "average_grade": -0.5,
+          "maximum_grade": 3,
+          "elevation_high": 17.7,
+          "elevation_low": 8.3,
+          "start_latlng": [
+            -37.821889,
+            144.895756
+          ],
+          "end_latlng": [
+            -37.814645,
+            144.899643
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Yarraville",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635104890000,
+        "resource_state": 2,
+        "name": "Marcello's Mile",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 103,
+        "moving_time": 103,
+        "start_date": "2026-01-18T01:22:26Z",
+        "start_date_local": "2026-01-18T12:22:26Z",
+        "distance": 487.7,
+        "start_index": 1643,
+        "end_index": 1659,
+        "device_watts": false,
+        "average_heartrate": 116.6,
+        "max_heartrate": 130,
+        "segment": {
+          "id": 13242688,
+          "resource_state": 2,
+          "name": "Marcello's Mile",
+          "activity_type": "Ride",
+          "distance": 487.7,
+          "average_grade": 0.9,
+          "maximum_grade": 2.5,
+          "elevation_high": 17.8,
+          "elevation_low": 13.5,
+          "start_latlng": [
+            -37.821705,
+            144.895767
+          ],
+          "end_latlng": [
+            -37.817368,
+            144.896561
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Yarraville",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103500300,
+        "resource_state": 2,
+        "name": "Watchout for the bollards Katharine!",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 46,
+        "moving_time": 46,
+        "start_date": "2026-01-18T01:24:02Z",
+        "start_date_local": "2026-01-18T12:24:02Z",
+        "distance": 301,
+        "start_index": 1658,
+        "end_index": 1668,
+        "device_watts": false,
+        "average_heartrate": 105.2,
+        "max_heartrate": 111,
+        "segment": {
+          "id": 19371729,
+          "resource_state": 2,
+          "name": "Watchout for the bollards Katharine!",
+          "activity_type": "Ride",
+          "distance": 301,
+          "average_grade": -1.1,
+          "maximum_grade": 2,
+          "elevation_high": 38.8,
+          "elevation_low": 34.4,
+          "start_latlng": [
+            -37.817818,
+            144.896518
+          ],
+          "end_latlng": [
+            -37.815276,
+            144.89695
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Yarraville",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635102660600,
+        "resource_state": 2,
+        "name": "No stopping for the Taco Truck",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 31,
+        "moving_time": 31,
+        "start_date": "2026-01-18T01:25:15Z",
+        "start_date_local": "2026-01-18T12:25:15Z",
+        "distance": 186.4,
+        "start_index": 1680,
+        "end_index": 1690,
+        "device_watts": false,
+        "average_heartrate": 84.8,
+        "max_heartrate": 87,
+        "segment": {
+          "id": 6592775,
+          "resource_state": 2,
+          "name": "No stopping for the Taco Truck",
+          "activity_type": "Ride",
+          "distance": 186.4,
+          "average_grade": -3.9,
+          "maximum_grade": 0,
+          "elevation_high": 15.5,
+          "elevation_low": 8.1,
+          "start_latlng": [
+            -37.814307,
+            144.897554
+          ],
+          "end_latlng": [
+            -37.814559,
+            144.899647
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Footscray",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103165400,
+        "resource_state": 2,
+        "name": "Don't stop for a picnic",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 245,
+        "moving_time": 143,
+        "start_date": "2026-01-18T01:25:20Z",
+        "start_date_local": "2026-01-18T12:25:20Z",
+        "distance": 430.1,
+        "start_index": 1681,
+        "end_index": 1733,
+        "device_watts": false,
+        "average_heartrate": 103.2,
+        "max_heartrate": 121,
+        "segment": {
+          "id": 19885723,
+          "resource_state": 2,
+          "name": "Don't stop for a picnic",
+          "activity_type": "Ride",
+          "distance": 430.1,
+          "average_grade": -1.7,
+          "maximum_grade": 2,
+          "elevation_high": 13.2,
+          "elevation_low": 4.9,
+          "start_latlng": [
+            -37.814514,
+            144.89797
+          ],
+          "end_latlng": [
+            -37.81227,
+            144.900993
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Yarraville",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635105749000,
+        "resource_state": 2,
+        "name": "Whitehall St 1km dash",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 325,
+        "moving_time": 201,
+        "start_date": "2026-01-18T01:25:58Z",
+        "start_date_local": "2026-01-18T12:25:58Z",
+        "distance": 653.73,
+        "start_index": 1693,
+        "end_index": 1761,
+        "device_watts": false,
+        "average_heartrate": 105.1,
+        "max_heartrate": 121,
+        "segment": {
+          "id": 1149676,
+          "resource_state": 2,
+          "name": "Whitehall St 1km dash",
+          "activity_type": "Ride",
+          "distance": 653.73,
+          "average_grade": -0.9,
+          "maximum_grade": 0,
+          "elevation_high": -19.8,
+          "elevation_low": -25.6,
+          "start_latlng": [
+            -37.81439742073417,
+            144.89978880621493
+          ],
+          "end_latlng": [
+            -37.808881206437945,
+            144.9023819155991
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Footscray",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103920000,
+        "resource_state": 2,
+        "name": "Trucks and shit bridge ",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 748,
+        "moving_time": 564,
+        "start_date": "2026-01-18T01:25:58Z",
+        "start_date_local": "2026-01-18T12:25:58Z",
+        "distance": 2067.7,
+        "start_index": 1693,
+        "end_index": 1875,
+        "device_watts": false,
+        "average_heartrate": 118.3,
+        "max_heartrate": 149,
+        "segment": {
+          "id": 7298282,
+          "resource_state": 2,
+          "name": "Trucks and shit bridge ",
+          "activity_type": "Ride",
+          "distance": 2067.7,
+          "average_grade": -0.1,
+          "maximum_grade": 4,
+          "elevation_high": 12.3,
+          "elevation_low": 3.1,
+          "start_latlng": [
+            -37.814364,
+            144.899856
+          ],
+          "end_latlng": [
+            -37.80774,
+            144.914893
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Footscray",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103376400,
+        "resource_state": 2,
+        "name": "whitehall sprint",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 200,
+        "moving_time": 168,
+        "start_date": "2026-01-18T01:28:30Z",
+        "start_date_local": "2026-01-18T12:28:30Z",
+        "distance": 801.19,
+        "start_index": 1721,
+        "end_index": 1766,
+        "device_watts": false,
+        "average_heartrate": 106.3,
+        "max_heartrate": 119,
+        "segment": {
+          "id": 1142589,
+          "resource_state": 2,
+          "name": "whitehall sprint",
+          "activity_type": "Ride",
+          "distance": 801.19,
+          "average_grade": -0.6,
+          "maximum_grade": -0.2,
+          "elevation_high": 10.8,
+          "elevation_low": 5.6,
+          "start_latlng": [
+            -37.81445341184735,
+            144.89988243207335
+          ],
+          "end_latlng": [
+            -37.80766532756388,
+            144.9029820598662
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Footscray",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635104512000,
+        "resource_state": 2,
+        "name": "Shepherds Bridge - drop the hammer",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 126,
+        "moving_time": 87,
+        "start_date": "2026-01-18T01:33:18Z",
+        "start_date_local": "2026-01-18T12:33:18Z",
+        "distance": 271,
+        "start_index": 1790,
+        "end_index": 1826,
+        "device_watts": false,
+        "average_heartrate": 134,
+        "max_heartrate": 148,
+        "segment": {
+          "id": 8587518,
+          "resource_state": 2,
+          "name": "Shepherds Bridge - drop the hammer",
+          "activity_type": "Ride",
+          "distance": 271,
+          "average_grade": 1.3,
+          "maximum_grade": 2.6,
+          "elevation_high": 34,
+          "elevation_low": 29.2,
+          "start_latlng": [
+            -37.805575,
+            144.905929
+          ],
+          "end_latlng": [
+            -37.806412,
+            144.908823
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "West Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103846400,
+        "resource_state": 2,
+        "name": "Chasing the Dragon  to Moone Ponds Creek Trail",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 690,
+        "moving_time": 674,
+        "start_date": "2026-01-18T01:35:30Z",
+        "start_date_local": "2026-01-18T12:35:30Z",
+        "distance": 3046.6,
+        "start_index": 1829,
+        "end_index": 2044,
+        "device_watts": false,
+        "average_heartrate": 120.6,
+        "max_heartrate": 149,
+        "segment": {
+          "id": 40612205,
+          "resource_state": 2,
+          "name": "Chasing the Dragon  to Moone Ponds Creek Trail",
+          "activity_type": "Ride",
+          "distance": 3046.6,
+          "average_grade": -0.2,
+          "maximum_grade": 5.4,
+          "elevation_high": 21,
+          "elevation_low": 0.6,
+          "start_latlng": [
+            -37.806764,
+            144.908466
+          ],
+          "end_latlng": [
+            -37.804593,
+            144.936508
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635102597000,
+        "resource_state": 2,
+        "name": "Footscary Road Seg 1 - East bound",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 117,
+        "moving_time": 101,
+        "start_date": "2026-01-18T01:36:37Z",
+        "start_date_local": "2026-01-18T12:36:37Z",
+        "distance": 470.3,
+        "start_index": 1849,
+        "end_index": 1878,
+        "device_watts": false,
+        "average_heartrate": 142.5,
+        "max_heartrate": 149,
+        "segment": {
+          "id": 9133168,
+          "resource_state": 2,
+          "name": "Footscary Road Seg 1 - East bound",
+          "activity_type": "Ride",
+          "distance": 470.3,
+          "average_grade": 0,
+          "maximum_grade": 0,
+          "elevation_high": -16.2,
+          "elevation_low": -16.2,
+          "start_latlng": [
+            -37.807094,
+            144.91011
+          ],
+          "end_latlng": [
+            -37.807798,
+            144.915357
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "West Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103392000,
+        "resource_state": 2,
+        "name": "Moonee Ponds Ck - Footscray Rd to Arden St",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 262,
+        "moving_time": 262,
+        "start_date": "2026-01-18T01:44:56Z",
+        "start_date_local": "2026-01-18T12:44:56Z",
+        "distance": 1233,
+        "start_index": 1994,
+        "end_index": 2088,
+        "device_watts": false,
+        "average_heartrate": 105.3,
+        "max_heartrate": 121,
+        "segment": {
+          "id": 858129,
+          "resource_state": 2,
+          "name": "Moonee Ponds Ck - Footscray Rd to Arden St",
+          "activity_type": "Ride",
+          "distance": 1233,
+          "average_grade": 0.6,
+          "maximum_grade": 42.6,
+          "elevation_high": 29,
+          "elevation_low": -38,
+          "start_latlng": [
+            -37.80937753106995,
+            144.9363869979052
+          ],
+          "end_latlng": [
+            -37.799205635135486,
+            144.93635035548886
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "West Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635106045000,
+        "resource_state": 2,
+        "name": "Capital City Trail - Footscray to Flemington Rd",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 560,
+        "moving_time": 560,
+        "start_date": "2026-01-18T01:44:56Z",
+        "start_date_local": "2026-01-18T12:44:56Z",
+        "distance": 2675.6,
+        "start_index": 1994,
+        "end_index": 2162,
+        "device_watts": false,
+        "average_heartrate": 107.9,
+        "max_heartrate": 121,
+        "segment": {
+          "id": 6893990,
+          "resource_state": 2,
+          "name": "Capital City Trail - Footscray to Flemington Rd",
+          "activity_type": "Ride",
+          "distance": 2675.6,
+          "average_grade": 0,
+          "maximum_grade": 4.5,
+          "elevation_high": -25.8,
+          "elevation_low": -28.8,
+          "start_latlng": [
+            -37.809507,
+            144.93638
+          ],
+          "end_latlng": [
+            -37.787534,
+            144.939829
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "West Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635105272000,
+        "resource_state": 2,
+        "name": "Footscray Rd (second underpass) to McPherson Baseball Field",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 880,
+        "moving_time": 880,
+        "start_date": "2026-01-18T01:46:17Z",
+        "start_date_local": "2026-01-18T12:46:17Z",
+        "distance": 3556,
+        "start_index": 2022,
+        "end_index": 2272,
+        "device_watts": false,
+        "average_heartrate": 117.9,
+        "max_heartrate": 162,
+        "segment": {
+          "id": 8430399,
+          "resource_state": 2,
+          "name": "Footscray Rd (second underpass) to McPherson Baseball Field",
+          "activity_type": "Ride",
+          "distance": 3556,
+          "average_grade": 0.9,
+          "maximum_grade": 13.4,
+          "elevation_high": 17,
+          "elevation_low": -17.8,
+          "start_latlng": [
+            -37.806311,
+            144.936159
+          ],
+          "end_latlng": [
+            -37.780908,
+            144.949632
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "West Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103160300,
+        "resource_state": 2,
+        "name": "Dynon Rd to Macaulay Station",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 239,
+        "moving_time": 239,
+        "start_date": "2026-01-18T01:46:52Z",
+        "start_date_local": "2026-01-18T12:46:52Z",
+        "distance": 1212.5,
+        "start_index": 2037,
+        "end_index": 2110,
+        "device_watts": false,
+        "average_heartrate": 109.5,
+        "max_heartrate": 121,
+        "segment": {
+          "id": 8335493,
+          "resource_state": 2,
+          "name": "Dynon Rd to Macaulay Station",
+          "activity_type": "Ride",
+          "distance": 1212.5,
+          "average_grade": 0.1,
+          "maximum_grade": 14.8,
+          "elevation_high": -30.8,
+          "elevation_low": -38.8,
+          "start_latlng": [
+            -37.804964,
+            144.936466
+          ],
+          "end_latlng": [
+            -37.794941,
+            144.935854
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "West Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103348700,
+        "resource_state": 2,
+        "name": "GM's SUPERSPRINT",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 128,
+        "moving_time": 128,
+        "start_date": "2026-01-18T01:48:15Z",
+        "start_date_local": "2026-01-18T12:48:15Z",
+        "distance": 678.3,
+        "start_index": 2069,
+        "end_index": 2100,
+        "device_watts": false,
+        "average_heartrate": 111.3,
+        "max_heartrate": 119,
+        "segment": {
+          "id": 27230811,
+          "resource_state": 2,
+          "name": "GM's SUPERSPRINT",
+          "activity_type": "Ride",
+          "distance": 678.3,
+          "average_grade": 0,
+          "maximum_grade": 4.3,
+          "elevation_high": -5.4,
+          "elevation_low": -6.8,
+          "start_latlng": [
+            -37.80198,
+            144.936516
+          ],
+          "end_latlng": [
+            -37.796219,
+            144.935881
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "North Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635105986600,
+        "resource_state": 2,
+        "name": "Bridge to Flemington Rd",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 337,
+        "moving_time": 337,
+        "start_date": "2026-01-18T01:48:19Z",
+        "start_date_local": "2026-01-18T12:48:19Z",
+        "distance": 1646.8,
+        "start_index": 2070,
+        "end_index": 2157,
+        "device_watts": false,
+        "average_heartrate": 110.9,
+        "max_heartrate": 119,
+        "segment": {
+          "id": 7704043,
+          "resource_state": 2,
+          "name": "Bridge to Flemington Rd",
+          "activity_type": "Ride",
+          "distance": 1646.8,
+          "average_grade": 0.6,
+          "maximum_grade": 7,
+          "elevation_high": 18.5,
+          "elevation_low": 4.5,
+          "start_latlng": [
+            -37.801879,
+            144.936674
+          ],
+          "end_latlng": [
+            -37.787673,
+            144.938849
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "North Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103458300,
+        "resource_state": 2,
+        "name": "Macaulay Rd to The Ministry of Dance",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 83,
+        "moving_time": 83,
+        "start_date": "2026-01-18T01:50:48Z",
+        "start_date_local": "2026-01-18T12:50:48Z",
+        "distance": 443.5,
+        "start_index": 2109,
+        "end_index": 2127,
+        "device_watts": false,
+        "average_heartrate": 108.7,
+        "max_heartrate": 111,
+        "segment": {
+          "id": 8335504,
+          "resource_state": 2,
+          "name": "Macaulay Rd to The Ministry of Dance",
+          "activity_type": "Ride",
+          "distance": 443.5,
+          "average_grade": 0.5,
+          "maximum_grade": 3.3,
+          "elevation_high": -32.2,
+          "elevation_low": -36.8,
+          "start_latlng": [
+            -37.79506,
+            144.935837
+          ],
+          "end_latlng": [
+            -37.791203,
+            144.936581
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "North Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635102673000,
+        "resource_state": 2,
+        "name": "Macaulay Rd to Park St ",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 908,
+        "moving_time": 883,
+        "start_date": "2026-01-18T01:51:11Z",
+        "start_date_local": "2026-01-18T12:51:11Z",
+        "distance": 3026.1,
+        "start_index": 2114,
+        "end_index": 2363,
+        "device_watts": false,
+        "average_heartrate": 126.7,
+        "max_heartrate": 162,
+        "segment": {
+          "id": 16545202,
+          "resource_state": 2,
+          "name": "Macaulay Rd to Park St ",
+          "activity_type": "Ride",
+          "distance": 3026.1,
+          "average_grade": 1.3,
+          "maximum_grade": 32.4,
+          "elevation_high": 54.4,
+          "elevation_low": 12.2,
+          "start_latlng": [
+            -37.794152,
+            144.935889
+          ],
+          "end_latlng": [
+            -37.778383,
+            144.958054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": null,
+          "state": null,
+          "country": null,
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635105683500,
+        "resource_state": 2,
+        "name": "Poplar TT",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 317,
+        "moving_time": 317,
+        "start_date": "2026-01-18T01:55:45Z",
+        "start_date_local": "2026-01-18T12:55:45Z",
+        "distance": 1095.09,
+        "start_index": 2188,
+        "end_index": 2274,
+        "device_watts": false,
+        "average_heartrate": 125.7,
+        "max_heartrate": 162,
+        "segment": {
+          "id": 1190579,
+          "resource_state": 2,
+          "name": "Poplar TT",
+          "activity_type": "Ride",
+          "distance": 1095.09,
+          "average_grade": 1.7,
+          "maximum_grade": 6.2,
+          "elevation_high": 33.7,
+          "elevation_low": 14.4,
+          "start_latlng": [
+            -37.7873779,
+            144.9407492
+          ],
+          "end_latlng": [
+            -37.7808938,
+            144.9498779
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "North Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635106574300,
+        "resource_state": 2,
+        "name": "Three up One Down",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 484,
+        "moving_time": 459,
+        "start_date": "2026-01-18T01:56:44Z",
+        "start_date_local": "2026-01-18T12:56:44Z",
+        "distance": 1476.3,
+        "start_index": 2204,
+        "end_index": 2337,
+        "device_watts": false,
+        "average_heartrate": 131.6,
+        "max_heartrate": 162,
+        "segment": {
+          "id": 6872456,
+          "resource_state": 2,
+          "name": "Three up One Down",
+          "activity_type": "Ride",
+          "distance": 1476.3,
+          "average_grade": 2.2,
+          "maximum_grade": 12.9,
+          "elevation_high": 34,
+          "elevation_low": 0.8,
+          "start_latlng": [
+            -37.786504,
+            144.942465
+          ],
+          "end_latlng": [
+            -37.78105,
+            144.955572
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "North Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635105949700,
+        "resource_state": 2,
+        "name": "Russian Rollercoaster",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 80,
+        "moving_time": 80,
+        "start_date": "2026-01-18T01:59:20Z",
+        "start_date_local": "2026-01-18T12:59:20Z",
+        "distance": 306.5,
+        "start_index": 2237,
+        "end_index": 2268,
+        "device_watts": false,
+        "average_heartrate": 106.3,
+        "max_heartrate": 159,
+        "segment": {
+          "id": 14087362,
+          "resource_state": 2,
+          "name": "Russian Rollercoaster",
+          "activity_type": "Ride",
+          "distance": 306.5,
+          "average_grade": 0,
+          "maximum_grade": 16.1,
+          "elevation_high": 26.2,
+          "elevation_low": 17,
+          "start_latlng": [
+            -37.782955,
+            144.946567
+          ],
+          "end_latlng": [
+            -37.781166,
+            144.949266
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkville",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635104059400,
+        "resource_state": 2,
+        "name": "zoo climb",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 86,
+        "moving_time": 86,
+        "start_date": "2026-01-18T01:59:52Z",
+        "start_date_local": "2026-01-18T12:59:52Z",
+        "distance": 240.7,
+        "start_index": 2248,
+        "end_index": 2279,
+        "device_watts": false,
+        "average_heartrate": 129.2,
+        "max_heartrate": 162,
+        "segment": {
+          "id": 8640775,
+          "resource_state": 2,
+          "name": "zoo climb",
+          "activity_type": "Ride",
+          "distance": 240.7,
+          "average_grade": 4.2,
+          "maximum_grade": 8.1,
+          "elevation_high": 188.4,
+          "elevation_low": 178.2,
+          "start_latlng": [
+            -37.781833,
+            144.94796
+          ],
+          "end_latlng": [
+            -37.78083,
+            144.950327
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkville",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103929300,
+        "resource_state": 2,
+        "name": "Don't touch that third rail...",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 133,
+        "moving_time": 108,
+        "start_date": "2026-01-18T02:00:57Z",
+        "start_date_local": "2026-01-18T13:00:57Z",
+        "distance": 289.7,
+        "start_index": 2272,
+        "end_index": 2310,
+        "device_watts": false,
+        "average_heartrate": 139.6,
+        "max_heartrate": 159,
+        "segment": {
+          "id": 8598469,
+          "resource_state": 2,
+          "name": "Don't touch that third rail...",
+          "activity_type": "Ride",
+          "distance": 289.7,
+          "average_grade": 2.5,
+          "maximum_grade": 4.3,
+          "elevation_high": 40.2,
+          "elevation_low": 33.1,
+          "start_latlng": [
+            -37.780919,
+            144.9497
+          ],
+          "end_latlng": [
+            -37.781451,
+            144.952474
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkville",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635105341400,
+        "resource_state": 2,
+        "name": "Crown Jewels (Royal Park to Jewell)",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 322,
+        "moving_time": 297,
+        "start_date": "2026-01-18T02:02:54Z",
+        "start_date_local": "2026-01-18T13:02:54Z",
+        "distance": 1112.1,
+        "start_index": 2304,
+        "end_index": 2397,
+        "device_watts": false,
+        "average_heartrate": 124.7,
+        "max_heartrate": 153,
+        "segment": {
+          "id": 3310231,
+          "resource_state": 2,
+          "name": "Crown Jewels (Royal Park to Jewell)",
+          "activity_type": "Ride",
+          "distance": 1112.1,
+          "average_grade": 1,
+          "maximum_grade": 6.7,
+          "elevation_high": 52.3,
+          "elevation_low": 38.8,
+          "start_latlng": [
+            -37.781442711129785,
+            144.95197269134223
+          ],
+          "end_latlng": [
+            -37.77492976281792,
+            144.95888466015458
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkville",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635104553000,
+        "resource_state": 2,
+        "name": "Poplar Hill",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 72,
+        "moving_time": 72,
+        "start_date": "2026-01-18T02:02:58Z",
+        "start_date_local": "2026-01-18T13:02:58Z",
+        "distance": 209.679,
+        "start_index": 2307,
+        "end_index": 2328,
+        "device_watts": false,
+        "average_heartrate": 138.7,
+        "max_heartrate": 150,
+        "segment": {
+          "id": 732593,
+          "resource_state": 2,
+          "name": "Poplar Hill",
+          "activity_type": "Ride",
+          "distance": 209.679,
+          "average_grade": 5.3,
+          "maximum_grade": 7.9,
+          "elevation_high": 13.4,
+          "elevation_low": 2.3,
+          "start_latlng": [
+            -37.781419,
+            144.952111
+          ],
+          "end_latlng": [
+            -37.781402,
+            144.954476
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkville",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635103508500,
+        "resource_state": 2,
+        "name": "Juice it up, beat the Train! ",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 158,
+        "moving_time": 158,
+        "start_date": "2026-01-18T02:03:49Z",
+        "start_date_local": "2026-01-18T13:03:49Z",
+        "distance": 623.3,
+        "start_index": 2322,
+        "end_index": 2365,
+        "device_watts": false,
+        "average_heartrate": 127.7,
+        "max_heartrate": 153,
+        "segment": {
+          "id": 8610197,
+          "resource_state": 2,
+          "name": "Juice it up, beat the Train! ",
+          "activity_type": "Ride",
+          "distance": 623.3,
+          "average_grade": 0.7,
+          "maximum_grade": 7.4,
+          "elevation_high": 50.6,
+          "elevation_low": 43.9,
+          "start_latlng": [
+            -37.78169,
+            144.953761
+          ],
+          "end_latlng": [
+            -37.778024,
+            144.958164
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Brunswick",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3447799635106078700,
+        "resource_state": 2,
+        "name": "Who was Albert? ",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 222,
+        "moving_time": 222,
+        "start_date": "2026-01-18T02:13:56Z",
+        "start_date_local": "2026-01-18T13:13:56Z",
+        "distance": 808.9,
+        "start_index": 2470,
+        "end_index": 2514,
+        "device_watts": false,
+        "average_heartrate": 110.6,
+        "max_heartrate": 121,
+        "segment": {
+          "id": 13806151,
+          "resource_state": 2,
+          "name": "Who was Albert? ",
+          "activity_type": "Ride",
+          "distance": 808.9,
+          "average_grade": -3.3,
+          "maximum_grade": 19.3,
+          "elevation_high": 55.6,
+          "elevation_low": 19,
+          "start_latlng": [
+            -37.768907,
+            144.962327
+          ],
+          "end_latlng": [
+            -37.769677,
+            144.971981
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Brunswick",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1005.5,
+        "elapsed_time": 444,
+        "elevation_difference": 1.8,
+        "moving_time": 344,
+        "split": 1,
+        "average_speed": 2.92,
+        "average_grade_adjusted_speed": 2.93,
+        "average_heartrate": 98.77325581395348,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1007.6,
+        "elapsed_time": 244,
+        "elevation_difference": 2.8,
+        "moving_time": 244,
+        "split": 2,
+        "average_speed": 4.13,
+        "average_grade_adjusted_speed": 4.16,
+        "average_heartrate": 105.09426229508196,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.7,
+        "elapsed_time": 232,
+        "elevation_difference": -0.4,
+        "moving_time": 232,
+        "split": 3,
+        "average_speed": 4.3,
+        "average_grade_adjusted_speed": 4.31,
+        "average_heartrate": 101.27155172413794,
+        "pace_zone": 0
+      },
+      {
+        "distance": 993.2,
+        "elapsed_time": 222,
+        "elevation_difference": -2.8,
+        "moving_time": 222,
+        "split": 4,
+        "average_speed": 4.47,
+        "average_grade_adjusted_speed": 4.47,
+        "average_heartrate": 101.81531531531532,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.2,
+        "elapsed_time": 205,
+        "elevation_difference": -0.8,
+        "moving_time": 205,
+        "split": 5,
+        "average_speed": 4.88,
+        "average_grade_adjusted_speed": 4.88,
+        "average_heartrate": 101.47317073170731,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1008.5,
+        "elapsed_time": 280,
+        "elevation_difference": -0.2,
+        "moving_time": 280,
+        "split": 6,
+        "average_speed": 3.6,
+        "average_grade_adjusted_speed": 3.6,
+        "average_heartrate": 102.85036496350365,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.4,
+        "elapsed_time": 196,
+        "elevation_difference": 0,
+        "moving_time": 196,
+        "split": 7,
+        "average_speed": 5.1,
+        "average_grade_adjusted_speed": 5.11,
+        "average_heartrate": 81.83163265306122,
+        "pace_zone": 0
+      },
+      {
+        "distance": 986.4,
+        "elapsed_time": 249,
+        "elevation_difference": 0.6,
+        "moving_time": 249,
+        "split": 8,
+        "average_speed": 3.96,
+        "average_grade_adjusted_speed": 3.97,
+        "average_heartrate": 92.03212851405623,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1014.1,
+        "elapsed_time": 231,
+        "elevation_difference": -0.2,
+        "moving_time": 231,
+        "split": 9,
+        "average_speed": 4.39,
+        "average_grade_adjusted_speed": 4.43,
+        "average_heartrate": 92.0995670995671,
+        "pace_zone": 0
+      },
+      {
+        "distance": 993.4,
+        "elapsed_time": 223,
+        "elevation_difference": 2.2,
+        "moving_time": 223,
+        "split": 10,
+        "average_speed": 4.45,
+        "average_grade_adjusted_speed": 4.48,
+        "average_heartrate": 91.20179372197309,
+        "pace_zone": 0
+      },
+      {
+        "distance": 991.8,
+        "elapsed_time": 201,
+        "elevation_difference": -1.8,
+        "moving_time": 201,
+        "split": 11,
+        "average_speed": 4.93,
+        "average_grade_adjusted_speed": 4.92,
+        "average_heartrate": 86.87064676616916,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.1,
+        "elapsed_time": 1337,
+        "elevation_difference": 3.2,
+        "moving_time": 742,
+        "split": 12,
+        "average_speed": 1.35,
+        "average_grade_adjusted_speed": 1.36,
+        "average_heartrate": 89.03612479474549,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1005.2,
+        "elapsed_time": 481,
+        "elevation_difference": -3.8,
+        "moving_time": 338,
+        "split": 13,
+        "average_speed": 2.97,
+        "average_grade_adjusted_speed": 2.97,
+        "average_heartrate": 86.64864864864865,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.3,
+        "elapsed_time": 242,
+        "elevation_difference": 0.4,
+        "moving_time": 242,
+        "split": 14,
+        "average_speed": 4.12,
+        "average_grade_adjusted_speed": 4.14,
+        "average_heartrate": 93.57851239669421,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1002.3,
+        "elapsed_time": 259,
+        "elevation_difference": 0,
+        "moving_time": 259,
+        "split": 15,
+        "average_speed": 3.87,
+        "average_grade_adjusted_speed": 3.9,
+        "average_heartrate": 97.8663967611336,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1027.2,
+        "elapsed_time": 253,
+        "elevation_difference": 2,
+        "moving_time": 253,
+        "split": 16,
+        "average_speed": 4.06,
+        "average_grade_adjusted_speed": 4.09,
+        "average_heartrate": 76.42292490118577,
+        "pace_zone": 0
+      },
+      {
+        "distance": 992.2,
+        "elapsed_time": 222,
+        "elevation_difference": -2,
+        "moving_time": 222,
+        "split": 17,
+        "average_speed": 4.47,
+        "average_grade_adjusted_speed": 4.45,
+        "average_heartrate": 91.1981981981982,
+        "pace_zone": 0
+      },
+      {
+        "distance": 979,
+        "elapsed_time": 203,
+        "elevation_difference": 0,
+        "moving_time": 203,
+        "split": 18,
+        "average_speed": 4.82,
+        "average_grade_adjusted_speed": 4.82,
+        "average_heartrate": 93.72906403940887,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.4,
+        "elapsed_time": 239,
+        "elevation_difference": 1.2,
+        "moving_time": 239,
+        "split": 19,
+        "average_speed": 4.18,
+        "average_grade_adjusted_speed": 4.2,
+        "average_heartrate": 100.56637168141593,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1004.3,
+        "elapsed_time": 267,
+        "elevation_difference": -1.8,
+        "moving_time": 236,
+        "split": 20,
+        "average_speed": 4.26,
+        "average_grade_adjusted_speed": 4.25,
+        "average_heartrate": 94.75847457627118,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1016.2,
+        "elapsed_time": 182,
+        "elevation_difference": 0.6,
+        "moving_time": 182,
+        "split": 21,
+        "average_speed": 5.58,
+        "average_grade_adjusted_speed": 5.6,
+        "average_heartrate": 104.54945054945055,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.5,
+        "elapsed_time": 311,
+        "elevation_difference": 0.4,
+        "moving_time": 229,
+        "split": 22,
+        "average_speed": 4.37,
+        "average_grade_adjusted_speed": 4.38,
+        "average_heartrate": 98.34497816593887,
+        "pace_zone": 0
+      },
+      {
+        "distance": 979.7,
+        "elapsed_time": 222,
+        "elevation_difference": 1.6,
+        "moving_time": 222,
+        "split": 23,
+        "average_speed": 4.41,
+        "average_grade_adjusted_speed": 4.45,
+        "average_heartrate": 99.79729729729729,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1013.4,
+        "elapsed_time": 281,
+        "elevation_difference": 6.8,
+        "moving_time": 242,
+        "split": 24,
+        "average_speed": 4.19,
+        "average_grade_adjusted_speed": 4.29,
+        "average_heartrate": 114.19834710743801,
+        "pace_zone": 0
+      },
+      {
+        "distance": 984.4,
+        "elapsed_time": 207,
+        "elevation_difference": -7,
+        "moving_time": 189,
+        "split": 25,
+        "average_speed": 5.21,
+        "average_grade_adjusted_speed": 5.14,
+        "average_heartrate": 102.73544973544973,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1003.1,
+        "elapsed_time": 381,
+        "elevation_difference": -1.2,
+        "moving_time": 275,
+        "split": 26,
+        "average_speed": 3.65,
+        "average_grade_adjusted_speed": 3.67,
+        "average_heartrate": 107.53846153846153,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1022.3,
+        "elapsed_time": 353,
+        "elevation_difference": 10.8,
+        "moving_time": 298,
+        "split": 27,
+        "average_speed": 3.43,
+        "average_grade_adjusted_speed": 3.59,
+        "average_heartrate": 130.0738255033557,
+        "pace_zone": 0
+      },
+      {
+        "distance": 972.8,
+        "elapsed_time": 197,
+        "elevation_difference": 5.4,
+        "moving_time": 197,
+        "split": 28,
+        "average_speed": 4.94,
+        "average_grade_adjusted_speed": 5.02,
+        "average_heartrate": 123.78172588832487,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1003.1,
+        "elapsed_time": 201,
+        "elevation_difference": -13.8,
+        "moving_time": 201,
+        "split": 29,
+        "average_speed": 4.99,
+        "average_grade_adjusted_speed": 4.87,
+        "average_heartrate": 114.67661691542288,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1011.3,
+        "elapsed_time": 228,
+        "elevation_difference": -1.6,
+        "moving_time": 228,
+        "split": 30,
+        "average_speed": 4.44,
+        "average_grade_adjusted_speed": 4.49,
+        "average_heartrate": 103.91228070175438,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1012,
+        "elapsed_time": 194,
+        "elevation_difference": 1.6,
+        "moving_time": 194,
+        "split": 31,
+        "average_speed": 5.22,
+        "average_grade_adjusted_speed": 5.25,
+        "average_heartrate": 110.13917525773196,
+        "pace_zone": 0
+      },
+      {
+        "distance": 989.5,
+        "elapsed_time": 288,
+        "elevation_difference": 14.4,
+        "moving_time": 288,
+        "split": 32,
+        "average_speed": 3.44,
+        "average_grade_adjusted_speed": 3.65,
+        "average_heartrate": 124.92013888888889,
+        "pace_zone": 0
+      },
+      {
+        "distance": 993,
+        "elapsed_time": 287,
+        "elevation_difference": 14.8,
+        "moving_time": 287,
+        "split": 33,
+        "average_speed": 3.46,
+        "average_grade_adjusted_speed": 3.66,
+        "average_heartrate": 125.68641114982579,
+        "pace_zone": 0
+      },
+      {
+        "distance": 991.2,
+        "elapsed_time": 343,
+        "elevation_difference": 8.8,
+        "moving_time": 293,
+        "split": 34,
+        "average_speed": 3.38,
+        "average_grade_adjusted_speed": 3.51,
+        "average_heartrate": 130.51194539249147,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1004.5,
+        "elapsed_time": 300,
+        "elevation_difference": 0,
+        "moving_time": 267,
+        "split": 35,
+        "average_speed": 3.76,
+        "average_grade_adjusted_speed": 3.76,
+        "average_heartrate": 110.87984496124031,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1013.4,
+        "elapsed_time": 276,
+        "elevation_difference": -0.4,
+        "moving_time": 276,
+        "split": 36,
+        "average_speed": 3.67,
+        "average_grade_adjusted_speed": 3.68,
+        "average_heartrate": 109.609375,
+        "pace_zone": 0
+      },
+      {
+        "distance": 267,
+        "elapsed_time": 394,
+        "elevation_difference": 0.8,
+        "moving_time": 234,
+        "split": 37,
+        "average_speed": 1.14,
+        "average_grade_adjusted_speed": 1.15,
+        "average_heartrate": 120.18018018018019,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1613.2,
+        "elapsed_time": 591,
+        "elevation_difference": 2.6,
+        "moving_time": 491,
+        "split": 1,
+        "average_speed": 3.29,
+        "average_grade_adjusted_speed": 3.3,
+        "average_heartrate": 101.26272912423626,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1627.7,
+        "elapsed_time": 383,
+        "elevation_difference": 0.4,
+        "moving_time": 383,
+        "split": 2,
+        "average_speed": 4.25,
+        "average_grade_adjusted_speed": 4.26,
+        "average_heartrate": 101.25065274151436,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1619.2,
+        "elapsed_time": 344,
+        "elevation_difference": -1.8,
+        "moving_time": 344,
+        "split": 3,
+        "average_speed": 4.71,
+        "average_grade_adjusted_speed": 4.71,
+        "average_heartrate": 102.04941860465117,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1592.6,
+        "elapsed_time": 394,
+        "elevation_difference": -1.4,
+        "moving_time": 394,
+        "split": 4,
+        "average_speed": 4.04,
+        "average_grade_adjusted_speed": 4.04,
+        "average_heartrate": 96.57474226804123,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1619.4,
+        "elapsed_time": 376,
+        "elevation_difference": 2,
+        "moving_time": 376,
+        "split": 5,
+        "average_speed": 4.31,
+        "average_grade_adjusted_speed": 4.32,
+        "average_heartrate": 90.71808510638297,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1605.4,
+        "elapsed_time": 359,
+        "elevation_difference": 0.4,
+        "moving_time": 359,
+        "split": 6,
+        "average_speed": 4.47,
+        "average_grade_adjusted_speed": 4.5,
+        "average_heartrate": 91.52646239554318,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1592,
+        "elapsed_time": 343,
+        "elevation_difference": -0.4,
+        "moving_time": 343,
+        "split": 7,
+        "average_speed": 4.64,
+        "average_grade_adjusted_speed": 4.64,
+        "average_heartrate": 88.66763848396502,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1614.2,
+        "elapsed_time": 1727,
+        "elevation_difference": 0.4,
+        "moving_time": 989,
+        "split": 8,
+        "average_speed": 1.63,
+        "average_grade_adjusted_speed": 1.64,
+        "average_heartrate": 87.52173913043478,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.8,
+        "elapsed_time": 381,
+        "elevation_difference": 0.8,
+        "moving_time": 381,
+        "split": 9,
+        "average_speed": 4.23,
+        "average_grade_adjusted_speed": 4.26,
+        "average_heartrate": 96.55905511811024,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1606.8,
+        "elapsed_time": 417,
+        "elevation_difference": 0,
+        "moving_time": 417,
+        "split": 10,
+        "average_speed": 3.85,
+        "average_grade_adjusted_speed": 3.87,
+        "average_heartrate": 83.29382716049383,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1603.2,
+        "elapsed_time": 349,
+        "elevation_difference": -2.6,
+        "moving_time": 349,
+        "split": 11,
+        "average_speed": 4.59,
+        "average_grade_adjusted_speed": 4.58,
+        "average_heartrate": 92.78796561604585,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.1,
+        "elapsed_time": 428,
+        "elevation_difference": -0.2,
+        "moving_time": 397,
+        "split": 12,
+        "average_speed": 4.06,
+        "average_grade_adjusted_speed": 4.06,
+        "average_heartrate": 97.43489583333333,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1638.8,
+        "elapsed_time": 306,
+        "elevation_difference": 0.8,
+        "moving_time": 306,
+        "split": 13,
+        "average_speed": 5.36,
+        "average_grade_adjusted_speed": 5.37,
+        "average_heartrate": 100.33986928104575,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1578.7,
+        "elapsed_time": 446,
+        "elevation_difference": 1.6,
+        "moving_time": 364,
+        "split": 14,
+        "average_speed": 4.34,
+        "average_grade_adjusted_speed": 4.36,
+        "average_heartrate": 98.27472527472527,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1623.6,
+        "elapsed_time": 410,
+        "elevation_difference": 8.4,
+        "moving_time": 371,
+        "split": 15,
+        "average_speed": 4.38,
+        "average_grade_adjusted_speed": 4.45,
+        "average_heartrate": 111.45822102425876,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1595.6,
+        "elapsed_time": 493,
+        "elevation_difference": -8.6,
+        "moving_time": 369,
+        "split": 16,
+        "average_speed": 4.32,
+        "average_grade_adjusted_speed": 4.29,
+        "average_heartrate": 103.45682451253482,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1628.9,
+        "elapsed_time": 487,
+        "elevation_difference": 11.4,
+        "moving_time": 432,
+        "split": 17,
+        "average_speed": 3.77,
+        "average_grade_adjusted_speed": 3.89,
+        "average_heartrate": 127.17330210772833,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1592.1,
+        "elapsed_time": 321,
+        "elevation_difference": -7.8,
+        "moving_time": 321,
+        "split": 18,
+        "average_speed": 4.96,
+        "average_grade_adjusted_speed": 4.93,
+        "average_heartrate": 117.48598130841121,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.1,
+        "elapsed_time": 345,
+        "elevation_difference": -3,
+        "moving_time": 345,
+        "split": 19,
+        "average_speed": 4.67,
+        "average_grade_adjusted_speed": 4.71,
+        "average_heartrate": 106.12753623188406,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1628.3,
+        "elapsed_time": 437,
+        "elevation_difference": 21,
+        "moving_time": 437,
+        "split": 20,
+        "average_speed": 3.73,
+        "average_grade_adjusted_speed": 3.91,
+        "average_heartrate": 122.19679633867277,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1596.1,
+        "elapsed_time": 491,
+        "elevation_difference": 17.4,
+        "moving_time": 466,
+        "split": 21,
+        "average_speed": 3.43,
+        "average_grade_adjusted_speed": 3.59,
+        "average_heartrate": 129.61802575107296,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1605.2,
+        "elapsed_time": 525,
+        "elevation_difference": 0,
+        "moving_time": 467,
+        "split": 22,
+        "average_speed": 3.44,
+        "average_grade_adjusted_speed": 3.44,
+        "average_heartrate": 110.27397260273973,
+        "pace_zone": 0
+      },
+      {
+        "distance": 874.2,
+        "elapsed_time": 522,
+        "elevation_difference": 1,
+        "moving_time": 362,
+        "split": 23,
+        "average_speed": 2.41,
+        "average_grade_adjusted_speed": 2.43,
+        "average_heartrate": 117.07714285714286,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 60984160655,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1346,
+        "moving_time": 1346,
+        "start_date": "2026-01-17T23:22:16Z",
+        "start_date_local": "2026-01-18T10:22:16Z",
+        "distance": 5000,
+        "average_speed": 3.71,
+        "max_speed": 6.3,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 237,
+        "total_elevation_gain": 16,
+        "device_watts": false,
+        "average_heartrate": 101.5,
+        "max_heartrate": 123
+      },
+      {
+        "id": 60984160663,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1178,
+        "moving_time": 1178,
+        "start_date": "2026-01-17T23:44:44Z",
+        "start_date_local": "2026-01-18T10:44:44Z",
+        "distance": 5000,
+        "average_speed": 4.24,
+        "max_speed": 5.84,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 238,
+        "end_index": 528,
+        "total_elevation_gain": 10.6,
+        "device_watts": false,
+        "average_heartrate": 92.7,
+        "max_heartrate": 114
+      },
+      {
+        "id": 60984160671,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 2520,
+        "moving_time": 2520,
+        "start_date": "2026-01-18T00:04:26Z",
+        "start_date_local": "2026-01-18T11:04:26Z",
+        "distance": 5000,
+        "average_speed": 1.98,
+        "max_speed": 5.944,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 529,
+        "end_index": 1082,
+        "total_elevation_gain": 21.2,
+        "device_watts": false,
+        "average_heartrate": 90.3,
+        "max_heartrate": 111
+      },
+      {
+        "id": 60984160679,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1183,
+        "moving_time": 1183,
+        "start_date": "2026-01-18T00:46:29Z",
+        "start_date_local": "2026-01-18T11:46:29Z",
+        "distance": 5000,
+        "average_speed": 4.23,
+        "max_speed": 6.222,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 1083,
+        "end_index": 1359,
+        "total_elevation_gain": 11,
+        "device_watts": false,
+        "average_heartrate": 90.9,
+        "max_heartrate": 110
+      },
+      {
+        "id": 60984160689,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1202,
+        "moving_time": 1202,
+        "start_date": "2026-01-18T01:06:12Z",
+        "start_date_local": "2026-01-18T12:06:12Z",
+        "distance": 5000,
+        "average_speed": 4.16,
+        "max_speed": 6.9,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 1360,
+        "end_index": 1661,
+        "total_elevation_gain": 21.4,
+        "device_watts": false,
+        "average_heartrate": 104.1,
+        "max_heartrate": 136
+      },
+      {
+        "id": 60984160699,
+        "resource_state": 2,
+        "name": "Lap 6",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1359,
+        "moving_time": 1359,
+        "start_date": "2026-01-18T01:26:12Z",
+        "start_date_local": "2026-01-18T12:26:12Z",
+        "distance": 5000,
+        "average_speed": 3.68,
+        "max_speed": 8.233,
+        "lap_index": 6,
+        "split": 6,
+        "start_index": 1662,
+        "end_index": 2045,
+        "total_elevation_gain": 40.2,
+        "device_watts": false,
+        "average_heartrate": 116.5,
+        "max_heartrate": 149
+      },
+      {
+        "id": 60984160709,
+        "resource_state": 2,
+        "name": "Lap 7",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1412,
+        "moving_time": 1412,
+        "start_date": "2026-01-18T01:48:50Z",
+        "start_date_local": "2026-01-18T12:48:50Z",
+        "distance": 5000,
+        "average_speed": 3.54,
+        "max_speed": 7.04,
+        "lap_index": 7,
+        "split": 7,
+        "start_index": 2046,
+        "end_index": 2417,
+        "total_elevation_gain": 61,
+        "device_watts": false,
+        "average_heartrate": 121.4,
+        "max_heartrate": 162
+      },
+      {
+        "id": 60984160719,
+        "resource_state": 2,
+        "name": "Lap 8",
+        "activity": {
+          "id": 17087694395,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 670,
+        "moving_time": 670,
+        "start_date": "2026-01-18T02:12:22Z",
+        "start_date_local": "2026-01-18T13:12:22Z",
+        "distance": 1285.15,
+        "average_speed": 1.92,
+        "max_speed": 5.129,
+        "lap_index": 8,
+        "split": 8,
+        "start_index": 2418,
+        "end_index": 2502,
+        "total_elevation_gain": 3.4,
+        "device_watts": false,
+        "average_heartrate": 114.5,
+        "max_heartrate": 130
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://dgtzuqphqg23d.cloudfront.net/2RJyFtB95T3Z75Qfn4KW0i86pQapQduv_FDFXxYOni0-1024x768.jpg",
+        "location": [
+          -37.859458333333336,
+          144.90292166666666
+        ],
+        "timestamp": "2026-01-18T01:03:00Z",
+        "caption": ""
+      },
+      {
+        "url": "https://dgtzuqphqg23d.cloudfront.net/tNVk1mnlRnZI96YKjsN_dWn6lztGAwS8qsc3YdB5WM0-768x1024.jpg",
+        "location": [
+          -37.807113333333334,
+          144.91104166666668
+        ],
+        "timestamp": "2026-01-18T01:37:08Z",
+        "caption": ""
+      }
+    ],
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "embed_token": "d2adfbc2f1d0303b5a0488107ab1a46046ff1ef9",
+    "available_zones": [],
+    "coordinates": [
+      [
+        -37.87049,
+        144.77809
+      ],
+      [
+        -37.87049,
+        144.77811
+      ],
+      [
+        -37.87051,
+        144.7781
+      ],
+      [
+        -37.87051,
+        144.77813
+      ],
+      [
+        -37.87047,
+        144.77812
+      ],
+      [
+        -37.87048,
+        144.77811
+      ],
+      [
+        -37.87046,
+        144.77796
+      ],
+      [
+        -37.87047,
+        144.77776
+      ],
+      [
+        -37.87062,
+        144.77772
+      ],
+      [
+        -37.8707,
+        144.77771
+      ],
+      [
+        -37.87121,
+        144.77788
+      ],
+      [
+        -37.87133,
+        144.77786
+      ],
+      [
+        -37.87142,
+        144.77787
+      ],
+      [
+        -37.87141,
+        144.77789
+      ],
+      [
+        -37.87142,
+        144.77789
+      ],
+      [
+        -37.87174,
+        144.77786
+      ],
+      [
+        -37.87208,
+        144.7794
+      ],
+      [
+        -37.87206,
+        144.77952
+      ],
+      [
+        -37.87207,
+        144.77966
+      ],
+      [
+        -37.87199,
+        144.77984
+      ],
+      [
+        -37.87199,
+        144.78002
+      ],
+      [
+        -37.87226,
+        144.78135
+      ],
+      [
+        -37.87243,
+        144.78201
+      ],
+      [
+        -37.87266,
+        144.78308
+      ],
+      [
+        -37.87277,
+        144.78352
+      ],
+      [
+        -37.87287,
+        144.78398
+      ],
+      [
+        -37.87291,
+        144.78421
+      ],
+      [
+        -37.87318,
+        144.78538
+      ],
+      [
+        -37.87329,
+        144.78581
+      ],
+      [
+        -37.87328,
+        144.78598
+      ],
+      [
+        -37.87338,
+        144.78642
+      ],
+      [
+        -37.87335,
+        144.7865
+      ],
+      [
+        -37.87338,
+        144.78665
+      ],
+      [
+        -37.87349,
+        144.78672
+      ],
+      [
+        -37.87354,
+        144.78692
+      ],
+      [
+        -37.87396,
+        144.78877
+      ],
+      [
+        -37.87418,
+        144.78985
+      ],
+      [
+        -37.87432,
+        144.79038
+      ],
+      [
+        -37.87453,
+        144.79103
+      ],
+      [
+        -37.87455,
+        144.79126
+      ],
+      [
+        -37.8746,
+        144.79135
+      ],
+      [
+        -37.87468,
+        144.79137
+      ],
+      [
+        -37.87489,
+        144.79123
+      ],
+      [
+        -37.87505,
+        144.79118
+      ],
+      [
+        -37.87507,
+        144.7912
+      ],
+      [
+        -37.87506,
+        144.79123
+      ],
+      [
+        -37.87493,
+        144.79125
+      ],
+      [
+        -37.87484,
+        144.7913
+      ],
+      [
+        -37.8748,
+        144.79148
+      ],
+      [
+        -37.87483,
+        144.79163
+      ],
+      [
+        -37.8755,
+        144.79459
+      ],
+      [
+        -37.87563,
+        144.79525
+      ],
+      [
+        -37.87565,
+        144.79528
+      ],
+      [
+        -37.87571,
+        144.79531
+      ],
+      [
+        -37.87591,
+        144.79537
+      ],
+      [
+        -37.87599,
+        144.79544
+      ],
+      [
+        -37.87605,
+        144.79564
+      ],
+      [
+        -37.87599,
+        144.79684
+      ],
+      [
+        -37.8759,
+        144.79751
+      ],
+      [
+        -37.87592,
+        144.79756
+      ],
+      [
+        -37.87596,
+        144.79764
+      ],
+      [
+        -37.87614,
+        144.79773
+      ],
+      [
+        -37.87644,
+        144.79781
+      ],
+      [
+        -37.87826,
+        144.79814
+      ],
+      [
+        -37.87851,
+        144.79824
+      ],
+      [
+        -37.87866,
+        144.79834
+      ],
+      [
+        -37.87898,
+        144.79858
+      ],
+      [
+        -37.87921,
+        144.79883
+      ],
+      [
+        -37.87939,
+        144.79913
+      ],
+      [
+        -37.87958,
+        144.79953
+      ],
+      [
+        -37.87969,
+        144.7998
+      ],
+      [
+        -37.87984,
+        144.80081
+      ],
+      [
+        -37.87996,
+        144.801
+      ],
+      [
+        -37.87999,
+        144.80123
+      ],
+      [
+        -37.8802,
+        144.80303
+      ],
+      [
+        -37.88014,
+        144.80318
+      ],
+      [
+        -37.87966,
+        144.80336
+      ],
+      [
+        -37.8794,
+        144.80342
+      ],
+      [
+        -37.87921,
+        144.8035
+      ],
+      [
+        -37.8791,
+        144.80352
+      ],
+      [
+        -37.87906,
+        144.80357
+      ],
+      [
+        -37.87904,
+        144.8036
+      ],
+      [
+        -37.8791,
+        144.80414
+      ],
+      [
+        -37.87924,
+        144.80514
+      ],
+      [
+        -37.87939,
+        144.80583
+      ],
+      [
+        -37.87952,
+        144.80615
+      ],
+      [
+        -37.87957,
+        144.80648
+      ],
+      [
+        -37.87949,
+        144.80668
+      ],
+      [
+        -37.87936,
+        144.80689
+      ],
+      [
+        -37.87914,
+        144.80718
+      ],
+      [
+        -37.8791,
+        144.80729
+      ],
+      [
+        -37.87907,
+        144.80742
+      ],
+      [
+        -37.87911,
+        144.80759
+      ],
+      [
+        -37.87936,
+        144.80792
+      ],
+      [
+        -37.87943,
+        144.8081
+      ],
+      [
+        -37.87943,
+        144.80827
+      ],
+      [
+        -37.8793,
+        144.80909
+      ],
+      [
+        -37.87924,
+        144.80925
+      ],
+      [
+        -37.87904,
+        144.80954
+      ],
+      [
+        -37.87875,
+        144.80987
+      ],
+      [
+        -37.87844,
+        144.81017
+      ],
+      [
+        -37.87813,
+        144.81051
+      ],
+      [
+        -37.87773,
+        144.81087
+      ],
+      [
+        -37.87749,
+        144.81104
+      ],
+      [
+        -37.87626,
+        144.81224
+      ],
+      [
+        -37.87616,
+        144.81236
+      ],
+      [
+        -37.87581,
+        144.81285
+      ],
+      [
+        -37.87568,
+        144.81309
+      ],
+      [
+        -37.87555,
+        144.81326
+      ],
+      [
+        -37.87541,
+        144.8136
+      ],
+      [
+        -37.8754,
+        144.8137
+      ],
+      [
+        -37.87533,
+        144.81394
+      ],
+      [
+        -37.87522,
+        144.81406
+      ],
+      [
+        -37.87508,
+        144.81415
+      ],
+      [
+        -37.87466,
+        144.8148
+      ],
+      [
+        -37.87348,
+        144.81692
+      ],
+      [
+        -37.87223,
+        144.81977
+      ],
+      [
+        -37.87164,
+        144.8214
+      ],
+      [
+        -37.87107,
+        144.8235
+      ],
+      [
+        -37.87081,
+        144.82458
+      ],
+      [
+        -37.87077,
+        144.82488
+      ],
+      [
+        -37.87063,
+        144.82558
+      ],
+      [
+        -37.87057,
+        144.82617
+      ],
+      [
+        -37.87052,
+        144.82662
+      ],
+      [
+        -37.87052,
+        144.82863
+      ],
+      [
+        -37.8705,
+        144.8293
+      ],
+      [
+        -37.87055,
+        144.82991
+      ],
+      [
+        -37.87066,
+        144.83006
+      ],
+      [
+        -37.87069,
+        144.83031
+      ],
+      [
+        -37.87062,
+        144.83035
+      ],
+      [
+        -37.87061,
+        144.83061
+      ],
+      [
+        -37.87063,
+        144.83079
+      ],
+      [
+        -37.87061,
+        144.83101
+      ],
+      [
+        -37.87063,
+        144.83114
+      ],
+      [
+        -37.87059,
+        144.83133
+      ],
+      [
+        -37.87069,
+        144.83248
+      ],
+      [
+        -37.87075,
+        144.83291
+      ],
+      [
+        -37.87097,
+        144.83384
+      ],
+      [
+        -37.87111,
+        144.83436
+      ],
+      [
+        -37.87138,
+        144.83574
+      ],
+      [
+        -37.87137,
+        144.83585
+      ],
+      [
+        -37.87127,
+        144.83649
+      ],
+      [
+        -37.87116,
+        144.83751
+      ],
+      [
+        -37.87117,
+        144.83796
+      ],
+      [
+        -37.87122,
+        144.83842
+      ],
+      [
+        -37.87134,
+        144.83984
+      ],
+      [
+        -37.87134,
+        144.84006
+      ],
+      [
+        -37.8713,
+        144.84014
+      ],
+      [
+        -37.87113,
+        144.84029
+      ],
+      [
+        -37.87052,
+        144.84099
+      ],
+      [
+        -37.86936,
+        144.8422
+      ],
+      [
+        -37.86927,
+        144.84234
+      ],
+      [
+        -37.86904,
+        144.84287
+      ],
+      [
+        -37.86896,
+        144.84294
+      ],
+      [
+        -37.86855,
+        144.8432
+      ],
+      [
+        -37.86829,
+        144.84335
+      ],
+      [
+        -37.86783,
+        144.84368
+      ],
+      [
+        -37.86753,
+        144.84392
+      ],
+      [
+        -37.86738,
+        144.84408
+      ],
+      [
+        -37.86738,
+        144.8442
+      ],
+      [
+        -37.86744,
+        144.84445
+      ],
+      [
+        -37.86761,
+        144.84488
+      ],
+      [
+        -37.86776,
+        144.84517
+      ],
+      [
+        -37.86792,
+        144.8453
+      ],
+      [
+        -37.86806,
+        144.84548
+      ],
+      [
+        -37.86806,
+        144.84555
+      ],
+      [
+        -37.86799,
+        144.84572
+      ],
+      [
+        -37.86781,
+        144.84589
+      ],
+      [
+        -37.86757,
+        144.84604
+      ],
+      [
+        -37.86735,
+        144.84625
+      ],
+      [
+        -37.86691,
+        144.84653
+      ],
+      [
+        -37.86668,
+        144.8468
+      ],
+      [
+        -37.8665,
+        144.84687
+      ],
+      [
+        -37.86618,
+        144.84701
+      ],
+      [
+        -37.86613,
+        144.84709
+      ],
+      [
+        -37.86604,
+        144.84725
+      ],
+      [
+        -37.86608,
+        144.84746
+      ],
+      [
+        -37.86607,
+        144.84753
+      ],
+      [
+        -37.86603,
+        144.84761
+      ],
+      [
+        -37.86596,
+        144.84765
+      ],
+      [
+        -37.86575,
+        144.84786
+      ],
+      [
+        -37.86571,
+        144.84787
+      ],
+      [
+        -37.86555,
+        144.84784
+      ],
+      [
+        -37.86545,
+        144.84789
+      ],
+      [
+        -37.86541,
+        144.84804
+      ],
+      [
+        -37.86541,
+        144.84815
+      ],
+      [
+        -37.86526,
+        144.8484
+      ],
+      [
+        -37.86516,
+        144.84853
+      ],
+      [
+        -37.8651,
+        144.8487
+      ],
+      [
+        -37.86505,
+        144.84894
+      ],
+      [
+        -37.8649,
+        144.84906
+      ],
+      [
+        -37.86452,
+        144.84933
+      ],
+      [
+        -37.86446,
+        144.8494
+      ],
+      [
+        -37.86416,
+        144.84979
+      ],
+      [
+        -37.86396,
+        144.85009
+      ],
+      [
+        -37.86351,
+        144.85068
+      ],
+      [
+        -37.86327,
+        144.8512
+      ],
+      [
+        -37.86309,
+        144.85165
+      ],
+      [
+        -37.86303,
+        144.852
+      ],
+      [
+        -37.86293,
+        144.85276
+      ],
+      [
+        -37.86292,
+        144.8535
+      ],
+      [
+        -37.86302,
+        144.85388
+      ],
+      [
+        -37.86313,
+        144.8549
+      ],
+      [
+        -37.86304,
+        144.85506
+      ],
+      [
+        -37.86284,
+        144.85514
+      ],
+      [
+        -37.86257,
+        144.85519
+      ],
+      [
+        -37.8625,
+        144.85522
+      ],
+      [
+        -37.86235,
+        144.85543
+      ],
+      [
+        -37.86229,
+        144.85542
+      ],
+      [
+        -37.86227,
+        144.85536
+      ],
+      [
+        -37.86225,
+        144.85509
+      ],
+      [
+        -37.86218,
+        144.85489
+      ],
+      [
+        -37.86219,
+        144.85484
+      ],
+      [
+        -37.86221,
+        144.85483
+      ],
+      [
+        -37.86222,
+        144.85484
+      ],
+      [
+        -37.86221,
+        144.85493
+      ],
+      [
+        -37.86227,
+        144.85521
+      ],
+      [
+        -37.86228,
+        144.85534
+      ],
+      [
+        -37.86226,
+        144.85542
+      ],
+      [
+        -37.86219,
+        144.85547
+      ],
+      [
+        -37.86202,
+        144.8555
+      ],
+      [
+        -37.86194,
+        144.85556
+      ],
+      [
+        -37.86178,
+        144.85582
+      ],
+      [
+        -37.86146,
+        144.85624
+      ],
+      [
+        -37.86139,
+        144.8563
+      ],
+      [
+        -37.86111,
+        144.85649
+      ],
+      [
+        -37.86069,
+        144.85668
+      ],
+      [
+        -37.86051,
+        144.85685
+      ],
+      [
+        -37.85999,
+        144.85713
+      ],
+      [
+        -37.85954,
+        144.85719
+      ],
+      [
+        -37.85905,
+        144.8573
+      ],
+      [
+        -37.85896,
+        144.85728
+      ],
+      [
+        -37.85848,
+        144.857
+      ],
+      [
+        -37.85826,
+        144.85678
+      ],
+      [
+        -37.85802,
+        144.85645
+      ],
+      [
+        -37.85794,
+        144.8564
+      ],
+      [
+        -37.85773,
+        144.85639
+      ],
+      [
+        -37.85765,
+        144.85635
+      ],
+      [
+        -37.85759,
+        144.85626
+      ],
+      [
+        -37.85733,
+        144.85555
+      ],
+      [
+        -37.85724,
+        144.85546
+      ],
+      [
+        -37.85699,
+        144.85532
+      ],
+      [
+        -37.85687,
+        144.85516
+      ],
+      [
+        -37.85682,
+        144.85508
+      ],
+      [
+        -37.85677,
+        144.85494
+      ],
+      [
+        -37.85676,
+        144.85456
+      ],
+      [
+        -37.85674,
+        144.85436
+      ],
+      [
+        -37.85663,
+        144.85409
+      ],
+      [
+        -37.85653,
+        144.85369
+      ],
+      [
+        -37.85658,
+        144.85355
+      ],
+      [
+        -37.85655,
+        144.85345
+      ],
+      [
+        -37.85641,
+        144.85332
+      ],
+      [
+        -37.85611,
+        144.85284
+      ],
+      [
+        -37.85589,
+        144.85262
+      ],
+      [
+        -37.85571,
+        144.85265
+      ],
+      [
+        -37.85568,
+        144.85269
+      ],
+      [
+        -37.85566,
+        144.85277
+      ],
+      [
+        -37.85565,
+        144.853
+      ],
+      [
+        -37.85553,
+        144.85383
+      ],
+      [
+        -37.85557,
+        144.85417
+      ],
+      [
+        -37.85585,
+        144.85486
+      ],
+      [
+        -37.85677,
+        144.85684
+      ],
+      [
+        -37.85732,
+        144.8582
+      ],
+      [
+        -37.85736,
+        144.85867
+      ],
+      [
+        -37.85745,
+        144.85911
+      ],
+      [
+        -37.85745,
+        144.85924
+      ],
+      [
+        -37.85734,
+        144.8605
+      ],
+      [
+        -37.85726,
+        144.86171
+      ],
+      [
+        -37.85727,
+        144.86207
+      ],
+      [
+        -37.85729,
+        144.86218
+      ],
+      [
+        -37.8574,
+        144.86249
+      ],
+      [
+        -37.85744,
+        144.86274
+      ],
+      [
+        -37.85754,
+        144.86303
+      ],
+      [
+        -37.85759,
+        144.86343
+      ],
+      [
+        -37.85758,
+        144.86374
+      ],
+      [
+        -37.85761,
+        144.86385
+      ],
+      [
+        -37.85771,
+        144.86409
+      ],
+      [
+        -37.85772,
+        144.8642
+      ],
+      [
+        -37.8577,
+        144.86483
+      ],
+      [
+        -37.85797,
+        144.86592
+      ],
+      [
+        -37.85805,
+        144.86631
+      ],
+      [
+        -37.85806,
+        144.86645
+      ],
+      [
+        -37.85802,
+        144.86659
+      ],
+      [
+        -37.85789,
+        144.86668
+      ],
+      [
+        -37.85779,
+        144.86671
+      ],
+      [
+        -37.85778,
+        144.86686
+      ],
+      [
+        -37.85771,
+        144.86689
+      ],
+      [
+        -37.85614,
+        144.86715
+      ],
+      [
+        -37.85592,
+        144.86724
+      ],
+      [
+        -37.85575,
+        144.86729
+      ],
+      [
+        -37.85561,
+        144.8673
+      ],
+      [
+        -37.85556,
+        144.86733
+      ],
+      [
+        -37.85553,
+        144.8674
+      ],
+      [
+        -37.85552,
+        144.86795
+      ],
+      [
+        -37.85548,
+        144.86829
+      ],
+      [
+        -37.85561,
+        144.86968
+      ],
+      [
+        -37.85566,
+        144.86996
+      ],
+      [
+        -37.85568,
+        144.87019
+      ],
+      [
+        -37.85565,
+        144.87049
+      ],
+      [
+        -37.85557,
+        144.87064
+      ],
+      [
+        -37.85554,
+        144.87064
+      ],
+      [
+        -37.85553,
+        144.87062
+      ],
+      [
+        -37.85551,
+        144.87064
+      ],
+      [
+        -37.85548,
+        144.87063
+      ],
+      [
+        -37.85546,
+        144.87065
+      ],
+      [
+        -37.85544,
+        144.87057
+      ],
+      [
+        -37.85546,
+        144.87044
+      ],
+      [
+        -37.8555,
+        144.87054
+      ],
+      [
+        -37.85554,
+        144.87049
+      ],
+      [
+        -37.85557,
+        144.87073
+      ],
+      [
+        -37.85552,
+        144.87081
+      ],
+      [
+        -37.85547,
+        144.87078
+      ],
+      [
+        -37.85546,
+        144.87063
+      ],
+      [
+        -37.85549,
+        144.87071
+      ],
+      [
+        -37.85552,
+        144.87065
+      ],
+      [
+        -37.85549,
+        144.87063
+      ],
+      [
+        -37.8555,
+        144.87066
+      ],
+      [
+        -37.85546,
+        144.87064
+      ],
+      [
+        -37.85547,
+        144.8706
+      ],
+      [
+        -37.85549,
+        144.87062
+      ],
+      [
+        -37.85547,
+        144.87061
+      ],
+      [
+        -37.85546,
+        144.87062
+      ],
+      [
+        -37.85546,
+        144.87068
+      ],
+      [
+        -37.85542,
+        144.87076
+      ],
+      [
+        -37.85545,
+        144.87079
+      ],
+      [
+        -37.85544,
+        144.87082
+      ],
+      [
+        -37.85554,
+        144.87079
+      ],
+      [
+        -37.85561,
+        144.8708
+      ],
+      [
+        -37.85562,
+        144.87078
+      ],
+      [
+        -37.85548,
+        144.87068
+      ],
+      [
+        -37.85548,
+        144.87066
+      ],
+      [
+        -37.85549,
+        144.87069
+      ],
+      [
+        -37.85549,
+        144.87065
+      ],
+      [
+        -37.85544,
+        144.87063
+      ],
+      [
+        -37.85544,
+        144.8705
+      ],
+      [
+        -37.85546,
+        144.87049
+      ],
+      [
+        -37.85548,
+        144.87054
+      ],
+      [
+        -37.85549,
+        144.87065
+      ],
+      [
+        -37.85546,
+        144.87065
+      ],
+      [
+        -37.85543,
+        144.87057
+      ],
+      [
+        -37.85544,
+        144.87061
+      ],
+      [
+        -37.85542,
+        144.87059
+      ],
+      [
+        -37.85545,
+        144.87061
+      ],
+      [
+        -37.85548,
+        144.8706
+      ],
+      [
+        -37.85543,
+        144.87068
+      ],
+      [
+        -37.85548,
+        144.8707
+      ],
+      [
+        -37.85548,
+        144.87069
+      ],
+      [
+        -37.85546,
+        144.87068
+      ],
+      [
+        -37.85547,
+        144.8707
+      ],
+      [
+        -37.85547,
+        144.87068
+      ],
+      [
+        -37.85544,
+        144.87067
+      ],
+      [
+        -37.85548,
+        144.87075
+      ],
+      [
+        -37.85544,
+        144.87076
+      ],
+      [
+        -37.85541,
+        144.87079
+      ],
+      [
+        -37.85538,
+        144.87066
+      ],
+      [
+        -37.85542,
+        144.87052
+      ],
+      [
+        -37.85548,
+        144.87062
+      ],
+      [
+        -37.85545,
+        144.87064
+      ],
+      [
+        -37.85544,
+        144.87071
+      ],
+      [
+        -37.85544,
+        144.87069
+      ],
+      [
+        -37.8554,
+        144.87066
+      ],
+      [
+        -37.85543,
+        144.87062
+      ],
+      [
+        -37.85542,
+        144.87067
+      ],
+      [
+        -37.85543,
+        144.87073
+      ],
+      [
+        -37.85546,
+        144.87066
+      ],
+      [
+        -37.85545,
+        144.87063
+      ],
+      [
+        -37.85541,
+        144.87062
+      ],
+      [
+        -37.85542,
+        144.87065
+      ],
+      [
+        -37.85542,
+        144.87061
+      ],
+      [
+        -37.85544,
+        144.87065
+      ],
+      [
+        -37.85541,
+        144.87064
+      ],
+      [
+        -37.85543,
+        144.87063
+      ],
+      [
+        -37.8554,
+        144.87059
+      ],
+      [
+        -37.85543,
+        144.87057
+      ],
+      [
+        -37.85543,
+        144.87062
+      ],
+      [
+        -37.85544,
+        144.87069
+      ],
+      [
+        -37.85544,
+        144.87064
+      ],
+      [
+        -37.85546,
+        144.87061
+      ],
+      [
+        -37.85548,
+        144.87063
+      ],
+      [
+        -37.85547,
+        144.87062
+      ],
+      [
+        -37.85546,
+        144.8707
+      ],
+      [
+        -37.85546,
+        144.87066
+      ],
+      [
+        -37.85547,
+        144.87062
+      ],
+      [
+        -37.85555,
+        144.87063
+      ],
+      [
+        -37.85556,
+        144.87061
+      ],
+      [
+        -37.85555,
+        144.87062
+      ],
+      [
+        -37.85554,
+        144.8706
+      ],
+      [
+        -37.85554,
+        144.87056
+      ],
+      [
+        -37.85561,
+        144.87054
+      ],
+      [
+        -37.85566,
+        144.8705
+      ],
+      [
+        -37.85566,
+        144.87047
+      ],
+      [
+        -37.8556,
+        144.86992
+      ],
+      [
+        -37.85557,
+        144.86987
+      ],
+      [
+        -37.85551,
+        144.86954
+      ],
+      [
+        -37.85554,
+        144.86944
+      ],
+      [
+        -37.8554,
+        144.86821
+      ],
+      [
+        -37.85542,
+        144.86805
+      ],
+      [
+        -37.85551,
+        144.86784
+      ],
+      [
+        -37.85546,
+        144.86745
+      ],
+      [
+        -37.85547,
+        144.86735
+      ],
+      [
+        -37.85559,
+        144.86731
+      ],
+      [
+        -37.85586,
+        144.86727
+      ],
+      [
+        -37.85605,
+        144.8672
+      ],
+      [
+        -37.85609,
+        144.86722
+      ],
+      [
+        -37.8561,
+        144.86725
+      ],
+      [
+        -37.85606,
+        144.86749
+      ],
+      [
+        -37.85598,
+        144.86776
+      ],
+      [
+        -37.85596,
+        144.86803
+      ],
+      [
+        -37.85601,
+        144.86842
+      ],
+      [
+        -37.8561,
+        144.86895
+      ],
+      [
+        -37.85614,
+        144.86932
+      ],
+      [
+        -37.85612,
+        144.86974
+      ],
+      [
+        -37.85612,
+        144.86984
+      ],
+      [
+        -37.85617,
+        144.86999
+      ],
+      [
+        -37.85632,
+        144.8702
+      ],
+      [
+        -37.85651,
+        144.87034
+      ],
+      [
+        -37.85676,
+        144.87039
+      ],
+      [
+        -37.85701,
+        144.8704
+      ],
+      [
+        -37.8572,
+        144.87035
+      ],
+      [
+        -37.85745,
+        144.87022
+      ],
+      [
+        -37.85767,
+        144.87017
+      ],
+      [
+        -37.85786,
+        144.87021
+      ],
+      [
+        -37.85797,
+        144.87039
+      ],
+      [
+        -37.85805,
+        144.87057
+      ],
+      [
+        -37.85805,
+        144.87079
+      ],
+      [
+        -37.858,
+        144.87104
+      ],
+      [
+        -37.85801,
+        144.87109
+      ],
+      [
+        -37.8581,
+        144.87135
+      ],
+      [
+        -37.85819,
+        144.8717
+      ],
+      [
+        -37.85832,
+        144.872
+      ],
+      [
+        -37.85859,
+        144.87306
+      ],
+      [
+        -37.8587,
+        144.87314
+      ],
+      [
+        -37.85874,
+        144.87336
+      ],
+      [
+        -37.8588,
+        144.8738
+      ],
+      [
+        -37.85889,
+        144.87401
+      ],
+      [
+        -37.8594,
+        144.87471
+      ],
+      [
+        -37.85985,
+        144.87526
+      ],
+      [
+        -37.85988,
+        144.87535
+      ],
+      [
+        -37.85999,
+        144.87584
+      ],
+      [
+        -37.86008,
+        144.87602
+      ],
+      [
+        -37.86022,
+        144.87624
+      ],
+      [
+        -37.86032,
+        144.8763
+      ],
+      [
+        -37.86062,
+        144.87624
+      ],
+      [
+        -37.86093,
+        144.87655
+      ],
+      [
+        -37.86106,
+        144.87657
+      ],
+      [
+        -37.86129,
+        144.87649
+      ],
+      [
+        -37.86152,
+        144.87629
+      ],
+      [
+        -37.86186,
+        144.87614
+      ],
+      [
+        -37.86215,
+        144.87608
+      ],
+      [
+        -37.86237,
+        144.8761
+      ],
+      [
+        -37.86259,
+        144.87617
+      ],
+      [
+        -37.8628,
+        144.87634
+      ],
+      [
+        -37.86291,
+        144.87646
+      ],
+      [
+        -37.86298,
+        144.87657
+      ],
+      [
+        -37.86311,
+        144.87667
+      ],
+      [
+        -37.86323,
+        144.87686
+      ],
+      [
+        -37.86337,
+        144.87724
+      ],
+      [
+        -37.86352,
+        144.87741
+      ],
+      [
+        -37.86394,
+        144.87766
+      ],
+      [
+        -37.8641,
+        144.87786
+      ],
+      [
+        -37.86423,
+        144.87822
+      ],
+      [
+        -37.86425,
+        144.87832
+      ],
+      [
+        -37.86423,
+        144.87902
+      ],
+      [
+        -37.86434,
+        144.87962
+      ],
+      [
+        -37.8643,
+        144.88001
+      ],
+      [
+        -37.86431,
+        144.8801
+      ],
+      [
+        -37.86439,
+        144.88045
+      ],
+      [
+        -37.86443,
+        144.88055
+      ],
+      [
+        -37.86455,
+        144.88073
+      ],
+      [
+        -37.86476,
+        144.88102
+      ],
+      [
+        -37.86484,
+        144.88118
+      ],
+      [
+        -37.86485,
+        144.88136
+      ],
+      [
+        -37.86471,
+        144.88165
+      ],
+      [
+        -37.86469,
+        144.88183
+      ],
+      [
+        -37.86476,
+        144.88208
+      ],
+      [
+        -37.8648,
+        144.88234
+      ],
+      [
+        -37.86487,
+        144.88251
+      ],
+      [
+        -37.86499,
+        144.8827
+      ],
+      [
+        -37.86515,
+        144.88303
+      ],
+      [
+        -37.86526,
+        144.88337
+      ],
+      [
+        -37.86536,
+        144.88355
+      ],
+      [
+        -37.86557,
+        144.88373
+      ],
+      [
+        -37.86561,
+        144.88382
+      ],
+      [
+        -37.8658,
+        144.88406
+      ],
+      [
+        -37.86603,
+        144.88413
+      ],
+      [
+        -37.86638,
+        144.88418
+      ],
+      [
+        -37.86667,
+        144.88414
+      ],
+      [
+        -37.8669,
+        144.88415
+      ],
+      [
+        -37.86696,
+        144.88427
+      ],
+      [
+        -37.86705,
+        144.88498
+      ],
+      [
+        -37.86711,
+        144.88519
+      ],
+      [
+        -37.86716,
+        144.88522
+      ],
+      [
+        -37.86744,
+        144.8852
+      ],
+      [
+        -37.8675,
+        144.88522
+      ],
+      [
+        -37.86753,
+        144.88527
+      ],
+      [
+        -37.86753,
+        144.88532
+      ],
+      [
+        -37.86752,
+        144.88524
+      ],
+      [
+        -37.86751,
+        144.8852
+      ],
+      [
+        -37.86748,
+        144.8852
+      ],
+      [
+        -37.86749,
+        144.88524
+      ],
+      [
+        -37.86745,
+        144.88538
+      ],
+      [
+        -37.86751,
+        144.8859
+      ],
+      [
+        -37.86755,
+        144.88678
+      ],
+      [
+        -37.86761,
+        144.88731
+      ],
+      [
+        -37.86757,
+        144.88757
+      ],
+      [
+        -37.86747,
+        144.88769
+      ],
+      [
+        -37.86735,
+        144.88789
+      ],
+      [
+        -37.86752,
+        144.88815
+      ],
+      [
+        -37.86746,
+        144.88826
+      ],
+      [
+        -37.86733,
+        144.88866
+      ],
+      [
+        -37.8673,
+        144.88867
+      ],
+      [
+        -37.8672,
+        144.88881
+      ],
+      [
+        -37.86687,
+        144.88984
+      ],
+      [
+        -37.86682,
+        144.89014
+      ],
+      [
+        -37.86681,
+        144.89026
+      ],
+      [
+        -37.86684,
+        144.89071
+      ],
+      [
+        -37.86694,
+        144.89163
+      ],
+      [
+        -37.86754,
+        144.89342
+      ],
+      [
+        -37.86774,
+        144.89385
+      ],
+      [
+        -37.86794,
+        144.89422
+      ],
+      [
+        -37.86812,
+        144.89453
+      ],
+      [
+        -37.86824,
+        144.89463
+      ],
+      [
+        -37.86998,
+        144.89821
+      ],
+      [
+        -37.87016,
+        144.89863
+      ],
+      [
+        -37.8703,
+        144.89887
+      ],
+      [
+        -37.87035,
+        144.89901
+      ],
+      [
+        -37.87056,
+        144.89938
+      ],
+      [
+        -37.8708,
+        144.89991
+      ],
+      [
+        -37.8712,
+        144.90073
+      ],
+      [
+        -37.8714,
+        144.90118
+      ],
+      [
+        -37.87146,
+        144.90144
+      ],
+      [
+        -37.87143,
+        144.90162
+      ],
+      [
+        -37.87152,
+        144.90169
+      ],
+      [
+        -37.87167,
+        144.90172
+      ],
+      [
+        -37.87178,
+        144.90178
+      ],
+      [
+        -37.87207,
+        144.90224
+      ],
+      [
+        -37.87213,
+        144.90245
+      ],
+      [
+        -37.87226,
+        144.90329
+      ],
+      [
+        -37.87222,
+        144.90354
+      ],
+      [
+        -37.87214,
+        144.90385
+      ],
+      [
+        -37.87207,
+        144.90401
+      ],
+      [
+        -37.87191,
+        144.90421
+      ],
+      [
+        -37.87147,
+        144.90458
+      ],
+      [
+        -37.87138,
+        144.90475
+      ],
+      [
+        -37.87133,
+        144.90477
+      ],
+      [
+        -37.87125,
+        144.90482
+      ],
+      [
+        -37.87122,
+        144.90492
+      ],
+      [
+        -37.87124,
+        144.90505
+      ],
+      [
+        -37.87118,
+        144.9053
+      ],
+      [
+        -37.87106,
+        144.90569
+      ],
+      [
+        -37.87095,
+        144.90619
+      ],
+      [
+        -37.87086,
+        144.9065
+      ],
+      [
+        -37.87081,
+        144.90653
+      ],
+      [
+        -37.87064,
+        144.90692
+      ],
+      [
+        -37.87014,
+        144.90791
+      ],
+      [
+        -37.86976,
+        144.90882
+      ],
+      [
+        -37.86946,
+        144.90946
+      ],
+      [
+        -37.86882,
+        144.91045
+      ],
+      [
+        -37.8678,
+        144.91211
+      ],
+      [
+        -37.86768,
+        144.91227
+      ],
+      [
+        -37.86753,
+        144.91237
+      ],
+      [
+        -37.86748,
+        144.91244
+      ],
+      [
+        -37.86732,
+        144.9128
+      ],
+      [
+        -37.8671,
+        144.91298
+      ],
+      [
+        -37.86702,
+        144.91301
+      ],
+      [
+        -37.86693,
+        144.91301
+      ],
+      [
+        -37.8669,
+        144.91299
+      ],
+      [
+        -37.86666,
+        144.91267
+      ],
+      [
+        -37.86658,
+        144.91246
+      ],
+      [
+        -37.86639,
+        144.91208
+      ],
+      [
+        -37.86611,
+        144.91166
+      ],
+      [
+        -37.8651,
+        144.91055
+      ],
+      [
+        -37.86494,
+        144.90995
+      ],
+      [
+        -37.86455,
+        144.90877
+      ],
+      [
+        -37.86432,
+        144.90797
+      ],
+      [
+        -37.86414,
+        144.90753
+      ],
+      [
+        -37.8638,
+        144.90645
+      ],
+      [
+        -37.86346,
+        144.9055
+      ],
+      [
+        -37.86263,
+        144.90293
+      ],
+      [
+        -37.86253,
+        144.90285
+      ],
+      [
+        -37.86178,
+        144.90259
+      ],
+      [
+        -37.86176,
+        144.90259
+      ],
+      [
+        -37.8617,
+        144.90276
+      ],
+      [
+        -37.86166,
+        144.90276
+      ],
+      [
+        -37.86162,
+        144.90273
+      ],
+      [
+        -37.86146,
+        144.90269
+      ],
+      [
+        -37.86108,
+        144.90257
+      ],
+      [
+        -37.86082,
+        144.90252
+      ],
+      [
+        -37.86065,
+        144.90245
+      ],
+      [
+        -37.8599,
+        144.90223
+      ],
+      [
+        -37.85974,
+        144.90224
+      ],
+      [
+        -37.8596,
+        144.90242
+      ],
+      [
+        -37.85944,
+        144.9025
+      ],
+      [
+        -37.85939,
+        144.90255
+      ],
+      [
+        -37.85936,
+        144.90261
+      ],
+      [
+        -37.85935,
+        144.90292
+      ],
+      [
+        -37.85938,
+        144.9029
+      ],
+      [
+        -37.85937,
+        144.90276
+      ],
+      [
+        -37.85933,
+        144.90261
+      ],
+      [
+        -37.85885,
+        144.90246
+      ],
+      [
+        -37.8587,
+        144.90239
+      ],
+      [
+        -37.85854,
+        144.90237
+      ],
+      [
+        -37.85845,
+        144.90239
+      ],
+      [
+        -37.85829,
+        144.90249
+      ],
+      [
+        -37.85803,
+        144.9026
+      ],
+      [
+        -37.85786,
+        144.90257
+      ],
+      [
+        -37.85772,
+        144.9026
+      ],
+      [
+        -37.85751,
+        144.90261
+      ],
+      [
+        -37.85747,
+        144.90255
+      ],
+      [
+        -37.85737,
+        144.90248
+      ],
+      [
+        -37.85687,
+        144.90236
+      ],
+      [
+        -37.85599,
+        144.90198
+      ],
+      [
+        -37.85553,
+        144.90186
+      ],
+      [
+        -37.85518,
+        144.90184
+      ],
+      [
+        -37.85493,
+        144.90179
+      ],
+      [
+        -37.85488,
+        144.90177
+      ],
+      [
+        -37.85459,
+        144.90156
+      ],
+      [
+        -37.85345,
+        144.90038
+      ],
+      [
+        -37.85307,
+        144.89993
+      ],
+      [
+        -37.85265,
+        144.8995
+      ],
+      [
+        -37.85194,
+        144.89868
+      ],
+      [
+        -37.85163,
+        144.89827
+      ],
+      [
+        -37.85133,
+        144.89779
+      ],
+      [
+        -37.85095,
+        144.89726
+      ],
+      [
+        -37.85018,
+        144.8961
+      ],
+      [
+        -37.8498,
+        144.89562
+      ],
+      [
+        -37.84942,
+        144.89521
+      ],
+      [
+        -37.8491,
+        144.89492
+      ],
+      [
+        -37.84879,
+        144.89471
+      ],
+      [
+        -37.84861,
+        144.89462
+      ],
+      [
+        -37.84829,
+        144.89449
+      ],
+      [
+        -37.84759,
+        144.89427
+      ],
+      [
+        -37.84724,
+        144.89422
+      ],
+      [
+        -37.84704,
+        144.89424
+      ],
+      [
+        -37.84663,
+        144.89432
+      ],
+      [
+        -37.84576,
+        144.89473
+      ],
+      [
+        -37.8455,
+        144.89483
+      ],
+      [
+        -37.84543,
+        144.89488
+      ],
+      [
+        -37.84539,
+        144.89493
+      ],
+      [
+        -37.84542,
+        144.89551
+      ],
+      [
+        -37.84541,
+        144.89573
+      ],
+      [
+        -37.84534,
+        144.8959
+      ],
+      [
+        -37.84527,
+        144.89599
+      ],
+      [
+        -37.84518,
+        144.89604
+      ],
+      [
+        -37.84503,
+        144.89609
+      ],
+      [
+        -37.84449,
+        144.8962
+      ],
+      [
+        -37.84372,
+        144.89625
+      ],
+      [
+        -37.84348,
+        144.89636
+      ],
+      [
+        -37.84282,
+        144.89683
+      ],
+      [
+        -37.84277,
+        144.89684
+      ],
+      [
+        -37.84269,
+        144.89682
+      ],
+      [
+        -37.84262,
+        144.89689
+      ],
+      [
+        -37.84251,
+        144.89688
+      ],
+      [
+        -37.84234,
+        144.89693
+      ],
+      [
+        -37.84202,
+        144.89697
+      ],
+      [
+        -37.84192,
+        144.89702
+      ],
+      [
+        -37.8418,
+        144.89702
+      ],
+      [
+        -37.84162,
+        144.8969
+      ],
+      [
+        -37.84122,
+        144.89669
+      ],
+      [
+        -37.84081,
+        144.8964
+      ],
+      [
+        -37.84067,
+        144.89633
+      ],
+      [
+        -37.84053,
+        144.8963
+      ],
+      [
+        -37.84027,
+        144.8963
+      ],
+      [
+        -37.84018,
+        144.89628
+      ],
+      [
+        -37.84004,
+        144.89622
+      ],
+      [
+        -37.83985,
+        144.89618
+      ],
+      [
+        -37.83966,
+        144.89608
+      ],
+      [
+        -37.83938,
+        144.89603
+      ],
+      [
+        -37.83858,
+        144.89582
+      ],
+      [
+        -37.83786,
+        144.89561
+      ],
+      [
+        -37.83754,
+        144.89547
+      ],
+      [
+        -37.83721,
+        144.89516
+      ],
+      [
+        -37.83712,
+        144.8951
+      ],
+      [
+        -37.83702,
+        144.8951
+      ],
+      [
+        -37.83699,
+        144.89513
+      ],
+      [
+        -37.8368,
+        144.89536
+      ],
+      [
+        -37.83672,
+        144.89537
+      ],
+      [
+        -37.83663,
+        144.89533
+      ],
+      [
+        -37.83656,
+        144.89528
+      ],
+      [
+        -37.83647,
+        144.8953
+      ],
+      [
+        -37.83636,
+        144.89535
+      ],
+      [
+        -37.83609,
+        144.89528
+      ],
+      [
+        -37.83597,
+        144.89511
+      ],
+      [
+        -37.83568,
+        144.89493
+      ],
+      [
+        -37.8356,
+        144.89491
+      ],
+      [
+        -37.83516,
+        144.89494
+      ],
+      [
+        -37.83493,
+        144.89491
+      ],
+      [
+        -37.83477,
+        144.89493
+      ],
+      [
+        -37.83442,
+        144.89494
+      ],
+      [
+        -37.83416,
+        144.89509
+      ],
+      [
+        -37.834,
+        144.89512
+      ],
+      [
+        -37.83367,
+        144.89515
+      ],
+      [
+        -37.83353,
+        144.89514
+      ],
+      [
+        -37.83337,
+        144.89523
+      ],
+      [
+        -37.83329,
+        144.8952
+      ],
+      [
+        -37.83306,
+        144.89522
+      ],
+      [
+        -37.83281,
+        144.8953
+      ],
+      [
+        -37.83266,
+        144.89532
+      ],
+      [
+        -37.83253,
+        144.89532
+      ],
+      [
+        -37.83228,
+        144.89528
+      ],
+      [
+        -37.8322,
+        144.8953
+      ],
+      [
+        -37.83208,
+        144.89534
+      ],
+      [
+        -37.83109,
+        144.89549
+      ],
+      [
+        -37.83083,
+        144.89548
+      ],
+      [
+        -37.83075,
+        144.8955
+      ],
+      [
+        -37.83041,
+        144.89565
+      ],
+      [
+        -37.83025,
+        144.89575
+      ],
+      [
+        -37.83018,
+        144.89577
+      ],
+      [
+        -37.82985,
+        144.89592
+      ],
+      [
+        -37.82973,
+        144.89593
+      ],
+      [
+        -37.82942,
+        144.89602
+      ],
+      [
+        -37.82908,
+        144.89594
+      ],
+      [
+        -37.82886,
+        144.89586
+      ],
+      [
+        -37.82876,
+        144.89588
+      ],
+      [
+        -37.82862,
+        144.89597
+      ],
+      [
+        -37.82858,
+        144.89597
+      ],
+      [
+        -37.82853,
+        144.89594
+      ],
+      [
+        -37.82816,
+        144.89528
+      ],
+      [
+        -37.82798,
+        144.89507
+      ],
+      [
+        -37.82791,
+        144.89501
+      ],
+      [
+        -37.82784,
+        144.89496
+      ],
+      [
+        -37.8277,
+        144.89494
+      ],
+      [
+        -37.82737,
+        144.895
+      ],
+      [
+        -37.82703,
+        144.89502
+      ],
+      [
+        -37.8266,
+        144.89512
+      ],
+      [
+        -37.82404,
+        144.89559
+      ],
+      [
+        -37.82348,
+        144.89568
+      ],
+      [
+        -37.82297,
+        144.89578
+      ],
+      [
+        -37.82211,
+        144.89592
+      ],
+      [
+        -37.82199,
+        144.89593
+      ],
+      [
+        -37.82187,
+        144.89598
+      ],
+      [
+        -37.82023,
+        144.89625
+      ],
+      [
+        -37.8195,
+        144.89639
+      ],
+      [
+        -37.81916,
+        144.89643
+      ],
+      [
+        -37.81865,
+        144.89654
+      ],
+      [
+        -37.81738,
+        144.89675
+      ],
+      [
+        -37.8171,
+        144.89681
+      ],
+      [
+        -37.81668,
+        144.89686
+      ],
+      [
+        -37.8153,
+        144.89712
+      ],
+      [
+        -37.81493,
+        144.89721
+      ],
+      [
+        -37.81483,
+        144.89725
+      ],
+      [
+        -37.81475,
+        144.89725
+      ],
+      [
+        -37.81465,
+        144.89723
+      ],
+      [
+        -37.81438,
+        144.89734
+      ],
+      [
+        -37.81436,
+        144.89743
+      ],
+      [
+        -37.81437,
+        144.89761
+      ],
+      [
+        -37.81445,
+        144.89814
+      ],
+      [
+        -37.81456,
+        144.8991
+      ],
+      [
+        -37.81458,
+        144.89956
+      ],
+      [
+        -37.81451,
+        144.89969
+      ],
+      [
+        -37.81461,
+        144.89967
+      ],
+      [
+        -37.81475,
+        144.89957
+      ],
+      [
+        -37.81478,
+        144.89959
+      ],
+      [
+        -37.81476,
+        144.89958
+      ],
+      [
+        -37.81475,
+        144.89962
+      ],
+      [
+        -37.81476,
+        144.89993
+      ],
+      [
+        -37.81474,
+        144.89998
+      ],
+      [
+        -37.81469,
+        144.89999
+      ],
+      [
+        -37.81434,
+        144.90016
+      ],
+      [
+        -37.81291,
+        144.90089
+      ],
+      [
+        -37.81129,
+        144.90157
+      ],
+      [
+        -37.80999,
+        144.9022
+      ],
+      [
+        -37.80947,
+        144.90238
+      ],
+      [
+        -37.80934,
+        144.90246
+      ],
+      [
+        -37.80899,
+        144.90263
+      ],
+      [
+        -37.80889,
+        144.90272
+      ],
+      [
+        -37.80802,
+        144.90365
+      ],
+      [
+        -37.8077,
+        144.90401
+      ],
+      [
+        -37.80751,
+        144.90418
+      ],
+      [
+        -37.8074,
+        144.90429
+      ],
+      [
+        -37.80692,
+        144.90467
+      ],
+      [
+        -37.80601,
+        144.90548
+      ],
+      [
+        -37.80596,
+        144.90557
+      ],
+      [
+        -37.80593,
+        144.90567
+      ],
+      [
+        -37.80587,
+        144.90603
+      ],
+      [
+        -37.8059,
+        144.90629
+      ],
+      [
+        -37.80607,
+        144.90681
+      ],
+      [
+        -37.80615,
+        144.90711
+      ],
+      [
+        -37.80626,
+        144.90739
+      ],
+      [
+        -37.80631,
+        144.90763
+      ],
+      [
+        -37.80652,
+        144.90836
+      ],
+      [
+        -37.80657,
+        144.90842
+      ],
+      [
+        -37.8067,
+        144.90843
+      ],
+      [
+        -37.80684,
+        144.9085
+      ],
+      [
+        -37.80691,
+        144.90855
+      ],
+      [
+        -37.80707,
+        144.90882
+      ],
+      [
+        -37.80712,
+        144.90909
+      ],
+      [
+        -37.80706,
+        144.9103
+      ],
+      [
+        -37.80709,
+        144.91057
+      ],
+      [
+        -37.8071,
+        144.9108
+      ],
+      [
+        -37.80713,
+        144.91102
+      ],
+      [
+        -37.80716,
+        144.91106
+      ],
+      [
+        -37.80717,
+        144.91147
+      ],
+      [
+        -37.80729,
+        144.91238
+      ],
+      [
+        -37.80737,
+        144.91348
+      ],
+      [
+        -37.8075,
+        144.91458
+      ],
+      [
+        -37.80755,
+        144.91547
+      ],
+      [
+        -37.80768,
+        144.91638
+      ],
+      [
+        -37.80772,
+        144.91727
+      ],
+      [
+        -37.80788,
+        144.91862
+      ],
+      [
+        -37.80797,
+        144.91986
+      ],
+      [
+        -37.80821,
+        144.92131
+      ],
+      [
+        -37.80824,
+        144.92189
+      ],
+      [
+        -37.80824,
+        144.9221
+      ],
+      [
+        -37.80836,
+        144.92315
+      ],
+      [
+        -37.80849,
+        144.92479
+      ],
+      [
+        -37.80856,
+        144.92536
+      ],
+      [
+        -37.80856,
+        144.92554
+      ],
+      [
+        -37.80851,
+        144.92633
+      ],
+      [
+        -37.80853,
+        144.92673
+      ],
+      [
+        -37.80851,
+        144.92712
+      ],
+      [
+        -37.80847,
+        144.92752
+      ],
+      [
+        -37.80834,
+        144.92817
+      ],
+      [
+        -37.80826,
+        144.92888
+      ],
+      [
+        -37.80813,
+        144.92943
+      ],
+      [
+        -37.80802,
+        144.93011
+      ],
+      [
+        -37.80812,
+        144.93122
+      ],
+      [
+        -37.80812,
+        144.93153
+      ],
+      [
+        -37.8081,
+        144.9319
+      ],
+      [
+        -37.80805,
+        144.93235
+      ],
+      [
+        -37.80805,
+        144.93272
+      ],
+      [
+        -37.80814,
+        144.93347
+      ],
+      [
+        -37.80816,
+        144.93361
+      ],
+      [
+        -37.80817,
+        144.93393
+      ],
+      [
+        -37.80821,
+        144.93444
+      ],
+      [
+        -37.8083,
+        144.93491
+      ],
+      [
+        -37.80838,
+        144.93515
+      ],
+      [
+        -37.80879,
+        144.93607
+      ],
+      [
+        -37.80896,
+        144.93615
+      ],
+      [
+        -37.80911,
+        144.93614
+      ],
+      [
+        -37.80911,
+        144.93611
+      ],
+      [
+        -37.80906,
+        144.93602
+      ],
+      [
+        -37.80891,
+        144.93582
+      ],
+      [
+        -37.80881,
+        144.93579
+      ],
+      [
+        -37.80877,
+        144.9358
+      ],
+      [
+        -37.80846,
+        144.936
+      ],
+      [
+        -37.80838,
+        144.93604
+      ],
+      [
+        -37.80816,
+        144.93609
+      ],
+      [
+        -37.80791,
+        144.9361
+      ],
+      [
+        -37.80772,
+        144.93616
+      ],
+      [
+        -37.80732,
+        144.93631
+      ],
+      [
+        -37.8072,
+        144.93632
+      ],
+      [
+        -37.80656,
+        144.93617
+      ],
+      [
+        -37.80634,
+        144.93615
+      ],
+      [
+        -37.80608,
+        144.93621
+      ],
+      [
+        -37.80569,
+        144.93636
+      ],
+      [
+        -37.80555,
+        144.93638
+      ],
+      [
+        -37.80541,
+        144.93639
+      ],
+      [
+        -37.80529,
+        144.93643
+      ],
+      [
+        -37.80479,
+        144.93646
+      ],
+      [
+        -37.80457,
+        144.93653
+      ],
+      [
+        -37.80433,
+        144.93631
+      ],
+      [
+        -37.80398,
+        144.93603
+      ],
+      [
+        -37.80335,
+        144.93558
+      ],
+      [
+        -37.80319,
+        144.93552
+      ],
+      [
+        -37.80301,
+        144.93569
+      ],
+      [
+        -37.80266,
+        144.93613
+      ],
+      [
+        -37.80221,
+        144.93642
+      ],
+      [
+        -37.80205,
+        144.93663
+      ],
+      [
+        -37.80195,
+        144.9367
+      ],
+      [
+        -37.80178,
+        144.93669
+      ],
+      [
+        -37.80113,
+        144.93661
+      ],
+      [
+        -37.80091,
+        144.93654
+      ],
+      [
+        -37.80063,
+        144.9364
+      ],
+      [
+        -37.80021,
+        144.93622
+      ],
+      [
+        -37.79992,
+        144.93622
+      ],
+      [
+        -37.79961,
+        144.93633
+      ],
+      [
+        -37.79944,
+        144.93632
+      ],
+      [
+        -37.799,
+        144.93643
+      ],
+      [
+        -37.79874,
+        144.93641
+      ],
+      [
+        -37.79801,
+        144.93623
+      ],
+      [
+        -37.79713,
+        144.936
+      ],
+      [
+        -37.79627,
+        144.93582
+      ],
+      [
+        -37.79582,
+        144.93575
+      ],
+      [
+        -37.79544,
+        144.93573
+      ],
+      [
+        -37.79494,
+        144.93579
+      ],
+      [
+        -37.79459,
+        144.93587
+      ],
+      [
+        -37.79443,
+        144.93592
+      ],
+      [
+        -37.79382,
+        144.93606
+      ],
+      [
+        -37.79299,
+        144.93621
+      ],
+      [
+        -37.79211,
+        144.9364
+      ],
+      [
+        -37.79144,
+        144.93651
+      ],
+      [
+        -37.79102,
+        144.9366
+      ],
+      [
+        -37.79084,
+        144.93666
+      ],
+      [
+        -37.79044,
+        144.93681
+      ],
+      [
+        -37.79018,
+        144.93695
+      ],
+      [
+        -37.78987,
+        144.93724
+      ],
+      [
+        -37.78946,
+        144.93751
+      ],
+      [
+        -37.78926,
+        144.93746
+      ],
+      [
+        -37.78912,
+        144.93754
+      ],
+      [
+        -37.78888,
+        144.9378
+      ],
+      [
+        -37.7888,
+        144.93781
+      ],
+      [
+        -37.78873,
+        144.93787
+      ],
+      [
+        -37.78866,
+        144.93799
+      ],
+      [
+        -37.7886,
+        144.93822
+      ],
+      [
+        -37.78849,
+        144.9385
+      ],
+      [
+        -37.78836,
+        144.93869
+      ],
+      [
+        -37.78783,
+        144.93936
+      ],
+      [
+        -37.78764,
+        144.93966
+      ],
+      [
+        -37.78759,
+        144.93981
+      ],
+      [
+        -37.7876,
+        144.9399
+      ],
+      [
+        -37.78763,
+        144.93992
+      ],
+      [
+        -37.78773,
+        144.93971
+      ],
+      [
+        -37.78792,
+        144.93941
+      ],
+      [
+        -37.78795,
+        144.93941
+      ],
+      [
+        -37.78748,
+        144.9405
+      ],
+      [
+        -37.7871,
+        144.94129
+      ],
+      [
+        -37.78679,
+        144.94202
+      ],
+      [
+        -37.78578,
+        144.94357
+      ],
+      [
+        -37.78524,
+        144.9443
+      ],
+      [
+        -37.78485,
+        144.94478
+      ],
+      [
+        -37.78453,
+        144.94515
+      ],
+      [
+        -37.78383,
+        144.94585
+      ],
+      [
+        -37.78371,
+        144.94596
+      ],
+      [
+        -37.78352,
+        144.94603
+      ],
+      [
+        -37.78334,
+        144.94615
+      ],
+      [
+        -37.78293,
+        144.94658
+      ],
+      [
+        -37.78247,
+        144.94712
+      ],
+      [
+        -37.78184,
+        144.94799
+      ],
+      [
+        -37.7816,
+        144.94843
+      ],
+      [
+        -37.78141,
+        144.94888
+      ],
+      [
+        -37.78116,
+        144.94928
+      ],
+      [
+        -37.78102,
+        144.94947
+      ],
+      [
+        -37.78092,
+        144.94971
+      ],
+      [
+        -37.78083,
+        144.95061
+      ],
+      [
+        -37.78078,
+        144.95079
+      ],
+      [
+        -37.78072,
+        144.95083
+      ],
+      [
+        -37.78072,
+        144.95093
+      ],
+      [
+        -37.78085,
+        144.95113
+      ],
+      [
+        -37.78094,
+        144.95125
+      ],
+      [
+        -37.78107,
+        144.95133
+      ],
+      [
+        -37.78123,
+        144.95134
+      ],
+      [
+        -37.78136,
+        144.9514
+      ],
+      [
+        -37.78137,
+        144.95143
+      ],
+      [
+        -37.78142,
+        144.95165
+      ],
+      [
+        -37.78144,
+        144.95187
+      ],
+      [
+        -37.78144,
+        144.95237
+      ],
+      [
+        -37.78151,
+        144.95338
+      ],
+      [
+        -37.78151,
+        144.95379
+      ],
+      [
+        -37.78141,
+        144.95441
+      ],
+      [
+        -37.78122,
+        144.95519
+      ],
+      [
+        -37.78098,
+        144.95579
+      ],
+      [
+        -37.7808,
+        144.95616
+      ],
+      [
+        -37.78047,
+        144.95683
+      ],
+      [
+        -37.78038,
+        144.95698
+      ],
+      [
+        -37.78015,
+        144.9572
+      ],
+      [
+        -37.7798,
+        144.95736
+      ],
+      [
+        -37.77928,
+        144.95769
+      ],
+      [
+        -37.77888,
+        144.95789
+      ],
+      [
+        -37.77863,
+        144.958
+      ],
+      [
+        -37.77811,
+        144.95812
+      ],
+      [
+        -37.77804,
+        144.95815
+      ],
+      [
+        -37.77787,
+        144.9582
+      ],
+      [
+        -37.77743,
+        144.95827
+      ],
+      [
+        -37.77634,
+        144.95851
+      ],
+      [
+        -37.77603,
+        144.95856
+      ],
+      [
+        -37.77524,
+        144.95883
+      ],
+      [
+        -37.77504,
+        144.95893
+      ],
+      [
+        -37.77491,
+        144.95897
+      ],
+      [
+        -37.77463,
+        144.95897
+      ],
+      [
+        -37.77453,
+        144.95899
+      ],
+      [
+        -37.77408,
+        144.95902
+      ],
+      [
+        -37.7739,
+        144.95905
+      ],
+      [
+        -37.77389,
+        144.95908
+      ],
+      [
+        -37.774,
+        144.95912
+      ],
+      [
+        -37.77401,
+        144.95915
+      ],
+      [
+        -37.77419,
+        144.9606
+      ],
+      [
+        -37.77421,
+        144.96079
+      ],
+      [
+        -37.77418,
+        144.96084
+      ],
+      [
+        -37.77407,
+        144.96088
+      ],
+      [
+        -37.77343,
+        144.96101
+      ],
+      [
+        -37.77303,
+        144.96106
+      ],
+      [
+        -37.77221,
+        144.9612
+      ],
+      [
+        -37.77158,
+        144.96127
+      ],
+      [
+        -37.77139,
+        144.96134
+      ],
+      [
+        -37.77059,
+        144.96147
+      ],
+      [
+        -37.77004,
+        144.96158
+      ],
+      [
+        -37.76901,
+        144.96174
+      ],
+      [
+        -37.76884,
+        144.96175
+      ],
+      [
+        -37.76876,
+        144.96171
+      ],
+      [
+        -37.76881,
+        144.9619
+      ],
+      [
+        -37.76885,
+        144.96195
+      ],
+      [
+        -37.7689,
+        144.9622
+      ],
+      [
+        -37.7689,
+        144.96236
+      ],
+      [
+        -37.7691,
+        144.96408
+      ],
+      [
+        -37.76914,
+        144.96465
+      ],
+      [
+        -37.76953,
+        144.96807
+      ],
+      [
+        -37.7696,
+        144.96895
+      ],
+      [
+        -37.76993,
+        144.97188
+      ],
+      [
+        -37.76985,
+        144.97202
+      ],
+      [
+        -37.76977,
+        144.97207
+      ],
+      [
+        -37.76968,
+        144.9722
+      ],
+      [
+        -37.76972,
+        144.97212
+      ],
+      [
+        -37.7699,
+        144.97207
+      ],
+      [
+        -37.77002,
+        144.97243
+      ],
+      [
+        -37.77003,
+        144.97255
+      ],
+      [
+        -37.77001,
+        144.97286
+      ],
+      [
+        -37.76919,
+        144.973
+      ],
+      [
+        -37.76921,
+        144.97302
+      ],
+      [
+        -37.76924,
+        144.97299
+      ],
+      [
+        -37.76919,
+        144.973
+      ],
+      [
+        -37.7692,
+        144.97299
+      ],
+      [
+        -37.76921,
+        144.97301
+      ],
+      [
+        -37.76919,
+        144.97302
+      ],
+      [
+        -37.7692,
+        144.97304
+      ]
+    ]
+  },
+  {
+    "resource_state": 3,
+    "athlete": {
+      "id": 49069428,
+      "resource_state": 1
+    },
     "name": "On the outskirts of Melbourne",
     "distance": 82490.5,
     "moving_time": 22255,
@@ -23,7 +8756,7 @@
     "location_state": null,
     "location_country": null,
     "achievement_count": 0,
-    "kudos_count": 4,
+    "kudos_count": 5,
     "comment_count": 0,
     "athlete_count": 1,
     "photo_count": 0,
