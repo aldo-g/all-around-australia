@@ -23,7 +23,7 @@
     "location_state": null,
     "location_country": null,
     "achievement_count": 0,
-    "kudos_count": 0,
+    "kudos_count": 3,
     "comment_count": 0,
     "athlete_count": 1,
     "photo_count": 0,
@@ -36,8 +36,8 @@
     "trainer": false,
     "commute": false,
     "manual": false,
-    "private": true,
-    "visibility": "only_me",
+    "private": false,
+    "visibility": "everyone",
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
@@ -75,7 +75,7 @@
         "name": "Sprint past Salter",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -122,7 +122,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -131,7 +131,7 @@
         "name": "Truganina Trail",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -178,7 +178,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -187,7 +187,7 @@
         "name": "Sevdah 2020",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -234,7 +234,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -243,7 +243,7 @@
         "name": "Altona Esplanade Return",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -290,7 +290,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -299,7 +299,7 @@
         "name": "Smack it to Sars",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -346,7 +346,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -355,7 +355,7 @@
         "name": "The Sandy Bit (East bound)",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -402,7 +402,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -411,7 +411,7 @@
         "name": "Seagulls, fush and chups",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -458,7 +458,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -467,7 +467,7 @@
         "name": "Turn The Screws Up Tues / Thurs!",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -514,7 +514,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -523,7 +523,7 @@
         "name": "Snoop Doggy Grog Bog Dog",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -570,7 +570,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -579,7 +579,7 @@
         "name": "Altona Coastal Park - Take the right",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -626,7 +626,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -635,7 +635,7 @@
         "name": "Captian Slows Slug!",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -682,7 +682,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -691,7 +691,7 @@
         "name": "Altona Wetlands Track (East Bound)",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -738,7 +738,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -747,7 +747,7 @@
         "name": "From Altona to Williamstown by path down",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -794,7 +794,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -803,7 +803,7 @@
         "name": "champs de Esplanade ",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -850,7 +850,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -859,7 +859,7 @@
         "name": "Williamstown Edge",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -906,7 +906,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -915,7 +915,7 @@
         "name": "Rough Ride",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -962,7 +962,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -971,7 +971,7 @@
         "name": "Organic fair trade single origin soy eggnog decaf latte sprint",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1018,7 +1018,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1027,7 +1027,7 @@
         "name": "Gifford to Thompson smash fest",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1074,7 +1074,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1083,7 +1083,7 @@
         "name": "Bracksie's bumps sprint (eastbound)",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1130,7 +1130,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1139,7 +1139,7 @@
         "name": "FHRITP",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1186,7 +1186,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1195,7 +1195,7 @@
         "name": "Kanowna Moaner",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1242,7 +1242,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1251,7 +1251,7 @@
         "name": "The full nelson",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1298,7 +1298,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1307,7 +1307,7 @@
         "name": "Rosseau Street Climb",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1354,7 +1354,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1363,7 +1363,7 @@
         "name": "Willy Roundabout sprints",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1410,7 +1410,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1419,7 +1419,7 @@
         "name": "JP - speeds to impress the ladies",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1466,7 +1466,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1475,7 +1475,7 @@
         "name": "The Strand TT from roundabout",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1522,7 +1522,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1531,7 +1531,7 @@
         "name": "Strand Lead Out",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1578,7 +1578,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1587,7 +1587,7 @@
         "name": "Anchorage - Duck Pond Sprint",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1634,7 +1634,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1643,7 +1643,7 @@
         "name": "5:40 big sprint finish",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1690,7 +1690,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1699,7 +1699,7 @@
         "name": "Dont hold back, watch the traffic island",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1746,7 +1746,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1755,7 +1755,7 @@
         "name": "Power to Gate",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1802,7 +1802,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1811,7 +1811,7 @@
         "name": "The last Sh*t Bit",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1858,7 +1858,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1867,7 +1867,7 @@
         "name": "Hyde from Willy",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1914,7 +1914,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1923,7 +1923,7 @@
         "name": "Latte Not Far",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -1970,7 +1970,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -1979,7 +1979,7 @@
         "name": "Climb from Punt to the Mobil lights",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2026,7 +2026,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2035,7 +2035,7 @@
         "name": "Hyde St Bash",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2082,7 +2082,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2091,7 +2091,7 @@
         "name": "The last push",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2138,7 +2138,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2147,7 +2147,7 @@
         "name": "Keilor riders - Everyone has the sh!ts now",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2194,7 +2194,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2203,7 +2203,7 @@
         "name": "Mobil lights at Hyde St to Whitehall St corner",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2250,7 +2250,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2259,7 +2259,7 @@
         "name": "Marcello's Mile",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2306,7 +2306,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2315,7 +2315,7 @@
         "name": "Watchout for the bollards Katharine!",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2362,7 +2362,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2371,7 +2371,7 @@
         "name": "No stopping for the Taco Truck",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2418,7 +2418,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2427,7 +2427,7 @@
         "name": "Don't stop for a picnic",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2474,7 +2474,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2483,7 +2483,7 @@
         "name": "Whitehall St 1km dash",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2530,7 +2530,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2539,7 +2539,7 @@
         "name": "Trucks and shit bridge ",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2586,7 +2586,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2595,7 +2595,7 @@
         "name": "whitehall sprint",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2642,7 +2642,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2651,7 +2651,7 @@
         "name": "Shepherds Bridge - drop the hammer",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2698,7 +2698,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2707,7 +2707,7 @@
         "name": "Chasing the Dragon  to Moone Ponds Creek Trail",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2754,7 +2754,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2763,7 +2763,7 @@
         "name": "Footscary Road Seg 1 - East bound",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2810,7 +2810,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2819,7 +2819,7 @@
         "name": "Moonee Ponds Ck - Footscray Rd to Arden St",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2866,7 +2866,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2875,7 +2875,7 @@
         "name": "Capital City Trail - Footscray to Flemington Rd",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2922,7 +2922,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2931,7 +2931,7 @@
         "name": "Footscray Rd (second underpass) to McPherson Baseball Field",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -2978,7 +2978,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -2987,7 +2987,7 @@
         "name": "Dynon Rd to Macaulay Station",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3034,7 +3034,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3043,7 +3043,7 @@
         "name": "GM's SUPERSPRINT",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3090,7 +3090,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3099,7 +3099,7 @@
         "name": "Bridge to Flemington Rd",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3146,7 +3146,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3155,7 +3155,7 @@
         "name": "Macaulay Rd to The Ministry of Dance",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3202,7 +3202,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3211,7 +3211,7 @@
         "name": "Macaulay Rd to Park St ",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3258,7 +3258,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3267,7 +3267,7 @@
         "name": "Poplar TT",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3314,7 +3314,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3323,7 +3323,7 @@
         "name": "Three up One Down",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3370,7 +3370,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3379,7 +3379,7 @@
         "name": "Russian Rollercoaster",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3426,7 +3426,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3435,7 +3435,7 @@
         "name": "zoo climb",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3482,7 +3482,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3491,7 +3491,7 @@
         "name": "Don't touch that third rail...",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3538,7 +3538,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3547,7 +3547,7 @@
         "name": "Crown Jewels (Royal Park to Jewell)",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3594,7 +3594,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3603,7 +3603,7 @@
         "name": "Poplar Hill",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3650,7 +3650,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3659,7 +3659,7 @@
         "name": "Juice it up, beat the Train! ",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3706,7 +3706,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       },
       {
@@ -3715,7 +3715,7 @@
         "name": "Who was Albert? ",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -3762,7 +3762,7 @@
         },
         "pr_rank": null,
         "achievements": [],
-        "visibility": "only_me",
+        "visibility": "everyone",
         "hidden": false
       }
     ],
@@ -4437,7 +4437,7 @@
         "name": "Lap 1",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -4466,7 +4466,7 @@
         "name": "Lap 2",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -4495,7 +4495,7 @@
         "name": "Lap 3",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -4524,7 +4524,7 @@
         "name": "Lap 4",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -4553,7 +4553,7 @@
         "name": "Lap 5",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -4582,7 +4582,7 @@
         "name": "Lap 6",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -4611,7 +4611,7 @@
         "name": "Lap 7",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
@@ -4640,7 +4640,7 @@
         "name": "Lap 8",
         "activity": {
           "id": 17087694395,
-          "visibility": "only_me",
+          "visibility": "everyone",
           "resource_state": 1
         },
         "athlete": {
