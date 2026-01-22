@@ -5,6 +5,3990 @@
       "id": 49069428,
       "resource_state": 1
     },
+    "name": "Afternoon Hike",
+    "distance": 7062.9,
+    "moving_time": 4888,
+    "elapsed_time": 5139,
+    "total_elevation_gain": 196,
+    "type": "Hike",
+    "sport_type": "Hike",
+    "device_name": "Garmin fēnix 7x",
+    "id": 17126565243,
+    "start_date": "2026-01-21T05:50:20Z",
+    "start_date_local": "2026-01-21T16:50:20Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a17126565243",
+      "polyline": "zldmFgka|ZABKBQVMtA?RDV?RHXGXIJC?EAYYYc@Ke@c@kAQw@Yy@Qo@MQe@eAKg@Aq@Br@DLIA@BC{@CMMCg@YWWOWQGIOSMO_@[WGKA_@ESEKCCYKSUES@k@Go@IUg@s@AyAV}@RmADKPWFOB[@cAUm@EGUKQ?WDE@GJg@ZQFQ?EM?QBI?IIQKa@IMO?GK@YBMT]N[`@uA?QQa@Iw@BaAA}ABa@Cc@EOKQESBQAYDWJYL}@?mAA]Ea@?EFFCCF@IABACJAI[UQUAEBe@Hk@EQ?s@GaAKi@Uq@y@cB]Wi@Oc@SSAS@ODOJMP]Pk@Eu@JSMWi@QGMHILIROJUb@_@^EJCRHbAQ^KPg@MSISAIDEHSLo@X[^u@Pu@n@MCYJ@E?SNm@bAqAFSBg@H[RWJYLMNQ\\UT_@FUC{BDw@C_@EB@BDM?MJw@JWTgAD]Ne@NWFSNaAAWGMKAKQOm@?_@Ju@@c@DUNm@Ra@DO@WP_ANe@@OCUDS\\g@@ICi@BE@QCIGD_@@SHOp@Wj@W?_@RUB]VK?c@TW?UIMWEW?_@Ba@LKRCPGNUFSLSPGf@FZSHCH?`@N\\QRANFRJHLARBTIJBr@?DE@PBh@AJFJVLHV?RCNYNIRJRPZN`AxACp@BVFXJTNLVFN?LSH[FKJED@`@ZVBPFKS@Dl@TVNn@f@j@hAT\\`AbAt@l@^b@PNLVd@b@R\\x@jA\\~@f@v@JN^Zb@n@N\\TZNd@Nr@P`BCtBIx@?h@B?G?Ef@Ip@oAzEQpAAf@Np@Ar@Dr@JnEJ^b@r@J^Hx@TbEVbD@r@Jv@Dn@LhAHl@Lh@H|@^~FLbA?\\RjC@l@H^k@t@c@`@@?C?J?CCLUDCjA[F?D^C\\QhAkCrMoBfJ{@xE{@vDDV|@jBPp@DXDt@?vCFv@ZjBPd@fBhI",
+      "resource_state": 3,
+      "summary_polyline": "~cdmFera|ZAq@Br@DLIA@BC{@CMMCQIc@[Yc@QGIOSMO_@[WGKA_@ESEKCCYKSUES@k@Go@IUg@s@AyAV}@RmADKPWJk@@cAM]MWSKQ?_@FGJg@ZQFQ?EM?QBI?IIQKa@IMO?GK@YBMT]N[`@uA?QQa@Iw@BaAA}ABa@Cc@EOKQESBQAYDWJYL}@?mAA]Ea@?EFFCCF@IABACJAI[UQUAEBe@Hk@EQ?s@GaAKi@Uq@y@cB]Wi@Oc@SSAS@ODOJMP]Pk@Eu@JSMWi@QGMHILIROJUb@_@^EJCRHbAQ^KPg@MSISAIDEHSLo@X[^u@Pu@n@MCYJ@E?SNm@bAqAFSBg@H[RWJYLMNQ\\UT_@FUC{BDw@C_@EB@BDM?MJw@JWTgAD]Ne@NWFSNaAAWGMKAKQOm@?_@Ju@@c@DUNm@Ra@DO@WP_ANe@@OCUDS\\g@@ICi@BE@QCIGD_@@SHOp@Wj@W?_@RUB]VK?c@TW?UIMWEW?_@Ba@LKRCPGNUFSLSPGf@FZSHCH?`@N\\QRANFRJHLARBTIJBr@?DE@PBh@AJFJVLHV?RCNYNIRJRPZN`AxACp@BVFXJTNLVFN?LSH[FKJED@`@ZVBPFKS@Dl@TVNn@f@j@hAT\\`AbAt@l@^b@PNLVd@b@R\\x@jA\\~@f@v@JN^ZLNT^N\\TZRl@P~@JlACtBIx@?h@B?G?Ef@Ip@oAzEQpAAf@Np@Ar@Dr@JnEJ^b@r@J^Hx@TbEVbD@r@Jv@Dn@LhAHl@Lh@H|@^~FLbA?\\RjC@l@H^k@t@c@`@@?C?J?CCLUDCjA[F?D^C\\QhAkCrMoBfJ{@xE{@vDDV|@jBPp@DXDt@?vCFv@ZjBPd@"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": true,
+    "visibility": "only_me",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -39.021731,
+      146.32133
+    ],
+    "end_latlng": [
+      -39.02165,
+      146.30995
+    ],
+    "average_speed": 1.445,
+    "max_speed": 15.72,
+    "average_cadence": 48.9,
+    "has_heartrate": true,
+    "average_heartrate": 113.1,
+    "max_heartrate": 136,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 161,
+    "elev_low": 13,
+    "upload_id": 18221471785,
+    "upload_id_str": "18221471785",
+    "external_id": "garmin_ping_526295496740",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 501,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3449031782896093000,
+        "resource_state": 2,
+        "name": "Wilsons Promontory Rd Climb",
+        "activity": {
+          "id": 17126565243,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 567,
+        "moving_time": 509,
+        "start_date": "2026-01-21T05:52:46Z",
+        "start_date_local": "2026-01-21T16:52:46Z",
+        "distance": 578.586,
+        "start_index": 38,
+        "end_index": 171,
+        "average_cadence": 39.1,
+        "device_watts": false,
+        "average_heartrate": 117.7,
+        "max_heartrate": 135,
+        "segment": {
+          "id": 956037,
+          "resource_state": 2,
+          "name": "Wilsons Promontory Rd Climb",
+          "activity_type": "Hike",
+          "distance": 578.586,
+          "average_grade": 8.4,
+          "maximum_grade": 30.3,
+          "elevation_high": 107.2,
+          "elevation_low": 58.7,
+          "start_latlng": [
+            -39.02121545750556,
+            146.32043045027768
+          ],
+          "end_latlng": [
+            -39.018689696713366,
+            146.3250160218648
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Wilsons Promontory",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1000.3,
+        "elapsed_time": 945,
+        "elevation_difference": 76,
+        "moving_time": 943,
+        "split": 1,
+        "average_speed": 1.06,
+        "average_grade_adjusted_speed": 1.43,
+        "average_heartrate": 118.37201365187714,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.6,
+        "elapsed_time": 924,
+        "elevation_difference": 12.2,
+        "moving_time": 924,
+        "split": 2,
+        "average_speed": 1.08,
+        "average_grade_adjusted_speed": 1.26,
+        "average_heartrate": 120.81959378733572,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.4,
+        "elapsed_time": 802,
+        "elevation_difference": -97.8,
+        "moving_time": 802,
+        "split": 3,
+        "average_speed": 1.25,
+        "average_grade_adjusted_speed": 1.13,
+        "average_heartrate": 107.53002610966057,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1004.5,
+        "elapsed_time": 836,
+        "elevation_difference": -12.4,
+        "moving_time": 836,
+        "split": 4,
+        "average_speed": 1.2,
+        "average_grade_adjusted_speed": 1.19,
+        "average_heartrate": 107.79012345679013,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.1,
+        "elapsed_time": 756,
+        "elevation_difference": 5.4,
+        "moving_time": 756,
+        "split": 5,
+        "average_speed": 1.32,
+        "average_grade_adjusted_speed": 1.39,
+        "average_heartrate": 111.57256990679095,
+        "pace_zone": 0
+      },
+      {
+        "distance": 995.7,
+        "elapsed_time": 778,
+        "elevation_difference": 19.6,
+        "moving_time": 778,
+        "split": 6,
+        "average_speed": 1.28,
+        "average_grade_adjusted_speed": 1.41,
+        "average_heartrate": 113.853591160221,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1013.1,
+        "elapsed_time": 94,
+        "elevation_difference": -8.2,
+        "moving_time": 94,
+        "split": 7,
+        "average_speed": 10.78,
+        "average_grade_adjusted_speed": 11.15,
+        "average_heartrate": 94.81914893617021,
+        "pace_zone": 0
+      },
+      {
+        "distance": 48.2,
+        "elapsed_time": 4,
+        "elevation_difference": -3.2,
+        "moving_time": 4,
+        "split": 8,
+        "average_speed": 12.05,
+        "average_grade_adjusted_speed": 10.73,
+        "average_heartrate": 89,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1616.4,
+        "elapsed_time": 1579,
+        "elevation_difference": 120,
+        "moving_time": 1577,
+        "split": 1,
+        "average_speed": 1.02,
+        "average_grade_adjusted_speed": 1.38,
+        "average_heartrate": 121.49649368863955,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1606.2,
+        "elapsed_time": 1275,
+        "elevation_difference": -146,
+        "moving_time": 1275,
+        "split": 2,
+        "average_speed": 1.26,
+        "average_grade_adjusted_speed": 1.14,
+        "average_heartrate": 108.07667473769169,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.2,
+        "elapsed_time": 1277,
+        "elevation_difference": 5.2,
+        "moving_time": 1277,
+        "split": 3,
+        "average_speed": 1.26,
+        "average_grade_adjusted_speed": 1.3,
+        "average_heartrate": 109.30775379696243,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.6,
+        "elapsed_time": 954,
+        "elevation_difference": 48.4,
+        "moving_time": 954,
+        "split": 4,
+        "average_speed": 1.69,
+        "average_grade_adjusted_speed": 1.91,
+        "average_heartrate": 113.36871508379889,
+        "pace_zone": 0
+      },
+      {
+        "distance": 620.5,
+        "elapsed_time": 54,
+        "elevation_difference": -36,
+        "moving_time": 54,
+        "split": 5,
+        "average_speed": 11.49,
+        "average_grade_adjusted_speed": 10.32,
+        "average_heartrate": 92.0925925925926,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 61127404173,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 17126565243,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 5138,
+        "moving_time": 5137,
+        "start_date": "2026-01-21T05:50:20Z",
+        "start_date_local": "2026-01-21T16:50:20Z",
+        "distance": 7062.91,
+        "average_speed": 1.37,
+        "max_speed": 15.72,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1064,
+        "total_elevation_gain": 202.4,
+        "average_cadence": 48.9,
+        "device_watts": false,
+        "average_heartrate": 113.1,
+        "max_heartrate": 136
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "embed_token": "d8fbab611a5015e784029d5588a89cfa992ce2a0",
+    "available_zones": [],
+    "coordinates": [
+      [
+        -39.02174,
+        146.32132
+      ],
+      [
+        -39.02173,
+        146.3213
+      ],
+      [
+        -39.02167,
+        146.32128
+      ],
+      [
+        -39.02158,
+        146.32116
+      ],
+      [
+        -39.02151,
+        146.32073
+      ],
+      [
+        -39.02151,
+        146.32063
+      ],
+      [
+        -39.02154,
+        146.32051
+      ],
+      [
+        -39.02154,
+        146.32041
+      ],
+      [
+        -39.02159,
+        146.32028
+      ],
+      [
+        -39.02155,
+        146.32015
+      ],
+      [
+        -39.0215,
+        146.32009
+      ],
+      [
+        -39.02148,
+        146.32009
+      ],
+      [
+        -39.02145,
+        146.3201
+      ],
+      [
+        -39.02132,
+        146.32023
+      ],
+      [
+        -39.02119,
+        146.32041
+      ],
+      [
+        -39.02113,
+        146.3206
+      ],
+      [
+        -39.02095,
+        146.32098
+      ],
+      [
+        -39.02086,
+        146.32126
+      ],
+      [
+        -39.02073,
+        146.32155
+      ],
+      [
+        -39.02064,
+        146.32179
+      ],
+      [
+        -39.02057,
+        146.32188
+      ],
+      [
+        -39.02038,
+        146.32223
+      ],
+      [
+        -39.02032,
+        146.32243
+      ],
+      [
+        -39.02031,
+        146.32268
+      ],
+      [
+        -39.02033,
+        146.32242
+      ],
+      [
+        -39.02036,
+        146.32235
+      ],
+      [
+        -39.02031,
+        146.32236
+      ],
+      [
+        -39.02032,
+        146.32234
+      ],
+      [
+        -39.0203,
+        146.32264
+      ],
+      [
+        -39.02028,
+        146.32271
+      ],
+      [
+        -39.02021,
+        146.32273
+      ],
+      [
+        -39.02001,
+        146.32286
+      ],
+      [
+        -39.01989,
+        146.32298
+      ],
+      [
+        -39.01981,
+        146.3231
+      ],
+      [
+        -39.01972,
+        146.32314
+      ],
+      [
+        -39.01967,
+        146.32322
+      ],
+      [
+        -39.01957,
+        146.32329
+      ],
+      [
+        -39.01949,
+        146.32345
+      ],
+      [
+        -39.01935,
+        146.32357
+      ],
+      [
+        -39.01931,
+        146.32363
+      ],
+      [
+        -39.0193,
+        146.32379
+      ],
+      [
+        -39.01927,
+        146.32389
+      ],
+      [
+        -39.01924,
+        146.32395
+      ],
+      [
+        -39.01922,
+        146.32397
+      ],
+      [
+        -39.01909,
+        146.32403
+      ],
+      [
+        -39.01899,
+        146.32414
+      ],
+      [
+        -39.01896,
+        146.32424
+      ],
+      [
+        -39.01897,
+        146.32446
+      ],
+      [
+        -39.01893,
+        146.3247
+      ],
+      [
+        -39.01888,
+        146.32481
+      ],
+      [
+        -39.01868,
+        146.32507
+      ],
+      [
+        -39.01867,
+        146.32552
+      ],
+      [
+        -39.01879,
+        146.32583
+      ],
+      [
+        -39.01889,
+        146.32622
+      ],
+      [
+        -39.01892,
+        146.32628
+      ],
+      [
+        -39.01901,
+        146.3264
+      ],
+      [
+        -39.01905,
+        146.32648
+      ],
+      [
+        -39.01907,
+        146.32662
+      ],
+      [
+        -39.01908,
+        146.32696
+      ],
+      [
+        -39.01897,
+        146.32719
+      ],
+      [
+        -39.01894,
+        146.32723
+      ],
+      [
+        -39.01883,
+        146.32729
+      ],
+      [
+        -39.01874,
+        146.32729
+      ],
+      [
+        -39.01862,
+        146.32726
+      ],
+      [
+        -39.01859,
+        146.32725
+      ],
+      [
+        -39.01855,
+        146.32719
+      ],
+      [
+        -39.01835,
+        146.32705
+      ],
+      [
+        -39.01826,
+        146.32701
+      ],
+      [
+        -39.01817,
+        146.32701
+      ],
+      [
+        -39.01814,
+        146.32708
+      ],
+      [
+        -39.01814,
+        146.32717
+      ],
+      [
+        -39.01816,
+        146.32722
+      ],
+      [
+        -39.01816,
+        146.32727
+      ],
+      [
+        -39.01811,
+        146.32736
+      ],
+      [
+        -39.01805,
+        146.32753
+      ],
+      [
+        -39.018,
+        146.3276
+      ],
+      [
+        -39.01792,
+        146.3276
+      ],
+      [
+        -39.01788,
+        146.32766
+      ],
+      [
+        -39.01789,
+        146.32779
+      ],
+      [
+        -39.01791,
+        146.32786
+      ],
+      [
+        -39.01802,
+        146.32801
+      ],
+      [
+        -39.0181,
+        146.32815
+      ],
+      [
+        -39.01827,
+        146.32858
+      ],
+      [
+        -39.01827,
+        146.32867
+      ],
+      [
+        -39.01818,
+        146.32884
+      ],
+      [
+        -39.01813,
+        146.32912
+      ],
+      [
+        -39.01815,
+        146.32945
+      ],
+      [
+        -39.01814,
+        146.32992
+      ],
+      [
+        -39.01816,
+        146.33009
+      ],
+      [
+        -39.01814,
+        146.33027
+      ],
+      [
+        -39.01811,
+        146.33035
+      ],
+      [
+        -39.01805,
+        146.33044
+      ],
+      [
+        -39.01802,
+        146.33054
+      ],
+      [
+        -39.01804,
+        146.33063
+      ],
+      [
+        -39.01803,
+        146.33076
+      ],
+      [
+        -39.01806,
+        146.33088
+      ],
+      [
+        -39.01812,
+        146.33101
+      ],
+      [
+        -39.01819,
+        146.33132
+      ],
+      [
+        -39.01819,
+        146.33171
+      ],
+      [
+        -39.01818,
+        146.33186
+      ],
+      [
+        -39.01815,
+        146.33203
+      ],
+      [
+        -39.01815,
+        146.33206
+      ],
+      [
+        -39.01819,
+        146.33202
+      ],
+      [
+        -39.01817,
+        146.33204
+      ],
+      [
+        -39.01821,
+        146.33203
+      ],
+      [
+        -39.01816,
+        146.33204
+      ],
+      [
+        -39.01818,
+        146.33205
+      ],
+      [
+        -39.01816,
+        146.33199
+      ],
+      [
+        -39.01815,
+        146.33204
+      ],
+      [
+        -39.01801,
+        146.33215
+      ],
+      [
+        -39.01792,
+        146.33226
+      ],
+      [
+        -39.01791,
+        146.33229
+      ],
+      [
+        -39.01793,
+        146.33248
+      ],
+      [
+        -39.01798,
+        146.3327
+      ],
+      [
+        -39.01795,
+        146.33279
+      ],
+      [
+        -39.01795,
+        146.33305
+      ],
+      [
+        -39.01791,
+        146.33338
+      ],
+      [
+        -39.01785,
+        146.33359
+      ],
+      [
+        -39.01774,
+        146.33384
+      ],
+      [
+        -39.01745,
+        146.33434
+      ],
+      [
+        -39.0173,
+        146.33446
+      ],
+      [
+        -39.01709,
+        146.33454
+      ],
+      [
+        -39.01691,
+        146.33464
+      ],
+      [
+        -39.01681,
+        146.33465
+      ],
+      [
+        -39.01671,
+        146.33464
+      ],
+      [
+        -39.01663,
+        146.33461
+      ],
+      [
+        -39.01655,
+        146.33455
+      ],
+      [
+        -39.01648,
+        146.33446
+      ],
+      [
+        -39.01633,
+        146.33437
+      ],
+      [
+        -39.01611,
+        146.3344
+      ],
+      [
+        -39.01584,
+        146.33434
+      ],
+      [
+        -39.01574,
+        146.33441
+      ],
+      [
+        -39.01562,
+        146.33462
+      ],
+      [
+        -39.01553,
+        146.33466
+      ],
+      [
+        -39.01546,
+        146.33461
+      ],
+      [
+        -39.01541,
+        146.33454
+      ],
+      [
+        -39.01536,
+        146.33444
+      ],
+      [
+        -39.01528,
+        146.33438
+      ],
+      [
+        -39.01517,
+        146.3342
+      ],
+      [
+        -39.01501,
+        146.33404
+      ],
+      [
+        -39.01498,
+        146.33398
+      ],
+      [
+        -39.01496,
+        146.33388
+      ],
+      [
+        -39.01501,
+        146.33354
+      ],
+      [
+        -39.01492,
+        146.33338
+      ],
+      [
+        -39.01486,
+        146.33329
+      ],
+      [
+        -39.01466,
+        146.33336
+      ],
+      [
+        -39.01456,
+        146.33341
+      ],
+      [
+        -39.01446,
+        146.33342
+      ],
+      [
+        -39.01441,
+        146.33339
+      ],
+      [
+        -39.01438,
+        146.33334
+      ],
+      [
+        -39.01428,
+        146.33327
+      ],
+      [
+        -39.01404,
+        146.33314
+      ],
+      [
+        -39.0139,
+        146.33298
+      ],
+      [
+        -39.01363,
+        146.33289
+      ],
+      [
+        -39.01336,
+        146.33265
+      ],
+      [
+        -39.01329,
+        146.33267
+      ],
+      [
+        -39.01316,
+        146.33261
+      ],
+      [
+        -39.01317,
+        146.33264
+      ],
+      [
+        -39.01317,
+        146.33274
+      ],
+      [
+        -39.01325,
+        146.33297
+      ],
+      [
+        -39.01359,
+        146.33338
+      ],
+      [
+        -39.01363,
+        146.33348
+      ],
+      [
+        -39.01365,
+        146.33368
+      ],
+      [
+        -39.0137,
+        146.33382
+      ],
+      [
+        -39.0138,
+        146.33394
+      ],
+      [
+        -39.01386,
+        146.33407
+      ],
+      [
+        -39.01393,
+        146.33414
+      ],
+      [
+        -39.01401,
+        146.33423
+      ],
+      [
+        -39.01416,
+        146.33434
+      ],
+      [
+        -39.01427,
+        146.3345
+      ],
+      [
+        -39.01431,
+        146.33461
+      ],
+      [
+        -39.01429,
+        146.33523
+      ],
+      [
+        -39.01432,
+        146.33551
+      ],
+      [
+        -39.0143,
+        146.33567
+      ],
+      [
+        -39.01427,
+        146.33565
+      ],
+      [
+        -39.01428,
+        146.33563
+      ],
+      [
+        -39.01431,
+        146.3357
+      ],
+      [
+        -39.01431,
+        146.33577
+      ],
+      [
+        -39.01437,
+        146.33605
+      ],
+      [
+        -39.01443,
+        146.33617
+      ],
+      [
+        -39.01454,
+        146.33653
+      ],
+      [
+        -39.01457,
+        146.33668
+      ],
+      [
+        -39.01465,
+        146.33687
+      ],
+      [
+        -39.01473,
+        146.33699
+      ],
+      [
+        -39.01477,
+        146.33709
+      ],
+      [
+        -39.01485,
+        146.33742
+      ],
+      [
+        -39.01484,
+        146.33754
+      ],
+      [
+        -39.0148,
+        146.33761
+      ],
+      [
+        -39.01474,
+        146.33762
+      ],
+      [
+        -39.01468,
+        146.33771
+      ],
+      [
+        -39.0146,
+        146.33794
+      ],
+      [
+        -39.0146,
+        146.3381
+      ],
+      [
+        -39.01466,
+        146.33837
+      ],
+      [
+        -39.01467,
+        146.33855
+      ],
+      [
+        -39.0147,
+        146.33866
+      ],
+      [
+        -39.01478,
+        146.33889
+      ],
+      [
+        -39.01488,
+        146.33906
+      ],
+      [
+        -39.01491,
+        146.33914
+      ],
+      [
+        -39.01492,
+        146.33926
+      ],
+      [
+        -39.01501,
+        146.33958
+      ],
+      [
+        -39.01509,
+        146.33977
+      ],
+      [
+        -39.0151,
+        146.33985
+      ],
+      [
+        -39.01508,
+        146.33996
+      ],
+      [
+        -39.01511,
+        146.34006
+      ],
+      [
+        -39.01526,
+        146.34026
+      ],
+      [
+        -39.01527,
+        146.34031
+      ],
+      [
+        -39.01525,
+        146.34052
+      ],
+      [
+        -39.01527,
+        146.34055
+      ],
+      [
+        -39.01528,
+        146.34064
+      ],
+      [
+        -39.01526,
+        146.34069
+      ],
+      [
+        -39.01522,
+        146.34066
+      ],
+      [
+        -39.01506,
+        146.34065
+      ],
+      [
+        -39.01496,
+        146.3406
+      ],
+      [
+        -39.01488,
+        146.34035
+      ],
+      [
+        -39.01476,
+        146.34013
+      ],
+      [
+        -39.01464,
+        146.34013
+      ],
+      [
+        -39.01448,
+        146.34003
+      ],
+      [
+        -39.01437,
+        146.34001
+      ],
+      [
+        -39.01422,
+        146.33989
+      ],
+      [
+        -39.01416,
+        146.33989
+      ],
+      [
+        -39.01398,
+        146.33978
+      ],
+      [
+        -39.01386,
+        146.33978
+      ],
+      [
+        -39.01375,
+        146.33983
+      ],
+      [
+        -39.01368,
+        146.33995
+      ],
+      [
+        -39.01365,
+        146.34007
+      ],
+      [
+        -39.01365,
+        146.34023
+      ],
+      [
+        -39.01367,
+        146.3404
+      ],
+      [
+        -39.01374,
+        146.34046
+      ],
+      [
+        -39.01384,
+        146.34048
+      ],
+      [
+        -39.01393,
+        146.34052
+      ],
+      [
+        -39.01401,
+        146.34063
+      ],
+      [
+        -39.01405,
+        146.34073
+      ],
+      [
+        -39.01412,
+        146.34083
+      ],
+      [
+        -39.01421,
+        146.34087
+      ],
+      [
+        -39.01441,
+        146.34083
+      ],
+      [
+        -39.01455,
+        146.34093
+      ],
+      [
+        -39.0146,
+        146.34095
+      ],
+      [
+        -39.01465,
+        146.34095
+      ],
+      [
+        -39.01482,
+        146.34087
+      ],
+      [
+        -39.01497,
+        146.34096
+      ],
+      [
+        -39.01507,
+        146.34097
+      ],
+      [
+        -39.01515,
+        146.34093
+      ],
+      [
+        -39.01525,
+        146.34087
+      ],
+      [
+        -39.0153,
+        146.3408
+      ],
+      [
+        -39.01529,
+        146.3407
+      ],
+      [
+        -39.01531,
+        146.34059
+      ],
+      [
+        -39.01526,
+        146.34053
+      ],
+      [
+        -39.01528,
+        146.34027
+      ],
+      [
+        -39.01528,
+        146.34024
+      ],
+      [
+        -39.01525,
+        146.34023
+      ],
+      [
+        -39.01534,
+        146.34021
+      ],
+      [
+        -39.01555,
+        146.34022
+      ],
+      [
+        -39.01561,
+        146.34018
+      ],
+      [
+        -39.01567,
+        146.34006
+      ],
+      [
+        -39.01574,
+        146.34001
+      ],
+      [
+        -39.01586,
+        146.34001
+      ],
+      [
+        -39.01596,
+        146.34003
+      ],
+      [
+        -39.01604,
+        146.34016
+      ],
+      [
+        -39.01612,
+        146.34021
+      ],
+      [
+        -39.01622,
+        146.34015
+      ],
+      [
+        -39.01632,
+        146.34006
+      ],
+      [
+        -39.01646,
+        146.33998
+      ],
+      [
+        -39.01679,
+        146.33953
+      ],
+      [
+        -39.01677,
+        146.33928
+      ],
+      [
+        -39.01679,
+        146.33916
+      ],
+      [
+        -39.01683,
+        146.33903
+      ],
+      [
+        -39.01689,
+        146.33892
+      ],
+      [
+        -39.01697,
+        146.33885
+      ],
+      [
+        -39.01709,
+        146.33881
+      ],
+      [
+        -39.01717,
+        146.33881
+      ],
+      [
+        -39.01724,
+        146.33891
+      ],
+      [
+        -39.01729,
+        146.33905
+      ],
+      [
+        -39.01733,
+        146.33911
+      ],
+      [
+        -39.01739,
+        146.33914
+      ],
+      [
+        -39.01742,
+        146.33913
+      ],
+      [
+        -39.01759,
+        146.33899
+      ],
+      [
+        -39.01771,
+        146.33897
+      ],
+      [
+        -39.0178,
+        146.33893
+      ],
+      [
+        -39.01774,
+        146.33903
+      ],
+      [
+        -39.01775,
+        146.339
+      ],
+      [
+        -39.01798,
+        146.33889
+      ],
+      [
+        -39.0181,
+        146.33881
+      ],
+      [
+        -39.01834,
+        146.33861
+      ],
+      [
+        -39.01856,
+        146.33824
+      ],
+      [
+        -39.01867,
+        146.33809
+      ],
+      [
+        -39.019,
+        146.33775
+      ],
+      [
+        -39.01927,
+        146.33752
+      ],
+      [
+        -39.01943,
+        146.33734
+      ],
+      [
+        -39.01952,
+        146.33726
+      ],
+      [
+        -39.01959,
+        146.33714
+      ],
+      [
+        -39.01978,
+        146.33696
+      ],
+      [
+        -39.01988,
+        146.33681
+      ],
+      [
+        -39.02017,
+        146.33643
+      ],
+      [
+        -39.02032,
+        146.33611
+      ],
+      [
+        -39.02052,
+        146.33583
+      ],
+      [
+        -39.02058,
+        146.33575
+      ],
+      [
+        -39.02074,
+        146.33561
+      ],
+      [
+        -39.02092,
+        146.33537
+      ],
+      [
+        -39.021,
+        146.33522
+      ],
+      [
+        -39.02111,
+        146.33508
+      ],
+      [
+        -39.02119,
+        146.33489
+      ],
+      [
+        -39.02127,
+        146.33463
+      ],
+      [
+        -39.02136,
+        146.33414
+      ],
+      [
+        -39.02134,
+        146.33355
+      ],
+      [
+        -39.02129,
+        146.33326
+      ],
+      [
+        -39.02129,
+        146.33305
+      ],
+      [
+        -39.02131,
+        146.33305
+      ],
+      [
+        -39.02127,
+        146.33305
+      ],
+      [
+        -39.02124,
+        146.33285
+      ],
+      [
+        -39.02119,
+        146.3326
+      ],
+      [
+        -39.02079,
+        146.3315
+      ],
+      [
+        -39.0207,
+        146.33109
+      ],
+      [
+        -39.02069,
+        146.33089
+      ],
+      [
+        -39.02077,
+        146.33064
+      ],
+      [
+        -39.02076,
+        146.33038
+      ],
+      [
+        -39.02079,
+        146.33012
+      ],
+      [
+        -39.02085,
+        146.32908
+      ],
+      [
+        -39.02091,
+        146.32892
+      ],
+      [
+        -39.02109,
+        146.32866
+      ],
+      [
+        -39.02115,
+        146.3285
+      ],
+      [
+        -39.0212,
+        146.32821
+      ],
+      [
+        -39.02131,
+        146.32723
+      ],
+      [
+        -39.02143,
+        146.32641
+      ],
+      [
+        -39.02144,
+        146.32615
+      ],
+      [
+        -39.0215,
+        146.32587
+      ],
+      [
+        -39.02153,
+        146.32563
+      ],
+      [
+        -39.0216,
+        146.32526
+      ],
+      [
+        -39.02165,
+        146.32503
+      ],
+      [
+        -39.02172,
+        146.32482
+      ],
+      [
+        -39.02177,
+        146.32451
+      ],
+      [
+        -39.02193,
+        146.32323
+      ],
+      [
+        -39.022,
+        146.32289
+      ],
+      [
+        -39.022,
+        146.32274
+      ],
+      [
+        -39.0221,
+        146.32204
+      ],
+      [
+        -39.02211,
+        146.32181
+      ],
+      [
+        -39.02216,
+        146.32165
+      ],
+      [
+        -39.02194,
+        146.32138
+      ],
+      [
+        -39.02176,
+        146.32121
+      ],
+      [
+        -39.02177,
+        146.32121
+      ],
+      [
+        -39.02175,
+        146.32121
+      ],
+      [
+        -39.02181,
+        146.32121
+      ],
+      [
+        -39.02179,
+        146.32123
+      ],
+      [
+        -39.02186,
+        146.32134
+      ],
+      [
+        -39.02189,
+        146.32136
+      ],
+      [
+        -39.02227,
+        146.3215
+      ],
+      [
+        -39.02231,
+        146.3215
+      ],
+      [
+        -39.02234,
+        146.32134
+      ],
+      [
+        -39.02232,
+        146.32119
+      ],
+      [
+        -39.02223,
+        146.32082
+      ],
+      [
+        -39.02153,
+        146.31848
+      ],
+      [
+        -39.02097,
+        146.31668
+      ],
+      [
+        -39.02067,
+        146.31559
+      ],
+      [
+        -39.02037,
+        146.31467
+      ],
+      [
+        -39.0204,
+        146.31455
+      ],
+      [
+        -39.02071,
+        146.31401
+      ],
+      [
+        -39.0208,
+        146.31376
+      ],
+      [
+        -39.02083,
+        146.31363
+      ],
+      [
+        -39.02086,
+        146.31336
+      ],
+      [
+        -39.02086,
+        146.3126
+      ],
+      [
+        -39.0209,
+        146.31232
+      ],
+      [
+        -39.02104,
+        146.31178
+      ],
+      [
+        -39.02113,
+        146.31159
+      ],
+      [
+        -39.02165,
+        146.30994
+      ]
+    ]
+  },
+  {
+    "resource_state": 3,
+    "athlete": {
+      "id": 49069428,
+      "resource_state": 1
+    },
+    "name": "Lunch Hike",
+    "distance": 6239.7,
+    "moving_time": 6100,
+    "elapsed_time": 9166,
+    "total_elevation_gain": 275,
+    "type": "Hike",
+    "sport_type": "Hike",
+    "device_name": "Garmin fēnix 7x",
+    "id": 17126559224,
+    "start_date": "2026-01-21T01:52:05Z",
+    "start_date_local": "2026-01-21T12:52:05Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a17126559224",
+      "polyline": "jk{lFcsx{ZF@RKDFP?h@SLKR[VWLUNk@F_@HYJONKr@URCBHEVAd@I`AGH@FTUj@aAHG\\MVCDCAAABNARGP@r@f@h@j@HB\\RZJFFP?x@RHRTR^f@L`@NVLZTtA?RGf@Sv@BTT^NLh@Fl@VpAN~@EHHvAdDFFAJDFEHAL?T@HAN@JCDBLAA?B@CCDDED?DIFBGCCFG?CM@YABBHA@AY@_@ABFWNHHJT\\LHHRr@v@f@Ld@EPEj@YTAFFC?ZHPLRDb@FC?DCh@E^Ix@[TBZZv@BNLRZ^t@FTD`@h@p@ZR\\ZVLVXPDNAPBVLFHHj@NX?HFXHPLLb@HP@VCf@YTEBDCELOFQENKLEBLM^_ANUTWh@PZPJA@IA@NCPIT[VUj@[H?X\\Vl@PLP`@`@`@FJPx@XZJF\\GLLBJPNNLJLPFLBFCJ?l@PC@BBCABAFRVZTHNLNFA?VD^AFDZ@^NTTFDN?VETBNPVdAFt@HLIFK?CLAHJTBJCz@_@|Am@fAWXc@AMHBbACJ@@BEHHADIBECC@?FKLAJEH@HCHALOb@APECGL@RGH?FAMFW@?@IBEDAB[DKDCBDAE?DBAAEAB@?A?BCADACCDBCACBB?AAB@MDA@QBGCG?ODEFQFBLCACMKAiATKZ@FCNUl@iANw@Nm@Bs@EMIMAKBIFENEIOCg@WqAGISGM?ODK?SGUYWMW@ME{@G[OAEOC]c@CO@??ACAs@OOBMG]WMEQUCMKGWHGAII@D?CA@[]IUE]IMWU[m@[]Wo@SQICQRYPMNMHQT_@RMAQQi@OQJKPKP]|@MNSDq@\\O@c@E[KKKM]C[MWIg@KKYMa@AA@@?SMKMuAcAY[MQIm@Wi@k@aAQAa@?ICSSOIWDi@TBCCCo@VQAODGAs@Qc@SGAU?OFg@XQAa@?SC[Uo@{@UUGMWYKABIAGWg@Qg@Sa@CE[u@IGe@?WDS?eAQ]Ow@Ke@s@COF[L_@F_@@SCSSaAq@_BW]UMK]GEUAc@IgAc@KOA@BACBYUcA}@SCO@YJWDYHc@z@e@d@AC?EJo@By@Fi@AAk@Pg@VS^Kr@O^KT[^KPONODOJ_@@",
+      "resource_state": 3,
+      "summary_polyline": "xs{lFa{x{ZHERCBHEVAd@I`AGH@FTUj@aAHG\\MVCDCAAABl@IVLb@Zh@j@HB\\RZJFFP?z@TFPTR^f@L`@NVLZH`@Jr@?RGf@Sv@@LDNPVNLh@Fl@VpAN~@EHHvAdDFFAJDFEHAL?T@HAN@JCDBLAA?B@CCDDED?DIFBGCCFG?CM@YABBHA@AY@_@ABFWNHHJT\\LHHRr@v@f@Ld@EPEj@YTAFFC?ZHPLRDb@FC?DCh@E^Ix@[TBZZv@BNLRZ^t@FTD`@h@p@ZR\\ZVLVXPDNAPBVLFHHj@NX?HFXHPLLb@HP@VCf@YTEBDCELOFQENKLEBLM^_ANUTWh@PZPJA@IA@NCPIT[VUj@[H?X\\Vl@PLP`@`@`@FJRz@b@`@\\GLLBJl@j@XJD?FCJ?l@PC@BBCABAFRVZTHNLNFA?VD^AFDZ@JBRJTTFDN?VEXDJNFRNp@Ft@HLIFK?CLAHJTBJCz@_@|Am@fAWXc@AMHBbACJ@@BEHHADIBECC@?FKLAJEH@HCHALOb@APECGL@RGH?FAMFW@?@IBEDAB[DKDCBDAE?DBAAEAB@?A?BCADACCDBCACBB?AAB@MDA@QBGCG?ODEFQFBLCACMKAiATKZ@FCNUl@iANw@Nm@Bs@EMIMAKBIFENEIOCS@IG]Ou@IQSGM?ODOAOEUYWMW@ME{@G[OAEOC]c@CO@??ACAs@OOBMG]WMEQUCMKGWHGAII@D?CA@[]IUE]IMWU[m@[]Wo@SQICQRYPMNMHQT_@RMAQQi@OQJKPKP]|@MNSDq@\\O@c@E[KKKM]C[MWIg@KKYMa@AA@@?SMKMuAcAY[MQIm@Wi@k@aAQAa@?ICSSOIWDi@TBCCCo@VQAODGAs@Qc@SGAU?OFg@XQAa@?SC[Uo@{@UUGMWYKABIAGWg@Qg@Sa@CE[u@IGe@?WDS?eAQ]Oo@GGCKMKUMOCOF[L_@He@Ca@Ga@Wy@O[Ui@W]UMK]GEUAc@IgAc@KOA@BACBYUa@_@SMEIKGOAO@YJWDYHc@z@]^ID?IJo@By@Fc@AG"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": true,
+    "visibility": "only_me",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -38.975418,
+      146.276502
+    ],
+    "end_latlng": [
+      -38.975583,
+      146.276512
+    ],
+    "average_speed": 1.023,
+    "max_speed": 1.663,
+    "average_cadence": 50.5,
+    "has_heartrate": true,
+    "average_heartrate": 115.9,
+    "max_heartrate": 164,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 102.6,
+    "elev_low": 3.2,
+    "upload_id": 18221465610,
+    "upload_id_str": "18221465610",
+    "external_id": "garmin_ping_526295441375",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 822,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3449031586521091000,
+        "resource_state": 2,
+        "name": "Darby River Car Park to Darby Saddle turn off. ",
+        "activity": {
+          "id": 17126559224,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 3149,
+        "moving_time": 2610,
+        "start_date": "2026-01-21T01:53:21Z",
+        "start_date_local": "2026-01-21T12:53:21Z",
+        "distance": 2620.2,
+        "start_index": 12,
+        "end_index": 753,
+        "average_cadence": 33.9,
+        "device_watts": false,
+        "average_heartrate": 114.2,
+        "max_heartrate": 152,
+        "segment": {
+          "id": 38253653,
+          "resource_state": 2,
+          "name": "Darby River Car Park to Darby Saddle turn off. ",
+          "activity_type": "Hike",
+          "distance": 2620.2,
+          "average_grade": 1.7,
+          "maximum_grade": 34.7,
+          "elevation_high": 79.8,
+          "elevation_low": -13.6,
+          "start_latlng": [
+            -38.975845,
+            146.276611
+          ],
+          "end_latlng": [
+            -38.992633,
+            146.267559
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": null,
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1009.1,
+        "elapsed_time": 991,
+        "elevation_difference": 85.4,
+        "moving_time": 991,
+        "split": 1,
+        "average_speed": 1.02,
+        "average_grade_adjusted_speed": 1.52,
+        "average_heartrate": 120.76642335766424,
+        "pace_zone": 0
+      },
+      {
+        "distance": 994.2,
+        "elapsed_time": 1126,
+        "elevation_difference": 9,
+        "moving_time": 884,
+        "split": 2,
+        "average_speed": 1.12,
+        "average_grade_adjusted_speed": 1.25,
+        "average_heartrate": 111.59469240048251,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.2,
+        "elapsed_time": 1198,
+        "elevation_difference": -63.6,
+        "moving_time": 1054,
+        "split": 3,
+        "average_speed": 0.95,
+        "average_grade_adjusted_speed": 1.05,
+        "average_heartrate": 106.93660531697341,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.6,
+        "elapsed_time": 3741,
+        "elevation_difference": 50.2,
+        "moving_time": 1225,
+        "split": 4,
+        "average_speed": 0.81,
+        "average_grade_adjusted_speed": 1.31,
+        "average_heartrate": 129.21512151215123,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1005.2,
+        "elapsed_time": 967,
+        "elevation_difference": 8,
+        "moving_time": 876,
+        "split": 5,
+        "average_speed": 1.15,
+        "average_grade_adjusted_speed": 1.34,
+        "average_heartrate": 117.30715123094959,
+        "pace_zone": 0
+      },
+      {
+        "distance": 995.2,
+        "elapsed_time": 941,
+        "elevation_difference": -77.2,
+        "moving_time": 868,
+        "split": 6,
+        "average_speed": 1.15,
+        "average_grade_adjusted_speed": 1.13,
+        "average_heartrate": 109.21505376344086,
+        "pace_zone": 0
+      },
+      {
+        "distance": 239.2,
+        "elapsed_time": 202,
+        "elevation_difference": -11.8,
+        "moving_time": 202,
+        "split": 7,
+        "average_speed": 1.18,
+        "average_grade_adjusted_speed": 1.18,
+        "average_heartrate": 103.23762376237623,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1610.4,
+        "elapsed_time": 1811,
+        "elevation_difference": 89.2,
+        "moving_time": 1569,
+        "split": 1,
+        "average_speed": 1.03,
+        "average_grade_adjusted_speed": 1.39,
+        "average_heartrate": 117.37179487179488,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1611.5,
+        "elapsed_time": 2005,
+        "elevation_difference": -89.4,
+        "moving_time": 1697,
+        "split": 2,
+        "average_speed": 0.95,
+        "average_grade_adjusted_speed": 1.06,
+        "average_heartrate": 107.93312302839117,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.2,
+        "elapsed_time": 4049,
+        "elevation_difference": 93,
+        "moving_time": 1606,
+        "split": 3,
+        "average_speed": 1,
+        "average_grade_adjusted_speed": 1.46,
+        "average_heartrate": 128.35003295978905,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1407.6,
+        "elapsed_time": 1301,
+        "elevation_difference": -92.8,
+        "moving_time": 1228,
+        "split": 4,
+        "average_speed": 1.15,
+        "average_grade_adjusted_speed": 1.13,
+        "average_heartrate": 108.92236286919831,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 61127378063,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 17126559224,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 9165,
+        "moving_time": 9165,
+        "start_date": "2026-01-21T01:52:05Z",
+        "start_date_local": "2026-01-21T12:52:05Z",
+        "distance": 6239.73,
+        "average_speed": 0.68,
+        "max_speed": 1.663,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1923,
+        "total_elevation_gain": 289.8,
+        "average_cadence": 50.5,
+        "device_watts": false,
+        "average_heartrate": 115.9,
+        "max_heartrate": 164
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "embed_token": "344156f02e294f47b9ffe17c17d0cfbc5d690550",
+    "available_zones": [],
+    "coordinates": [
+      [
+        -38.97542,
+        146.2765
+      ],
+      [
+        -38.97546,
+        146.27649
+      ],
+      [
+        -38.97556,
+        146.27655
+      ],
+      [
+        -38.97559,
+        146.27651
+      ],
+      [
+        -38.97568,
+        146.27651
+      ],
+      [
+        -38.97589,
+        146.27661
+      ],
+      [
+        -38.97596,
+        146.27667
+      ],
+      [
+        -38.97606,
+        146.27681
+      ],
+      [
+        -38.97618,
+        146.27693
+      ],
+      [
+        -38.97625,
+        146.27704
+      ],
+      [
+        -38.97633,
+        146.27726
+      ],
+      [
+        -38.97637,
+        146.27742
+      ],
+      [
+        -38.97642,
+        146.27755
+      ],
+      [
+        -38.97648,
+        146.27763
+      ],
+      [
+        -38.97656,
+        146.27769
+      ],
+      [
+        -38.97682,
+        146.2778
+      ],
+      [
+        -38.97692,
+        146.27782
+      ],
+      [
+        -38.97694,
+        146.27777
+      ],
+      [
+        -38.97691,
+        146.27765
+      ],
+      [
+        -38.9769,
+        146.27746
+      ],
+      [
+        -38.97685,
+        146.27713
+      ],
+      [
+        -38.97681,
+        146.27708
+      ],
+      [
+        -38.97682,
+        146.27704
+      ],
+      [
+        -38.97693,
+        146.27715
+      ],
+      [
+        -38.97715,
+        146.27748
+      ],
+      [
+        -38.9772,
+        146.27752
+      ],
+      [
+        -38.97735,
+        146.27759
+      ],
+      [
+        -38.97747,
+        146.27761
+      ],
+      [
+        -38.9775,
+        146.27763
+      ],
+      [
+        -38.97749,
+        146.27764
+      ],
+      [
+        -38.97748,
+        146.27762
+      ],
+      [
+        -38.97756,
+        146.27763
+      ],
+      [
+        -38.97766,
+        146.27767
+      ],
+      [
+        -38.97775,
+        146.27766
+      ],
+      [
+        -38.97801,
+        146.27746
+      ],
+      [
+        -38.97822,
+        146.27724
+      ],
+      [
+        -38.97827,
+        146.27722
+      ],
+      [
+        -38.97842,
+        146.27712
+      ],
+      [
+        -38.97856,
+        146.27706
+      ],
+      [
+        -38.9786,
+        146.27702
+      ],
+      [
+        -38.97869,
+        146.27702
+      ],
+      [
+        -38.97898,
+        146.27692
+      ],
+      [
+        -38.97903,
+        146.27682
+      ],
+      [
+        -38.97914,
+        146.27672
+      ],
+      [
+        -38.9793,
+        146.27652
+      ],
+      [
+        -38.97937,
+        146.27635
+      ],
+      [
+        -38.97945,
+        146.27623
+      ],
+      [
+        -38.97952,
+        146.27609
+      ],
+      [
+        -38.97963,
+        146.27566
+      ],
+      [
+        -38.97963,
+        146.27556
+      ],
+      [
+        -38.97959,
+        146.27536
+      ],
+      [
+        -38.97949,
+        146.27508
+      ],
+      [
+        -38.97951,
+        146.27497
+      ],
+      [
+        -38.97962,
+        146.27481
+      ],
+      [
+        -38.9797,
+        146.27474
+      ],
+      [
+        -38.97991,
+        146.2747
+      ],
+      [
+        -38.98014,
+        146.27458
+      ],
+      [
+        -38.98055,
+        146.2745
+      ],
+      [
+        -38.98087,
+        146.27453
+      ],
+      [
+        -38.98092,
+        146.27448
+      ],
+      [
+        -38.98136,
+        146.27365
+      ],
+      [
+        -38.9814,
+        146.27361
+      ],
+      [
+        -38.98139,
+        146.27355
+      ],
+      [
+        -38.98142,
+        146.27351
+      ],
+      [
+        -38.98139,
+        146.27346
+      ],
+      [
+        -38.98138,
+        146.27339
+      ],
+      [
+        -38.98138,
+        146.27328
+      ],
+      [
+        -38.98139,
+        146.27323
+      ],
+      [
+        -38.98138,
+        146.27315
+      ],
+      [
+        -38.98139,
+        146.27309
+      ],
+      [
+        -38.98137,
+        146.27306
+      ],
+      [
+        -38.98139,
+        146.27299
+      ],
+      [
+        -38.98138,
+        146.273
+      ],
+      [
+        -38.98138,
+        146.27298
+      ],
+      [
+        -38.98139,
+        146.273
+      ],
+      [
+        -38.98137,
+        146.27297
+      ],
+      [
+        -38.9814,
+        146.273
+      ],
+      [
+        -38.98143,
+        146.273
+      ],
+      [
+        -38.98146,
+        146.27305
+      ],
+      [
+        -38.9815,
+        146.27303
+      ],
+      [
+        -38.98146,
+        146.27305
+      ],
+      [
+        -38.98144,
+        146.27301
+      ],
+      [
+        -38.9814,
+        146.27301
+      ],
+      [
+        -38.98138,
+        146.27308
+      ],
+      [
+        -38.98139,
+        146.27321
+      ],
+      [
+        -38.98138,
+        146.27319
+      ],
+      [
+        -38.9814,
+        146.27314
+      ],
+      [
+        -38.98139,
+        146.27313
+      ],
+      [
+        -38.98138,
+        146.27326
+      ],
+      [
+        -38.98139,
+        146.27342
+      ],
+      [
+        -38.98138,
+        146.2734
+      ],
+      [
+        -38.98142,
+        146.27352
+      ],
+      [
+        -38.9815,
+        146.27347
+      ],
+      [
+        -38.98155,
+        146.27341
+      ],
+      [
+        -38.98166,
+        146.27326
+      ],
+      [
+        -38.98173,
+        146.27321
+      ],
+      [
+        -38.98178,
+        146.27311
+      ],
+      [
+        -38.98204,
+        146.27283
+      ],
+      [
+        -38.98224,
+        146.27276
+      ],
+      [
+        -38.98243,
+        146.27279
+      ],
+      [
+        -38.98252,
+        146.27282
+      ],
+      [
+        -38.98274,
+        146.27295
+      ],
+      [
+        -38.98285,
+        146.27296
+      ],
+      [
+        -38.98289,
+        146.27292
+      ],
+      [
+        -38.98287,
+        146.27292
+      ],
+      [
+        -38.98301,
+        146.27287
+      ],
+      [
+        -38.9831,
+        146.2728
+      ],
+      [
+        -38.9832,
+        146.27277
+      ],
+      [
+        -38.98338,
+        146.27273
+      ],
+      [
+        -38.98336,
+        146.27273
+      ],
+      [
+        -38.98339,
+        146.27275
+      ],
+      [
+        -38.9836,
+        146.27278
+      ],
+      [
+        -38.98376,
+        146.27283
+      ],
+      [
+        -38.98405,
+        146.27297
+      ],
+      [
+        -38.98416,
+        146.27295
+      ],
+      [
+        -38.9843,
+        146.27281
+      ],
+      [
+        -38.98458,
+        146.27279
+      ],
+      [
+        -38.98466,
+        146.27272
+      ],
+      [
+        -38.98476,
+        146.27258
+      ],
+      [
+        -38.98492,
+        146.27231
+      ],
+      [
+        -38.98496,
+        146.2722
+      ],
+      [
+        -38.98499,
+        146.27203
+      ],
+      [
+        -38.9852,
+        146.27178
+      ],
+      [
+        -38.98534,
+        146.27168
+      ],
+      [
+        -38.98549,
+        146.27154
+      ],
+      [
+        -38.98561,
+        146.27147
+      ],
+      [
+        -38.98573,
+        146.27134
+      ],
+      [
+        -38.98582,
+        146.27131
+      ],
+      [
+        -38.9859,
+        146.27132
+      ],
+      [
+        -38.98599,
+        146.2713
+      ],
+      [
+        -38.98611,
+        146.27123
+      ],
+      [
+        -38.98615,
+        146.27118
+      ],
+      [
+        -38.9862,
+        146.27096
+      ],
+      [
+        -38.98628,
+        146.27083
+      ],
+      [
+        -38.98628,
+        146.27078
+      ],
+      [
+        -38.98632,
+        146.27065
+      ],
+      [
+        -38.98637,
+        146.27056
+      ],
+      [
+        -38.98644,
+        146.27049
+      ],
+      [
+        -38.98662,
+        146.27044
+      ],
+      [
+        -38.98671,
+        146.27043
+      ],
+      [
+        -38.98683,
+        146.27045
+      ],
+      [
+        -38.98703,
+        146.27058
+      ],
+      [
+        -38.98714,
+        146.27061
+      ],
+      [
+        -38.98716,
+        146.27058
+      ],
+      [
+        -38.98714,
+        146.27061
+      ],
+      [
+        -38.98721,
+        146.27069
+      ],
+      [
+        -38.98725,
+        146.27078
+      ],
+      [
+        -38.98722,
+        146.2707
+      ],
+      [
+        -38.98716,
+        146.27063
+      ],
+      [
+        -38.98713,
+        146.27061
+      ],
+      [
+        -38.9872,
+        146.27068
+      ],
+      [
+        -38.98736,
+        146.271
+      ],
+      [
+        -38.98744,
+        146.27111
+      ],
+      [
+        -38.98755,
+        146.27123
+      ],
+      [
+        -38.98776,
+        146.27114
+      ],
+      [
+        -38.9879,
+        146.27105
+      ],
+      [
+        -38.98796,
+        146.27106
+      ],
+      [
+        -38.98797,
+        146.27111
+      ],
+      [
+        -38.98796,
+        146.2711
+      ],
+      [
+        -38.98804,
+        146.27112
+      ],
+      [
+        -38.98813,
+        146.27117
+      ],
+      [
+        -38.98824,
+        146.27131
+      ],
+      [
+        -38.98836,
+        146.27142
+      ],
+      [
+        -38.98858,
+        146.27156
+      ],
+      [
+        -38.98863,
+        146.27156
+      ],
+      [
+        -38.98876,
+        146.27141
+      ],
+      [
+        -38.98888,
+        146.27118
+      ],
+      [
+        -38.98897,
+        146.27111
+      ],
+      [
+        -38.98906,
+        146.27094
+      ],
+      [
+        -38.98923,
+        146.27077
+      ],
+      [
+        -38.98927,
+        146.27071
+      ],
+      [
+        -38.98936,
+        146.27042
+      ],
+      [
+        -38.98949,
+        146.27028
+      ],
+      [
+        -38.98955,
+        146.27024
+      ],
+      [
+        -38.9897,
+        146.27028
+      ],
+      [
+        -38.98977,
+        146.27021
+      ],
+      [
+        -38.98979,
+        146.27015
+      ],
+      [
+        -38.98988,
+        146.27007
+      ],
+      [
+        -38.98996,
+        146.27
+      ],
+      [
+        -38.99002,
+        146.26993
+      ],
+      [
+        -38.99011,
+        146.26989
+      ],
+      [
+        -38.99018,
+        146.26987
+      ],
+      [
+        -38.99022,
+        146.26989
+      ],
+      [
+        -38.99028,
+        146.26989
+      ],
+      [
+        -38.99051,
+        146.2698
+      ],
+      [
+        -38.99049,
+        146.26979
+      ],
+      [
+        -38.99051,
+        146.26977
+      ],
+      [
+        -38.99049,
+        146.26978
+      ],
+      [
+        -38.99051,
+        146.26979
+      ],
+      [
+        -38.99055,
+        146.26969
+      ],
+      [
+        -38.99067,
+        146.26955
+      ],
+      [
+        -38.99078,
+        146.2695
+      ],
+      [
+        -38.99086,
+        146.26943
+      ],
+      [
+        -38.99094,
+        146.26939
+      ],
+      [
+        -38.99093,
+        146.26939
+      ],
+      [
+        -38.99105,
+        146.26936
+      ],
+      [
+        -38.99121,
+        146.26937
+      ],
+      [
+        -38.99125,
+        146.26934
+      ],
+      [
+        -38.99139,
+        146.26933
+      ],
+      [
+        -38.99155,
+        146.26925
+      ],
+      [
+        -38.99166,
+        146.26914
+      ],
+      [
+        -38.9917,
+        146.26911
+      ],
+      [
+        -38.99178,
+        146.26911
+      ],
+      [
+        -38.9919,
+        146.26914
+      ],
+      [
+        -38.99201,
+        146.26912
+      ],
+      [
+        -38.99209,
+        146.26903
+      ],
+      [
+        -38.99221,
+        146.26868
+      ],
+      [
+        -38.99225,
+        146.26841
+      ],
+      [
+        -38.9923,
+        146.26834
+      ],
+      [
+        -38.99225,
+        146.2683
+      ],
+      [
+        -38.99219,
+        146.2683
+      ],
+      [
+        -38.99217,
+        146.26823
+      ],
+      [
+        -38.99216,
+        146.26818
+      ],
+      [
+        -38.99222,
+        146.26807
+      ],
+      [
+        -38.99224,
+        146.26801
+      ],
+      [
+        -38.99222,
+        146.26771
+      ],
+      [
+        -38.99206,
+        146.26724
+      ],
+      [
+        -38.99183,
+        146.26688
+      ],
+      [
+        -38.99171,
+        146.26675
+      ],
+      [
+        -38.99153,
+        146.26676
+      ],
+      [
+        -38.99146,
+        146.26671
+      ],
+      [
+        -38.99148,
+        146.26637
+      ],
+      [
+        -38.99146,
+        146.26631
+      ],
+      [
+        -38.99147,
+        146.2663
+      ],
+      [
+        -38.99149,
+        146.26633
+      ],
+      [
+        -38.99154,
+        146.26628
+      ],
+      [
+        -38.99153,
+        146.26625
+      ],
+      [
+        -38.99148,
+        146.26623
+      ],
+      [
+        -38.99145,
+        146.26625
+      ],
+      [
+        -38.99143,
+        146.26624
+      ],
+      [
+        -38.99143,
+        146.2662
+      ],
+      [
+        -38.99137,
+        146.26613
+      ],
+      [
+        -38.99136,
+        146.26607
+      ],
+      [
+        -38.99133,
+        146.26602
+      ],
+      [
+        -38.99134,
+        146.26597
+      ],
+      [
+        -38.99132,
+        146.26592
+      ],
+      [
+        -38.99131,
+        146.26585
+      ],
+      [
+        -38.99123,
+        146.26567
+      ],
+      [
+        -38.99122,
+        146.26558
+      ],
+      [
+        -38.99119,
+        146.2656
+      ],
+      [
+        -38.99115,
+        146.26553
+      ],
+      [
+        -38.99116,
+        146.26543
+      ],
+      [
+        -38.99112,
+        146.26538
+      ],
+      [
+        -38.99112,
+        146.26534
+      ],
+      [
+        -38.99111,
+        146.26541
+      ],
+      [
+        -38.99115,
+        146.26553
+      ],
+      [
+        -38.99116,
+        146.26553
+      ],
+      [
+        -38.99117,
+        146.26558
+      ],
+      [
+        -38.99119,
+        146.26561
+      ],
+      [
+        -38.99122,
+        146.26562
+      ],
+      [
+        -38.99124,
+        146.26576
+      ],
+      [
+        -38.99127,
+        146.26582
+      ],
+      [
+        -38.9913,
+        146.26584
+      ],
+      [
+        -38.99132,
+        146.26581
+      ],
+      [
+        -38.99131,
+        146.26584
+      ],
+      [
+        -38.99131,
+        146.26581
+      ],
+      [
+        -38.99133,
+        146.26582
+      ],
+      [
+        -38.99132,
+        146.26585
+      ],
+      [
+        -38.99131,
+        146.26583
+      ],
+      [
+        -38.99132,
+        146.26583
+      ],
+      [
+        -38.99131,
+        146.26583
+      ],
+      [
+        -38.99133,
+        146.26585
+      ],
+      [
+        -38.99132,
+        146.26582
+      ],
+      [
+        -38.99131,
+        146.26584
+      ],
+      [
+        -38.99129,
+        146.26581
+      ],
+      [
+        -38.99131,
+        146.26583
+      ],
+      [
+        -38.9913,
+        146.26585
+      ],
+      [
+        -38.99132,
+        146.26583
+      ],
+      [
+        -38.99132,
+        146.26584
+      ],
+      [
+        -38.99131,
+        146.26582
+      ],
+      [
+        -38.99132,
+        146.26589
+      ],
+      [
+        -38.99135,
+        146.2659
+      ],
+      [
+        -38.99136,
+        146.26599
+      ],
+      [
+        -38.99138,
+        146.26603
+      ],
+      [
+        -38.99136,
+        146.26607
+      ],
+      [
+        -38.99136,
+        146.26615
+      ],
+      [
+        -38.99139,
+        146.26618
+      ],
+      [
+        -38.99143,
+        146.26627
+      ],
+      [
+        -38.99147,
+        146.26625
+      ],
+      [
+        -38.99154,
+        146.26627
+      ],
+      [
+        -38.99153,
+        146.26629
+      ],
+      [
+        -38.99146,
+        146.26635
+      ],
+      [
+        -38.99145,
+        146.26672
+      ],
+      [
+        -38.99156,
+        146.26678
+      ],
+      [
+        -38.9917,
+        146.26677
+      ],
+      [
+        -38.99174,
+        146.26679
+      ],
+      [
+        -38.99182,
+        146.2669
+      ],
+      [
+        -38.99205,
+        146.26727
+      ],
+      [
+        -38.99213,
+        146.26755
+      ],
+      [
+        -38.99221,
+        146.26778
+      ],
+      [
+        -38.99223,
+        146.26804
+      ],
+      [
+        -38.9922,
+        146.26811
+      ],
+      [
+        -38.99215,
+        146.26818
+      ],
+      [
+        -38.99214,
+        146.26824
+      ],
+      [
+        -38.99216,
+        146.26829
+      ],
+      [
+        -38.9922,
+        146.26832
+      ],
+      [
+        -38.99228,
+        146.26835
+      ],
+      [
+        -38.99223,
+        146.26843
+      ],
+      [
+        -38.99221,
+        146.26863
+      ],
+      [
+        -38.99209,
+        146.26904
+      ],
+      [
+        -38.99205,
+        146.26909
+      ],
+      [
+        -38.99195,
+        146.26913
+      ],
+      [
+        -38.99188,
+        146.26913
+      ],
+      [
+        -38.9918,
+        146.2691
+      ],
+      [
+        -38.99174,
+        146.2691
+      ],
+      [
+        -38.99164,
+        146.26914
+      ],
+      [
+        -38.99153,
+        146.26927
+      ],
+      [
+        -38.99141,
+        146.26934
+      ],
+      [
+        -38.99129,
+        146.26933
+      ],
+      [
+        -38.99122,
+        146.26936
+      ],
+      [
+        -38.99092,
+        146.2694
+      ],
+      [
+        -38.99078,
+        146.26948
+      ],
+      [
+        -38.99077,
+        146.26951
+      ],
+      [
+        -38.99069,
+        146.26953
+      ],
+      [
+        -38.99054,
+        146.26971
+      ],
+      [
+        -38.99052,
+        146.26979
+      ],
+      [
+        -38.99053,
+        146.26979
+      ],
+      [
+        -38.99053,
+        146.2698
+      ],
+      [
+        -38.99051,
+        146.26981
+      ],
+      [
+        -38.99025,
+        146.26989
+      ],
+      [
+        -38.99017,
+        146.26987
+      ],
+      [
+        -38.9901,
+        146.26991
+      ],
+      [
+        -38.98995,
+        146.27003
+      ],
+      [
+        -38.98988,
+        146.27006
+      ],
+      [
+        -38.98979,
+        146.27017
+      ],
+      [
+        -38.98977,
+        146.27024
+      ],
+      [
+        -38.98971,
+        146.27028
+      ],
+      [
+        -38.98959,
+        146.27023
+      ],
+      [
+        -38.98955,
+        146.27024
+      ],
+      [
+        -38.9895,
+        146.27029
+      ],
+      [
+        -38.98951,
+        146.27026
+      ],
+      [
+        -38.98951,
+        146.27028
+      ],
+      [
+        -38.9895,
+        146.27027
+      ],
+      [
+        -38.98936,
+        146.27042
+      ],
+      [
+        -38.98931,
+        146.27053
+      ],
+      [
+        -38.98928,
+        146.27068
+      ],
+      [
+        -38.98923,
+        146.27075
+      ],
+      [
+        -38.98911,
+        146.27086
+      ],
+      [
+        -38.98897,
+        146.27109
+      ],
+      [
+        -38.98883,
+        146.27124
+      ],
+      [
+        -38.98871,
+        146.27148
+      ],
+      [
+        -38.98861,
+        146.27157
+      ],
+      [
+        -38.98856,
+        146.27159
+      ],
+      [
+        -38.98847,
+        146.27149
+      ],
+      [
+        -38.98834,
+        146.2714
+      ],
+      [
+        -38.98827,
+        146.27132
+      ],
+      [
+        -38.9882,
+        146.27127
+      ],
+      [
+        -38.98811,
+        146.27116
+      ],
+      [
+        -38.98795,
+        146.27106
+      ],
+      [
+        -38.98788,
+        146.27107
+      ],
+      [
+        -38.98779,
+        146.27116
+      ],
+      [
+        -38.98758,
+        146.27124
+      ],
+      [
+        -38.98749,
+        146.27118
+      ],
+      [
+        -38.98743,
+        146.27109
+      ],
+      [
+        -38.98737,
+        146.271
+      ],
+      [
+        -38.98722,
+        146.27069
+      ],
+      [
+        -38.98715,
+        146.27061
+      ],
+      [
+        -38.98705,
+        146.27058
+      ],
+      [
+        -38.9868,
+        146.27043
+      ],
+      [
+        -38.98672,
+        146.27042
+      ],
+      [
+        -38.98654,
+        146.27045
+      ],
+      [
+        -38.9864,
+        146.27051
+      ],
+      [
+        -38.98634,
+        146.27057
+      ],
+      [
+        -38.98627,
+        146.27072
+      ],
+      [
+        -38.98625,
+        146.27086
+      ],
+      [
+        -38.98618,
+        146.27098
+      ],
+      [
+        -38.98613,
+        146.27118
+      ],
+      [
+        -38.98607,
+        146.27124
+      ],
+      [
+        -38.98594,
+        146.27131
+      ],
+      [
+        -38.98577,
+        146.27132
+      ],
+      [
+        -38.98576,
+        146.27131
+      ],
+      [
+        -38.98577,
+        146.27131
+      ],
+      [
+        -38.98567,
+        146.27138
+      ],
+      [
+        -38.98561,
+        146.27145
+      ],
+      [
+        -38.98518,
+        146.27179
+      ],
+      [
+        -38.98505,
+        146.27193
+      ],
+      [
+        -38.98498,
+        146.27202
+      ],
+      [
+        -38.98493,
+        146.27225
+      ],
+      [
+        -38.98481,
+        146.27246
+      ],
+      [
+        -38.98459,
+        146.27279
+      ],
+      [
+        -38.9845,
+        146.2728
+      ],
+      [
+        -38.98433,
+        146.2728
+      ],
+      [
+        -38.98428,
+        146.27282
+      ],
+      [
+        -38.98418,
+        146.27292
+      ],
+      [
+        -38.9841,
+        146.27297
+      ],
+      [
+        -38.98398,
+        146.27294
+      ],
+      [
+        -38.98377,
+        146.27283
+      ],
+      [
+        -38.98379,
+        146.27285
+      ],
+      [
+        -38.98377,
+        146.27287
+      ],
+      [
+        -38.98353,
+        146.27275
+      ],
+      [
+        -38.98344,
+        146.27276
+      ],
+      [
+        -38.98336,
+        146.27273
+      ],
+      [
+        -38.98332,
+        146.27274
+      ],
+      [
+        -38.98306,
+        146.27283
+      ],
+      [
+        -38.98288,
+        146.27293
+      ],
+      [
+        -38.98284,
+        146.27294
+      ],
+      [
+        -38.98273,
+        146.27294
+      ],
+      [
+        -38.98265,
+        146.2729
+      ],
+      [
+        -38.98245,
+        146.27277
+      ],
+      [
+        -38.98236,
+        146.27278
+      ],
+      [
+        -38.98219,
+        146.27278
+      ],
+      [
+        -38.98209,
+        146.2728
+      ],
+      [
+        -38.98195,
+        146.27291
+      ],
+      [
+        -38.98171,
+        146.27321
+      ],
+      [
+        -38.9816,
+        146.27332
+      ],
+      [
+        -38.98156,
+        146.27339
+      ],
+      [
+        -38.98144,
+        146.27352
+      ],
+      [
+        -38.98138,
+        146.27353
+      ],
+      [
+        -38.9814,
+        146.27358
+      ],
+      [
+        -38.98139,
+        146.27362
+      ],
+      [
+        -38.98127,
+        146.27382
+      ],
+      [
+        -38.98118,
+        146.27402
+      ],
+      [
+        -38.98108,
+        146.27419
+      ],
+      [
+        -38.98106,
+        146.27422
+      ],
+      [
+        -38.98092,
+        146.27449
+      ],
+      [
+        -38.98087,
+        146.27453
+      ],
+      [
+        -38.98068,
+        146.27453
+      ],
+      [
+        -38.98056,
+        146.2745
+      ],
+      [
+        -38.98046,
+        146.2745
+      ],
+      [
+        -38.98011,
+        146.27459
+      ],
+      [
+        -38.97996,
+        146.27467
+      ],
+      [
+        -38.97968,
+        146.27473
+      ],
+      [
+        -38.97949,
+        146.27499
+      ],
+      [
+        -38.97947,
+        146.27507
+      ],
+      [
+        -38.97951,
+        146.27521
+      ],
+      [
+        -38.97958,
+        146.27537
+      ],
+      [
+        -38.97962,
+        146.27553
+      ],
+      [
+        -38.97963,
+        146.27563
+      ],
+      [
+        -38.97961,
+        146.27573
+      ],
+      [
+        -38.97951,
+        146.27606
+      ],
+      [
+        -38.97926,
+        146.27654
+      ],
+      [
+        -38.97914,
+        146.27669
+      ],
+      [
+        -38.97903,
+        146.27676
+      ],
+      [
+        -38.97897,
+        146.27691
+      ],
+      [
+        -38.97893,
+        146.27694
+      ],
+      [
+        -38.97882,
+        146.27695
+      ],
+      [
+        -38.97864,
+        146.277
+      ],
+      [
+        -38.97828,
+        146.27718
+      ],
+      [
+        -38.97822,
+        146.27726
+      ],
+      [
+        -38.97821,
+        146.27725
+      ],
+      [
+        -38.97823,
+        146.27726
+      ],
+      [
+        -38.97821,
+        146.27724
+      ],
+      [
+        -38.97808,
+        146.27735
+      ],
+      [
+        -38.97774,
+        146.27766
+      ],
+      [
+        -38.97764,
+        146.27768
+      ],
+      [
+        -38.97756,
+        146.27767
+      ],
+      [
+        -38.97743,
+        146.27761
+      ],
+      [
+        -38.97731,
+        146.27758
+      ],
+      [
+        -38.97718,
+        146.27753
+      ],
+      [
+        -38.977,
+        146.27723
+      ],
+      [
+        -38.97681,
+        146.27704
+      ],
+      [
+        -38.9768,
+        146.27706
+      ],
+      [
+        -38.9768,
+        146.27709
+      ],
+      [
+        -38.97686,
+        146.27733
+      ],
+      [
+        -38.97688,
+        146.27762
+      ],
+      [
+        -38.97692,
+        146.27783
+      ],
+      [
+        -38.97691,
+        146.27784
+      ],
+      [
+        -38.97669,
+        146.27775
+      ],
+      [
+        -38.97649,
+        146.27763
+      ],
+      [
+        -38.97639,
+        146.27747
+      ],
+      [
+        -38.97633,
+        146.27721
+      ],
+      [
+        -38.97625,
+        146.27705
+      ],
+      [
+        -38.97619,
+        146.27694
+      ],
+      [
+        -38.97605,
+        146.27678
+      ],
+      [
+        -38.97599,
+        146.27669
+      ],
+      [
+        -38.97591,
+        146.27661
+      ],
+      [
+        -38.97583,
+        146.27658
+      ],
+      [
+        -38.97575,
+        146.27652
+      ],
+      [
+        -38.97559,
+        146.27651
+      ]
+    ]
+  },
+  {
+    "resource_state": 3,
+    "athlete": {
+      "id": 49069428,
+      "resource_state": 1
+    },
     "name": "Sunset on Mount Oberon",
     "distance": 7027.6,
     "moving_time": 5553,
