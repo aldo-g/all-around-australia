@@ -4006,7 +4006,7 @@
     "location_state": null,
     "location_country": null,
     "achievement_count": 0,
-    "kudos_count": 4,
+    "kudos_count": 5,
     "comment_count": 0,
     "athlete_count": 1,
     "photo_count": 0,
@@ -83349,7 +83349,7 @@
     "total_photo_count": 4,
     "has_kudoed": false,
     "description": "A long and boring road directly into headwind",
-    "calories": 3939,
+    "calories": 0,
     "perceived_exertion": null,
     "prefer_perceived_exertion": null,
     "segment_efforts": [
