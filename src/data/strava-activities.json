@@ -5,6 +5,5076 @@
       "id": 49069428,
       "resource_state": 1
     },
+    "name": "Lunch Ride",
+    "distance": 21336.2,
+    "moving_time": 5380,
+    "elapsed_time": 5784,
+    "total_elevation_gain": 174,
+    "type": "Ride",
+    "sport_type": "Ride",
+    "workout_type": null,
+    "device_name": "Garmin fēnix 7x",
+    "id": 17422984855,
+    "start_date": "2026-02-17T00:28:52Z",
+    "start_date_local": "2026-02-17T11:28:52Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a17422984855",
+      "polyline": "dzoeFm`zsZDHHBV?p@FPENyALgDdAeRTuFP_D@}@XyD`@eHBeAHkAN_FPKDG?SGM?EzAgB`@WpByAh@i@t@kAp@s@|@k@`A_@z@Ml@CpC}CGCAKImBJk@JSNO`@SRCT@vA`@r@Az@OPKHB`AWXM@BVEFIBMACwBaBa@UCKV_@HAJ@FLNAZIVSl@w@\\Or@A~Aq@\\GZTT?pAYx@a@nEo@d@JRRb@r@d@nCHLVRVn@NFHUh@sBp@iBj@eAb@Yf@g@fAeBXq@AINU?I@CAGWMGBIE?AvAsCHs@Ne@x@cAz@yAv@eAj@gAN}@h@mATYD@DFLDVOJMHQLm@FEB?DJ@PAZKp@MTg@\\IPBHNTRBN?^G`@Qj@g@f@Ul@CzFl@zFt@bCVnBNDE@GFCD_@LyA^yFH]RCb@Fr@DnFp@fALJF?XDLBDLBpAPrBLTA\\HdCXJEJg@^mIHMHBAREL@DDOFi@BO@?hDZBB@VF~AB]FKr@HHH_@bI@f@DDr@LxDXtC\\jFb@PAJgAPwBN_EPEZB\\?DO@ULm@BEAAT?AADc@^LfD^nJv@fGt@rBRh@BNm@LaEBELCz@IbAQr@Qj@Wp@e@dAy@t@{@h@s@^KhALREBELm@NmCBeBBGHAnAHTWFy@HoEToDJeEIKgBQWMCGAYVqBCo@G[W}@CSF{A?_@HM^@bBNr@BnANDADMB_@LeA@eAVmFl@m@CBEANMLSVkA?o@EYCq@BwAG_A@aAF{@CW?eAB_@FQBgACu@BeAAuDCe@GgD?KHULQNKZAx@JzBh@`C^h@JxAd@hAL^H~Ar@hBP`A@dBPr@?bAEp@@b@Cp@Kx@Gp@?b@IdBc@TCf@JLAvAQx@GXEv@QbBg@^GtA_@fASpIy@fAEdAKfAMxAWn@SdBiA~EaFR_@`@qADk@?{@Ow@Wm@g@qAkB_GIu@A]B[RoANWr@m@`@WRGh@I^AbEs@XKr@g@\\YT]T_@lAcC`AwBR[lBaEpCqFj@{@z@o@bAUv@@~@\\z@h@tApAhDnEx@~ALb@RpAHTDj@@t@Mn@?DD?H_@FiAFQp@s@b@[hBcBvA{A^Y|C{C`@[^g@`B{C^eAb@gBTgBFyA?yAKmDCa@W_BMm@Ea@F{@IqA@EB?@_@J@FCLQ?MIQW]?IZ{ENg@AKGGwAa@SMOe@AWB_AT}Ab@{Ad@}CJWb@m@dAgAh@w@FWFm@Ps@b@m@La@Hk@t@[RSr@c@v@o@t@g@r@UjAG|AU`CCxAPNA`BDt@Cn@?bAEj@ExA@pCZTCTIfB{@h@a@\\e@lDeFnA}AHUt@mE`@{AH_@\\oCDqB?}DH_A\\y@xAaCl@mBTiAHqADULSPEpAGPKLOP_@h@g@T[Vg@^gA^k@b@y@d@yAj@iCVw@BaADKLKf@OJQh@uDLg@|A_Dr@qAtAyCE[@IJUh@m@f@]`Bi@\\WHQl@sCXoABWAa@@mABKN[LGN?JIBk@HYDEFAd@JX@d@Az@D|AXbAV^?f@MVOHKVOhAg@BIA?@HAABC?CCBABBGB@A@TQCDOJG@VOBCEOFJ?FMJMBBECD?EVERHf@p@H@BCBE?IJc@h@kAJMZQ`@Y\\i@X{AZ_@R_@DgAAq@BI\\WZEf@ANFXXNbATV\\h@\\`@VDxALz@THCP@nAr@b@r@NHz@Fn@Jj@Kd@DTl@b@lCFETVJZH`@@p@\\CzAc@|AWrA_@P?NJ^l@x@~A`A~Ad@OfE_DjB}AnCmBrBeBLED?@JHAt@Z^HvBXbT~BxCXfHz@bCTJ?JBxC`@xIz@bD`@jEb@bFj@lBR~BNAV@TFC\\?FBTH@NEXKbC]zD]rCOjCWtCDf@FFAFEABBA@EIPIZJHCCDBAAC",
+      "resource_state": 3,
+      "summary_polyline": "``peFwuzsZz@cQ@}@z@_N\\qJVS?SEWxAcBrCqBh@i@t@kAp@s@~BkAhBQpC}CIOImBJk@Zc@t@WlBb@r@AlE_AFI@QsCqBIQV_@\\JN?d@Mz@gA\\Or@A|By@ZTT?pAYx@a@nEo@d@Jv@fAd@nC`@`@Vn@NFr@iCp@iBj@eAjAaAfAeBf@qA?UWMQCvAsCHs@Ne@lDcFj@gAN}@h@mATYXNVOj@sAHJ@PMlAMTg@\\IPR^bACtBoAl@CjVjCNQD_@l@sIH]jBHvH~@JFDf@PHzE\\bDb@JEJg@^mIHMHBG`@BBPgAhDZLzBJi@|@R_@bI@f@DDnRhBPAJgAPwBN_EjAAV{AT?Be@^LfD^vRlB|CVLc@JyDFWlC_@~Ai@vB_B~AoB^KhALREPs@NmCFmBxAFTWPiG`@uJIKgBQ[UAYVqBCo@c@mBF{BHM^@fFb@JOPeBXsHl@m@CBEA\\a@VkAEsEG_AH}BC}AJq@BgAAqHKmEHa@\\]tAHfHtAxAd@hAL~B|@nHd@nDGjBSp@?hCm@jADpCYrJ{B~MkApEy@dBiA~EaFR_@`@qADgBOw@_A_CkB_GKsAVkBbAeA`@W`HgAXKpAaAxBaEtIgQj@{@z@o@bAUv@@~@\\z@h@tApAhDnEx@~Aj@jCF`BMn@DDH_@FiAFQ~DsDvIuI`B{CbAmDTgBFyA?yAOoEk@oDF{@IqAFe@RALQa@}@?IZ{ENg@ISkBo@Oe@@wAT}Ab@{Ad@}Cn@eAdAgAh@w@`@yBb@m@VmAt@[tDoCr@UhD]`CCxAPpBBtEOxA@pCZj@MfB{@h@a@\\e@|FcIHUt@mEj@{B\\oCDoHH_A\\y@xAaCl@mBTiANgBLSPEpAGPK^o@~@cAv@oBbAeBhB{GBaARWf@OJQv@}EfFkKE[L_@pAkA`Bi@f@i@fAcFFsCN[h@QBk@N_@hDN`Dp@^?f@Mx@k@hAg@@I@H@IEFZUCDWLVOASFR[NVKRHf@p@LANs@h@kAhAy@\\i@X{An@_ADgA@{@\\WbAGh@`@NbApAbBpBRz@TZAnAr@b@r@NHjBRj@Kd@DTl@b@lCFETVJZH`@@p@xBg@|AWdB_@NJ^l@zB~Dd@OdQwMFJ~@XvCb@hiA~LlFb@?l@l@?TH@Nc@jG"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": true,
+    "visibility": "only_me",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.769464,
+      144.973032
+    ],
+    "end_latlng": [
+      -37.883834,
+      145.053659
+    ],
+    "average_speed": 3.966,
+    "max_speed": 8.48,
+    "has_heartrate": true,
+    "average_heartrate": 124.6,
+    "max_heartrate": 165,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 55.2,
+    "elev_low": 7.4,
+    "upload_id": 18520021106,
+    "upload_id_str": "18520021106",
+    "external_id": "garmin_ping_536252160874",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 768,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3458666497070639000,
+        "resource_state": 2,
+        "name": "albert st speed test",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 163,
+        "moving_time": 157,
+        "start_date": "2026-02-17T00:30:43Z",
+        "start_date_local": "2026-02-17T11:30:43Z",
+        "distance": 661.1,
+        "start_index": 27,
+        "end_index": 68,
+        "device_watts": false,
+        "average_heartrate": 113.4,
+        "max_heartrate": 120,
+        "segment": {
+          "id": 38555083,
+          "resource_state": 2,
+          "name": "albert st speed test",
+          "activity_type": "Ride",
+          "distance": 661.1,
+          "average_grade": -0.9,
+          "maximum_grade": 3.9,
+          "elevation_high": 45.4,
+          "elevation_low": 39,
+          "start_latlng": [
+            -37.770385,
+            144.97629
+          ],
+          "end_latlng": [
+            -37.771075,
+            144.983653
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497070089000,
+        "resource_state": 2,
+        "name": "St. George getting High",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 428,
+        "moving_time": 410,
+        "start_date": "2026-02-17T00:40:17Z",
+        "start_date_local": "2026-02-17T11:40:17Z",
+        "distance": 1348.97,
+        "start_index": 192,
+        "end_index": 338,
+        "device_watts": false,
+        "average_heartrate": 120.6,
+        "max_heartrate": 150,
+        "segment": {
+          "id": 3356285,
+          "resource_state": 2,
+          "name": "St. George getting High",
+          "activity_type": "Ride",
+          "distance": 1348.97,
+          "average_grade": -0.1,
+          "maximum_grade": 3.3,
+          "elevation_high": 43.2,
+          "elevation_low": 37,
+          "start_latlng": [
+            -37.77677,
+            144.989629
+          ],
+          "end_latlng": [
+            -37.785173,
+            144.994995
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Fitzroy North",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497070464000,
+        "resource_state": 2,
+        "name": "Merri keeno",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 137,
+        "moving_time": 137,
+        "start_date": "2026-02-17T00:40:40Z",
+        "start_date_local": "2026-02-17T11:40:40Z",
+        "distance": 586.9,
+        "start_index": 199,
+        "end_index": 244,
+        "device_watts": false,
+        "average_heartrate": 115,
+        "max_heartrate": 142,
+        "segment": {
+          "id": 16960141,
+          "resource_state": 2,
+          "name": "Merri keeno",
+          "activity_type": "Ride",
+          "distance": 586.9,
+          "average_grade": 0.3,
+          "maximum_grade": 3.9,
+          "elevation_high": 41.1,
+          "elevation_low": 38,
+          "start_latlng": [
+            -37.777019,
+            144.989652
+          ],
+          "end_latlng": [
+            -37.78135,
+            144.989337
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": null,
+          "state": null,
+          "country": null,
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497071136000,
+        "resource_state": 2,
+        "name": "Ozone Cutting",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 83,
+        "moving_time": 83,
+        "start_date": "2026-02-17T00:41:24Z",
+        "start_date_local": "2026-02-17T11:41:24Z",
+        "distance": 354.048,
+        "start_index": 212,
+        "end_index": 240,
+        "device_watts": false,
+        "average_heartrate": 114.2,
+        "max_heartrate": 130,
+        "segment": {
+          "id": 977151,
+          "resource_state": 2,
+          "name": "Ozone Cutting",
+          "activity_type": "Ride",
+          "distance": 354.048,
+          "average_grade": 0.8,
+          "maximum_grade": 2.8,
+          "elevation_high": 41,
+          "elevation_low": 37.2,
+          "start_latlng": [
+            -37.77857413,
+            144.99031398
+          ],
+          "end_latlng": [
+            -37.78114313,
+            144.98955329
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Fitzroy North",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497069296600,
+        "resource_state": 2,
+        "name": "Rushall Switchback [S]",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 120,
+        "moving_time": 109,
+        "start_date": "2026-02-17T00:43:39Z",
+        "start_date_local": "2026-02-17T11:43:39Z",
+        "distance": 339.9,
+        "start_index": 259,
+        "end_index": 295,
+        "device_watts": false,
+        "average_heartrate": 118.9,
+        "max_heartrate": 129,
+        "segment": {
+          "id": 23630566,
+          "resource_state": 2,
+          "name": "Rushall Switchback [S]",
+          "activity_type": "Ride",
+          "distance": 339.9,
+          "average_grade": -2.8,
+          "maximum_grade": 0,
+          "elevation_high": 40.9,
+          "elevation_low": 31.3,
+          "start_latlng": [
+            -37.782293,
+            144.990855
+          ],
+          "end_latlng": [
+            -37.783775,
+            144.993699
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Clifton Hill",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497068488700,
+        "resource_state": 2,
+        "name": "Brewery Shortcut",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 160,
+        "moving_time": 159,
+        "start_date": "2026-02-17T01:02:35Z",
+        "start_date_local": "2026-02-17T12:02:35Z",
+        "distance": 769.1,
+        "start_index": 586,
+        "end_index": 629,
+        "device_watts": false,
+        "average_heartrate": 127.7,
+        "max_heartrate": 137,
+        "segment": {
+          "id": 8897853,
+          "resource_state": 2,
+          "name": "Brewery Shortcut",
+          "activity_type": "Ride",
+          "distance": 769.1,
+          "average_grade": 0,
+          "maximum_grade": 3.8,
+          "elevation_high": 24.8,
+          "elevation_low": 21.2,
+          "start_latlng": [
+            -37.805461,
+            144.997158
+          ],
+          "end_latlng": [
+            -37.809311,
+            145.002506
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Abbotsford",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497069618000,
+        "resource_state": 2,
+        "name": "benny's beer run",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 54,
+        "moving_time": 54,
+        "start_date": "2026-02-17T01:04:53Z",
+        "start_date_local": "2026-02-17T12:04:53Z",
+        "distance": 268.786,
+        "start_index": 625,
+        "end_index": 635,
+        "device_watts": false,
+        "average_heartrate": 120.2,
+        "max_heartrate": 129,
+        "segment": {
+          "id": 3826820,
+          "resource_state": 2,
+          "name": "benny's beer run",
+          "activity_type": "Ride",
+          "distance": 268.786,
+          "average_grade": -0.3,
+          "maximum_grade": 0.9,
+          "elevation_high": 22.5,
+          "elevation_low": 21.1,
+          "start_latlng": [
+            -37.809185,
+            145.001152
+          ],
+          "end_latlng": [
+            -37.809449,
+            145.004188
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Abbotsford",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497071356000,
+        "resource_state": 2,
+        "name": "Brewery to Bike Shed",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 83,
+        "moving_time": 83,
+        "start_date": "2026-02-17T01:04:53Z",
+        "start_date_local": "2026-02-17T12:04:53Z",
+        "distance": 431.9,
+        "start_index": 625,
+        "end_index": 645,
+        "device_watts": false,
+        "average_heartrate": 118.4,
+        "max_heartrate": 129,
+        "segment": {
+          "id": 7307300,
+          "resource_state": 2,
+          "name": "Brewery to Bike Shed",
+          "activity_type": "Ride",
+          "distance": 431.9,
+          "average_grade": -0.3,
+          "maximum_grade": 2.7,
+          "elevation_high": 22.7,
+          "elevation_low": 20.5,
+          "start_latlng": [
+            -37.809169,
+            145.000991
+          ],
+          "end_latlng": [
+            -37.808669,
+            145.004929
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Abbotsford",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497070609400,
+        "resource_state": 2,
+        "name": "CC Trail: Walmer St Bridge to Yarra Blvd Railway Bridge",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 374,
+        "moving_time": 374,
+        "start_date": "2026-02-17T01:09:23Z",
+        "start_date_local": "2026-02-17T12:09:23Z",
+        "distance": 2058.4,
+        "start_index": 701,
+        "end_index": 814,
+        "device_watts": false,
+        "average_heartrate": 126.4,
+        "max_heartrate": 137,
+        "segment": {
+          "id": 8795817,
+          "resource_state": 2,
+          "name": "CC Trail: Walmer St Bridge to Yarra Blvd Railway Bridge",
+          "activity_type": "Ride",
+          "distance": 2058.4,
+          "average_grade": 0.2,
+          "maximum_grade": 5.6,
+          "elevation_high": 23.6,
+          "elevation_low": 13,
+          "start_latlng": [
+            -37.810704,
+            145.010582
+          ],
+          "end_latlng": [
+            -37.825194,
+            145.016261
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Burnley",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497068333000,
+        "resource_state": 2,
+        "name": "ez rollin",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 708,
+        "moving_time": 708,
+        "start_date": "2026-02-17T01:09:40Z",
+        "start_date_local": "2026-02-17T12:09:40Z",
+        "distance": 3796.44,
+        "start_index": 711,
+        "end_index": 918,
+        "device_watts": false,
+        "average_heartrate": 125.2,
+        "max_heartrate": 144,
+        "segment": {
+          "id": 2775391,
+          "resource_state": 2,
+          "name": "ez rollin",
+          "activity_type": "Ride",
+          "distance": 3796.44,
+          "average_grade": -0.1,
+          "maximum_grade": 9.5,
+          "elevation_high": 23.2,
+          "elevation_low": 8.1,
+          "start_latlng": [
+            -37.81071013052639,
+            145.01166422072905
+          ],
+          "end_latlng": [
+            -37.83405751757878,
+            145.02429111752633
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Kew",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497070817300,
+        "resource_state": 2,
+        "name": "MYT - Victoria St to Bridge Rd",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 157,
+        "moving_time": 157,
+        "start_date": "2026-02-17T01:11:22Z",
+        "start_date_local": "2026-02-17T12:11:22Z",
+        "distance": 869.4,
+        "start_index": 747,
+        "end_index": 792,
+        "device_watts": false,
+        "average_heartrate": 124.3,
+        "max_heartrate": 131,
+        "segment": {
+          "id": 4864064,
+          "resource_state": 2,
+          "name": "MYT - Victoria St to Bridge Rd",
+          "activity_type": "Ride",
+          "distance": 869.4,
+          "average_grade": 0.3,
+          "maximum_grade": 2.2,
+          "elevation_high": 21.2,
+          "elevation_low": 13.1,
+          "start_latlng": [
+            -37.81238,
+            145.015026
+          ],
+          "end_latlng": [
+            -37.820052,
+            145.014863
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Kew",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497068079000,
+        "resource_state": 2,
+        "name": "rowing race south",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 426,
+        "moving_time": 426,
+        "start_date": "2026-02-17T01:14:12Z",
+        "start_date_local": "2026-02-17T12:14:12Z",
+        "distance": 2323.01,
+        "start_index": 795,
+        "end_index": 914,
+        "device_watts": false,
+        "average_heartrate": 124.1,
+        "max_heartrate": 144,
+        "segment": {
+          "id": 848833,
+          "resource_state": 2,
+          "name": "rowing race south",
+          "activity_type": "Ride",
+          "distance": 2323.01,
+          "average_grade": -0.4,
+          "maximum_grade": 4,
+          "elevation_high": 22.6,
+          "elevation_low": 11.1,
+          "start_latlng": [
+            -37.82052096048299,
+            145.01506015255455
+          ],
+          "end_latlng": [
+            -37.833931441813846,
+            145.02481984826562
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Hawthorn",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497069919000,
+        "resource_state": 2,
+        "name": "Richmond Boule Bridge to Bridge",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 228,
+        "moving_time": 228,
+        "start_date": "2026-02-17T01:17:34Z",
+        "start_date_local": "2026-02-17T12:17:34Z",
+        "distance": 1277.97,
+        "start_index": 856,
+        "end_index": 915,
+        "device_watts": false,
+        "average_heartrate": 121.2,
+        "max_heartrate": 140,
+        "segment": {
+          "id": 1000564,
+          "resource_state": 2,
+          "name": "Richmond Boule Bridge to Bridge",
+          "activity_type": "Ride",
+          "distance": 1277.97,
+          "average_grade": -0.3,
+          "maximum_grade": 0.3,
+          "elevation_high": 17.4,
+          "elevation_low": 14.1,
+          "start_latlng": [
+            -37.8256969,
+            145.0213156
+          ],
+          "end_latlng": [
+            -37.8340018,
+            145.0244927
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Burnley",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497069225000,
+        "resource_state": 2,
+        "name": "Swan to KBR sprint",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 89,
+        "moving_time": 89,
+        "start_date": "2026-02-17T01:17:58Z",
+        "start_date_local": "2026-02-17T12:17:58Z",
+        "distance": 486.2,
+        "start_index": 867,
+        "end_index": 895,
+        "device_watts": false,
+        "average_heartrate": 119.6,
+        "max_heartrate": 140,
+        "segment": {
+          "id": 11183538,
+          "resource_state": 2,
+          "name": "Swan to KBR sprint",
+          "activity_type": "Ride",
+          "distance": 486.2,
+          "average_grade": 0.1,
+          "maximum_grade": 1.5,
+          "elevation_high": 14.2,
+          "elevation_low": 13,
+          "start_latlng": [
+            -37.826552,
+            145.022157
+          ],
+          "end_latlng": [
+            -37.829782,
+            145.025422
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Burnley",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497070840000,
+        "resource_state": 2,
+        "name": "Das Boot!",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 127,
+        "moving_time": 127,
+        "start_date": "2026-02-17T01:18:32Z",
+        "start_date_local": "2026-02-17T12:18:32Z",
+        "distance": 762.906,
+        "start_index": 877,
+        "end_index": 906,
+        "device_watts": false,
+        "average_heartrate": 122.8,
+        "max_heartrate": 140,
+        "segment": {
+          "id": 1570629,
+          "resource_state": 2,
+          "name": "Das Boot!",
+          "activity_type": "Ride",
+          "distance": 762.906,
+          "average_grade": -0.6,
+          "maximum_grade": 6.7,
+          "elevation_high": 16.2,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.828113,
+            145.0228121
+          ],
+          "end_latlng": [
+            -37.8325976,
+            145.0267019
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Burnley",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497069024000,
+        "resource_state": 2,
+        "name": "yarra boulevard speed test",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 62,
+        "moving_time": 62,
+        "start_date": "2026-02-17T01:18:54Z",
+        "start_date_local": "2026-02-17T12:18:54Z",
+        "distance": 325.8,
+        "start_index": 883,
+        "end_index": 899,
+        "device_watts": false,
+        "average_heartrate": 124.6,
+        "max_heartrate": 140,
+        "segment": {
+          "id": 16303404,
+          "resource_state": 2,
+          "name": "yarra boulevard speed test",
+          "activity_type": "Ride",
+          "distance": 325.8,
+          "average_grade": 0,
+          "maximum_grade": 0,
+          "elevation_high": 13.2,
+          "elevation_low": 13.2,
+          "start_latlng": [
+            -37.828871,
+            145.023905
+          ],
+          "end_latlng": [
+            -37.83063,
+            145.026861
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Hawthorn",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497067742000,
+        "resource_state": 2,
+        "name": "500m TT Yellow Sign to Bridge",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 99,
+        "moving_time": 99,
+        "start_date": "2026-02-17T01:19:43Z",
+        "start_date_local": "2026-02-17T12:19:43Z",
+        "distance": 528.4,
+        "start_index": 897,
+        "end_index": 915,
+        "device_watts": false,
+        "average_heartrate": 122.5,
+        "max_heartrate": 126,
+        "segment": {
+          "id": 29407450,
+          "resource_state": 2,
+          "name": "500m TT Yellow Sign to Bridge",
+          "activity_type": "Ride",
+          "distance": 528.4,
+          "average_grade": -0.3,
+          "maximum_grade": 0.2,
+          "elevation_high": 10.2,
+          "elevation_low": 8.4,
+          "start_latlng": [
+            -37.83044,
+            145.026482
+          ],
+          "end_latlng": [
+            -37.833998,
+            145.024602
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Burnley",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497069918000,
+        "resource_state": 2,
+        "name": "Yarra Blvd - Tooranga",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 595,
+        "moving_time": 583,
+        "start_date": "2026-02-17T01:21:44Z",
+        "start_date_local": "2026-02-17T12:21:44Z",
+        "distance": 3004.64,
+        "start_index": 923,
+        "end_index": 1110,
+        "device_watts": false,
+        "average_heartrate": 123,
+        "max_heartrate": 137,
+        "segment": {
+          "id": 3912316,
+          "resource_state": 2,
+          "name": "Yarra Blvd - Tooranga",
+          "activity_type": "Ride",
+          "distance": 3004.64,
+          "average_grade": 0.1,
+          "maximum_grade": 4.4,
+          "elevation_high": -13.6,
+          "elevation_low": -20,
+          "start_latlng": [
+            -37.834091540426016,
+            145.02371868118644
+          ],
+          "end_latlng": [
+            -37.8479799348861,
+            145.04447244107723
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Burnley",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497069515000,
+        "resource_state": 2,
+        "name": "St Kevins Sprint",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 161,
+        "moving_time": 161,
+        "start_date": "2026-02-17T01:21:58Z",
+        "start_date_local": "2026-02-17T12:21:58Z",
+        "distance": 396.1,
+        "start_index": 926,
+        "end_index": 968,
+        "device_watts": false,
+        "average_heartrate": 123.1,
+        "max_heartrate": 137,
+        "segment": {
+          "id": 27414665,
+          "resource_state": 2,
+          "name": "St Kevins Sprint",
+          "activity_type": "Ride",
+          "distance": 396.1,
+          "average_grade": -0.9,
+          "maximum_grade": 40,
+          "elevation_high": 15.6,
+          "elevation_low": 11.1,
+          "start_latlng": [
+            -37.83417,
+            145.024162
+          ],
+          "end_latlng": [
+            -37.837459,
+            145.031563
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Toorak",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497069340700,
+        "resource_state": 2,
+        "name": "St Kevin's to Nettleton Park",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 870,
+        "moving_time": 858,
+        "start_date": "2026-02-17T01:22:04Z",
+        "start_date_local": "2026-02-17T12:22:04Z",
+        "distance": 4478.7,
+        "start_index": 929,
+        "end_index": 1208,
+        "device_watts": false,
+        "average_heartrate": 125.1,
+        "max_heartrate": 142,
+        "segment": {
+          "id": 16454003,
+          "resource_state": 2,
+          "name": "St Kevin's to Nettleton Park",
+          "activity_type": "Ride",
+          "distance": 4478.7,
+          "average_grade": 0.2,
+          "maximum_grade": 4.2,
+          "elevation_high": 110.2,
+          "elevation_low": 96.6,
+          "start_latlng": [
+            -37.834245,
+            145.024363
+          ],
+          "end_latlng": [
+            -37.855072,
+            145.05962
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Toorak",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497069427700,
+        "resource_state": 2,
+        "name": "Duck, weave and surge into Booroondara",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 244,
+        "moving_time": 237,
+        "start_date": "2026-02-17T01:25:08Z",
+        "start_date_local": "2026-02-17T12:25:08Z",
+        "distance": 1111.9,
+        "start_index": 978,
+        "end_index": 1060,
+        "device_watts": false,
+        "average_heartrate": 124.6,
+        "max_heartrate": 131,
+        "segment": {
+          "id": 16750990,
+          "resource_state": 2,
+          "name": "Duck, weave and surge into Booroondara",
+          "activity_type": "Ride",
+          "distance": 1111.9,
+          "average_grade": 0.3,
+          "maximum_grade": 6.9,
+          "elevation_high": 57,
+          "elevation_low": 50,
+          "start_latlng": [
+            -37.837586,
+            145.032575
+          ],
+          "end_latlng": [
+            -37.842292,
+            145.040493
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Hawthorn",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497068011500,
+        "resource_state": 2,
+        "name": "Glenferrie to Great Valley Road (Safe)",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 466,
+        "moving_time": 466,
+        "start_date": "2026-02-17T01:27:38Z",
+        "start_date_local": "2026-02-17T12:27:38Z",
+        "distance": 2686.8,
+        "start_index": 1032,
+        "end_index": 1180,
+        "device_watts": false,
+        "average_heartrate": 125.1,
+        "max_heartrate": 141,
+        "segment": {
+          "id": 10017404,
+          "resource_state": 2,
+          "name": "Glenferrie to Great Valley Road (Safe)",
+          "activity_type": "Ride",
+          "distance": 2686.8,
+          "average_grade": 0.3,
+          "maximum_grade": 8.4,
+          "elevation_high": -12,
+          "elevation_low": -23.2,
+          "start_latlng": [
+            -37.838411,
+            145.038364
+          ],
+          "end_latlng": [
+            -37.853333,
+            145.05647
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Hawthorn",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497070773000,
+        "resource_state": 2,
+        "name": "OLD VERSION - Velo sprint East DR",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 192,
+        "moving_time": 192,
+        "start_date": "2026-02-17T01:28:09Z",
+        "start_date_local": "2026-02-17T12:28:09Z",
+        "distance": 1102.2,
+        "start_index": 1041,
+        "end_index": 1104,
+        "device_watts": false,
+        "average_heartrate": 122,
+        "max_heartrate": 133,
+        "segment": {
+          "id": 12660737,
+          "resource_state": 2,
+          "name": "OLD VERSION - Velo sprint East DR",
+          "activity_type": "Ride",
+          "distance": 1102.2,
+          "average_grade": -0.1,
+          "maximum_grade": 5.3,
+          "elevation_high": 10.6,
+          "elevation_low": 4,
+          "start_latlng": [
+            -37.839028,
+            145.039524
+          ],
+          "end_latlng": [
+            -37.847658,
+            145.043567
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Hawthorn",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497068266500,
+        "resource_state": 2,
+        "name": "Underpass to Underpass",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1064,
+        "moving_time": 734,
+        "start_date": "2026-02-17T01:29:57Z",
+        "start_date_local": "2026-02-17T12:29:57Z",
+        "distance": 2957.9,
+        "start_index": 1075,
+        "end_index": 1383,
+        "device_watts": false,
+        "average_heartrate": 115.8,
+        "max_heartrate": 142,
+        "segment": {
+          "id": 21750394,
+          "resource_state": 2,
+          "name": "Underpass to Underpass",
+          "activity_type": "Ride",
+          "distance": 2957.9,
+          "average_grade": 0.3,
+          "maximum_grade": 10.6,
+          "elevation_high": 42.6,
+          "elevation_low": 29,
+          "start_latlng": [
+            -37.844737,
+            145.040496
+          ],
+          "end_latlng": [
+            -37.860052,
+            145.062775
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Kooyong",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497071552500,
+        "resource_state": 2,
+        "name": "Wombat Power",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 67,
+        "moving_time": 67,
+        "start_date": "2026-02-17T01:30:35Z",
+        "start_date_local": "2026-02-17T12:30:35Z",
+        "distance": 396.6,
+        "start_index": 1087,
+        "end_index": 1111,
+        "device_watts": false,
+        "average_heartrate": 128.1,
+        "max_heartrate": 133,
+        "segment": {
+          "id": 21854751,
+          "resource_state": 2,
+          "name": "Wombat Power",
+          "activity_type": "Ride",
+          "distance": 396.6,
+          "average_grade": 0.5,
+          "maximum_grade": 4.9,
+          "elevation_high": 68.6,
+          "elevation_low": 64.2,
+          "start_latlng": [
+            -37.846218,
+            145.041214
+          ],
+          "end_latlng": [
+            -37.848053,
+            145.044861
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Kooyong",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497068497000,
+        "resource_state": 2,
+        "name": "Tooronga Zoo",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 149,
+        "moving_time": 149,
+        "start_date": "2026-02-17T01:31:36Z",
+        "start_date_local": "2026-02-17T12:31:36Z",
+        "distance": 864.2,
+        "start_index": 1109,
+        "end_index": 1156,
+        "device_watts": false,
+        "average_heartrate": 127.7,
+        "max_heartrate": 136,
+        "segment": {
+          "id": 10937386,
+          "resource_state": 2,
+          "name": "Tooronga Zoo",
+          "activity_type": "Ride",
+          "distance": 864.2,
+          "average_grade": 0,
+          "maximum_grade": 6.5,
+          "elevation_high": 6.2,
+          "elevation_low": 2.2,
+          "start_latlng": [
+            -37.847946,
+            145.044371
+          ],
+          "end_latlng": [
+            -37.85133,
+            145.052472
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Glen Iris",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497069753300,
+        "resource_state": 2,
+        "name": "Bend the sweep",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 81,
+        "moving_time": 81,
+        "start_date": "2026-02-17T01:31:36Z",
+        "start_date_local": "2026-02-17T12:31:36Z",
+        "distance": 483,
+        "start_index": 1109,
+        "end_index": 1133,
+        "device_watts": false,
+        "average_heartrate": 132.6,
+        "max_heartrate": 136,
+        "segment": {
+          "id": 14044271,
+          "resource_state": 2,
+          "name": "Bend the sweep",
+          "activity_type": "Ride",
+          "distance": 483,
+          "average_grade": -0.4,
+          "maximum_grade": 0,
+          "elevation_high": 17,
+          "elevation_low": 15.3,
+          "start_latlng": [
+            -37.847921,
+            145.044408
+          ],
+          "end_latlng": [
+            -37.849246,
+            145.049463
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Glen Iris",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497068580000,
+        "resource_state": 2,
+        "name": "Tooronga Rd to Nettleton Pk",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 295,
+        "moving_time": 295,
+        "start_date": "2026-02-17T01:31:42Z",
+        "start_date_local": "2026-02-17T12:31:42Z",
+        "distance": 1649.4,
+        "start_index": 1111,
+        "end_index": 1209,
+        "device_watts": false,
+        "average_heartrate": 128.5,
+        "max_heartrate": 142,
+        "segment": {
+          "id": 9843222,
+          "resource_state": 2,
+          "name": "Tooronga Rd to Nettleton Pk",
+          "activity_type": "Ride",
+          "distance": 1649.4,
+          "average_grade": 0.2,
+          "maximum_grade": 6.1,
+          "elevation_high": -18,
+          "elevation_low": -23,
+          "start_latlng": [
+            -37.848,
+            145.044627
+          ],
+          "end_latlng": [
+            -37.855099,
+            145.059674
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Glen Iris",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497068817400,
+        "resource_state": 2,
+        "name": "Zag Zig",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 232,
+        "moving_time": 232,
+        "start_date": "2026-02-17T01:48:06Z",
+        "start_date_local": "2026-02-17T12:48:06Z",
+        "distance": 1031.3,
+        "start_index": 1394,
+        "end_index": 1473,
+        "device_watts": false,
+        "average_heartrate": 134.1,
+        "max_heartrate": 149,
+        "segment": {
+          "id": 6636323,
+          "resource_state": 2,
+          "name": "Zag Zig",
+          "activity_type": "Ride",
+          "distance": 1031.3,
+          "average_grade": 1,
+          "maximum_grade": 3.6,
+          "elevation_high": 33.2,
+          "elevation_low": 21.8,
+          "start_latlng": [
+            -37.860652,
+            145.061824
+          ],
+          "end_latlng": [
+            -37.868081,
+            145.059735
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Glen Iris",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497069612000,
+        "resource_state": 2,
+        "name": "Darling Road Hill- Dandenong Road",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 368,
+        "moving_time": 350,
+        "start_date": "2026-02-17T01:53:35Z",
+        "start_date_local": "2026-02-17T12:53:35Z",
+        "distance": 1609.28,
+        "start_index": 1498,
+        "end_index": 1577,
+        "device_watts": false,
+        "average_heartrate": 139.4,
+        "max_heartrate": 165,
+        "segment": {
+          "id": 637779,
+          "resource_state": 2,
+          "name": "Darling Road Hill- Dandenong Road",
+          "activity_type": "Ride",
+          "distance": 1609.28,
+          "average_grade": 1.2,
+          "maximum_grade": 4.7,
+          "elevation_high": 25.2,
+          "elevation_low": 5.2,
+          "start_latlng": [
+            -37.869773721322,
+            145.060813631862
+          ],
+          "end_latlng": [
+            -37.883868729696,
+            145.058350274339
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497067980000,
+        "resource_state": 2,
+        "name": "Darling Rd Hill",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 108,
+        "moving_time": 108,
+        "start_date": "2026-02-17T01:54:33Z",
+        "start_date_local": "2026-02-17T12:54:33Z",
+        "distance": 458.1,
+        "start_index": 1510,
+        "end_index": 1536,
+        "device_watts": false,
+        "average_heartrate": 147.3,
+        "max_heartrate": 164,
+        "segment": {
+          "id": 873814,
+          "resource_state": 2,
+          "name": "Darling Rd Hill",
+          "activity_type": "Ride",
+          "distance": 458.1,
+          "average_grade": 3.2,
+          "maximum_grade": 5.3,
+          "elevation_high": 63.2,
+          "elevation_low": 48.6,
+          "start_latlng": [
+            -37.8715586476028,
+            145.06045346148312
+          ],
+          "end_latlng": [
+            -37.87556016817689,
+            145.05969950929284
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3458666497069579300,
+        "resource_state": 2,
+        "name": "Waverley to Princess",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 130,
+        "moving_time": 130,
+        "start_date": "2026-02-17T01:57:28Z",
+        "start_date_local": "2026-02-17T12:57:28Z",
+        "distance": 705.4,
+        "start_index": 1552,
+        "end_index": 1576,
+        "device_watts": false,
+        "average_heartrate": 130.5,
+        "max_heartrate": 145,
+        "segment": {
+          "id": 14278191,
+          "resource_state": 2,
+          "name": "Waverley to Princess",
+          "activity_type": "Ride",
+          "distance": 705.4,
+          "average_grade": 0.2,
+          "maximum_grade": 3.6,
+          "elevation_high": 41.2,
+          "elevation_low": 40,
+          "start_latlng": [
+            -37.877481,
+            145.059325
+          ],
+          "end_latlng": [
+            -37.883751,
+            145.058159
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1003.7,
+        "elapsed_time": 272,
+        "elevation_difference": -7.6,
+        "moving_time": 272,
+        "split": 1,
+        "average_speed": 3.69,
+        "average_grade_adjusted_speed": 3.68,
+        "average_heartrate": 113.92549019607843,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.9,
+        "elapsed_time": 324,
+        "elevation_difference": 1.2,
+        "moving_time": 324,
+        "split": 2,
+        "average_speed": 3.08,
+        "average_grade_adjusted_speed": 3.22,
+        "average_heartrate": 116.84158415841584,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1005.5,
+        "elapsed_time": 316,
+        "elevation_difference": -0.4,
+        "moving_time": 284,
+        "split": 3,
+        "average_speed": 3.54,
+        "average_grade_adjusted_speed": 3.57,
+        "average_heartrate": 122.37906137184116,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1005.1,
+        "elapsed_time": 284,
+        "elevation_difference": -1.8,
+        "moving_time": 284,
+        "split": 4,
+        "average_speed": 3.54,
+        "average_grade_adjusted_speed": 3.61,
+        "average_heartrate": 125.56043956043956,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.8,
+        "elapsed_time": 237,
+        "elevation_difference": -13.6,
+        "moving_time": 237,
+        "split": 5,
+        "average_speed": 4.21,
+        "average_grade_adjusted_speed": 4.12,
+        "average_heartrate": 116.91525423728814,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1009.6,
+        "elapsed_time": 358,
+        "elevation_difference": -0.4,
+        "moving_time": 358,
+        "split": 6,
+        "average_speed": 2.82,
+        "average_grade_adjusted_speed": 2.94,
+        "average_heartrate": 130.30311614730877,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1021.9,
+        "elapsed_time": 289,
+        "elevation_difference": -1.6,
+        "moving_time": 289,
+        "split": 7,
+        "average_speed": 3.54,
+        "average_grade_adjusted_speed": 3.55,
+        "average_heartrate": 119.57462686567165,
+        "pace_zone": 0
+      },
+      {
+        "distance": 964.1,
+        "elapsed_time": 215,
+        "elevation_difference": -5.8,
+        "moving_time": 215,
+        "split": 8,
+        "average_speed": 4.48,
+        "average_grade_adjusted_speed": 4.47,
+        "average_heartrate": 122.92056074766356,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1012.6,
+        "elapsed_time": 243,
+        "elevation_difference": -6.6,
+        "moving_time": 243,
+        "split": 9,
+        "average_speed": 4.17,
+        "average_grade_adjusted_speed": 4.18,
+        "average_heartrate": 124.78189300411523,
+        "pace_zone": 0
+      },
+      {
+        "distance": 986,
+        "elapsed_time": 178,
+        "elevation_difference": 3,
+        "moving_time": 178,
+        "split": 10,
+        "average_speed": 5.54,
+        "average_grade_adjusted_speed": 5.59,
+        "average_heartrate": 124.64044943820225,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1005.4,
+        "elapsed_time": 192,
+        "elevation_difference": -1.4,
+        "moving_time": 192,
+        "split": 11,
+        "average_speed": 5.24,
+        "average_grade_adjusted_speed": 5.27,
+        "average_heartrate": 127.6875,
+        "pace_zone": 0
+      },
+      {
+        "distance": 989.5,
+        "elapsed_time": 174,
+        "elevation_difference": -0.4,
+        "moving_time": 174,
+        "split": 12,
+        "average_speed": 5.69,
+        "average_grade_adjusted_speed": 5.72,
+        "average_heartrate": 121.14942528735632,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1011.5,
+        "elapsed_time": 205,
+        "elevation_difference": 0.8,
+        "moving_time": 205,
+        "split": 13,
+        "average_speed": 4.93,
+        "average_grade_adjusted_speed": 4.97,
+        "average_heartrate": 123.0390243902439,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1005.5,
+        "elapsed_time": 231,
+        "elevation_difference": 2.2,
+        "moving_time": 231,
+        "split": 14,
+        "average_speed": 4.35,
+        "average_grade_adjusted_speed": 4.47,
+        "average_heartrate": 122.18721461187215,
+        "pace_zone": 0
+      },
+      {
+        "distance": 988.2,
+        "elapsed_time": 178,
+        "elevation_difference": 1,
+        "moving_time": 178,
+        "split": 15,
+        "average_speed": 5.55,
+        "average_grade_adjusted_speed": 5.6,
+        "average_heartrate": 121.00561797752809,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.2,
+        "elapsed_time": 173,
+        "elevation_difference": -0.6,
+        "moving_time": 173,
+        "split": 16,
+        "average_speed": 5.77,
+        "average_grade_adjusted_speed": 5.8,
+        "average_heartrate": 129.60115606936415,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1007.3,
+        "elapsed_time": 187,
+        "elevation_difference": 4.4,
+        "moving_time": 187,
+        "split": 17,
+        "average_speed": 5.39,
+        "average_grade_adjusted_speed": 5.51,
+        "average_heartrate": 127.35828877005348,
+        "pace_zone": 0
+      },
+      {
+        "distance": 993.4,
+        "elapsed_time": 695,
+        "elevation_difference": 4.6,
+        "moving_time": 414,
+        "split": 18,
+        "average_speed": 2.4,
+        "average_grade_adjusted_speed": 2.47,
+        "average_heartrate": 114.63835616438357,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000,
+        "elapsed_time": 225,
+        "elevation_difference": 7.4,
+        "moving_time": 225,
+        "split": 19,
+        "average_speed": 4.44,
+        "average_grade_adjusted_speed": 4.58,
+        "average_heartrate": 133.82222222222222,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.7,
+        "elapsed_time": 288,
+        "elevation_difference": 20.2,
+        "moving_time": 261,
+        "split": 20,
+        "average_speed": 3.84,
+        "average_grade_adjusted_speed": 4.05,
+        "average_heartrate": 142.9920948616601,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.2,
+        "elapsed_time": 328,
+        "elevation_difference": 0.6,
+        "moving_time": 279,
+        "split": 21,
+        "average_speed": 3.58,
+        "average_grade_adjusted_speed": 3.6,
+        "average_heartrate": 138.3558052434457,
+        "pace_zone": 0
+      },
+      {
+        "distance": 332.1,
+        "elapsed_time": 192,
+        "elevation_difference": 2.6,
+        "moving_time": 177,
+        "split": 22,
+        "average_speed": 1.88,
+        "average_grade_adjusted_speed": 1.98,
+        "average_heartrate": 125.35416666666667,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1610.7,
+        "elapsed_time": 443,
+        "elevation_difference": -16.6,
+        "moving_time": 443,
+        "split": 1,
+        "average_speed": 3.64,
+        "average_grade_adjusted_speed": 3.61,
+        "average_heartrate": 114.00487804878048,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1633.6,
+        "elapsed_time": 564,
+        "elevation_difference": 0.6,
+        "moving_time": 532,
+        "split": 2,
+        "average_speed": 3.07,
+        "average_grade_adjusted_speed": 3.17,
+        "average_heartrate": 120.98428290766208,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1604.8,
+        "elapsed_time": 389,
+        "elevation_difference": -5.6,
+        "moving_time": 389,
+        "split": 3,
+        "average_speed": 4.13,
+        "average_grade_adjusted_speed": 4.15,
+        "average_heartrate": 122.82519280205655,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1614.8,
+        "elapsed_time": 573,
+        "elevation_difference": -2.8,
+        "moving_time": 573,
+        "split": 4,
+        "average_speed": 2.82,
+        "average_grade_adjusted_speed": 2.89,
+        "average_heartrate": 126.19561243144425,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1597.2,
+        "elapsed_time": 339,
+        "elevation_difference": -4,
+        "moving_time": 339,
+        "split": 5,
+        "average_speed": 4.71,
+        "average_grade_adjusted_speed": 4.73,
+        "average_heartrate": 121.26112759643917,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1604.8,
+        "elapsed_time": 341,
+        "elevation_difference": -8.8,
+        "moving_time": 341,
+        "split": 6,
+        "average_speed": 4.71,
+        "average_grade_adjusted_speed": 4.71,
+        "average_heartrate": 124.97653958944281,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1603.1,
+        "elapsed_time": 302,
+        "elevation_difference": 1.8,
+        "moving_time": 302,
+        "split": 7,
+        "average_speed": 5.31,
+        "average_grade_adjusted_speed": 5.36,
+        "average_heartrate": 126.42384105960265,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1615.3,
+        "elapsed_time": 316,
+        "elevation_difference": 0.2,
+        "moving_time": 316,
+        "split": 8,
+        "average_speed": 5.11,
+        "average_grade_adjusted_speed": 5.14,
+        "average_heartrate": 122.59493670886076,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1607,
+        "elapsed_time": 343,
+        "elevation_difference": 5.6,
+        "moving_time": 343,
+        "split": 9,
+        "average_speed": 4.69,
+        "average_grade_adjusted_speed": 4.79,
+        "average_heartrate": 122.43202416918429,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1613.4,
+        "elapsed_time": 278,
+        "elevation_difference": -2.8,
+        "moving_time": 278,
+        "split": 10,
+        "average_speed": 5.8,
+        "average_grade_adjusted_speed": 5.82,
+        "average_heartrate": 125.27338129496403,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1621,
+        "elapsed_time": 799,
+        "elevation_difference": 8.8,
+        "moving_time": 518,
+        "split": 11,
+        "average_speed": 3.13,
+        "average_grade_adjusted_speed": 3.22,
+        "average_heartrate": 117.42217484008529,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1586.7,
+        "elapsed_time": 419,
+        "elevation_difference": 12,
+        "moving_time": 392,
+        "split": 12,
+        "average_speed": 4.05,
+        "average_grade_adjusted_speed": 4.16,
+        "average_heartrate": 134.37760416666666,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1612.8,
+        "elapsed_time": 466,
+        "elevation_difference": 17.2,
+        "moving_time": 417,
+        "split": 13,
+        "average_speed": 3.87,
+        "average_grade_adjusted_speed": 4,
+        "average_heartrate": 140.25185185185185,
+        "pace_zone": 0
+      },
+      {
+        "distance": 411,
+        "elapsed_time": 212,
+        "elevation_difference": 2.2,
+        "moving_time": 197,
+        "split": 14,
+        "average_speed": 2.09,
+        "average_grade_adjusted_speed": 2.17,
+        "average_heartrate": 129.25,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 62239583005,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1431,
+        "moving_time": 1431,
+        "start_date": "2026-02-17T00:28:52Z",
+        "start_date_local": "2026-02-17T11:28:52Z",
+        "distance": 5000,
+        "average_speed": 3.49,
+        "max_speed": 6.813,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 398,
+        "total_elevation_gain": 45.2,
+        "device_watts": false,
+        "average_heartrate": 119.2,
+        "max_heartrate": 150
+      },
+      {
+        "id": 62239583011,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1283,
+        "moving_time": 1283,
+        "start_date": "2026-02-17T00:52:48Z",
+        "start_date_local": "2026-02-17T11:52:48Z",
+        "distance": 5000,
+        "average_speed": 3.9,
+        "max_speed": 7.36,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 399,
+        "end_index": 766,
+        "total_elevation_gain": 41,
+        "device_watts": false,
+        "average_heartrate": 124.9,
+        "max_heartrate": 162
+      },
+      {
+        "id": 62239583019,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 979,
+        "moving_time": 979,
+        "start_date": "2026-02-17T01:14:12Z",
+        "start_date_local": "2026-02-17T12:14:12Z",
+        "distance": 5000,
+        "average_speed": 5.11,
+        "max_speed": 8.48,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 767,
+        "end_index": 1056,
+        "total_elevation_gain": 38.6,
+        "device_watts": false,
+        "average_heartrate": 123,
+        "max_heartrate": 144
+      },
+      {
+        "id": 62239583028,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1568,
+        "moving_time": 1568,
+        "start_date": "2026-02-17T01:30:33Z",
+        "start_date_local": "2026-02-17T12:30:33Z",
+        "distance": 5000,
+        "average_speed": 3.19,
+        "max_speed": 6.907,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 1057,
+        "end_index": 1513,
+        "total_elevation_gain": 65,
+        "device_watts": false,
+        "average_heartrate": 128.4,
+        "max_heartrate": 165
+      },
+      {
+        "id": 62239583043,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 17422984855,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 519,
+        "moving_time": 519,
+        "start_date": "2026-02-17T01:56:42Z",
+        "start_date_local": "2026-02-17T12:56:42Z",
+        "distance": 1336.18,
+        "average_speed": 2.57,
+        "max_speed": 6.567,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 1514,
+        "end_index": 1592,
+        "total_elevation_gain": 11.4,
+        "device_watts": false,
+        "average_heartrate": 133.4,
+        "max_heartrate": 161
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "embed_token": "cd2012f750ded5d464737b1afae58f8d2516b2ed",
+    "available_zones": [],
+    "coordinates": [
+      [
+        -37.76947,
+        144.97303
+      ],
+      [
+        -37.7695,
+        144.97298
+      ],
+      [
+        -37.76955,
+        144.97296
+      ],
+      [
+        -37.76967,
+        144.97296
+      ],
+      [
+        -37.76992,
+        144.97292
+      ],
+      [
+        -37.77001,
+        144.97295
+      ],
+      [
+        -37.77009,
+        144.9734
+      ],
+      [
+        -37.77016,
+        144.97424
+      ],
+      [
+        -37.77051,
+        144.97731
+      ],
+      [
+        -37.77062,
+        144.97854
+      ],
+      [
+        -37.77071,
+        144.97934
+      ],
+      [
+        -37.77072,
+        144.97965
+      ],
+      [
+        -37.77085,
+        144.98058
+      ],
+      [
+        -37.77102,
+        144.98205
+      ],
+      [
+        -37.77104,
+        144.9824
+      ],
+      [
+        -37.77109,
+        144.98278
+      ],
+      [
+        -37.77117,
+        144.9839
+      ],
+      [
+        -37.77126,
+        144.98396
+      ],
+      [
+        -37.77129,
+        144.984
+      ],
+      [
+        -37.77129,
+        144.9841
+      ],
+      [
+        -37.77125,
+        144.98417
+      ],
+      [
+        -37.77125,
+        144.9842
+      ],
+      [
+        -37.77171,
+        144.98472
+      ],
+      [
+        -37.77188,
+        144.98484
+      ],
+      [
+        -37.77245,
+        144.98529
+      ],
+      [
+        -37.77266,
+        144.9855
+      ],
+      [
+        -37.77293,
+        144.98588
+      ],
+      [
+        -37.77318,
+        144.98614
+      ],
+      [
+        -37.77349,
+        144.98636
+      ],
+      [
+        -37.77382,
+        144.98652
+      ],
+      [
+        -37.77412,
+        144.98659
+      ],
+      [
+        -37.77435,
+        144.98661
+      ],
+      [
+        -37.77508,
+        144.9874
+      ],
+      [
+        -37.77504,
+        144.98742
+      ],
+      [
+        -37.77503,
+        144.98748
+      ],
+      [
+        -37.77498,
+        144.98803
+      ],
+      [
+        -37.77504,
+        144.98825
+      ],
+      [
+        -37.7751,
+        144.98835
+      ],
+      [
+        -37.77518,
+        144.98843
+      ],
+      [
+        -37.77535,
+        144.98853
+      ],
+      [
+        -37.77545,
+        144.98855
+      ],
+      [
+        -37.77556,
+        144.98854
+      ],
+      [
+        -37.776,
+        144.98837
+      ],
+      [
+        -37.77626,
+        144.98838
+      ],
+      [
+        -37.77656,
+        144.98846
+      ],
+      [
+        -37.77665,
+        144.98852
+      ],
+      [
+        -37.7767,
+        144.9885
+      ],
+      [
+        -37.77703,
+        144.98862
+      ],
+      [
+        -37.77716,
+        144.98869
+      ],
+      [
+        -37.77717,
+        144.98867
+      ],
+      [
+        -37.77729,
+        144.9887
+      ],
+      [
+        -37.77733,
+        144.98875
+      ],
+      [
+        -37.77735,
+        144.98882
+      ],
+      [
+        -37.77734,
+        144.98884
+      ],
+      [
+        -37.77674,
+        144.98933
+      ],
+      [
+        -37.77657,
+        144.98944
+      ],
+      [
+        -37.77655,
+        144.9895
+      ],
+      [
+        -37.77667,
+        144.98966
+      ],
+      [
+        -37.77672,
+        144.98967
+      ],
+      [
+        -37.77678,
+        144.98966
+      ],
+      [
+        -37.77682,
+        144.98959
+      ],
+      [
+        -37.7769,
+        144.9896
+      ],
+      [
+        -37.77704,
+        144.98965
+      ],
+      [
+        -37.77716,
+        144.98975
+      ],
+      [
+        -37.77739,
+        144.99003
+      ],
+      [
+        -37.77754,
+        144.99011
+      ],
+      [
+        -37.7778,
+        144.99012
+      ],
+      [
+        -37.77828,
+        144.99037
+      ],
+      [
+        -37.77843,
+        144.99041
+      ],
+      [
+        -37.77857,
+        144.9903
+      ],
+      [
+        -37.77868,
+        144.9903
+      ],
+      [
+        -37.77909,
+        144.99043
+      ],
+      [
+        -37.77938,
+        144.9906
+      ],
+      [
+        -37.78042,
+        144.99084
+      ],
+      [
+        -37.78061,
+        144.99078
+      ],
+      [
+        -37.78071,
+        144.99068
+      ],
+      [
+        -37.78089,
+        144.99042
+      ],
+      [
+        -37.78108,
+        144.9897
+      ],
+      [
+        -37.78113,
+        144.98963
+      ],
+      [
+        -37.78125,
+        144.98953
+      ],
+      [
+        -37.78137,
+        144.98929
+      ],
+      [
+        -37.78145,
+        144.98925
+      ],
+      [
+        -37.7815,
+        144.98936
+      ],
+      [
+        -37.78171,
+        144.98994
+      ],
+      [
+        -37.78196,
+        144.99047
+      ],
+      [
+        -37.78218,
+        144.99082
+      ],
+      [
+        -37.78236,
+        144.99095
+      ],
+      [
+        -37.78256,
+        144.99115
+      ],
+      [
+        -37.78292,
+        144.99166
+      ],
+      [
+        -37.78305,
+        144.99191
+      ],
+      [
+        -37.78304,
+        144.99196
+      ],
+      [
+        -37.78312,
+        144.99207
+      ],
+      [
+        -37.78312,
+        144.99212
+      ],
+      [
+        -37.78313,
+        144.99214
+      ],
+      [
+        -37.78312,
+        144.99218
+      ],
+      [
+        -37.783,
+        144.99225
+      ],
+      [
+        -37.78296,
+        144.99223
+      ],
+      [
+        -37.78291,
+        144.99226
+      ],
+      [
+        -37.78291,
+        144.99227
+      ],
+      [
+        -37.78335,
+        144.99301
+      ],
+      [
+        -37.7834,
+        144.99327
+      ],
+      [
+        -37.78348,
+        144.99346
+      ],
+      [
+        -37.78377,
+        144.9938
+      ],
+      [
+        -37.78407,
+        144.99425
+      ],
+      [
+        -37.78435,
+        144.9946
+      ],
+      [
+        -37.78457,
+        144.99496
+      ],
+      [
+        -37.78465,
+        144.99527
+      ],
+      [
+        -37.78486,
+        144.99566
+      ],
+      [
+        -37.78497,
+        144.99579
+      ],
+      [
+        -37.785,
+        144.99578
+      ],
+      [
+        -37.78503,
+        144.99574
+      ],
+      [
+        -37.7851,
+        144.99571
+      ],
+      [
+        -37.78522,
+        144.99579
+      ],
+      [
+        -37.78528,
+        144.99586
+      ],
+      [
+        -37.78533,
+        144.99595
+      ],
+      [
+        -37.7854,
+        144.99618
+      ],
+      [
+        -37.78544,
+        144.99621
+      ],
+      [
+        -37.78546,
+        144.99621
+      ],
+      [
+        -37.78549,
+        144.99615
+      ],
+      [
+        -37.7855,
+        144.99606
+      ],
+      [
+        -37.78549,
+        144.99592
+      ],
+      [
+        -37.78543,
+        144.99567
+      ],
+      [
+        -37.78536,
+        144.99556
+      ],
+      [
+        -37.78516,
+        144.99541
+      ],
+      [
+        -37.78511,
+        144.99532
+      ],
+      [
+        -37.78513,
+        144.99527
+      ],
+      [
+        -37.78521,
+        144.99516
+      ],
+      [
+        -37.78531,
+        144.99514
+      ],
+      [
+        -37.78539,
+        144.99514
+      ],
+      [
+        -37.78555,
+        144.99518
+      ],
+      [
+        -37.78572,
+        144.99527
+      ],
+      [
+        -37.78594,
+        144.99547
+      ],
+      [
+        -37.78614,
+        144.99558
+      ],
+      [
+        -37.78637,
+        144.9956
+      ],
+      [
+        -37.78763,
+        144.99537
+      ],
+      [
+        -37.78889,
+        144.9951
+      ],
+      [
+        -37.78955,
+        144.99498
+      ],
+      [
+        -37.79011,
+        144.9949
+      ],
+      [
+        -37.79014,
+        144.99493
+      ],
+      [
+        -37.79015,
+        144.99497
+      ],
+      [
+        -37.79019,
+        144.99499
+      ],
+      [
+        -37.79022,
+        144.99515
+      ],
+      [
+        -37.79029,
+        144.9956
+      ],
+      [
+        -37.79045,
+        144.99685
+      ],
+      [
+        -37.7905,
+        144.997
+      ],
+      [
+        -37.7906,
+        144.99702
+      ],
+      [
+        -37.79078,
+        144.99698
+      ],
+      [
+        -37.79104,
+        144.99695
+      ],
+      [
+        -37.79224,
+        144.9967
+      ],
+      [
+        -37.7926,
+        144.99663
+      ],
+      [
+        -37.79266,
+        144.99659
+      ],
+      [
+        -37.79266,
+        144.99646
+      ],
+      [
+        -37.79269,
+        144.99639
+      ],
+      [
+        -37.79271,
+        144.99636
+      ],
+      [
+        -37.79278,
+        144.99634
+      ],
+      [
+        -37.79319,
+        144.99625
+      ],
+      [
+        -37.79377,
+        144.99618
+      ],
+      [
+        -37.79388,
+        144.99619
+      ],
+      [
+        -37.79403,
+        144.99614
+      ],
+      [
+        -37.7947,
+        144.99601
+      ],
+      [
+        -37.79476,
+        144.99604
+      ],
+      [
+        -37.79482,
+        144.99624
+      ],
+      [
+        -37.79498,
+        144.99791
+      ],
+      [
+        -37.79503,
+        144.99798
+      ],
+      [
+        -37.79508,
+        144.99796
+      ],
+      [
+        -37.79507,
+        144.99786
+      ],
+      [
+        -37.79504,
+        144.99779
+      ],
+      [
+        -37.79505,
+        144.99776
+      ],
+      [
+        -37.79508,
+        144.99784
+      ],
+      [
+        -37.79512,
+        144.99805
+      ],
+      [
+        -37.79514,
+        144.99813
+      ],
+      [
+        -37.79515,
+        144.99813
+      ],
+      [
+        -37.796,
+        144.99799
+      ],
+      [
+        -37.79602,
+        144.99797
+      ],
+      [
+        -37.79603,
+        144.99785
+      ],
+      [
+        -37.79607,
+        144.99737
+      ],
+      [
+        -37.79609,
+        144.99752
+      ],
+      [
+        -37.79613,
+        144.99758
+      ],
+      [
+        -37.79639,
+        144.99753
+      ],
+      [
+        -37.79644,
+        144.99748
+      ],
+      [
+        -37.79628,
+        144.99586
+      ],
+      [
+        -37.79629,
+        144.99566
+      ],
+      [
+        -37.79632,
+        144.99563
+      ],
+      [
+        -37.79658,
+        144.99556
+      ],
+      [
+        -37.79751,
+        144.99543
+      ],
+      [
+        -37.79826,
+        144.99528
+      ],
+      [
+        -37.79944,
+        144.9951
+      ],
+      [
+        -37.79953,
+        144.99511
+      ],
+      [
+        -37.79959,
+        144.99547
+      ],
+      [
+        -37.79968,
+        144.99607
+      ],
+      [
+        -37.79976,
+        144.99703
+      ],
+      [
+        -37.79985,
+        144.99706
+      ],
+      [
+        -37.79999,
+        144.99704
+      ],
+      [
+        -37.80014,
+        144.99704
+      ],
+      [
+        -37.80017,
+        144.99712
+      ],
+      [
+        -37.80018,
+        144.99723
+      ],
+      [
+        -37.80025,
+        144.99746
+      ],
+      [
+        -37.80027,
+        144.99749
+      ],
+      [
+        -37.80026,
+        144.9975
+      ],
+      [
+        -37.80037,
+        144.9975
+      ],
+      [
+        -37.80036,
+        144.99751
+      ],
+      [
+        -37.80039,
+        144.99769
+      ],
+      [
+        -37.80055,
+        144.99762
+      ],
+      [
+        -37.80139,
+        144.99746
+      ],
+      [
+        -37.80323,
+        144.99718
+      ],
+      [
+        -37.80455,
+        144.99691
+      ],
+      [
+        -37.80513,
+        144.99681
+      ],
+      [
+        -37.80534,
+        144.99679
+      ],
+      [
+        -37.80542,
+        144.99702
+      ],
+      [
+        -37.80549,
+        144.99799
+      ],
+      [
+        -37.80551,
+        144.99802
+      ],
+      [
+        -37.80558,
+        144.99804
+      ],
+      [
+        -37.80588,
+        144.99809
+      ],
+      [
+        -37.80622,
+        144.99818
+      ],
+      [
+        -37.80648,
+        144.99827
+      ],
+      [
+        -37.8067,
+        144.99839
+      ],
+      [
+        -37.80695,
+        144.99858
+      ],
+      [
+        -37.8073,
+        144.99887
+      ],
+      [
+        -37.80757,
+        144.99917
+      ],
+      [
+        -37.80778,
+        144.99943
+      ],
+      [
+        -37.80794,
+        144.99949
+      ],
+      [
+        -37.80831,
+        144.99942
+      ],
+      [
+        -37.80841,
+        144.99945
+      ],
+      [
+        -37.80843,
+        144.99948
+      ],
+      [
+        -37.8085,
+        144.99971
+      ],
+      [
+        -37.80858,
+        145.00042
+      ],
+      [
+        -37.8086,
+        145.00093
+      ],
+      [
+        -37.80862,
+        145.00097
+      ],
+      [
+        -37.80867,
+        145.00098
+      ],
+      [
+        -37.80907,
+        145.00093
+      ],
+      [
+        -37.80918,
+        145.00105
+      ],
+      [
+        -37.80922,
+        145.00134
+      ],
+      [
+        -37.80927,
+        145.00238
+      ],
+      [
+        -37.80938,
+        145.00326
+      ],
+      [
+        -37.80944,
+        145.00425
+      ],
+      [
+        -37.80939,
+        145.00431
+      ],
+      [
+        -37.80887,
+        145.0044
+      ],
+      [
+        -37.80875,
+        145.00447
+      ],
+      [
+        -37.80873,
+        145.00451
+      ],
+      [
+        -37.80872,
+        145.00464
+      ],
+      [
+        -37.80884,
+        145.00521
+      ],
+      [
+        -37.80882,
+        145.00545
+      ],
+      [
+        -37.80878,
+        145.00559
+      ],
+      [
+        -37.80866,
+        145.0059
+      ],
+      [
+        -37.80864,
+        145.006
+      ],
+      [
+        -37.80868,
+        145.00646
+      ],
+      [
+        -37.80868,
+        145.00662
+      ],
+      [
+        -37.80873,
+        145.00669
+      ],
+      [
+        -37.80889,
+        145.00668
+      ],
+      [
+        -37.80939,
+        145.0066
+      ],
+      [
+        -37.80965,
+        145.00658
+      ],
+      [
+        -37.81005,
+        145.0065
+      ],
+      [
+        -37.81008,
+        145.00651
+      ],
+      [
+        -37.81011,
+        145.00658
+      ],
+      [
+        -37.81013,
+        145.00674
+      ],
+      [
+        -37.8102,
+        145.00709
+      ],
+      [
+        -37.81021,
+        145.00744
+      ],
+      [
+        -37.81033,
+        145.00863
+      ],
+      [
+        -37.81056,
+        145.00886
+      ],
+      [
+        -37.81054,
+        145.00884
+      ],
+      [
+        -37.81051,
+        145.00885
+      ],
+      [
+        -37.81059,
+        145.00892
+      ],
+      [
+        -37.81066,
+        145.00902
+      ],
+      [
+        -37.81078,
+        145.0094
+      ],
+      [
+        -37.81078,
+        145.00964
+      ],
+      [
+        -37.81075,
+        145.00977
+      ],
+      [
+        -37.81073,
+        145.01002
+      ],
+      [
+        -37.81075,
+        145.01046
+      ],
+      [
+        -37.81071,
+        145.01078
+      ],
+      [
+        -37.81072,
+        145.01111
+      ],
+      [
+        -37.81076,
+        145.01141
+      ],
+      [
+        -37.81074,
+        145.01153
+      ],
+      [
+        -37.81074,
+        145.01188
+      ],
+      [
+        -37.81076,
+        145.01204
+      ],
+      [
+        -37.8108,
+        145.01213
+      ],
+      [
+        -37.81082,
+        145.01249
+      ],
+      [
+        -37.8108,
+        145.01276
+      ],
+      [
+        -37.81082,
+        145.01311
+      ],
+      [
+        -37.81081,
+        145.01402
+      ],
+      [
+        -37.81079,
+        145.01421
+      ],
+      [
+        -37.81075,
+        145.01505
+      ],
+      [
+        -37.81075,
+        145.01511
+      ],
+      [
+        -37.8108,
+        145.01522
+      ],
+      [
+        -37.81087,
+        145.01531
+      ],
+      [
+        -37.81095,
+        145.01537
+      ],
+      [
+        -37.81109,
+        145.01538
+      ],
+      [
+        -37.81138,
+        145.01532
+      ],
+      [
+        -37.812,
+        145.01511
+      ],
+      [
+        -37.81265,
+        145.01495
+      ],
+      [
+        -37.81286,
+        145.01489
+      ],
+      [
+        -37.81331,
+        145.0147
+      ],
+      [
+        -37.81368,
+        145.01463
+      ],
+      [
+        -37.81384,
+        145.01458
+      ],
+      [
+        -37.81432,
+        145.01432
+      ],
+      [
+        -37.81485,
+        145.01423
+      ],
+      [
+        -37.81518,
+        145.01422
+      ],
+      [
+        -37.81569,
+        145.01413
+      ],
+      [
+        -37.81595,
+        145.01413
+      ],
+      [
+        -37.81629,
+        145.01416
+      ],
+      [
+        -37.81654,
+        145.01415
+      ],
+      [
+        -37.81672,
+        145.01417
+      ],
+      [
+        -37.81697,
+        145.01423
+      ],
+      [
+        -37.81726,
+        145.01427
+      ],
+      [
+        -37.81751,
+        145.01427
+      ],
+      [
+        -37.81769,
+        145.01432
+      ],
+      [
+        -37.8182,
+        145.0145
+      ],
+      [
+        -37.81831,
+        145.01452
+      ],
+      [
+        -37.81851,
+        145.01446
+      ],
+      [
+        -37.81858,
+        145.01447
+      ],
+      [
+        -37.81902,
+        145.01456
+      ],
+      [
+        -37.81931,
+        145.0146
+      ],
+      [
+        -37.81944,
+        145.01463
+      ],
+      [
+        -37.81972,
+        145.01472
+      ],
+      [
+        -37.82022,
+        145.01492
+      ],
+      [
+        -37.82038,
+        145.01496
+      ],
+      [
+        -37.82081,
+        145.01512
+      ],
+      [
+        -37.82117,
+        145.01522
+      ],
+      [
+        -37.82286,
+        145.01551
+      ],
+      [
+        -37.82322,
+        145.01554
+      ],
+      [
+        -37.82357,
+        145.0156
+      ],
+      [
+        -37.82393,
+        145.01567
+      ],
+      [
+        -37.82438,
+        145.01579
+      ],
+      [
+        -37.82462,
+        145.01589
+      ],
+      [
+        -37.82513,
+        145.01626
+      ],
+      [
+        -37.82625,
+        145.01739
+      ],
+      [
+        -37.82635,
+        145.01755
+      ],
+      [
+        -37.82652,
+        145.01796
+      ],
+      [
+        -37.82655,
+        145.01818
+      ],
+      [
+        -37.82655,
+        145.01848
+      ],
+      [
+        -37.82647,
+        145.01876
+      ],
+      [
+        -37.82635,
+        145.01899
+      ],
+      [
+        -37.82615,
+        145.0194
+      ],
+      [
+        -37.82561,
+        145.02068
+      ],
+      [
+        -37.82556,
+        145.02095
+      ],
+      [
+        -37.82555,
+        145.0211
+      ],
+      [
+        -37.82557,
+        145.02124
+      ],
+      [
+        -37.82567,
+        145.02164
+      ],
+      [
+        -37.82575,
+        145.02176
+      ],
+      [
+        -37.82601,
+        145.02199
+      ],
+      [
+        -37.82618,
+        145.02211
+      ],
+      [
+        -37.82628,
+        145.02215
+      ],
+      [
+        -37.82649,
+        145.0222
+      ],
+      [
+        -37.82665,
+        145.02221
+      ],
+      [
+        -37.82763,
+        145.02247
+      ],
+      [
+        -37.82776,
+        145.02253
+      ],
+      [
+        -37.82802,
+        145.02273
+      ],
+      [
+        -37.82817,
+        145.02286
+      ],
+      [
+        -37.82828,
+        145.02301
+      ],
+      [
+        -37.82839,
+        145.02317
+      ],
+      [
+        -37.82878,
+        145.02383
+      ],
+      [
+        -37.82911,
+        145.02443
+      ],
+      [
+        -37.82921,
+        145.02457
+      ],
+      [
+        -37.82976,
+        145.02554
+      ],
+      [
+        -37.83049,
+        145.02675
+      ],
+      [
+        -37.83071,
+        145.02705
+      ],
+      [
+        -37.83101,
+        145.02729
+      ],
+      [
+        -37.83135,
+        145.0274
+      ],
+      [
+        -37.83163,
+        145.02739
+      ],
+      [
+        -37.83195,
+        145.02724
+      ],
+      [
+        -37.83225,
+        145.02703
+      ],
+      [
+        -37.83268,
+        145.02662
+      ],
+      [
+        -37.83353,
+        145.02558
+      ],
+      [
+        -37.83382,
+        145.0251
+      ],
+      [
+        -37.83389,
+        145.02492
+      ],
+      [
+        -37.83399,
+        145.02451
+      ],
+      [
+        -37.83404,
+        145.0244
+      ],
+      [
+        -37.83407,
+        145.02418
+      ],
+      [
+        -37.83408,
+        145.02391
+      ],
+      [
+        -37.83401,
+        145.02367
+      ],
+      [
+        -37.83401,
+        145.02364
+      ],
+      [
+        -37.83404,
+        145.02364
+      ],
+      [
+        -37.83409,
+        145.0238
+      ],
+      [
+        -37.83413,
+        145.02417
+      ],
+      [
+        -37.83417,
+        145.02426
+      ],
+      [
+        -37.83442,
+        145.02452
+      ],
+      [
+        -37.8346,
+        145.02466
+      ],
+      [
+        -37.83513,
+        145.02516
+      ],
+      [
+        -37.83557,
+        145.02562
+      ],
+      [
+        -37.83573,
+        145.02575
+      ],
+      [
+        -37.83652,
+        145.02653
+      ],
+      [
+        -37.83669,
+        145.02667
+      ],
+      [
+        -37.83685,
+        145.02687
+      ],
+      [
+        -37.83734,
+        145.02765
+      ],
+      [
+        -37.8375,
+        145.028
+      ],
+      [
+        -37.83768,
+        145.02852
+      ],
+      [
+        -37.83779,
+        145.02904
+      ],
+      [
+        -37.83783,
+        145.02949
+      ],
+      [
+        -37.83783,
+        145.02994
+      ],
+      [
+        -37.83777,
+        145.03081
+      ],
+      [
+        -37.83775,
+        145.03098
+      ],
+      [
+        -37.83763,
+        145.03146
+      ],
+      [
+        -37.83756,
+        145.03169
+      ],
+      [
+        -37.83753,
+        145.03186
+      ],
+      [
+        -37.83757,
+        145.03216
+      ],
+      [
+        -37.83752,
+        145.03257
+      ],
+      [
+        -37.83753,
+        145.0326
+      ],
+      [
+        -37.83755,
+        145.0326
+      ],
+      [
+        -37.83756,
+        145.03276
+      ],
+      [
+        -37.83762,
+        145.03275
+      ],
+      [
+        -37.83766,
+        145.03277
+      ],
+      [
+        -37.83773,
+        145.03286
+      ],
+      [
+        -37.83773,
+        145.03293
+      ],
+      [
+        -37.83768,
+        145.03302
+      ],
+      [
+        -37.83756,
+        145.03317
+      ],
+      [
+        -37.83756,
+        145.03322
+      ],
+      [
+        -37.8377,
+        145.03432
+      ],
+      [
+        -37.83778,
+        145.03452
+      ],
+      [
+        -37.83777,
+        145.03458
+      ],
+      [
+        -37.83773,
+        145.03462
+      ],
+      [
+        -37.83729,
+        145.03479
+      ],
+      [
+        -37.83719,
+        145.03486
+      ],
+      [
+        -37.83711,
+        145.03505
+      ],
+      [
+        -37.8371,
+        145.03517
+      ],
+      [
+        -37.83712,
+        145.03549
+      ],
+      [
+        -37.83723,
+        145.03596
+      ],
+      [
+        -37.83741,
+        145.03642
+      ],
+      [
+        -37.8376,
+        145.03721
+      ],
+      [
+        -37.83766,
+        145.03733
+      ],
+      [
+        -37.83784,
+        145.03756
+      ],
+      [
+        -37.83819,
+        145.03792
+      ],
+      [
+        -37.8384,
+        145.0382
+      ],
+      [
+        -37.83844,
+        145.03832
+      ],
+      [
+        -37.83848,
+        145.03855
+      ],
+      [
+        -37.83857,
+        145.03881
+      ],
+      [
+        -37.83875,
+        145.03904
+      ],
+      [
+        -37.83882,
+        145.03921
+      ],
+      [
+        -37.83887,
+        145.03943
+      ],
+      [
+        -37.83914,
+        145.03957
+      ],
+      [
+        -37.83924,
+        145.03967
+      ],
+      [
+        -37.8395,
+        145.03985
+      ],
+      [
+        -37.83978,
+        145.04009
+      ],
+      [
+        -37.84005,
+        145.04029
+      ],
+      [
+        -37.84031,
+        145.0404
+      ],
+      [
+        -37.84069,
+        145.04044
+      ],
+      [
+        -37.84116,
+        145.04055
+      ],
+      [
+        -37.84181,
+        145.04057
+      ],
+      [
+        -37.84226,
+        145.04048
+      ],
+      [
+        -37.84234,
+        145.04049
+      ],
+      [
+        -37.84283,
+        145.04046
+      ],
+      [
+        -37.8431,
+        145.04048
+      ],
+      [
+        -37.84334,
+        145.04048
+      ],
+      [
+        -37.84368,
+        145.04051
+      ],
+      [
+        -37.8439,
+        145.04054
+      ],
+      [
+        -37.84435,
+        145.04053
+      ],
+      [
+        -37.84508,
+        145.04039
+      ],
+      [
+        -37.84519,
+        145.04041
+      ],
+      [
+        -37.8453,
+        145.04046
+      ],
+      [
+        -37.84582,
+        145.04076
+      ],
+      [
+        -37.84603,
+        145.04093
+      ],
+      [
+        -37.84618,
+        145.04112
+      ],
+      [
+        -37.84705,
+        145.04227
+      ],
+      [
+        -37.84745,
+        145.04274
+      ],
+      [
+        -37.8475,
+        145.04285
+      ],
+      [
+        -37.84777,
+        145.04388
+      ],
+      [
+        -37.84794,
+        145.04434
+      ],
+      [
+        -37.84799,
+        145.0445
+      ],
+      [
+        -37.84814,
+        145.04522
+      ],
+      [
+        -37.84817,
+        145.04579
+      ],
+      [
+        -37.84817,
+        145.04674
+      ],
+      [
+        -37.84822,
+        145.04706
+      ],
+      [
+        -37.84837,
+        145.04735
+      ],
+      [
+        -37.84882,
+        145.048
+      ],
+      [
+        -37.84905,
+        145.04855
+      ],
+      [
+        -37.84916,
+        145.04892
+      ],
+      [
+        -37.84921,
+        145.04933
+      ],
+      [
+        -37.84924,
+        145.04944
+      ],
+      [
+        -37.84931,
+        145.04954
+      ],
+      [
+        -37.8494,
+        145.04957
+      ],
+      [
+        -37.84981,
+        145.04961
+      ],
+      [
+        -37.8499,
+        145.04967
+      ],
+      [
+        -37.84997,
+        145.04975
+      ],
+      [
+        -37.85006,
+        145.04991
+      ],
+      [
+        -37.85027,
+        145.05011
+      ],
+      [
+        -37.85038,
+        145.05025
+      ],
+      [
+        -37.8505,
+        145.05045
+      ],
+      [
+        -37.85066,
+        145.05081
+      ],
+      [
+        -37.85082,
+        145.05103
+      ],
+      [
+        -37.851,
+        145.05132
+      ],
+      [
+        -37.85119,
+        145.05177
+      ],
+      [
+        -37.85141,
+        145.05246
+      ],
+      [
+        -37.85153,
+        145.05274
+      ],
+      [
+        -37.85155,
+        145.05307
+      ],
+      [
+        -37.85158,
+        145.05313
+      ],
+      [
+        -37.85165,
+        145.05319
+      ],
+      [
+        -37.85185,
+        145.05327
+      ],
+      [
+        -37.85191,
+        145.05336
+      ],
+      [
+        -37.85212,
+        145.05427
+      ],
+      [
+        -37.85219,
+        145.05447
+      ],
+      [
+        -37.85266,
+        145.05527
+      ],
+      [
+        -37.85292,
+        145.05568
+      ],
+      [
+        -37.85335,
+        145.05645
+      ],
+      [
+        -37.85332,
+        145.05659
+      ],
+      [
+        -37.85333,
+        145.05664
+      ],
+      [
+        -37.85339,
+        145.05675
+      ],
+      [
+        -37.8536,
+        145.05698
+      ],
+      [
+        -37.8538,
+        145.05713
+      ],
+      [
+        -37.85429,
+        145.05734
+      ],
+      [
+        -37.85444,
+        145.05746
+      ],
+      [
+        -37.85449,
+        145.05755
+      ],
+      [
+        -37.85472,
+        145.05829
+      ],
+      [
+        -37.85485,
+        145.05869
+      ],
+      [
+        -37.85487,
+        145.05881
+      ],
+      [
+        -37.85486,
+        145.05898
+      ],
+      [
+        -37.85487,
+        145.05937
+      ],
+      [
+        -37.85489,
+        145.05943
+      ],
+      [
+        -37.85497,
+        145.05957
+      ],
+      [
+        -37.85504,
+        145.05961
+      ],
+      [
+        -37.85512,
+        145.05961
+      ],
+      [
+        -37.85518,
+        145.05966
+      ],
+      [
+        -37.8552,
+        145.05988
+      ],
+      [
+        -37.85525,
+        145.06001
+      ],
+      [
+        -37.85528,
+        145.06004
+      ],
+      [
+        -37.85532,
+        145.06005
+      ],
+      [
+        -37.85551,
+        145.05999
+      ],
+      [
+        -37.85564,
+        145.05998
+      ],
+      [
+        -37.85583,
+        145.05999
+      ],
+      [
+        -37.85613,
+        145.05996
+      ],
+      [
+        -37.8566,
+        145.05983
+      ],
+      [
+        -37.85694,
+        145.05971
+      ],
+      [
+        -37.8571,
+        145.05971
+      ],
+      [
+        -37.8573,
+        145.05978
+      ],
+      [
+        -37.85742,
+        145.05986
+      ],
+      [
+        -37.85747,
+        145.05992
+      ],
+      [
+        -37.85759,
+        145.06
+      ],
+      [
+        -37.85796,
+        145.0602
+      ],
+      [
+        -37.85798,
+        145.06025
+      ],
+      [
+        -37.85797,
+        145.06025
+      ],
+      [
+        -37.85798,
+        145.0602
+      ],
+      [
+        -37.85797,
+        145.06021
+      ],
+      [
+        -37.85799,
+        145.06023
+      ],
+      [
+        -37.85799,
+        145.06025
+      ],
+      [
+        -37.85797,
+        145.06023
+      ],
+      [
+        -37.85796,
+        145.06021
+      ],
+      [
+        -37.85798,
+        145.06025
+      ],
+      [
+        -37.858,
+        145.06024
+      ],
+      [
+        -37.85799,
+        145.06023
+      ],
+      [
+        -37.8581,
+        145.06032
+      ],
+      [
+        -37.85808,
+        145.06029
+      ],
+      [
+        -37.858,
+        145.06023
+      ],
+      [
+        -37.85796,
+        145.06022
+      ],
+      [
+        -37.85808,
+        145.0603
+      ],
+      [
+        -37.8581,
+        145.06032
+      ],
+      [
+        -37.85807,
+        145.0604
+      ],
+      [
+        -37.85811,
+        145.06034
+      ],
+      [
+        -37.85811,
+        145.0603
+      ],
+      [
+        -37.85804,
+        145.06024
+      ],
+      [
+        -37.85797,
+        145.06022
+      ],
+      [
+        -37.85799,
+        145.06025
+      ],
+      [
+        -37.85797,
+        145.06022
+      ],
+      [
+        -37.85797,
+        145.06025
+      ],
+      [
+        -37.85809,
+        145.06028
+      ],
+      [
+        -37.85819,
+        145.06023
+      ],
+      [
+        -37.85839,
+        145.05998
+      ],
+      [
+        -37.85844,
+        145.05997
+      ],
+      [
+        -37.85846,
+        145.05999
+      ],
+      [
+        -37.85848,
+        145.06002
+      ],
+      [
+        -37.85848,
+        145.06007
+      ],
+      [
+        -37.85854,
+        145.06025
+      ],
+      [
+        -37.85875,
+        145.06063
+      ],
+      [
+        -37.85881,
+        145.0607
+      ],
+      [
+        -37.85895,
+        145.06079
+      ],
+      [
+        -37.85912,
+        145.06092
+      ],
+      [
+        -37.85927,
+        145.06113
+      ],
+      [
+        -37.8594,
+        145.06159
+      ],
+      [
+        -37.85954,
+        145.06175
+      ],
+      [
+        -37.85964,
+        145.06191
+      ],
+      [
+        -37.85967,
+        145.06227
+      ],
+      [
+        -37.85966,
+        145.06252
+      ],
+      [
+        -37.85968,
+        145.06257
+      ],
+      [
+        -37.85983,
+        145.06269
+      ],
+      [
+        -37.85997,
+        145.06272
+      ],
+      [
+        -37.86017,
+        145.06273
+      ],
+      [
+        -37.86025,
+        145.06269
+      ],
+      [
+        -37.86038,
+        145.06256
+      ],
+      [
+        -37.86046,
+        145.06222
+      ],
+      [
+        -37.86057,
+        145.0621
+      ],
+      [
+        -37.86072,
+        145.06189
+      ],
+      [
+        -37.86087,
+        145.06172
+      ],
+      [
+        -37.86099,
+        145.06169
+      ],
+      [
+        -37.86144,
+        145.06162
+      ],
+      [
+        -37.86174,
+        145.06151
+      ],
+      [
+        -37.86179,
+        145.06153
+      ],
+      [
+        -37.86188,
+        145.06152
+      ],
+      [
+        -37.86228,
+        145.06126
+      ],
+      [
+        -37.86246,
+        145.061
+      ],
+      [
+        -37.86254,
+        145.06095
+      ],
+      [
+        -37.86284,
+        145.06091
+      ],
+      [
+        -37.86308,
+        145.06085
+      ],
+      [
+        -37.8633,
+        145.06091
+      ],
+      [
+        -37.86349,
+        145.06088
+      ],
+      [
+        -37.8636,
+        145.06065
+      ],
+      [
+        -37.86378,
+        145.05994
+      ],
+      [
+        -37.86382,
+        145.05997
+      ],
+      [
+        -37.86393,
+        145.05985
+      ],
+      [
+        -37.86399,
+        145.05971
+      ],
+      [
+        -37.86404,
+        145.05954
+      ],
+      [
+        -37.86405,
+        145.05929
+      ],
+      [
+        -37.8642,
+        145.05931
+      ],
+      [
+        -37.86466,
+        145.05949
+      ],
+      [
+        -37.86513,
+        145.05961
+      ],
+      [
+        -37.86555,
+        145.05977
+      ],
+      [
+        -37.86564,
+        145.05977
+      ],
+      [
+        -37.86572,
+        145.05971
+      ],
+      [
+        -37.86588,
+        145.05948
+      ],
+      [
+        -37.86617,
+        145.059
+      ],
+      [
+        -37.8665,
+        145.05852
+      ],
+      [
+        -37.86669,
+        145.0586
+      ],
+      [
+        -37.86769,
+        145.0594
+      ],
+      [
+        -37.86823,
+        145.05987
+      ],
+      [
+        -37.86895,
+        145.06042
+      ],
+      [
+        -37.86953,
+        145.06093
+      ],
+      [
+        -37.8696,
+        145.06096
+      ],
+      [
+        -37.86963,
+        145.06096
+      ],
+      [
+        -37.86964,
+        145.0609
+      ],
+      [
+        -37.86969,
+        145.06091
+      ],
+      [
+        -37.86996,
+        145.06077
+      ],
+      [
+        -37.87012,
+        145.06072
+      ],
+      [
+        -37.87072,
+        145.06059
+      ],
+      [
+        -37.8741,
+        145.05995
+      ],
+      [
+        -37.87487,
+        145.05982
+      ],
+      [
+        -37.87635,
+        145.05952
+      ],
+      [
+        -37.87701,
+        145.05941
+      ],
+      [
+        -37.87707,
+        145.05941
+      ],
+      [
+        -37.87713,
+        145.05939
+      ],
+      [
+        -37.8779,
+        145.05922
+      ],
+      [
+        -37.87963,
+        145.05892
+      ],
+      [
+        -37.88045,
+        145.05875
+      ],
+      [
+        -37.88147,
+        145.05857
+      ],
+      [
+        -37.88261,
+        145.05835
+      ],
+      [
+        -37.88316,
+        145.05825
+      ],
+      [
+        -37.8838,
+        145.05817
+      ],
+      [
+        -37.88379,
+        145.05805
+      ],
+      [
+        -37.8838,
+        145.05794
+      ],
+      [
+        -37.88384,
+        145.05796
+      ],
+      [
+        -37.88399,
+        145.05796
+      ],
+      [
+        -37.88403,
+        145.05794
+      ],
+      [
+        -37.88414,
+        145.05789
+      ],
+      [
+        -37.88415,
+        145.05781
+      ],
+      [
+        -37.88412,
+        145.05768
+      ],
+      [
+        -37.88406,
+        145.05702
+      ],
+      [
+        -37.88391,
+        145.05608
+      ],
+      [
+        -37.88376,
+        145.05534
+      ],
+      [
+        -37.88368,
+        145.05464
+      ],
+      [
+        -37.88356,
+        145.05389
+      ],
+      [
+        -37.88359,
+        145.05369
+      ],
+      [
+        -37.88363,
+        145.05365
+      ],
+      [
+        -37.88362,
+        145.05361
+      ],
+      [
+        -37.88359,
+        145.05362
+      ],
+      [
+        -37.88361,
+        145.0536
+      ],
+      [
+        -37.8836,
+        145.05359
+      ],
+      [
+        -37.88357,
+        145.05364
+      ],
+      [
+        -37.88366,
+        145.05369
+      ],
+      [
+        -37.8838,
+        145.05363
+      ],
+      [
+        -37.88385,
+        145.05365
+      ],
+      [
+        -37.88383,
+        145.05362
+      ],
+      [
+        -37.88385,
+        145.05363
+      ],
+      [
+        -37.88384,
+        145.05365
+      ]
+    ]
+  },
+  {
+    "resource_state": 3,
+    "athlete": {
+      "id": 49069428,
+      "resource_state": 1
+    },
     "name": "6 days on The Overland Track",
     "distance": 122844,
     "moving_time": 124092,
