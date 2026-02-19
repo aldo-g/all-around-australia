@@ -5,6 +5,1496 @@
       "id": 49069428,
       "resource_state": 1
     },
+    "name": "Afternoon Ride",
+    "distance": 7528.4,
+    "moving_time": 1813,
+    "elapsed_time": 2145,
+    "total_elevation_gain": 21,
+    "type": "Ride",
+    "sport_type": "Ride",
+    "workout_type": null,
+    "device_name": "Garmin fēnix 7x",
+    "id": 17447073051,
+    "start_date": "2026-02-19T06:24:19Z",
+    "start_date_local": "2026-02-19T17:24:19Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a17447073051",
+      "polyline": "|`ffFwpitZCl@Md@Cl@DJ?DI`@Yv@aAnB_BnDq@jAa@pAW\\kA`CEL?BVLAPSb@[n@e@x@cA|AIb@J`@THP?rAUlCOl@@NN?@U@IHEEA^I\\GLgAJ}@NgATk@RoAh@g@\\y@t@sAdBqGtLq@pAMb@Wd@e@n@aCpCoEtFyDpE]f@ODu@|@kAlAU`@a@^c@l@s@r@{@fAo@n@}BhC_@f@EL@BTVt@tARZBTIRk@t@UDM?EFQTI\\aAhA{@\\eAJGFAFMlAiD`j@@p@QrAoCbc@I~BCF?Za@lFMvBoA|Q]~FaAvNC|@m@hIq@dLw@~LKbCUvBY`FK`C{AnUGtBObAa@vHUhCc@pIQ`C?XIf@m@hIw@pLOnCC`@EDe@bHY~Cg@dJCv@F\\GNk@GCC@TIPk@h@A?@@GCEG@CCF@?GA@EDAB@CD@BDKEJ@EECNNJGf@k@DQBELCT?HCB@",
+      "resource_state": 3,
+      "summary_polyline": "f}efFyeitZ_BnDq@jAa@pAW\\qAnC?BTJBDWp@aAhBcA|AIb@J`@THP?rAUlCOl@@NN?@U@IHEEA^I\\GLgAJ}@NgATk@RoAh@g@\\y@t@sAdBqGtLq@pAMb@Wd@e@n@aCpCoEtFyDpE]f@ODu@|@kAlAU`@a@^c@l@s@r@{@fAo@n@}BhC_@f@EL@BTVt@tARZBTIRk@t@UDM?EFQTI\\aAhA{@\\eAJGFAFMlAiD`j@@p@QrAoCbc@I~BCF?Za@lFMvBoA|Q]~FaAvNC|@m@hIq@dLw@~LKbCUvBY`FK`C{AnUGtBObAa@vHUhCc@pIQ`C?XIf@m@hIw@pLOnCC`@EDe@bHY~CY`F"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": true,
+    "visibility": "only_me",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.883185,
+      145.052444
+    ],
+    "end_latlng": [
+      -37.864233,
+      144.981657
+    ],
+    "average_speed": 4.152,
+    "max_speed": 9.78,
+    "has_heartrate": true,
+    "average_heartrate": 114.9,
+    "max_heartrate": 135,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 54.2,
+    "elev_low": 7.4,
+    "upload_id": 18544190873,
+    "upload_id_str": "18544190873",
+    "external_id": "garmin_ping_537091555029",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 273,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3459460512155261400,
+        "resource_state": 2,
+        "name": "Stormin' Norman [W]",
+        "activity": {
+          "id": 17447073051,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 173,
+        "moving_time": 163,
+        "start_date": "2026-02-19T06:30:55Z",
+        "start_date_local": "2026-02-19T17:30:55Z",
+        "distance": 760.8,
+        "start_index": 110,
+        "end_index": 148,
+        "device_watts": false,
+        "average_heartrate": 116.6,
+        "max_heartrate": 130,
+        "segment": {
+          "id": 27308316,
+          "resource_state": 2,
+          "name": "Stormin' Norman [W]",
+          "activity_type": "Ride",
+          "distance": 760.8,
+          "average_grade": -0.1,
+          "maximum_grade": 6.5,
+          "elevation_high": 57.6,
+          "elevation_low": 52.4,
+          "start_latlng": [
+            -37.879085,
+            145.04429
+          ],
+          "end_latlng": [
+            -37.874382,
+            145.038076
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Caulfield East",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3459460512156226000,
+        "resource_state": 2,
+        "name": "Caulfield Station to Hotham",
+        "activity": {
+          "id": 17447073051,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 812,
+        "moving_time": 728,
+        "start_date": "2026-02-19T06:32:49Z",
+        "start_date_local": "2026-02-19T17:32:49Z",
+        "distance": 3725.5,
+        "start_index": 136,
+        "end_index": 322,
+        "device_watts": false,
+        "average_heartrate": 116.2,
+        "max_heartrate": 133,
+        "segment": {
+          "id": 19564960,
+          "resource_state": 2,
+          "name": "Caulfield Station to Hotham",
+          "activity_type": "Ride",
+          "distance": 3725.5,
+          "average_grade": -0.8,
+          "maximum_grade": 6.8,
+          "elevation_high": 51.4,
+          "elevation_low": 22,
+          "start_latlng": [
+            -37.875607,
+            145.039505
+          ],
+          "end_latlng": [
+            -37.866503,
+            145.000443
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Caulfield East",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3459460512156753400,
+        "resource_state": 2,
+        "name": "Caulfield Park Extended Dash",
+        "activity": {
+          "id": 17447073051,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 350,
+        "moving_time": 322,
+        "start_date": "2026-02-19T06:35:19Z",
+        "start_date_local": "2026-02-19T17:35:19Z",
+        "distance": 1447.9,
+        "start_index": 173,
+        "end_index": 245,
+        "device_watts": false,
+        "average_heartrate": 116.7,
+        "max_heartrate": 122,
+        "segment": {
+          "id": 7885374,
+          "resource_state": 2,
+          "name": "Caulfield Park Extended Dash",
+          "activity_type": "Ride",
+          "distance": 1447.9,
+          "average_grade": -0.3,
+          "maximum_grade": 5,
+          "elevation_high": 51.2,
+          "elevation_low": 42.6,
+          "start_latlng": [
+            -37.871598,
+            145.034976
+          ],
+          "end_latlng": [
+            -37.868883,
+            145.019249
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Caulfield North",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3459460512157082000,
+        "resource_state": 2,
+        "name": "Inkerman Incline (Reverse)",
+        "activity": {
+          "id": 17447073051,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 705,
+        "moving_time": 643,
+        "start_date": "2026-02-19T06:36:57Z",
+        "start_date_local": "2026-02-19T17:36:57Z",
+        "distance": 3674.48,
+        "start_index": 197,
+        "end_index": 353,
+        "device_watts": false,
+        "average_heartrate": 116.3,
+        "max_heartrate": 122,
+        "segment": {
+          "id": 963503,
+          "resource_state": 2,
+          "name": "Inkerman Incline (Reverse)",
+          "activity_type": "Ride",
+          "distance": 3674.48,
+          "average_grade": -1,
+          "maximum_grade": 3.4,
+          "elevation_high": 51,
+          "elevation_low": 12,
+          "start_latlng": [
+            -37.87057431880385,
+            145.03281505778432
+          ],
+          "end_latlng": [
+            -37.86545599345118,
+            144.99151021242142
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Caulfield North",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3459460512157675000,
+        "resource_state": 2,
+        "name": "Kooyong to Orrong",
+        "activity": {
+          "id": 17447073051,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 138,
+        "moving_time": 138,
+        "start_date": "2026-02-19T06:41:33Z",
+        "start_date_local": "2026-02-19T17:41:33Z",
+        "distance": 799.3,
+        "start_index": 252,
+        "end_index": 284,
+        "device_watts": false,
+        "average_heartrate": 116.3,
+        "max_heartrate": 122,
+        "segment": {
+          "id": 5035403,
+          "resource_state": 2,
+          "name": "Kooyong to Orrong",
+          "activity_type": "Ride",
+          "distance": 799.3,
+          "average_grade": -0.4,
+          "maximum_grade": 5,
+          "elevation_high": 43,
+          "elevation_low": 39.1,
+          "start_latlng": [
+            -37.868776,
+            145.018258
+          ],
+          "end_latlng": [
+            -37.867655,
+            145.009362
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Caulfield North",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3459460512155267600,
+        "resource_state": 2,
+        "name": "Inkerman Challenge - Raphael St to SKR",
+        "activity": {
+          "id": 17447073051,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 590,
+        "moving_time": 484,
+        "start_date": "2026-02-19T06:41:47Z",
+        "start_date_local": "2026-02-19T17:41:47Z",
+        "distance": 2815.94,
+        "start_index": 255,
+        "end_index": 383,
+        "device_watts": false,
+        "average_heartrate": 114.7,
+        "max_heartrate": 122,
+        "segment": {
+          "id": 3653400,
+          "resource_state": 2,
+          "name": "Inkerman Challenge - Raphael St to SKR",
+          "activity_type": "Ride",
+          "distance": 2815.94,
+          "average_grade": -1,
+          "maximum_grade": 4.7,
+          "elevation_high": 43,
+          "elevation_low": 11.5,
+          "start_latlng": [
+            -37.868822710588574,
+            145.01744214445353
+          ],
+          "end_latlng": [
+            -37.86470937542617,
+            144.98604437336326
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Caulfield North",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3459460512157718000,
+        "resource_state": 2,
+        "name": "Inkerman Challenge - Orrong Rd To Chapel St",
+        "activity": {
+          "id": 17447073051,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 313,
+        "moving_time": 267,
+        "start_date": "2026-02-19T06:44:17Z",
+        "start_date_local": "2026-02-19T17:44:17Z",
+        "distance": 1611.83,
+        "start_index": 287,
+        "end_index": 363,
+        "device_watts": false,
+        "average_heartrate": 115.7,
+        "max_heartrate": 121,
+        "segment": {
+          "id": 3632871,
+          "resource_state": 2,
+          "name": "Inkerman Challenge - Orrong Rd To Chapel St",
+          "activity_type": "Ride",
+          "distance": 1611.83,
+          "average_grade": -1.6,
+          "maximum_grade": 2.8,
+          "elevation_high": 38.5,
+          "elevation_low": 12,
+          "start_latlng": [
+            -37.86763214506209,
+            145.00908438116312
+          ],
+          "end_latlng": [
+            -37.86536597927261,
+            144.99101657308915
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Caulfield North",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3459460512156072400,
+        "resource_state": 2,
+        "name": "Orrong to Hotham",
+        "activity": {
+          "id": 17447073051,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 127,
+        "moving_time": 118,
+        "start_date": "2026-02-19T06:44:17Z",
+        "start_date_local": "2026-02-19T17:44:17Z",
+        "distance": 792.3,
+        "start_index": 287,
+        "end_index": 323,
+        "device_watts": false,
+        "average_heartrate": 114.2,
+        "max_heartrate": 120,
+        "segment": {
+          "id": 5035469,
+          "resource_state": 2,
+          "name": "Orrong to Hotham",
+          "activity_type": "Ride",
+          "distance": 792.3,
+          "average_grade": -2.3,
+          "maximum_grade": 2.5,
+          "elevation_high": 38.5,
+          "elevation_low": 20.4,
+          "start_latlng": [
+            -37.867624,
+            145.009077
+          ],
+          "end_latlng": [
+            -37.866532,
+            145.00019
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Caulfield North",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3459460512157928000,
+        "resource_state": 2,
+        "name": "Inky Dink",
+        "activity": {
+          "id": 17447073051,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 285,
+        "moving_time": 248,
+        "start_date": "2026-02-19T06:46:04Z",
+        "start_date_local": "2026-02-19T17:46:04Z",
+        "distance": 1353,
+        "start_index": 319,
+        "end_index": 377,
+        "device_watts": false,
+        "average_heartrate": 115.7,
+        "max_heartrate": 121,
+        "segment": {
+          "id": 5865358,
+          "resource_state": 2,
+          "name": "Inky Dink",
+          "activity_type": "Ride",
+          "distance": 1353,
+          "average_grade": -1,
+          "maximum_grade": 0,
+          "elevation_high": -6.6,
+          "elevation_low": -20.8,
+          "start_latlng": [
+            -37.866755,
+            145.001613
+          ],
+          "end_latlng": [
+            -37.864849,
+            144.986407
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "St Kilda East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      },
+      {
+        "id": 3459460512157155000,
+        "resource_state": 2,
+        "name": "Hotham to Chapel",
+        "activity": {
+          "id": 17447073051,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 139,
+        "moving_time": 139,
+        "start_date": "2026-02-19T06:46:29Z",
+        "start_date_local": "2026-02-19T17:46:29Z",
+        "distance": 778.1,
+        "start_index": 325,
+        "end_index": 355,
+        "device_watts": false,
+        "average_heartrate": 117,
+        "max_heartrate": 121,
+        "segment": {
+          "id": 5035536,
+          "resource_state": 2,
+          "name": "Hotham to Chapel",
+          "activity_type": "Ride",
+          "distance": 778.1,
+          "average_grade": -0.9,
+          "maximum_grade": 2.9,
+          "elevation_high": 20.7,
+          "elevation_low": 12,
+          "start_latlng": [
+            -37.866478,
+            144.99979
+          ],
+          "end_latlng": [
+            -37.86538,
+            144.991082
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "St Kilda East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "only_me",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1017.4,
+        "elapsed_time": 310,
+        "elevation_difference": 0.6,
+        "moving_time": 310,
+        "split": 1,
+        "average_speed": 3.28,
+        "average_grade_adjusted_speed": 3.33,
+        "average_heartrate": 114.24342105263158,
+        "pace_zone": 0
+      },
+      {
+        "distance": 984.3,
+        "elapsed_time": 233,
+        "elevation_difference": -1.2,
+        "moving_time": 212,
+        "split": 2,
+        "average_speed": 4.64,
+        "average_grade_adjusted_speed": 4.66,
+        "average_heartrate": 109.66037735849056,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.4,
+        "elapsed_time": 266,
+        "elevation_difference": -1.8,
+        "moving_time": 266,
+        "split": 3,
+        "average_speed": 3.76,
+        "average_grade_adjusted_speed": 3.75,
+        "average_heartrate": 117.19672131147541,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1007.8,
+        "elapsed_time": 208,
+        "elevation_difference": -3.8,
+        "moving_time": 180,
+        "split": 4,
+        "average_speed": 5.6,
+        "average_grade_adjusted_speed": 5.56,
+        "average_heartrate": 117.91666666666667,
+        "pace_zone": 0
+      },
+      {
+        "distance": 992.6,
+        "elapsed_time": 200,
+        "elevation_difference": -12.2,
+        "moving_time": 179,
+        "split": 5,
+        "average_speed": 5.55,
+        "average_grade_adjusted_speed": 5.41,
+        "average_heartrate": 115.14857142857143,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.2,
+        "elapsed_time": 160,
+        "elevation_difference": -17,
+        "moving_time": 160,
+        "split": 6,
+        "average_speed": 6.26,
+        "average_grade_adjusted_speed": 6.07,
+        "average_heartrate": 115.31788079470199,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1013.9,
+        "elapsed_time": 281,
+        "elevation_difference": -5.4,
+        "moving_time": 205,
+        "split": 7,
+        "average_speed": 4.95,
+        "average_grade_adjusted_speed": 4.91,
+        "average_heartrate": 113.94634146341464,
+        "pace_zone": 0
+      },
+      {
+        "distance": 510.8,
+        "elapsed_time": 487,
+        "elevation_difference": 4.2,
+        "moving_time": 301,
+        "split": 8,
+        "average_speed": 1.7,
+        "average_grade_adjusted_speed": 1.75,
+        "average_heartrate": 115.70114942528735,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1617.8,
+        "elapsed_time": 476,
+        "elevation_difference": 3.8,
+        "moving_time": 455,
+        "split": 1,
+        "average_speed": 3.56,
+        "average_grade_adjusted_speed": 3.62,
+        "average_heartrate": 112.42316258351893,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1617.1,
+        "elapsed_time": 374,
+        "elevation_difference": -6.6,
+        "moving_time": 374,
+        "split": 2,
+        "average_speed": 4.32,
+        "average_grade_adjusted_speed": 4.3,
+        "average_heartrate": 116.53977272727273,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1594.4,
+        "elapsed_time": 316,
+        "elevation_difference": -9,
+        "moving_time": 288,
+        "split": 3,
+        "average_speed": 5.54,
+        "average_grade_adjusted_speed": 5.48,
+        "average_heartrate": 116.38732394366197,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1626.3,
+        "elapsed_time": 297,
+        "elevation_difference": -27.2,
+        "moving_time": 276,
+        "split": 4,
+        "average_speed": 5.89,
+        "average_grade_adjusted_speed": 5.71,
+        "average_heartrate": 115.66666666666667,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1072.8,
+        "elapsed_time": 682,
+        "elevation_difference": 2.4,
+        "moving_time": 420,
+        "split": 5,
+        "average_speed": 2.55,
+        "average_grade_adjusted_speed": 2.59,
+        "average_heartrate": 114.42894736842105,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 62329546758,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 17447073051,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 1217,
+        "moving_time": 1217,
+        "start_date": "2026-02-19T06:24:19Z",
+        "start_date_local": "2026-02-19T17:24:19Z",
+        "distance": 5000,
+        "average_speed": 4.11,
+        "max_speed": 8.9,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 284,
+        "total_elevation_gain": 18,
+        "device_watts": false,
+        "average_heartrate": 114.8,
+        "max_heartrate": 133
+      },
+      {
+        "id": 62329546763,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 17447073051,
+          "visibility": "only_me",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 49069428,
+          "resource_state": 1
+        },
+        "elapsed_time": 927,
+        "moving_time": 927,
+        "start_date": "2026-02-19T06:44:39Z",
+        "start_date_local": "2026-02-19T17:44:39Z",
+        "distance": 2528.38,
+        "average_speed": 2.73,
+        "max_speed": 9.78,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 285,
+        "end_index": 385,
+        "total_elevation_gain": 7.6,
+        "device_watts": false,
+        "average_heartrate": 115,
+        "max_heartrate": 135
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "embed_token": "4df058a311e683a428b492b57e4e5f3ddbec1112",
+    "available_zones": [],
+    "coordinates": [
+      [
+        -37.88319,
+        145.05244
+      ],
+      [
+        -37.88317,
+        145.05221
+      ],
+      [
+        -37.8831,
+        145.05202
+      ],
+      [
+        -37.88308,
+        145.05179
+      ],
+      [
+        -37.88311,
+        145.05173
+      ],
+      [
+        -37.88311,
+        145.0517
+      ],
+      [
+        -37.88306,
+        145.05153
+      ],
+      [
+        -37.88293,
+        145.05125
+      ],
+      [
+        -37.8826,
+        145.05069
+      ],
+      [
+        -37.88212,
+        145.04981
+      ],
+      [
+        -37.88187,
+        145.04943
+      ],
+      [
+        -37.8817,
+        145.04902
+      ],
+      [
+        -37.88158,
+        145.04887
+      ],
+      [
+        -37.8812,
+        145.04822
+      ],
+      [
+        -37.88117,
+        145.04815
+      ],
+      [
+        -37.88117,
+        145.04813
+      ],
+      [
+        -37.88129,
+        145.04806
+      ],
+      [
+        -37.88128,
+        145.04797
+      ],
+      [
+        -37.88118,
+        145.04779
+      ],
+      [
+        -37.88104,
+        145.04755
+      ],
+      [
+        -37.88085,
+        145.04726
+      ],
+      [
+        -37.88051,
+        145.04679
+      ],
+      [
+        -37.88046,
+        145.04661
+      ],
+      [
+        -37.88052,
+        145.04644
+      ],
+      [
+        -37.88063,
+        145.04639
+      ],
+      [
+        -37.88072,
+        145.04639
+      ],
+      [
+        -37.88114,
+        145.0465
+      ],
+      [
+        -37.88185,
+        145.04658
+      ],
+      [
+        -37.88208,
+        145.04657
+      ],
+      [
+        -37.88216,
+        145.04649
+      ],
+      [
+        -37.88216,
+        145.04648
+      ],
+      [
+        -37.88205,
+        145.04647
+      ],
+      [
+        -37.882,
+        145.04642
+      ],
+      [
+        -37.88197,
+        145.04645
+      ],
+      [
+        -37.88196,
+        145.04629
+      ],
+      [
+        -37.88191,
+        145.04614
+      ],
+      [
+        -37.88187,
+        145.04607
+      ],
+      [
+        -37.88151,
+        145.04601
+      ],
+      [
+        -37.8812,
+        145.04593
+      ],
+      [
+        -37.88084,
+        145.04582
+      ],
+      [
+        -37.88062,
+        145.04572
+      ],
+      [
+        -37.88022,
+        145.04551
+      ],
+      [
+        -37.88002,
+        145.04536
+      ],
+      [
+        -37.87973,
+        145.04509
+      ],
+      [
+        -37.87931,
+        145.04458
+      ],
+      [
+        -37.87794,
+        145.04239
+      ],
+      [
+        -37.87769,
+        145.04198
+      ],
+      [
+        -37.87762,
+        145.0418
+      ],
+      [
+        -37.8775,
+        145.04161
+      ],
+      [
+        -37.87731,
+        145.04137
+      ],
+      [
+        -37.87666,
+        145.04064
+      ],
+      [
+        -37.87562,
+        145.03941
+      ],
+      [
+        -37.87469,
+        145.03836
+      ],
+      [
+        -37.87454,
+        145.03816
+      ],
+      [
+        -37.87446,
+        145.03813
+      ],
+      [
+        -37.87419,
+        145.03782
+      ],
+      [
+        -37.87381,
+        145.03743
+      ],
+      [
+        -37.8737,
+        145.03726
+      ],
+      [
+        -37.87353,
+        145.0371
+      ],
+      [
+        -37.87335,
+        145.03687
+      ],
+      [
+        -37.87309,
+        145.03661
+      ],
+      [
+        -37.87279,
+        145.03625
+      ],
+      [
+        -37.87255,
+        145.03601
+      ],
+      [
+        -37.87192,
+        145.03532
+      ],
+      [
+        -37.87176,
+        145.03512
+      ],
+      [
+        -37.87173,
+        145.03505
+      ],
+      [
+        -37.87174,
+        145.03503
+      ],
+      [
+        -37.87185,
+        145.03491
+      ],
+      [
+        -37.87212,
+        145.03448
+      ],
+      [
+        -37.87222,
+        145.03434
+      ],
+      [
+        -37.87224,
+        145.03423
+      ],
+      [
+        -37.87219,
+        145.03413
+      ],
+      [
+        -37.87197,
+        145.03386
+      ],
+      [
+        -37.87186,
+        145.03383
+      ],
+      [
+        -37.87179,
+        145.03383
+      ],
+      [
+        -37.87176,
+        145.03379
+      ],
+      [
+        -37.87167,
+        145.03368
+      ],
+      [
+        -37.87162,
+        145.03353
+      ],
+      [
+        -37.87129,
+        145.03316
+      ],
+      [
+        -37.87099,
+        145.03301
+      ],
+      [
+        -37.87064,
+        145.03295
+      ],
+      [
+        -37.8706,
+        145.03291
+      ],
+      [
+        -37.87059,
+        145.03287
+      ],
+      [
+        -37.87052,
+        145.03248
+      ],
+      [
+        -37.86967,
+        145.02559
+      ],
+      [
+        -37.86968,
+        145.02534
+      ],
+      [
+        -37.86959,
+        145.02492
+      ],
+      [
+        -37.86887,
+        145.01914
+      ],
+      [
+        -37.86882,
+        145.0185
+      ],
+      [
+        -37.8688,
+        145.01846
+      ],
+      [
+        -37.8688,
+        145.01832
+      ],
+      [
+        -37.86863,
+        145.01713
+      ],
+      [
+        -37.86856,
+        145.01653
+      ],
+      [
+        -37.86816,
+        145.0135
+      ],
+      [
+        -37.86801,
+        145.01222
+      ],
+      [
+        -37.86768,
+        145.0097
+      ],
+      [
+        -37.86766,
+        145.00939
+      ],
+      [
+        -37.86743,
+        145.00774
+      ],
+      [
+        -37.86718,
+        145.00563
+      ],
+      [
+        -37.8669,
+        145.00339
+      ],
+      [
+        -37.86684,
+        145.00273
+      ],
+      [
+        -37.86673,
+        145.00213
+      ],
+      [
+        -37.8666,
+        145.001
+      ],
+      [
+        -37.86654,
+        145.00035
+      ],
+      [
+        -37.86608,
+        144.99675
+      ],
+      [
+        -37.86604,
+        144.99616
+      ],
+      [
+        -37.86596,
+        144.99582
+      ],
+      [
+        -37.86579,
+        144.99426
+      ],
+      [
+        -37.86568,
+        144.99357
+      ],
+      [
+        -37.8655,
+        144.99188
+      ],
+      [
+        -37.86541,
+        144.99123
+      ],
+      [
+        -37.86541,
+        144.9911
+      ],
+      [
+        -37.86536,
+        144.9909
+      ],
+      [
+        -37.86513,
+        144.98925
+      ],
+      [
+        -37.86485,
+        144.98708
+      ],
+      [
+        -37.86477,
+        144.98636
+      ],
+      [
+        -37.86475,
+        144.98619
+      ],
+      [
+        -37.86472,
+        144.98616
+      ],
+      [
+        -37.86453,
+        144.9847
+      ],
+      [
+        -37.8644,
+        144.9839
+      ],
+      [
+        -37.8642,
+        144.98211
+      ],
+      [
+        -37.86418,
+        144.98183
+      ],
+      [
+        -37.86422,
+        144.98168
+      ],
+      [
+        -37.86418,
+        144.9816
+      ],
+      [
+        -37.86396,
+        144.98164
+      ],
+      [
+        -37.86394,
+        144.98166
+      ],
+      [
+        -37.86395,
+        144.98155
+      ],
+      [
+        -37.8639,
+        144.98146
+      ],
+      [
+        -37.86368,
+        144.98125
+      ],
+      [
+        -37.86367,
+        144.98125
+      ],
+      [
+        -37.86368,
+        144.98124
+      ],
+      [
+        -37.86364,
+        144.98126
+      ],
+      [
+        -37.86361,
+        144.9813
+      ],
+      [
+        -37.86362,
+        144.98132
+      ],
+      [
+        -37.8636,
+        144.98128
+      ],
+      [
+        -37.86361,
+        144.98128
+      ],
+      [
+        -37.86357,
+        144.98129
+      ],
+      [
+        -37.86358,
+        144.98132
+      ],
+      [
+        -37.86361,
+        144.98133
+      ],
+      [
+        -37.86363,
+        144.98132
+      ],
+      [
+        -37.86361,
+        144.98129
+      ],
+      [
+        -37.86362,
+        144.98127
+      ],
+      [
+        -37.86365,
+        144.98133
+      ],
+      [
+        -37.86362,
+        144.98127
+      ],
+      [
+        -37.86363,
+        144.9813
+      ],
+      [
+        -37.8636,
+        144.98132
+      ],
+      [
+        -37.86368,
+        144.98124
+      ],
+      [
+        -37.86374,
+        144.98128
+      ],
+      [
+        -37.86394,
+        144.9815
+      ],
+      [
+        -37.86397,
+        144.98159
+      ],
+      [
+        -37.86399,
+        144.98162
+      ],
+      [
+        -37.86406,
+        144.98164
+      ],
+      [
+        -37.86417,
+        144.98164
+      ],
+      [
+        -37.86422,
+        144.98166
+      ],
+      [
+        -37.86424,
+        144.98165
+      ]
+    ]
+  },
+  {
+    "resource_state": 3,
+    "athlete": {
+      "id": 49069428,
+      "resource_state": 1
+    },
     "name": "Lunch Ride",
     "distance": 21336.2,
     "moving_time": 5380,
